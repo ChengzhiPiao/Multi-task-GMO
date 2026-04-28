@@ -1,3 +1,12 @@
+## Dataset and Model Training
+
+- Within each of the task directories (`./GED`, `./MCS`, `./LTO`),  
+  the `./Dataset` subfolder stores the dataset used for the corresponding task.
+
+- Within each of the task directories (`./GED`, `./MCS`, `./LTO`),  
+  the `./Model_training` subfolder stores the training model for the corresponding task.  
+  Each `arg.txt` file inside records the usage instructions for the model.
+
 ## Running Post-Processing Code
 
 Each of the directories  
