@@ -1,0 +1,8 @@
+Model,"'10GbaseT
+(fixed)","'SFP+
+(fixed)","QSFP
+(fixed)",#modules,max.nr 10Gb ports,power consumption
+8132,24,0,0,1,32,240 W
+8132F,0,24,0,1,32,176 W
+8164,48,0,2,1,64,395 W
+8164F,0,48,2,1,64,220 W

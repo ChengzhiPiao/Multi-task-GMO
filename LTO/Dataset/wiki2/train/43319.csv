@@ -1,0 +1,5 @@
+Country,{{AUS}},{{USA}},{{SCO}},{{WAL}},{{ESP}},{{ENG}},{{flagcountry|JPN|1947}},{{NZL}},{{flagcountry|BRA|1968}},{{CAN}},{{flagcountry|HKG|1959}},{{IRL}},{{TWN}},{{FRA}},{{NGA}},{{flagcountry|PHL|1985}}
+Place,1,2,3,4,T5,T5,T5,T5,T9,T9,T9,T9,T9,T9,T9,T9
+W,9,8,8,6.5,3.5,3,3,2,1,1,1,1,1,0,0,0
+L,3,4,4,5.5,2.5,3,3,4,2,2,2,2,2,3,3,3
+Seed,2,1,4,,3,7,5,,,8,,,6,,,

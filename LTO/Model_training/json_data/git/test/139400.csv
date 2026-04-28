@@ -1,0 +1,5 @@
+627.2444,627.2667,627.2667,627.2778,628.5778,628.5889,628.5889,628.6,628.6843,628.6889,628.6889,628.6889,628.8445,629.2444
+627.7111,627.6889,627.6889,627.6889,,628.9778,628.9778,628.6667,,,628.8223,628.8223,,
+Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,HandToWrist,HandToWrist,Hand,HandToWrist
+FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong
+Pushed,LeftGate,RightGate,RightGate,Pushed,LeftGate,RightGate,LeftGate,PickedUp,LeftGate,LeftGate,RightGate,RightGate,Pushed

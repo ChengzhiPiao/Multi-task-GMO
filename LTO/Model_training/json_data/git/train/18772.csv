@@ -1,0 +1,2 @@
+access_hr_employee_checklist_user,employee.checklist.user,model_employee_checklist,hr.group_hr_user,1,1,1,1
+access_hr_employee_checklist_emp,employee.checklist.emp,model_employee_checklist,base.group_user,1,0,0,0

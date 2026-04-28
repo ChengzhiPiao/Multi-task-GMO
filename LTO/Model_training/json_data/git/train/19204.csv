@@ -1,0 +1,3 @@
+access_sms_service_config,sms.service.config,model_sms_service_config,base.group_user,1,1,1,0
+access_sms_service_template,sms.service.template,model_sms_service_template,base.group_user,1,1,1,1
+access_sms_verification_record,sms.verification.record,model_sms_verification_record,base.group_user,1,1,1,1

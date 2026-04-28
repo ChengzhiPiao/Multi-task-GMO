@@ -1,0 +1,5 @@
+Channel,Video,Aspect,PSIP Short Name,Programming,Note
+11.01,1080i,16:9,PTV HD1,PTV,Test Broadcast
+11.02,480i,16:9,PTV HD2,PCOOTV,Test Broadcast
+11.03,480i,16:9,PTV SD3,Salaam TV,Test Broadcast
+11.04,240p,4:3,PTV 1seg,PTV,1seg

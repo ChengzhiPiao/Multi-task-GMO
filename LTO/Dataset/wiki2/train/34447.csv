@@ -1,0 +1,9 @@
+,,Bilabial,Alveolar,Lateral,Palatal,Velar,Uvular,Glottal
+Plosive,plain,p,t,,,k,q,ʔ
+Plosive,aspirated,pʰ,tʰ,,,kʰ,qʰ,
+Plosive,ejective,pʼ,tʼ,,,kʼ,qʼ,
+Nasal,Nasal,m,n,,,ŋ,,
+Affricate,plain,,ts,tɬ,,,,
+Affricate,ejective,,tsʼ,,,,,
+Fricative,Fricative,ɸ,s,ɬ,,x,,h
+Approximant,Approximant,w,,l,j,,,

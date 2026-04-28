@@ -1,0 +1,4 @@
+place,race nr,name,nat,birth,age,time
+1,?,name,{{ SUI}},birth,age,time
+2,?,name,{{ SUI }},birth,age,time
+3,?,name,{{ SUI }},birth,age,time

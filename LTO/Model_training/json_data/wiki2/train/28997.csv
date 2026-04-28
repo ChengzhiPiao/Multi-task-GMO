@@ -1,0 +1,41 @@
+,D15,D16,"R54
+Retired","R53
+Retired",Majority →,R36,R35,R16,R15,
+,D14,D17,"R55
+Retired","R52
+Retired",Majority →,R37,R34,R17,R14,
+,D13,D18,"SR1
+Ran","R51
+Retired",Majority →,"R38
+Ran",R33,R18,R13,
+,D12,D19,"SR2
+Ran","R50
+Ran",Majority →,"R39
+Ran",R32,R19,R12,
+,D11,D20,"P1
+Ran","R49
+Ran",Majority →,"R40
+Ran",R31,R20,R11,
+D1,D10,D21,"P2
+Retired","R48
+Ran",Majority →,"R41
+Ran",R30,R21,R10,R1
+D2,D9,"D22
+Ran","D29
+Retired","R47
+Ran",Majority →,"R42
+Ran",R29,R22,R9,R2
+D3,D8,"D23
+Ran","D28
+Retired","R46
+Ran",Majority →,"R43
+Ran",R28,R23,R8,R3
+D4,D7,"D24
+Ran","D27
+Ran","R45
+Ran","R45
+Ran","R44
+Ran",R27,R24,R7,R4
+D5,D6,"D25
+Ran","D26
+Ran",V1,V1,V2,R26,R25,R6,R5

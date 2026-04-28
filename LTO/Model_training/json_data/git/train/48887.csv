@@ -1,0 +1,5 @@
+Column,Column,FormType,SurveyUtil,Table,Table
+income_contribution,sex,default,default,default,default
+displayChoicesList,displayChoicesList,FormType.formType,SurveyUtil.formId,defaultViewType,displayName
+object,object,string,string,string,object
+"[{""choice_list_name"":""yesno"",""data_value"":""yes"",""display"":{""title"":{""text"":""yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""no"",""display"":{""title"":{""text"":""no""}},""_row_num"":3}]","[{""choice_list_name"":""sexes"",""data_value"":""male"",""display"":{""title"":{""text"":""male""}},""_row_num"":5},{""choice_list_name"":""sexes"",""data_value"":""female"",""display"":{""title"":{""text"":""female""}},""_row_num"":6}]",SURVEY,household_member,SPREADSHEET,"{""text"":""Household Members""}"

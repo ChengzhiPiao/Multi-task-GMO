@@ -1,0 +1,4 @@
+access_shipment_shipment,shipment.order,shipment.model_shipment_order,base.group_user,1,1,1,1
+access_shipment_shipment_line,shipment.order.line,shipment.model_shipment_order_line,base.group_user,1,1,1,1
+access_payment_charge_type,payment.charge.type,shipment.model_payment_charge_type,base.group_user,1,1,1,1
+access_shipment_port,shipment.port,shipment.model_shipment_port,base.group_user,1,1,1,1

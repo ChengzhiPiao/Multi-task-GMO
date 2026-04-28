@@ -1,0 +1,8 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Browser,firstname,firstname,lastname,lastname,Sex,Years of Experience,datepicker,datepicker,Profession,Automation Tool,AsiaEuropeAfricaAustraliaSouth,Browser CommandsNavigation Com,Button,"Text1
+ Text2"
+Open the Url [<Data>] in the Browser,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Click the [<Object>] ,Select item in [<Object>] which has text: [<Data>],Select item in [<Object>] which has text: [<Data>],Click the [<Object>] ,Assert if [<Object>] element is displayed
+Open,Click,Set,Click,Set,Click,Click,Click,Set,Click,Click,selectByVisibleText,selectByVisibleText,Click,assertElementDisplayed
+@http://toolsqa.com/automation-practice-form/,,Iterations:FirstName,,Iterations:LastName,,,,Iterations:Date,,,@Australia,@Browser Commands,,
+,,Start Param,,,,,,End Param,,,,,,
+,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo

@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|CHN}} (H),3,2,1,0,10,3,7,5
+2,{{fbw|NOR}},3,2,0,1,6,5,1,4
+3,{{fbw|DEN}},3,1,1,1,6,4,2,3
+4,{{fbw|NZL}},3,0,0,3,1,11,−10,0

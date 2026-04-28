@@ -1,0 +1,7 @@
+Family,Ariane,Atlas,Delta,H-II,Falcon,Long March,Pegasus,PSLV,R-7,R-14,R-36,Safir,Space Shuttle,Universal Rocket,Zenit
+Country,{{EUR}},{{USA}},{{USA}},{{JPN}},{{USA}},{{PRC}},{{USA}},{{IND}},{{RUS}},{{RUS}},{{UKR}},{{IRN}},{{USA}},{{RUS}},{{UKR}} / {{RUS}}
+Launches,6,2,5,1,2,11,2,3,10,3,2,1,4,11,6
+Successes,6,2,5,1,1,11,2,3,10,3,2,0,4,10,6
+Failures,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Remarks,,,,,,,,,,,,Maiden flight,,,

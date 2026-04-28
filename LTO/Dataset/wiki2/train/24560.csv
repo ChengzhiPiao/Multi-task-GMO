@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Won}},{{Tooltip | L | Lost}},{{Tooltip | T | Tied}},{{Tooltip | NR | No result}},{{Tooltip | NRR | Net run rate}},{{Tooltip | Pts | Points}}
+{{cr|AFG}},3,3,0,0,0,+0.933,6
+{{cr|IRE}},3,2,1,0,0,+1.717,4
+{{cr|USA}},3,1,2,0,0,–1.684,2
+{{cr|SCO}},3,0,3,0,0,–0.509,0

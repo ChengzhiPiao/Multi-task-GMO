@@ -1,0 +1,4 @@
+DNA codons,RNA codons,This code (27),This code (27),This code (27),,Standard code (1)
+TAA,UAA,Gln (Q),Gln (Q),Gln (Q),,Ter (*)
+TAG,UAG,Gln (Q),Gln (Q),Gln (Q),,Ter (*)
+TGA,UGA,Ter (*),or,Trp (W),,Ter (*)

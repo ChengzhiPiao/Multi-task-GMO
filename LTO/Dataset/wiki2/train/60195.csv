@@ -1,0 +1,4 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Nicole Gibbs,98,54,44,.551,1,4,19,37,.514,9,24,.375
+Alla Kudryavtseva,98,54,44,.551,7,8,19,37,.514,9,24,.375
+Total,98,54,44,.551,8,12,19,37,.514,9,24,.375

@@ -1,0 +1,2 @@
+Number of stops,Configuration,Track length,Rise,Maximum gradient,Track gauge,Number of cars,Capacity,Maximum speed,Travel time,Traction
+2,Single track with passing loop,{{convert|758|m|0}},{{convert|76|m}},18%,{{RailGauge|1200mm|lk=on}},2 3-car trainsets,400 passengers per trainset,{{convert|10|m/s|1}},2 minutes,Electricity

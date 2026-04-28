@@ -1,0 +1,15 @@
+State,State,Alabama,Arkansas,California,Colorado,Connecticut,Delaware,Florida,Georgia,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Nebraska,Nevada,New Hampshire,New Jersey,New York,North Carolina,Ohio,Oregon,Pennsylvania,Rhode Island,South Carolina,Tennessee,Texas,Vermont,Virginia,West Virginia,Wisconsin,Total
+Type,Type,"District
++ 2 at-large",District,District,At-large,District,At-large,District,District,District,District,District,District,District,District,District,District,District,District,District,District,District,At-large,At-large,District,District,District,District,District,At-large,District,District,District,District,District,District,District,District,District,Total
+"Total
+seats","Total
+seats",8,4,4,1,4,1,2,9,19,13,9,3,10,6,5,6,11,9,3,6,13,1,1,3,7,33,8,20,1,27,2,5,10,6,3,9,3,8,293
+Democratic,Seats,6,4,3,0,3,1,1,9,11,8,1,1,9,4,0,6,5,3,0,4,13,0,0,2,5,17,7,13,1,17,0,0,9,6,0,8,3,3,"183
+62.5%"
+Democratic,Change,{{increase}} 4,{{increase}} 4,{{increase}} 2,{{steady}},{{increase}} 2,{{increase}} 1,{{increase}} 1,{{increase}} 2,{{increase}} 6,{{increase}} 5,{{increase}} 1,{{increase}} 1,{{decrease}} 1,{{increase}} 3,{{steady}},{{increase}} 2,{{increase}} 5,{{increase}} 3,{{steady}},{{increase}} 3,{{increase}} 4,{{steady}},{{decrease}} 1,{{increase}} 1,{{increase}} 4,{{increase}} 8,{{increase}} 2,{{increase}} 7,{{increase}} 1,{{increase}} 12,{{steady}},{{steady}},{{increase}} 6,{{steady}},{{steady}},{{increase}} 4,{{increase}} 1,{{increase}} 1,{{increase}} 94
+Republican,Seats,2,0,1,1,1,0,1,0,6,5,8,2,1,2,5,0,4,6,3,2,0,1,1,1,2,16,1,7,0,10,2,5,1,0,3,1,0,5,"106
+36.2%"
+Republican,Change,{{decrease}} 4,{{decrease}} 4,{{decrease}} 2,{{increase}} 1,{{decrease}} 2,{{decrease}} 1,{{decrease}} 1,{{decrease}} 2,{{decrease}} 8,{{decrease}} 5,{{decrease}} 1,{{decrease}} 1,{{increase}} 1,{{decrease}} 2,{{steady}},{{decrease}} 2,{{decrease}} 7,{{decrease}} 3,{{steady}},{{decrease}} 3,{{decrease}} 4,{{steady}},{{increase}} 1,{{decrease}} 1,{{decrease}} 4,{{decrease}} 8,{{decrease}} 2,{{decrease}} 7,{{decrease}} 1,{{decrease}} 12,{{steady}},{{steady}},{{decrease}} 6,{{steady}},{{steady}},{{decrease}} 4,{{decrease}} 1,{{decrease}} 1,{{decrease}} 93
+Independent,Seats,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"4
+1.4%"
+Independent,Change,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 4

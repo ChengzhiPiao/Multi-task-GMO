@@ -1,0 +1,11 @@
+Club,Club,Prato (loan),Varese (loan),Prato,Empoli,Empoli,Empoli,Middlesbrough,Middlesbrough,Middlesbrough,Middlesbrough,Middlesbrough,Middlesbrough,Parma (loan),Siena (loan),Siena,Siena,Siena,Siena,Siena,Palermo,Sampdoria,Sampdoria,Sampdoria,Empoli,Empoli,Empoli,Empoli,Empoli,Empoli,Empoli,Empoli,Brisbane Roar,Carrarese,Career total
+League,League,Serie C2,Serie C1,Serie C2,Serie B,Serie B,Total,Premier League,Premier League,Premier League,Premier League,Premier League,Total,Serie A,Serie A,Serie A,Serie A,Serie A,Serie A,Total,Serie A,Serie A,Serie B,Total,Serie B,Serie B,Serie B,Serie A,Serie A,Serie A,Total,Empoli Total,A-League,Serie C,Career total
+Season,Season,1998–99,1998–19,1999–00,2000–01,2001–02,Total,2002–03,2003–04,2004–05,2005–06,2006–07,Total,2004–05,2004–05,2006–07,2007–08,2008–09,2009–10,Total,2010–11,2010–11,2011–12,Total,2011–12,2012–13,2013–14,2014–15,2015–16,2016–17,Total,Empoli Total,2017–18,2017–18,Career total
+League,Apps,21,3,28,35,33,68,34,22,0,17,7,80,7,17,11,35,30,37,130,18,17,11,28,20,43,42,34,37,28,204,272,28,32,647
+League,Goals,4,0,20,16,10,26,9,6,0,2,1,18,0,7,6,13,9,12,47,2,3,3,6,7,18,15,10,13,5,68,94,9,7,207
+Cup,Apps,?,?,?,3,4,7,0,8,0,5,1,14,1,1,0,0,0,0,1,0,1,1,2,0,0,2,1,1,1,5,12,1,1,32*
+Cup,Goals,?,?,?,2,2,4,0,2,0,0,0,2,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,2,3,7,0,0,11*
+Continental,Apps,0,0,0,0,0,0,0,0,0,5,0,5,4,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,1,0,14
+Continental,Goals,0,0,0,0,0,0,0,0,0,5,0,5,2,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,10
+Total,Apps,?,?,?,38,37,75,34,30,0,27,8,99,12,18,11,35,30,37,131,26,18,12,30,20,43,44,35,38,29,209,284,30,33,693*
+Total,Goals,?,?,?,18,12,30,9,8,0,7,1,25,2,8,6,13,9,12,48,6,3,4,7,7,18,16,10,13,7,71,101,10,7,228*

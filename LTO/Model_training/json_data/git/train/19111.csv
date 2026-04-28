@@ -1,0 +1,2 @@
+access_pentaho_postgres_config_mnt,pentaho.postgres.config.mnt,model_pentaho_postgres_config,base.group_system,1,1,1,1
+access_pentaho_postgres_config_user,pentaho.postgres.config.user,model_pentaho_postgres_config,base.group_user,1,0,0,0

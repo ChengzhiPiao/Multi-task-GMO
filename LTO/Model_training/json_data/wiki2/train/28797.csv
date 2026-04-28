@@ -1,0 +1,21 @@
+,D14,D15,D34,D35,Majority →,R35,R34,R15,R14,
+,D13,D16,D33,D36,Majority →,R36,R33,R16,R13,
+,D12,D17,D32,"V1
+D seated late",Majority →,R37,R32,R17,R12,
+,D11,D18,D31,"V2
+D elected late",Majority →,R38,R31,R18,R11,
+,D10,D19,D30,"V3
+D died
+Later D",Majority →,R39,R30,R19,R10,
+,D9,D20,D29,"I1
+Later P",Majority →,R40,R29,R20,R9,
+D1,D8,D21,D28,P1,Majority →,R41,R28,R21,R8,R1
+D2,D7,D22,D27,"V3
+D died
+Later R",Majority →,R42,R27,R22,R7,R2
+D3,D6,D23,D26,"R46
+New seat",Majority →,R43,R26,R23,R6,R3
+D4,D5,D24,D25,"R45
+New seat","R45
+New seat","R44
+New seat",R25,R24,R5,R4

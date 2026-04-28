@@ -1,0 +1,10 @@
+Number,Number,1,2,3,5,6,7,9,10,11,13,14,17,18,19,23,32,70,77,97,
+Nation,Nation,{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|RUS}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},{{flagicon|AZE}},
+Position,Position,GK,DF,DF,DF,MF,MF,FW,MF,MF,DF,DF,MF,DF,DF,GK,FW,FW,MF,MF,
+Name,Name,Farhad Valiyev,Rail Malikov,Vurğun Hüseynov,Vugar Beybalayev,Kamal Mirzayev,Javid Taghiyev,Amil Yunanov,Javid Imamverdiyev,Ehtiram Shahverdiyev,Bahlul Mustafazade,Bakhtiyar Hasanalizade,Nijat Gurbanov,Tural Akhundov,Azer Salahli,Mekhti Dzhenetov,Rashad Eyyubov,Ülvi İsgəndərov,Elnur Abdullayev,Khayal Najafov,TOTALS
+Premier League,{{yel}},0,2,5,8,2,2,1,1,4,1,6,2,6,1,1,1,1,1,6,51
+Premier League,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azerbaijan Cup,{{yel}},0,0,0,2,0,0,1,0,1,0,3,0,0,1,1,0,0,0,0,9
+Azerbaijan Cup,{{sent off}},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Total,{{yel}},0,2,5,10,2,2,2,1,5,1,9,2,6,2,2,1,1,1,6,60
+Total,{{sent off}},1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1

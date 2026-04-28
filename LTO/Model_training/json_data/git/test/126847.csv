@@ -1,0 +1,2 @@
+NSDPIndicatorID,IndicatorShortName,Definition,Calculation/Formulation,Range,Assumptions,Limitations,IntendedDirection,Purpose/Rationale,PolicyLinkage,PreferredDataSource,AlternativeDataSource,SourceTag,PrimaryCollectionSystem,FrequencyofCollection,OtherDemandSources,ResponsibleAgency,RelatedLinks,graph_type,computation_units,source_active_1,source_organisation_1,data_non_statistical,graph_title
+ECO 4.6.1,Labour Force Participation Rate,,,,,,,,,,,,,,,,,bar,,True,"2009 Population and Household Census (p111), VNSO",False,Labour force participation by sector

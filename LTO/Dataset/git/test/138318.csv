@@ -1,0 +1,21 @@
+"May 31, 2020 @ 12:01:28.309",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon' checksum changed.
+Old md5sum was: '9cff44496a5ed58ecd06ce03fe6410f8'
+New md5sum is : '4851a8fa9ed6c37f76f4ef6c0dd6d33e'
+Old sha1sum was: '19ebed2ea7007c5bd2580630b03830bb0b2dee87'
+New sha1sum is : '96ff488eeb3d9b9ede478b6e2d70a97d2cd5d937'
+",
+"May 31, 2020 @ 12:01:28.293",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\VolatileUserMgrKey\1\S-1-5-21-438079597-2123118846-2669748851-1001' checksum changed.
+Old md5sum was: '09f9a868702d8a69d4b62b6dc4365b29'
+New md5sum is : 'd81f7e509f5c1a9330ce7886a815c11b'
+Old sha1sum was: '4c3792c463152bc8effee78473d7f3b3c0e8e25e'
+New sha1sum is : '032f00848ab7f2fe55a7b63edfa8c5598fbf5268'
+",
+"May 31, 2020 @ 12:01:23.934",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_USE_WINDOWEDSELECTCONTROL' checksum changed.
+Old md5sum was: '370914f65a755a1cbfcf0c873b11feaa'
+New md5sum is : '1c729912f87f9abbd1574176fc5996f7'
+Old sha1sum was: 'ea4c2f8e1a1dc5de73a98dbadb5abff9297c9a4b'
+New sha1sum is : '1d2094dc263dc3db258f4421536e179cfbd9cfb0'
+",
+"May 31, 2020 @ 12:00:03.886",9,Benchmark for Windows audit: Ensure 'MSS: (AutoAdminLogon) Enable Automatic Logon (not recommended)' is set to 'Disabled': Status changed from 'not applicable' to failed,,,,,
+"May 31, 2020 @ 11:59:52.068",7,SessionEnv was unavailable to handle a critical notification event,"""The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.""",,,,
+"May 31, 2020 @ 11:57:21.267",10,Multiple Windows error events,"""Id = {00000000-0000-0000-0000-000000000000}; ClientMachine = DESKTOP-HUE026H; User = NT AUTHORITY\SYSTEM; ClientProcessId = 5956; Component = Unknown; Operation = Start IWbemServices::ExecQuery - ROOT\WMI : SELECT * FROM BatteryFullChargedCapacity; ResultCode = 0x80041010; PossibleCause = Unknown""",,,,

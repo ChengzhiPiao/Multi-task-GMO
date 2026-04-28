@@ -1,0 +1,9 @@
+,,Labial,Dental,Palatal,Postalveolar,Velar,Velar,Glottal
+,,Labial,Dental,Palatal,Postalveolar,plain,labiodental,Glottal
+Plosive,voiced,b,d,,,ɡ,,ʔ
+Plosive,voiceless,p,t,c,,k,,
+Fricative,voiced,,,,z,,,
+Fricative,voiceless,f,s,,,,v,h
+Nasal,Nasal,m,n,,,,,
+Rhotic,Rhotic,,,,,y,,
+Approximant,Approximant,,l,j,,,w,

@@ -1,0 +1,8 @@
+access_calendar_attendee,access_calendar_alarm,access_calendar_event_manager,access_calendar_event,access_calendar_event_all,access_calendar_event_partner_manager,access_calendar_event_type_all,access_calendar_event_type_sale_manager,access_calendar_event_type_sale_user,access_calendar_event_type_sale_user,access_calendar_event_type_manager,access_calendar_alarm_manager,access_calendar_contacts_all,access_calendar_contacts
+calendar.attendee,calendar.alarm,calendar.event.manager,calendar.event,calendar.event_all,calendar.event.partner.manager,calendar.event.type.all,calendar.event.type.manager,calendar.event.type.user,calendar.event.type.salesman,calendar.event.type.manager,access_calendar_alarm_manager,access_calendar_contacts_all,access_calendar_contacts
+model_calendar_attendee,model_calendar_alarm,model_calendar_event,model_calendar_event,model_calendar_event,model_calendar_event,model_calendar_event_type,model_calendar_event_type,model_calendar_event_type,model_calendar_event_type,model_calendar_event_type,model_calendar_alarm_manager,model_calendar_contacts,model_calendar_contacts
+,base.group_user,base.group_sale_manager,base.group_sale_salesman,base.group_user,base.group_partner_manager,,base.group_sale_manager,base.group_user,base.group_sale_salesman,base.group_system,,,base.group_system
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,0,1,0,0,1,1,1,1
+1,1,1,1,1,1,0,1,0,0,1,1,1,1
+1,1,1,0,1,1,0,0,0,0,1,1,1,1

@@ -1,0 +1,10 @@
+Position,1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Team,Independiente,River Plate,Racing Club,Boca Juniors,Atlanta,Huracán,Banfield,San Lorenzo,Estudiantes de La Plata,Rosario Central,Argentinos Juniors,Gimnasia de La Plata,Vélez Sársfield,Chacarita Juniors
+Points,37,35,30,30,28,27,25,25,24,22,22,21,20,18
+Played,26,26,26,26,26,26,26,26,26,26,26,26,26,26
+Won,14,13,11,12,12,8,7,9,9,6,5,7,5,4
+Drawn,9,9,8,6,4,11,11,7,6,10,12,7,10,10
+Lost,3,4,7,8,10,7,8,10,11,10,9,12,11,12
+For,53,48,43,30,35,36,36,37,37,34,28,33,32,25
+Against,25,23,32,29,37,31,27,46,43,43,43,41,44,43
+Difference,28,25,11,1,-2,5,9,-9,-6,-9,-15,-8,-12,-18

@@ -1,0 +1,9 @@
+Type,Local,"Express Monday through Saturday
+Morning rush","Express Monday through Saturday
+Evening rush","Express Monday through Saturday
+Morning and Evening rush","Express Saturday
+All day","Express Saturday
+of 5:00 a. m. to 3:00 p. m.",Express Sundays and holidays
+Northern Routes,{{transmilenio|RF|7| 7 Portal Suba Easy Route}},,{{transmilenio|C|C73|Express C73 Portal Suba}},{{transmilenio|C|C17|Express C17 Portal Suba}} {{transmilenio|C|C30|Express C30 Portal Suba}},{{transmilenio|C|C17|Express C17 Portal Suba}},{{transmilenio|C|C30|Express C30 Portal Suba}},{{transmilenio|C|C96|Express C96 Portal Suba}}
+Southern Routes,{{transmilenio|RF|7| 7 Ricaurte Easy Route}},{{transmilenio|J|J73|Express J73 Universidades}},,{{transmilenio|H|H17|Express H17 Portal Usme}} {{transmilenio|G|G30|Express G30 Portal Sur}},{{transmilenio|H|H17|Express H17 Portal Usme}},{{transmilenio|G|G30|Express G30 Portal Sur}},{{transmilenio|G|G96|Express G96 Portal Sur}}
+Frequency,Every three minutes,Every two minutes,Every two minutes,Every two minutes,Every two minutes,Every two minutes,Every 3–4 minutes

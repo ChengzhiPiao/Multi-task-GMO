@@ -1,0 +1,2 @@
+Population{{UN_Population|ref}},Year,1950,2000,{{UN_Population|Year}}
+Population{{UN_Population|ref}},Million,1.7,5.6,{{#expr:{{formatnum:{{UN_Population|Papua New Guinea}}|R}}/1e6 round 1}}

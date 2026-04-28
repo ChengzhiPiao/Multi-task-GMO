@@ -1,0 +1,2 @@
+access_hr_employee_public,hr.employee.public,hr.model_hr_employee,base.group_public,1,0,0,0
+access_resource_public,resource.resource.public,resource.model_resource_resource,base.group_public,1,0,0,0

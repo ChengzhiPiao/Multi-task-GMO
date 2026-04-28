@@ -1,0 +1,7 @@
+Q True if answer toQ is 'yes',0,0,0,0,1,1,1,1
+God True if god behavesas truth-teller,0,0,1,1,0,0,1,1
+Ja True if meaning ofJa is 'yes',0,1,0,1,0,1,0,1
+Step 1 (God's answer to Q),1,1,0,0,0,0,1,1
+Step 2 (Is it Ja?),0,1,1,0,1,0,0,1
+Step 3 (God's answer to counterfactual),1,0,1,0,0,1,0,1
+Step 4 (Is it Ja?),0,0,0,0,1,1,1,1

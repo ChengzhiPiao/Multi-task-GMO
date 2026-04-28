@@ -1,0 +1,5 @@
+507.0556,507.0556,507.0556,507.1,507.1,507.1,507.2111,507.2111,507.2111,507.6,507.6222,507.6222,507.6222,507.7974,508.0778
+507.2222,507.2222,507.2222,507.3556,507.3556,507.3556,,,,,,,,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,Hand,Hand,Hand,Hand,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1
+RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,Pushed,LeftGate,RightGate,RightGate,PickedUp,Pushed

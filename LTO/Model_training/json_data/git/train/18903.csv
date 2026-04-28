@@ -1,0 +1,2 @@
+access_contact_form_submission_admin,contact.form.submission,model_contact_form_submission,,1,1,1,1
+access_contact_form_submission_group_user,contact.form.submission.user,model_contact_form_submission,base.group_user,1,1,1,1

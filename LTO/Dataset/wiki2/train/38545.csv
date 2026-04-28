@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+3,Huddersfield Town,46,22,12,12,59,38,+21,78
+4,Stoke City,46,21,14,11,69,49,+20,77
+5,Stockport County,46,22,10,14,75,51,+24,76
+6,Peterborough United,46,20,14,12,65,58,{{0}}+7,74

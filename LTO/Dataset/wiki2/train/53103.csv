@@ -1,0 +1,2 @@
+Symbol,Date,Inn,Overs,Runs,Wkts,Batsmen,Econ,Result,{{asterisk}},{{dagger}}
+Meaning,"Date the match was held, or starting date of the match for Test matches",The innings of the match in which the five-wicket haul was taken,Number of overs bowled in that innings,Runs conceded,Number of wickets taken,The batsmen whose wickets were taken in the five-wicket haul,Bowling economy rate (average runs per over),The result for Australia in that match,One of two five-wicket hauls by Alderman in a match,10 wickets or more taken in the match

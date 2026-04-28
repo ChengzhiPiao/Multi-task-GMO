@@ -1,0 +1,8 @@
+,,Bilabial,Labiodental,Dental,Alveolar,Palatal,Velar,Glottal
+Stop,voiceless,p,,,t,c,k,ʔ
+Stop,voiced,b,,,d,ɟ,g,
+Fricative,voiceless,,,θ,,,,
+Fricative,voiced,,,ð,,,,
+Nasal,Nasal,m,ɱ,,n,ɲ,ŋ,
+Approximant,Approximant,w,,,l,j,,
+Trill,Trill,,,,r,,,

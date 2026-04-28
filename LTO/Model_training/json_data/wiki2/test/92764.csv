@@ -1,0 +1,10 @@
+Number,Number,1,2,6,8,9,10,13,15,17,18,19,21,24,31,40,55,
+Nation,Nation,{{flagicon|UKR}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|SEN}},{{flagicon|DRC}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|POL}},{{flagicon|POL}},{{flagicon|RUS}},{{flagicon|RUS}},
+Position,Position,GK,DF,MF,MF,FW,MF,DF,DF,FW,FW,MF,MF,DF,MF,DF,MF,
+Name,Name,Yaroslav Hodzyur,Rodolfo,Adílson,Maurício,Aílton,Kanu,Fyodor Kudryashov,Andrei Semyonov,Ablaye Mbengue,Jeremy Bokila,Oleg Ivanov,Daler Kuzyayev,Marcin Komorowski,Maciej Rybus,Rizvan Utsiyev,Igor Lebedenko,TOTALS
+Premier League,{{yel}},3,4,4,4,2,3,8,7,1,3,12,4,5,3,6,6,75
+Premier League,{{sent off}},0,0,0,1,0,0,2,0,0,0,1,0,0,0,1,0,5
+Russian Cup,{{yel}},0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,4
+Russian Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},3,4,4,4,2,4,8,7,1,4,13,4,5,3,7,6,79
+Total,{{sent off}},0,0,0,1,0,0,2,0,0,0,1,0,0,0,1,0,5

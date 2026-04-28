@@ -1,0 +1,9 @@
+UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',INSERT INTO dbo.TDI_29033_dynamic_debug_query (ID,UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',INSERT INTO dbo.TDI_29033_dynamic_debug_query (ID,DELETE FROM dbo.TDI_29033_dynamic_debug_query WHERE ((ID IS NULL AND 1 = 0) OR ID='3'),INSERT INTO dbo.TDI_29033_dynamic_debug_query (ID,UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',INSERT INTO dbo.TDI_29033_dynamic_debug_query (ID,UPDATE dbo.TDI_29033_dynamic_debug_query SET ID = '1',INSERT INTO dbo.TDI_29033_dynamic_debug_query (ID,DELETE FROM dbo.TDI_29033_dynamic_debug_query WHERE ((ID IS NULL AND 1 = 0) OR ID='3')
+name = 'aa_update',name = 'bb_in_up',name,name = null,name,,name,name = 'aa_update',name = 'bb_in_up',name,name = null,name,
+ newColumn1 = 'dfs', newColumn1 = 'as_in_up', newColumn1 , newColumn1 = 'bb_up_in', newColumn1 ,, newColumn1 , newColumn1 = 'dfs', newColumn1 = 'as_in_up', newColumn1 , newColumn1 = 'bb_up_in', newColumn1 ,
+newColumn2 = 'dfs',newColumn2 = 'zs_in_up',newColumn2 ,newColumn2 = 'dfs',newColumn2 ,,newColumn2 ,newColumn2 = 'dfs',newColumn2 = 'zs_in_up',newColumn2 ,newColumn2 = 'dfs',newColumn2 ,
+newColumn3 = 'aaa_update' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 = 'pp_in_up' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 ) VALUES ('2',newColumn3 = 'dfs' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 ) VALUES ('3',,newColumn3 ) VALUES ('1',newColumn3 = 'aaa_update' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 = 'pp_in_up' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 ) VALUES ('2',newColumn3 = 'dfs' WHERE ((ID IS NULL AND 1 = 0) OR ID='1'),newColumn3 ) VALUES ('3',
+,,,,,,'aa',,,,,,
+,, 'dfs',, 'inservalue',, 'aaa',,, 'dfs',, 'inservalue',
+,,'dfs',,'dfs',,'dfs',,,'dfs',,'dfs',
+,,'dfs'),,'dfs'),,'dfs'),,,'dfs'),,'dfs'),

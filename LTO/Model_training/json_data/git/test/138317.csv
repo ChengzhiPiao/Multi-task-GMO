@@ -1,0 +1,21 @@
+"May 28, 2020 @ 12:36:05.871",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}' checksum changed.
+Old md5sum was: '7b0e21ee99623454e8d06871f064ed98'
+New md5sum is : '7fa7290c3b0e7b2d8ed5a092299db356'
+Old sha1sum was: 'f63735bbc2e72216030f4e994b7c9785856a9170'
+New sha1sum is : '27735fff26a4f9093576dfbd77d06599094d3497'
+",
+"May 28, 2020 @ 12:36:04.638",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon' checksum changed.
+Old md5sum was: '451281856a95784f3f631c6ed2dfd3d2'
+New md5sum is : '99a30c0c876d598ceb808b943c81bfa8'
+Old sha1sum was: 'ce278144ea52b95bdfabfb8c3a68a61d709530c4'
+New sha1sum is : '71674028950e3a20d32dc6bd8fca028c5759741d'
+",
+"May 28, 2020 @ 12:36:04.624",7,Integrity checksum changed.,,,,"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\VolatileUserMgrKey\1\S-1-5-21-438079597-2123118846-2669748851-1001' checksum changed.
+Old md5sum was: '8e9147c00e3845c0b79118bcdba05339'
+New md5sum is : '47f3ce5d928e10eebf2c572e4242a131'
+Old sha1sum was: '27fd277750d88f31b0a0405777373541ddaeabdf'
+New sha1sum is : '92fd10acf94294026e1938c3ec692c3cb031e33b'
+",
+"May 28, 2020 @ 12:34:38.990",9,Benchmark for Windows audit: Ensure 'MSS: (AutoAdminLogon) Enable Automatic Logon (not recommended)' is set to 'Disabled': Status changed from 'not applicable' to failed,,,,,
+"May 28, 2020 @ 12:34:26.839",7,SessionEnv was unavailable to handle a critical notification event,"""The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.""",,,,
+"May 28, 2020 @ 12:31:31.875",10,Multiple Windows error events,"""Id = {00000000-0000-0000-0000-000000000000}; ClientMachine = DESKTOP-HUE026H; User = NT AUTHORITY\SYSTEM; ClientProcessId = 6060; Component = Unknown; Operation = Start IWbemServices::ExecQuery - ROOT\WMI : SELECT * FROM BatteryFullChargedCapacity; ResultCode = 0x80041010; PossibleCause = Unknown""",,,,

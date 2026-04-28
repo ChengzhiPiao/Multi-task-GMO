@@ -1,0 +1,42 @@
+,D14,D15,"D34
+Re-elected","D35
+Re-elected",Majority with vacancies →,"R35
+Re-elected","R34
+Re-elected",R15,R14,
+,D13,D16,"D33
+Re-elected","D36
+Re-elected",Majority with vacancies →,"R36
+Re-elected","R33
+Re-elected",R16,R13,
+,D12,D17,"D32
+Re-elected","D37
+Re-elected",Majority with vacancies →,"R37
+Hold","R32
+Re-elected",R17,R12,
+,D11,D18,"D31
+Re-elected","D38
+Hold",Majority with vacancies →,"SR1
+Gain","R31
+Re-elected",R18,R11,
+,D10,D19,"D30
+Re-elected","D39
+Hold",Majority with vacancies →,P1,"R30
+Re-elected",R19,R10,
+,D9,D20,D29,"D30
+Gain",Majority with vacancies →,P2,"R29
+Re-elected",R20,R9,
+D1,D8,D21,D28,"D41
+Gain",Majority with vacancies →,"P3
+Gain",R28,R21,R8,R1
+D2,D7,D22,D27,"D42
+Gain","D43
+Gain","D43
+Gain",R27,R22,R7,R2
+D3,D6,D23,D26,"V1
+D loss","V1
+D loss","V1
+D loss",R26,R23,R6,R3
+D4,D5,D24,D25,"V2
+R loss","V3
+R loss","V4
+R loss",R25,R24,R5,R4

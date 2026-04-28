@@ -1,0 +1,5 @@
+180.9667,180.9667,180.9667,181.0222,181.0222,181.0222,181.1889,181.1889,181.1889,181.7546,183.3222,183.3333
+181.2667,181.2667,181.2667,181.2889,181.2889,181.2889,,,,182.8147,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,Hand,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1
+LeftGate,LeftGate,RightGate,LeftGate,LeftGate,RightGate,LeftGate,LeftGate,RightGate,PickedUp,Pushed,Pushed

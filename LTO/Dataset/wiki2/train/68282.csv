@@ -1,0 +1,16 @@
+Order,Order,1,2,3,4,5,6,7,8,9,10,11,12
+Episodes,2,Le Shae,Natalie,Chimay,Ingrid,Daphne,Usha,Gabriella,Trevine,Vanessa,Kristina,Saskia,Kerryne
+Episodes,3,Gabriella,Ingrid,Daphne,Natalie,Le Shae,Chimay,Usha,Trevine,Saskia,Kristina,Vanessa,
+Episodes,4,Natalie,Le Shae,Daphne,Chimay,Gabriella,Ingrid,Usha,"Kristina
+Saskia
+Trevine","Kristina
+Saskia
+Trevine","Kristina
+Saskia
+Trevine",,
+Episodes,5,Ingrid,Gabriella,Daphne,Natalie,Le Shae,Usha,Chimay,,,,,
+Episodes,6,Daphne,Gabriella,Le Shae,Natalie,Ingrid,Usha,,,,,,
+Episodes,7,Daphne,Gabriella,Natalie,Le Shae,Ingrid,,,,,,,
+Episodes,8,Le Shae,Daphne,Gabriella,Natalie,,,,,,,,
+Episodes,9,Daphne,Le Shae,Gabriella,,,,,,,,,
+Episodes,11,{{nowrap|Le Shae}},Daphne,,,,,,,,,,

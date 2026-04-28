@@ -1,0 +1,5 @@
+Type,Northwestern Routes,Southern Routes,Frequency
+Local,{{transmilenio|RF|6|}},{{transmilenio|RF|6|}},Every three minutes
+"Express Monday through Saturday
+all day",{{transmilenio|D|D20}},{{transmilenio|H|H20}},Every two minutes
+Express Sunday and holidays,{{transmilenio|D|D95}},{{transmilenio|J|J95}},Every 3–4 minutes

@@ -1,0 +1,11 @@
+ST0,ST1,ST2,PT0,PT1,PT2,PT8M,PT8R,PT8,PT5,ST4,PT7,ST11,PT11
+ST0,ST1,ST2,PT0,PT1,PT2,PT8M,PT8R,PT8,PT5,ST4,PT7,ST11,PT11
+l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk,l10n_uk
+sale,sale,sale,purchase,purchase,purchase,none,none,purchase,purchase,sale,purchase,sale,purchase
+Zero rated sales,Standard rate sales (17.5%),Exempt sales,Zero rated purchases,Standard rate purchases (17.5%),Exempt purchases,Standard rated purchases from EC,Reverse EC Purchase VAT,Standard rated purchases from EC,Lower rate purchases (5%),Sales to customers in EC,Zero rated purchases from EC,Standard rate sales (20%),Standard rate purchases (20%)
+percent,percent,percent,percent,percent,percent,percent,percent,group,percent,percent,percent,percent,percent
+0.0,17.5,0.0,0.0,17.5,0.0,17.5,-17.5,,5.0,0.0,0.0,20.0,20.0
+2200,2200,2200,2201,2201,2201,2201,2201,2201,2201,2200,2201,2200,2201
+2200,2200,2200,2201,2201,2201,2201,2201,2201,2201,2200,2201,2200,2201
+,,,,,,,,"PT8M,PT8R",,,,,
+tag_st0,tag_st1,tag_st2,tag_pt0,tag_pt1,tag_pt2,tag_pt8m,tag_pt8r,tag_pt8,tag_pt5,tag_st4,tag_pt7,tag_st11,tag_pt11

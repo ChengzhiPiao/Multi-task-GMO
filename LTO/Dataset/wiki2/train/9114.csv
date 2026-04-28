@@ -1,0 +1,8 @@
+Rocket,Ariane 5 ES,Ariane 5 ECA,Atlas V 411,Atlas V 421,Delta II 7320,Delta II 7420,Delta II 7920H,Delta II 7925,Dnepr,H-IIA 2024,Falcon 1,Kosmos-3M,Long March 2C,Long March 2D,Long March 2F,Long March 3A,Long March 3B,Long March 3B/E,Long March 3C,Long March 4B,Long March 4C,Molniya-M/2BL,Pegasus-XL,Proton-K/DM-3,Proton-M/DM-2,Proton-M/Briz-M,PSLV-CA,PSLV-XL,Rokot/Briz-KM,Safir,Soyuz-2.1b,Soyuz-FG,Soyuz-FG/Fregat,Soyuz-U,Space Shuttle,Zenit-3SL,Zenit-3SLB
+Country,{{EUR}},{{EUR}},{{USA}},{{USA}},{{USA}},{{USA}},{{USA}},{{USA}},{{UKR}},{{JPN}},{{USA}},{{RUS}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{RUS}},{{USA}},{{RUS}},{{RUS}},{{RUS}},{{IND}},{{IND}},{{RUS}},{{IRN}},{{RUS}},{{RUS}},{{RUS}},{{RUS}},{{USA}},{{UKR}} / {{RUS}},{{UKR}} / {{RUS}}
+Type,Ariane 5,Ariane 5,Atlas V,Atlas V,Delta II,Delta II,Delta II,Delta II,Dnepr,H-IIA,Falcon 1,Kosmos,Long March 2,Long March 2,Long March 2,Long March 3,Long March 3,Long March 3,Long March 3,Long March 4,Long March 4,Molniya,Pegasus,Proton,Proton,Proton,PSLV,PSLV,UR-100,Safir,Soyuz-2,Soyuz,Soyuz,Soyuz,Space Shuttle,Zenit,Zenit
+Launches,1,5,1,1,1,2,1,1,2,1,2,3,1,2,1,1,1,1,1,2,1,1,2,1,2,7,2,1,1,1,1,2,1,5,4,5,1
+Successes,1,5,1,1,1,2,1,1,2,1,1,3,1,2,1,1,1,1,1,2,1,1,2,1,2,6,2,1,1,0,1,2,1,5,4,5,1
+Failures,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Remarks,Maiden flight,,,,,,,,,,First successful launch,,,,,,,,Maiden flight,,,,,,,,,Maiden flight,,Maiden flight,,,,,,,Maiden flight

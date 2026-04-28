@@ -1,0 +1,10 @@
+{{Tooltip|Pos|Position}},1,2,3,4,5,6,7,8,9,10,11,12
+Team,{{beachsoccer|GRE}},{{beachsoccer|ENG}},{{beachsoccer|ISR}},{{beachsoccer|CZE}},{{beachsoccer|TUR}},{{beachsoccer|EST}},{{beachsoccer|HUN}},{{beachsoccer|MDA}},{{beachsoccer|BUL}},{{beachsoccer|NOR}},{{beachsoccer|AZE}},{{beachsoccer|AND}}
+{{Tooltip|Pld|Played}},3,3,3,3,3,3,3,3,3,3,3,3
+{{Tooltip|W|Won}},2,2,2,2,2,2,1,1,0,0,0,0
+{{Tooltip|W+|Won after extra time or penalties}},1,1,0,0,0,0,1,0,1,0,0,0
+{{Tooltip|L|Lost}},0,0,1,1,1,1,1,2,2,3,3,3
+{{Tooltip|GF|Goals For}},15,8,18,22,15,9,9,10,9,9,7,10
+{{Tooltip|GA|Goals Against}},9,5,9,10,12,9,9,14,12,12,17,21
+{{Tooltip|+/-|Goal Differential}},+6,+3,+9,+12,+3,0,0,−4,−3,−3,−10,−11
+{{Tooltip|Pts|Points}},8,8,6,6,6,6,5,3,2,0,0,0

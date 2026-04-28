@@ -1,0 +1,16 @@
+Contestant,"Camera
+Challenge
+Winner",Aarti,Herb,Tom,Aria,Brad,Serena,Brianna,Paul,DAS,Dzintra,Doreen,Alexis
+1,"Aria
+Herb",IN,IN,IN,WIN,IN,IN,IN,IN,LOW,IN,LOW,OUT
+2,None,WIN,IN,IN,HIGH,IN,HIGH,IN,LOW,HIGH,LOW,OUT,
+3,Aarti,HIGH,WIN,IN,LOW,HIGH,LOW,WIN,LOW,IN,OUT,,
+4,Brianna,WIN,LOW,IN,WIN,WIN,LOW,IN,IN,OUT,,,
+5,"Aarti
+Tom",HIGH,IN,HIGH,LOW,LOW,WIN,WIN,OUT,,,,
+6,"Brad
+Tom",LOW,LOW,IN,IN,WIN,IN,OUT,,,,,
+7,Aarti,WIN,LOW,LOW,LOW,HIGH,OUT,,,,,,
+8,Aria,LOW,HIGH,WIN,LOW,OUT,,,,,,,
+9,N/A,WIN,LOW,WIN,OUT,,,,,,,,
+10,N/A,WINNER,RUNNER-UP,RUNNER-UP,,,,,,,,,

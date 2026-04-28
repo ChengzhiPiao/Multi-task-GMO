@@ -1,0 +1,1 @@
+Comparable#172	0.0	1.3333333333333335	0.2666666666666667	maxval > this.maximumRangeValue	GT,,,Comparable#280	0.0	0.23015873015873015	0.046031746031746035	this.columnKeys.indexOf(columnKey)>rowIndex	_,,,,

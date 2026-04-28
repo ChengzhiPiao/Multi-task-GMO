@@ -1,0 +1,7 @@
+,e,a,b,c,d,f
+e,e,a,b,c,d,f
+a,a,e,c,b,f,d
+b,b,c,e,a,,
+c,c,b,a,e,,
+d,d,f,,,,e
+f,f,d,,,e,a

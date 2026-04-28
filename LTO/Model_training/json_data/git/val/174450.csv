@@ -1,0 +1,4 @@
+org/assertj/core/util/DoubleComparator.DoubleComparator,org/assertj/core/util/DoubleComparator.compareNonNull,org/assertj/core/util/DoubleComparator.getEpsilon,org/assertj/core/util/DoubleComparator.complexCloseEnough,org/assertj/core/util/DoubleComparator.closeEnough,org/assertj/core/util/DoubleComparator.hashCode,org/assertj/core/util/DoubleComparator.equals,org/assertj/core/util/DoubleComparator.compareNonNull,org/assertj/core/util/DoubleComparator.compare
+(D)V,(Ljava/lang/Double;Ljava/lang/Double;)I,()D,(DDD)Z,(Ljava/lang/Double;Ljava/lang/Double;D)Z,()I,(Ljava/lang/Object;)Z,(Ljava/lang/Object;Ljava/lang/Object;)I,(Ljava/lang/Object;Ljava/lang/Object;)I
+14,29,7,76,19,33,48,11,9
+1,3,1,7,2,1,5,1,1

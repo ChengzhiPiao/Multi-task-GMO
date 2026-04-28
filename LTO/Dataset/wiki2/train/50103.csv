@@ -1,0 +1,5 @@
+{{Tooltip|Pos.|Position}},Team,{{Tooltip|GP|Games Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GS|Goals Scored}},{{Tooltip|GA|Goals Allowed}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+1,Muscat,3,3,0,0,18,1,+17,9
+2,Al-Salam,3,2,0,1,8,7,+1,6
+3,Ahli Sidab,3,1,0,2,2,8,-6,3
+4,Al-Mudhaibi,3,0,0,3,1,13,-12,0

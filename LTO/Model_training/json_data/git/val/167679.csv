@@ -1,0 +1,4 @@
+boilerplates_category_manager_write,Write access for Boilerplate Category by Managers,boilerplates.group_boilerplates_manager,model_boilerplates_category,1,1,1,1
+boilerplates_category_user_read,Read access for Boilerplates Category by Employees,base.group_user,model_boilerplates_category,1,0,0,0
+boilerplates_text_manager_write,Write access for Boilerplates Text by Managers,boilerplates.group_boilerplates_manager,model_boilerplates_text,1,1,1,1
+boilerplates_text_user_read,Read access for Boilerplates Text by Employees,base.group_user,model_boilerplates_text,1,0,0,0

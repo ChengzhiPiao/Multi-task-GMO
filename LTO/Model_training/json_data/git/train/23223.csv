@@ -1,0 +1,8 @@
+access_event_type,access_event_type_manager,access_event_event_portal,access_event_event_user,access_event_event_manager,access_event_registration,access_event_registration_portal,access_event_mail,access_event_mail_manager,access_event_mail_registration,access_event_mail_registration_manager,access_report_event_registration
+event.type,event.type manager,event.event.portal,event.event.user,event.event.manager,event.registration,event.registration,event.mail,event.mail manager,event.mail.registration,event.mail.registration.manager,report.event.registration
+model_event_type,model_event_type,model_event_event,model_event_event,model_event_event,model_event_registration,model_event_registration,model_event_mail,model_event_mail,model_event_mail_registration,model_event_mail_registration,model_report_event_registration
+event.group_event_user,event.group_event_manager,,event.group_event_user,event.group_event_manager,event.group_event_user,,event.group_event_user,event.group_event_manager,event.group_event_user,event.group_event_manager,event.group_event_user
+1,1,1,1,1,1,1,1,1,1,1,1
+0,1,0,0,1,1,0,0,1,0,1,1
+0,1,0,0,1,1,0,0,1,0,1,1
+0,1,0,0,1,1,0,0,1,0,1,1

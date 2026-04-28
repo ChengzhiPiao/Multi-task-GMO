@@ -1,0 +1,4 @@
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.AtomicIntegerFieldUpdaterAssert,org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.hasValue,org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.getActualValue,org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.hasValue,org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.getActualValue
+(Ljava/util/concurrent/atomic/AtomicIntegerFieldUpdater;)V,(Ljava/lang/Integer;Ljava/lang/Object;)Lorg/assertj/core/api/AtomicIntegerFieldUpdaterAssert;,(Ljava/lang/Object;)Ljava/lang/Integer;,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAtomicFieldUpdaterAssert;,(Ljava/lang/Object;)Ljava/lang/Object;
+12,10,11,11,9
+1,1,1,1,1

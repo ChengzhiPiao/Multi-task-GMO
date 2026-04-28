@@ -1,0 +1,3 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Elina Svitolina,15,10,5,.667,1,1,4,14,.286,3,6,.500
+Total,15,10,5,.667,1,1,4,14,.286,3,6,.500

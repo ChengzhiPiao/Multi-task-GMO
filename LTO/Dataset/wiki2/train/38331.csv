@@ -1,0 +1,9 @@
+Rank,1,2,3,4,5,6,7
+Airport,Zurich Airport,Geneva Airport,Basel Airport,Bern Airport,Lugano Airport,St Gallen Airport,Sion Airport
+Location,Zurich,Geneva,Basel,Bern,Lugano,St Gallen,Sion
+"Total
+Passengers","{{formatnum:25,451,017}}","{{formatnum:15,057,335}}","{{formatnum:6,498,654}}","{{formatnum:177,539}}","{{formatnum:135,530}}","{{formatnum:84,098}}","{{formatnum:2,258}}"
+"Annual
+change",{{increase}}2.4%,{{increase}}5.1%,{{increase}}11.2%,{{decrease}}27.5%,{{decrease}}5.0%,{{decrease}}2.2%,{{decrease}}12.9%
+"Rank
+change",{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}}

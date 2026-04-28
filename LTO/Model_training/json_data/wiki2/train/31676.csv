@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbu|23|FIJ}},3,3,0,0,11,2,+9,9
+{{fbu|23|VAN}},3,2,0,1,10,2,+8,6
+{{fbu|23|SOL}},3,1,0,2,16,4,+12,3
+{{fbu|23|ASA}},3,0,0,3,2,31,−29,0

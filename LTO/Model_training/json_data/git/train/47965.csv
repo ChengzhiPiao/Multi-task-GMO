@@ -1,0 +1,10 @@
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard,Application,8,0,0,0,3,0,2,0,2,0
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,JenkinsSettings,25,30,1,1,11,12,7,7,6,7
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,DefaultJenkinsClient,236,578,28,30,56,119,24,23,2,14
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,RestOperationsSupplier,7,0,0,0,2,0,2,0,2,0
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,CucumberJsonToTestResultTransformer.new Object() {...},3,23,0,0,0,1,0,1,0,1
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,CucumberJsonToTestResultTransformer,64,367,26,22,22,80,24,14,0,10
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,DefaultJenkinsClient.new Object() {...},3,23,0,0,0,1,0,1,0,1
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.collector,JenkinsCucumberTestCollectorTask,397,0,46,0,97,0,36,0,13,0
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.model,JenkinsCucumberTestCollector,38,0,0,0,12,0,4,0,4,0
+com.capitalone.dashboard:jenkins-cucumber-test-collector,com.capitalone.dashboard.model,JenkinsJob,33,17,10,0,6,4,6,2,1,2

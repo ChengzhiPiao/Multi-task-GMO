@@ -1,0 +1,10 @@
+Number,Number,4,6,7,8,9,10,12,13,15,18,25,28,29,39,53,57,77,90,92,99,
+Nation,Nation,{{flagicon|SVN}},{{flagicon|ROU}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|ZAM}},{{flagicon|RUS}},{{flagicon|SRB}},{{flagicon|UKR}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|ARG}},{{flagicon|GEO}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|ARM}},
+Position,Position,DF,MF,DF,MF,FW,MF,MF,DF,MF,FW,MF,GK,DF,MF,MF,MF,MF,MF,MF,FW,
+Name,Name,Gregor Balažic,Eric Bicfalvi,Aleksandr Dantsev,Aleksandr Pavlenko,Roman Pavlyuchenko,Chisamba Lungu,Aleksandr Novikov,Radovan Pankov,Denys Kulakov,Vladimir Ilyin,Aleksandr Stavpets,Nikolai Zabolotny,Pablo Fontanello,Giorgi Chanturia,Sergei Podoksyonov,Artyom Fidler,Dmitri Korobov,Aleksandr Scherbakov,Roman Yemelyanov,Edgar Manucharyan,TOTALS
+Premier League,{{yel}},3,4,5,1,6,3,2,1,2,2,1,1,2,1,1,5,1,1,6,1,48
+Premier League,{{sent off}},1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4
+Russian Cup,{{yel}},0,0,3,0,0,1,1,0,2,1,0,0,0,0,0,0,0,0,0,0,8
+Russian Cup,{{sent off}},0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,3
+Total,{{yel}},3,4,8,1,6,4,3,1,4,3,1,1,2,1,1,5,1,1,6,1,56
+Total,{{sent off}},1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,7

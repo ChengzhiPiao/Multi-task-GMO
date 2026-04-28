@@ -1,0 +1,5 @@
+Medals by sport,Sport,Tennis,Triathlon,Wrestling,Canoeing,Diving,Judo,Gymnastics,Rowing,Swimming,Synchronized swimming,Taekwondo,Total
+Medals by sport,{{gold01}},1,1,1,0,0,0,0,0,0,0,0,3
+Medals by sport,{{silver02}},0,0,0,1,1,1,0,0,0,0,0,3
+Medals by sport,{{bronze03}},0,0,0,1,1,0,2,1,1,1,1,8
+Medals by sport,Total,1,1,1,2,2,1,2,1,1,1,1,14

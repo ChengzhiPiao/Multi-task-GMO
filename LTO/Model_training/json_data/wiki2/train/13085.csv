@@ -1,0 +1,7 @@
+Gun,QF 13 pounder Mk III,QF 13 pounder 9 cwt,QF 12 pdr 12 cwt,QF 3 inch 20 cwt 1914,QF 3 inch 20 cwt 1916,QF 4 inch Mk V WWI,QF 4 inch Mk V WWII
+muzzle velocity (ft/s),1600,1990,2200,2500,2000,2350,2350
+Shell (lb),12.5,12.5,12.5,12.5,16,31 (3 c.r.h.),31 (4.38/6 c.r.h.)
+Time to {{convert|5000|ft|m|abbr=on}} at 25° (seconds),?,10.1,9.1,8.3,9.2,4.4??,?
+Time to {{convert|10000|ft|m|abbr=on}} at 40° (seconds),?,15.5,14.1,12.6,13.7,9.6,?
+Time to {{convert|15000|ft|m|abbr=on}} at 55° (seconds),?,22.1,19.1,16.3,18.8,12.3,?
+Max. height (ft),"17,000","19,000","20,000","23,500","22,000","28,750","31,000"

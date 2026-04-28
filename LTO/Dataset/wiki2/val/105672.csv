@@ -1,0 +1,5 @@
+Truncated 6-orthoplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Truncated 6-orthoplex,uniform 6-polytope,"t{3,3,3,3,4}","{{CDD|node_1|3|node_1|3|node|3|node|3|node|4|node}}
+{{CDD|node_1|3|node_1|3|node|3|node|split1|nodes}}",76,576,1200,1120,540,120,"File:Truncated 6-orthoplex verf.png
+( )v{3,4}","B6, [3,3,3,3,4]
+D6, [33,1,1]",convex

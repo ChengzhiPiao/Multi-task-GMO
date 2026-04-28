@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Browser,Browser,EAgro_Username,EAgro_Password,EAgro_Login,Browser,EAgro_Welcome,EAgro_Crop_Batches,Browser,EAgro_Common_Search,Browser,EAgro_Common_Search,Browser,EAgro_Search_Button,Browser,EAgro_Result_Maize
+Open the Url [<Data>] in the Browser,Wait for [<Data>] milli seconds,Press  key [<Data>](android),Enter the Decrypted value [<Data>] in the Field [<Object>],Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present,Click the [<Object>] ,Wait for [<Data>] milli seconds,Click the [<Object>] ,Wait for [<Data>] milli seconds,Select all options from a select Element [<Object>],Wait for [<Data>] milli seconds,Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present
+Open,pause,Set,setEncrypted,Click,pause,verifyElementPresent,Click,pause,Click,pause,Set,pause,Click,pause,verifyElementPresent
+SearchByBatchID:URL,@3500,SearchByBatchID:Username,SearchByBatchID:Password,,@3000,,,@3000,,@2000,@203,@2000,,@2000,
+,,,,,,,,,,,,,,,
+,,EAgro Home Page,EAgro Home Page,EAgro Home Page,,EAgro Home Page,EAgro Crop Batches,,EAgro Crop Batches,,EAgro Crop Batches,,EAgro Crop Batches,,EAgro Crop Batches

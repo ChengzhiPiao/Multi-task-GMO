@@ -1,0 +1,4 @@
+Athlete,Event,Qualification,Qualification,Qualification,Qualification,Qualification,Qualification,Final,Final,Final,Final,Final,Final
+Athlete,Event,Apparatus,Apparatus,Apparatus,Apparatus,Total,Rank,Apparatus,Apparatus,Apparatus,Apparatus,Total,Rank
+Athlete,Event,{{Tooltip| F | Floor}},{{Tooltip| V | Vault}},{{Tooltip| UB | Uneven bars}},{{Tooltip| BB | Balance beam}},Total,Rank,{{Tooltip| F | Floor}},{{Tooltip| V | Vault}},{{Tooltip| UB | Uneven bars}},{{Tooltip| BB | Balance beam}},Total,Rank
+Claudia Costa,All-around,17.50,18.20,17.60,17.25,35.275,Q,8.650,8.800,8.200,8.850,69.775,31

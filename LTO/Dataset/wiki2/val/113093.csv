@@ -1,0 +1,3 @@
+Byte count,1 byte (CBOR data item header),1 byte (CBOR data item header),Variable
+Structure,Major type,Additional information,Value
+Bit count,3 Bits,5 Bits,8 Bits × (Value_Field_Byte_Count)

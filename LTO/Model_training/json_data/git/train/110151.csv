@@ -1,0 +1,10 @@
+8901,8902,8903,8904,8905,8906,8907,8908,8909,8910,8911,8912,8913,8914
+Greenwich,Lisbon,Paris,Bogota,Madrid,Rome,Bern,Jakarta,Ferro,Brussels,Stockholm,Athens,Oslo,Paris RGS
+0.0,-9.0754862,2.5969213,-74.04513,-3.411658,12.27084,7.26225,106.482779,-17.4,4.220471,18.03298,23.4258815,10.43225,2.201395
+9102,9110,9105,9110,9110,9110,9110,9110,9110,9110,9110,9110,9110,9110
+The international reference meridian as defined first by the 1884 International Meridian Conference and later by the Bureau International de l'Heure (BIH) and then the International Earth Rotation Service (IERS).,,"Value adopted by IGN (Paris) in 1936. Equivalent to 2°20'14.025"". Preferred by EPSG to earlier value of 2°20'13.95"" (2.596898 grads) used by RGS London.",,,,"1895 value.  Newer value of 7°26'22.335"" determined in 1938.",,Used in Austria and former Czechoslovakia.,,,Used in Greece for older mapping based on Hatt projection.,Formerly known as Kristiania or Christiania.,Value replaced by IGN (France) in 1936 - see code 8903. Equivalent to 2.596898 grads.
+OGP,Instituto Geografico e Cadastral; Lisbon,Institut Geographique National (IGN); Paris,"Instituto Geografico ""Augustin Cadazzi"" (IGAC); Bogota",,,Bundesamt für Landestopographie,,,,,Topography Department; National Technical University of Athens.,Statens Kartverk - Geodesidivisjonen,"Royal Geographic Society, London"
+IOGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP,OGP
+2016/12/15,2014/06/27,2008/06/24,2014/06/27,2014/06/27,1995/06/02,2008/06/24,1995/06/02,2014/06/27,1995/06/02,1995/06/02,1997/06/16,1999/10/20,2007/11/01
+1996.290 2016.045,1996.290 2014.040,2008.045,1996.290 2014.040,1996.290 2014.040,1996.290,1996.290 2008.045,1996.290,1996.290 2014.040,1996.290,1996.290,,,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0

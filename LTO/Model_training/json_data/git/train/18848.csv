@@ -1,0 +1,2 @@
+hr_birthday_list_reminder_employee,hr.birthday_list_reminder - user,model_hr_birthday_list_reminder,base.group_user,1,1,1,1
+hr_birthday_list_reminder_all,hr.birthday_list_reminder - all,model_hr_birthday_list_reminder,,0,0,0,0

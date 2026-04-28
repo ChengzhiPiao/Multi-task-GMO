@@ -1,0 +1,4 @@
+Technology,Hydroelectric,Wind,Nuclear,Biomass,Solar thermal,Geothermal,Solar PV,Natural gas,Coal
+Description,reservoir,onshore,various generation II reactor types,various,parabolic trough,hot dry rock,Polycrystaline silicon,various combined cycle turbines without scrubbing,various generator types without scrubbing
+"50th percentile
+(g {{CO2}}/kWhe)",4,12,16,18,22,45,46,469,1001

@@ -1,0 +1,4 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Alla Kudryavtseva,105,54,51,.514,4,5,14,30,.467,10,18,.556
+Scott Lipsky,105,54,51,.514,10,9,14,30,.467,10,18,.556
+Total,105,54,51,.514,14,14,14,30,.467,10,18,.556

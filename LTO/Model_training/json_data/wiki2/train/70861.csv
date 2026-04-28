@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Paraná}} Cianorte,6,4,1,1,5,3,+2,13
+2,{{flagicon|Rio Grande do Sul}} Caxias,6,3,2,1,8,4,+4,11
+3,{{flagicon|São Paulo}} São Caetano,6,1,2,3,7,7,0,5
+4,{{flagicon|Santa Catarina}} Tubarão,6,1,1,4,7,13,−6,4

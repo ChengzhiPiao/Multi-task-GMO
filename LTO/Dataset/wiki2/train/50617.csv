@@ -1,0 +1,6 @@
+Implementation,Botan,Bouncy Castle,cryptlib,Crypto++,Libgcrypt,libsodium,Nettle,OpenSSL,wolfCrypt
+HMAC-MD5,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+HMAC-SHA1,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+HMAC-SHA2,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Poly1305-AES,{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+BLAKE2-MAC,{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}}

@@ -1,0 +1,7 @@
+Family,Angara,Ariane,Atlas,Delta,Falcon,H-II,Long March,Minotaur,Pegasus,PSLV,R-7,R-14,R-36,Safir,Space Shuttle,Unha,Universal Rocket,Zenit
+Country,{{RUS}},{{flag|Europe}},{{USA}},{{USA}},{{USA}},{{JPN}},{{PRC}},{{USA}},{{USA}},{{IND}},{{RUS}},{{RUS}},{{UKR}},{{IRN}},{{USA}},{{PRK}},{{RUS}},{{UKR}} / {{RUS}}
+Launches,1,7,5,11,1,3,6,1,1,2,13,1,2,1,5,1,13,4
+Successes,0,7,5,11,1,3,5,1,0,2,12,1,2,1,5,0,13,4
+Failures,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0
+Partial failures,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Remarks,Maiden flight,,,,,,,,,,,,,First successful launch,,,,

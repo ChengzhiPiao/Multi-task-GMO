@@ -1,0 +1,8 @@
+access_hr_analytic_timesheet,access_hr_analytic_timesheet_employee,access_hr_account_analytic_line,access_hr_account_analytic_line_employee,access_account_analytic_journal,access_product_product_user,access_product_template_hr_timesheet,access_product_uom_hr_timesheet,access_account_fiscalyear_hr_user,access_hr_analytic_timesheet_user,access_account_analytic_journal_user
+hr.analytic.timesheet,hr.analytic.timesheet,account.account.analytic.line,account.account.analytic.line employee,account.account.analytic.journal,product.product user,product.template.hr.timesheet,product.uom.hr.timesheet,account.account.fiscalyear.user,hr.analytic.timesheet.user,account.account.analytic.journal.user
+model_hr_analytic_timesheet,model_hr_analytic_timesheet,account.model_account_analytic_line,account.model_account_analytic_line,analytic.model_account_analytic_journal,product.model_product_product,product.model_product_template,product.model_product_uom,account.model_account_fiscalyear,model_hr_analytic_timesheet,analytic.model_account_analytic_journal
+base.group_hr_user,base.group_user,base.group_hr_user,base.group_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_user,base.group_user
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,0
+1,1,1,1,1,1,1,1,1,1,0
+1,1,1,1,1,1,1,1,1,0,0

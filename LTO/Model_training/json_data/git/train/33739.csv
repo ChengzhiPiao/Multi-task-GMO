@@ -1,0 +1,5 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37
+NMEA,destination_ID,source_ID,data_mode,format,LDN,date,time,msec,runtime,sensor_state,waterflow,V_in,V_out,Puff,I_out,SBE45Temp,SBE45Cond,SBE45Sal,co2,h2o,h2oDew,LiCOR_Temp,LiCOR_Pres,valves,ANA_state,co2_raw,co2_ref_raw,h2o_raw,h2o_ref_raw,ANA_ain6,lat,lon,speed,course,magn_var,gps_time
+,,,,,,1 day,1 sec,1 msec,1 sec,,l/min,,,,,°C,mS/cm,PSU,ppm,ppt,°C,°C,mBar,,,Binary,Binary,Binary,Binary,,,,,,,
+,,,,,Logical Device No.,ISO-8601:2000,UTC time,Resolution,Seconds since start,,,,,,,,,,,,,,,?,Status/Phase of the Analyzer,,,,,?,,,,,?,
+System,,,,,,,,,,,,USV,,,,CTD,,,Li-COR gas analyzer,,,,,,,,,,,,GPS,,,,,

@@ -1,0 +1,5 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+"Alex Bogomolov, Jr.",101,54,47,.535,1,7,17,37,.459,16,25,.640
+Aisam Qureshi,108,56,52,.519,4,8,17,37,.459,17,27,.630
+Tim Smyczek,7,2,5,.286,1,0,0,0,–,1,2,.500
+Total,108,56,52,.519,6,15,17,37,.459,17,27,.630

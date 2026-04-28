@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{Fbm|QTR}},2,1,1,0,2,1,+1,4
+{{Fbm|EGY}},2,0,2,0,1,1,0,2
+{{Fbm|UKR}},2,0,1,1,0,1,-1,1

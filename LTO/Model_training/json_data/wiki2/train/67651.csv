@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Win}},{{Tooltip | L | Lose}},{{Tooltip | D | Draw}},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points}}
+Duleek,3,1,0,2,0,0,+0,4
+Slane,3,1,0,2,0,0,+0,4
+Syddan,2,0,1,1,0,0,+0,1
+Rathkenny,2,0,1,1,0,0,+0,1

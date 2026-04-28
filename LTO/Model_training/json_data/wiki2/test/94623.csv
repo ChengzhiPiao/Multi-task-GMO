@@ -1,0 +1,10 @@
+Number,Number,1,2,3,4,5,6,6,7,8,10,11,14,18,21,22,23,30,40,
+Nation,Nation,{{flagicon|NOR}},{{flagicon|DEN}},{{flagicon|ISL}},{{flagicon|FIN}},{{flagicon|NOR}},{{flagicon|NOR}},{{flagicon|NLD}},{{flagicon|CIV}},{{flagicon|NOR}},{{flagicon|NOR}},{{flagicon|ISL}},{{flagicon|NED}},{{flagicon|NOR}},{{flagicon|NOR}},{{flagicon|ISL}},{{flagicon|NOR}},{{flagicon|NOR}},{{flagicon|NOR}},
+Position,Position,GK,DF,DF,DF,DF,DF,DF,FW,MF,MF,MF,MF,MF,MF,DF,DF,FW,MF,
+Name,Name,Andreas Lie,Mikkel Kirkeskov,Daníel Leó Grétarsson,Tero Mäntylä,Oddbjørn Lie,John Arne Riise,Vito Wormgoor,Franck Boli,Fredrik Carlsen,Peter Orry Larsen,Aron Elís Þrándarson,Edwin Gyasi,Vebjørn Hoff,Bjørn Helge Riise,Adam Örn Arnarson,Edvard Skagestad,Mustafa Abdellaoue,Sondre Brunstad Fet,TOTALS
+Tippeligaen,{{yel}},2,4,0,0,2,0,3,6,6,2,2,5,2,9,5,1,1,1,51
+Tippeligaen,{{sent off}},0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3
+Norwegian Cup,{{yel}},0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,4
+Norwegian Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},2,4,0,1,2,2,3,6,6,2,2,5,2,9,6,1,1,1,55
+Total,{{sent off}},0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3

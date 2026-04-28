@@ -1,0 +1,3 @@
+access_field_product_code_user,field.product.code,model_field_product_code,base.group_user,1,1,1,1
+access_field_brand_code_user,field.brand.code,model_field_brand_code,base.group_user,1,1,1,1
+access_field_material_code_user,field.material.code,model_field_material_code,base.group_user,1,1,1,1

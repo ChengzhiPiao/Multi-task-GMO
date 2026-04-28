@@ -1,0 +1,3 @@
+Model,Type:,Layout:,Landing gear:,Length (m):,Width (m):,Height (m):,Take-off weight (kg):,Payload (kg):,Propulsion:,Ignition:,Fuel:,Hovering capability:,Flight magnitude control:,Autonomous flight:
+Agricultural Eagle 2000A,Unmanned helicopter,Conventional helicopter,Skids,2.2,2.2,0.7,45,18,Internal combustion engine,Mechanical,Gasoline,Yes,Yes,No
+Agricultural Eagle 2000B,Unmanned helicopter,Conventional helicopter,Skids,2.2,2.2,0.7,45,18,Internal combustion engine,Mechanical,Gasoline,Yes,Yes,Yes

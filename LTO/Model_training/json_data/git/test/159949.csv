@@ -1,0 +1,6 @@
+cell ID,stream,birth year,birth time,number observations,observation year,observation time,x map,y map,lat,lon,x displacement,y displacement,cell area,difference area,time interval,dudx,dudy,dvdx,dvdy
+CELL_ID,STREAM,BIRTH_YEAR,BIRTH_TIME,N_OBS,OBS_YEAR,OBS_TIME,X_MAP,Y_MAP,LAT,LON,X_DISP,Y_DISP,C_AREA,D_AREA,DTP,DUDX,DUDY,DVDX,DVDY
+integer,string,integer,double,integer,integer,double,double,double,double,double,double,double,double,double,double,double,double,double,double
+6,1,5,12,8,5,12,16,16,12,12,12,12,12,12,12,12,12,12,12
+0,0,0,6,0,0,6,4,4,5,5,6,6,6,6,6,6,6,6,6
+cell identifier,stream cell is tracked in,year the grid point was created,day the grid point was created [day],number of observations of the grid point,year of the observation,day of the observation [day],x map coordinate of the grid point [m],y map coordinate of the grid point [m],latitude of grid point [degrees],longitude of grid point [degrees],x displacement of the cell center [km],y displacement of the cell center [km],cell area at the time of the observation [sq km],change in cell area between observations [sq km],time interval between observations ,du/dx ice motion partial of observation,du/dy ice motion partial of observation,dv/dx ice motion partial of observation,dv/dy ice motion partial of observation

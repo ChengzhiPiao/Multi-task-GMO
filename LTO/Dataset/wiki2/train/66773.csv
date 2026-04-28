@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Maranhão}} Moto Club,6,4,1,1,6,3,+3,13
+2,{{flagicon|Piauí}} Altos,6,3,2,1,7,3,+4,11
+3,{{flagicon|Tocantins}} Sparta,6,1,2,3,6,9,–3,5
+4,{{flagicon|Rio Grande do Norte}} ASSU,6,1,1,4,2,6,–4,4

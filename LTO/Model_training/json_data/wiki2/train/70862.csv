@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Maranhão}} Moto Club,6,4,2,0,16,4,+12,14
+2,{{flagicon|Pará}} São Raimundo-PA,6,4,1,1,12,7,+5,13
+3,{{flagicon|Amapá}} Ypiranga,6,1,2,3,8,13,−5,5
+4,{{flagicon|Roraima}} Atlético Roraima,6,0,1,5,3,15,−12,1

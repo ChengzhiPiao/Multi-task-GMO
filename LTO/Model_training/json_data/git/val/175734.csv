@@ -1,0 +1,4 @@
+onos-host-provider,org.onosproject.provider.host.impl,HostLocationProvider.new Object() {...},8,53,0,0,0,1,0,1,0,1
+onos-host-provider,org.onosproject.provider.host.impl,HostLocationProvider,126,296,20,10,8,70,27,12,15,9
+onos-host-provider,org.onosproject.provider.host.impl,HostLocationProvider.InternalDeviceListener,4,75,9,7,4,14,9,4,0,2
+onos-host-provider,org.onosproject.provider.host.impl,HostLocationProvider.InternalHostProvider,30,199,11,31,8,49,11,14,0,4

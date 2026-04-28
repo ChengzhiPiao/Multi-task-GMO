@@ -1,0 +1,9 @@
+Atk,Global,0,2,0,0,1,13,2,0,0,-1,0,0,,
+Atk,Hyperlink,0,1,0,0,0,7,1,0,0,-1,0,0,,
+Atk,Misc,0,2,0,0,1,10,2,0,0,-1,0,0,,
+Atk,Object,0,4,0,0,1,29,4,0,0,-1,1,0,Atk.ChildrenChangedDetail,
+Atk,ChildrenChangedDetail,0,0,0,0,0,5,0,0,0,-1,0,1,,Atk.Object
+Atk,SelectionAdapter,0,1,0,0,1,7,1,0,0,-1,0,0,,
+Atk,TextAdapter,0,1,0,0,1,9,1,0,0,-1,1,0,Atk.TextChangedDetail,
+Atk,TextChangedDetail,0,0,0,0,0,4,0,0,0,-1,0,1,,Atk.TextAdapter
+Atk,Util,6,6,3,0,0,84,6,0,0,1,0,0,,

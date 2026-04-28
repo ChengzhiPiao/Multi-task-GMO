@@ -1,0 +1,3 @@
+access_event_event_public,event.event.public,event.model_event_event,base.group_public,1,0,0,0
+access_event_event_portal,event.event.portal,event.model_event_event,base.group_portal,1,0,0,0
+access_event_type_public,event.type.public,event.model_event_type,,1,0,0,0

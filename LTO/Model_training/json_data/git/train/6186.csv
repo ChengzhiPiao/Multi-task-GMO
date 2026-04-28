@@ -1,0 +1,1235 @@
+/emojis,/events,/feeds,/gists,/gists/{id}/comments/{commentId},/gists/{id}/comments/{commentId},/gists/{id}/comments/{commentId},/gists/{id}/comments,/gists/{id}/comments,/gists/{id},/gists/{id}/forks,/gists/{id},/gists/{id},/gists/{id}/star,/gists/{id}/star,/gists/{id}/star,/gists,/gists/public,/gists/starred,/gitignore/templates,/gitignore/templates/{language},/issues,/legacy/issues/search/{owner}/{repository}/{state}/{keyword},/legacy/repos/search/{keyword},/legacy/user/email/{email},/legacy/user/search/{keyword},/markdown,/markdown/raw,/meta,/networks/{owner}/{repo}/events,/notifications,/notifications,/notifications/threads/{id},/notifications/threads/{id},/notifications/threads/{id}/subscription,/notifications/threads/{id}/subscription,/notifications/threads/{id}/subscription,/orgs/{org}/events,/orgs/{org},/orgs/{org}/issues,/orgs/{org}/members,/orgs/{org}/members/{username},/orgs/{org}/members/{username},/orgs/{org},/orgs/{org}/public_members,/orgs/{org}/public_members/{username},/orgs/{org}/public_members/{username},/orgs/{org}/public_members/{username},/orgs/{org}/repos,/orgs/{org}/repos,/orgs/{org}/teams,/orgs/{org}/teams,/rate_limit,/repos/{owner}/{repo}/{archive_format}/{path},/repos/{owner}/{repo}/assignees/{assignee},/repos/{owner}/{repo}/assignees,/repos/{owner}/{repo}/branches/{branch},/repos/{owner}/{repo}/branches,/repos/{owner}/{repo}/collaborators,/repos/{owner}/{repo}/collaborators/{user},/repos/{owner}/{repo}/collaborators/{user},/repos/{owner}/{repo}/collaborators/{user},/repos/{owner}/{repo}/comments/{commentId},/repos/{owner}/{repo}/comments/{commentId},/repos/{owner}/{repo}/comments/{commentId},/repos/{owner}/{repo}/comments,/repos/{owner}/{repo}/commits,/repos/{owner}/{repo}/commits/{ref}/status,/repos/{owner}/{repo}/commits/{shaCode}/comments,/repos/{owner}/{repo}/commits/{shaCode}/comments,/repos/{owner}/{repo}/commits/{shaCode},/repos/{owner}/{repo}/compare/{baseId}...{headId},/repos/{owner}/{repo}/contents/{path},/repos/{owner}/{repo}/contents/{path},/repos/{owner}/{repo}/contents/{path},/repos/{owner}/{repo}/contributors,/repos/{owner}/{repo},/repos/{owner}/{repo}/deployments,/repos/{owner}/{repo}/deployments/{id}/statuses,/repos/{owner}/{repo}/deployments/{id}/statuses,/repos/{owner}/{repo}/deployments,/repos/{owner}/{repo}/downloads/{downloadId},/repos/{owner}/{repo}/downloads/{downloadId},/repos/{owner}/{repo}/downloads,/repos/{owner}/{repo}/events,/repos/{owner}/{repo}/forks,/repos/{owner}/{repo}/forks,/repos/{owner}/{repo},/repos/{owner}/{repo}/git/blobs,/repos/{owner}/{repo}/git/blobs/{shaCode},/repos/{owner}/{repo}/git/commits,/repos/{owner}/{repo}/git/commits/{shaCode},/repos/{owner}/{repo}/git/refs,/repos/{owner}/{repo}/git/refs,/repos/{owner}/{repo}/git/refs/{ref},/repos/{owner}/{repo}/git/refs/{ref},/repos/{owner}/{repo}/git/refs/{ref},/repos/{owner}/{repo}/git/tags,/repos/{owner}/{repo}/git/tags/{shaCode},/repos/{owner}/{repo}/git/trees,/repos/{owner}/{repo}/git/trees/{shaCode},/repos/{owner}/{repo}/hooks,/repos/{owner}/{repo}/hooks/{hookId},/repos/{owner}/{repo}/hooks/{hookId},/repos/{owner}/{repo}/hooks/{hookId},/repos/{owner}/{repo}/hooks/{hookId}/tests,/repos/{owner}/{repo}/hooks,/repos/{owner}/{repo}/issues/comments/{commentId},/repos/{owner}/{repo}/issues/comments/{commentId},/repos/{owner}/{repo}/issues/comments/{commentId},/repos/{owner}/{repo}/issues/comments,/repos/{owner}/{repo}/issues/events/{eventId},/repos/{owner}/{repo}/issues/events,/repos/{owner}/{repo}/issues,/repos/{owner}/{repo}/issues/{number}/comments,/repos/{owner}/{repo}/issues/{number}/comments,/repos/{owner}/{repo}/issues/{number}/events,/repos/{owner}/{repo}/issues/{number},/repos/{owner}/{repo}/issues/{number}/labels,/repos/{owner}/{repo}/issues/{number}/labels,/repos/{owner}/{repo}/issues/{number}/labels/{name},/repos/{owner}/{repo}/issues/{number}/labels,/repos/{owner}/{repo}/issues/{number}/labels,/repos/{owner}/{repo}/issues/{number},/repos/{owner}/{repo}/issues,/repos/{owner}/{repo}/keys,/repos/{owner}/{repo}/keys/{keyId},/repos/{owner}/{repo}/keys/{keyId},/repos/{owner}/{repo}/keys,/repos/{owner}/{repo}/labels,/repos/{owner}/{repo}/labels/{name},/repos/{owner}/{repo}/labels/{name},/repos/{owner}/{repo}/labels/{name},/repos/{owner}/{repo}/labels,/repos/{owner}/{repo}/languages,/repos/{owner}/{repo}/merges,/repos/{owner}/{repo}/milestones,/repos/{owner}/{repo}/milestones/{number},/repos/{owner}/{repo}/milestones/{number},/repos/{owner}/{repo}/milestones/{number}/labels,/repos/{owner}/{repo}/milestones/{number},/repos/{owner}/{repo}/milestones,/repos/{owner}/{repo}/notifications,/repos/{owner}/{repo}/notifications,/repos/{owner}/{repo},/repos/{owner}/{repo}/pulls/comments/{commentId},/repos/{owner}/{repo}/pulls/comments/{commentId},/repos/{owner}/{repo}/pulls/comments/{commentId},/repos/{owner}/{repo}/pulls/comments,/repos/{owner}/{repo}/pulls,/repos/{owner}/{repo}/pulls/{number}/comments,/repos/{owner}/{repo}/pulls/{number}/comments,/repos/{owner}/{repo}/pulls/{number}/commits,/repos/{owner}/{repo}/pulls/{number}/files,/repos/{owner}/{repo}/pulls/{number},/repos/{owner}/{repo}/pulls/{number}/merge,/repos/{owner}/{repo}/pulls/{number}/merge,/repos/{owner}/{repo}/pulls/{number},/repos/{owner}/{repo}/pulls/{number}/reviews,/repos/{owner}/{repo}/pulls/{number}/reviews,/repos/{owner}/{repo}/pulls,/repos/{owner}/{repo}/readme,/repos/{owner}/{repo}/releases/assets/{id},/repos/{owner}/{repo}/releases/assets/{id},/repos/{owner}/{repo}/releases/assets/{id},/repos/{owner}/{repo}/releases,/repos/{owner}/{repo}/releases/{id}/assets,/repos/{owner}/{repo}/releases/{id},/repos/{owner}/{repo}/releases/{id},/repos/{owner}/{repo}/releases/{id},/repos/{owner}/{repo}/releases,/repos/{owner}/{repo}/stargazers,/repos/{owner}/{repo}/stats/code_frequency,/repos/{owner}/{repo}/stats/commit_activity,/repos/{owner}/{repo}/stats/contributors,/repos/{owner}/{repo}/stats/participation,/repos/{owner}/{repo}/stats/punch_card,/repos/{owner}/{repo}/statuses/{ref},/repos/{owner}/{repo}/statuses/{ref},/repos/{owner}/{repo}/subscribers,/repos/{owner}/{repo}/subscription,/repos/{owner}/{repo}/subscription,/repos/{owner}/{repo}/subscription,/repos/{owner}/{repo}/tags,/repos/{owner}/{repo}/teams,/repos/{owner}/{repo}/watchers,/repositories,/search/code,/search/issues,/search/repositories,/search/users,/teams/{teamId},/teams/{teamId},/teams/{teamId}/members,/teams/{teamId}/members/{username},/teams/{teamId}/members/{username},/teams/{teamId}/members/{username},/teams/{teamId}/memberships/{username},/teams/{teamId}/memberships/{username},/teams/{teamId}/memberships/{username},/teams/{teamId},/teams/{teamId}/repos,/teams/{teamId}/repos/{owner}/{repo},/teams/{teamId}/repos/{owner}/{repo},/teams/{teamId}/repos/{owner}/{repo},/user/emails,/user/emails,/user/emails,/user/followers,/user/following,/user/following/{username},/user/following/{username},/user/following/{username},/user,/user/issues,/user/keys,/user/keys/{keyId},/user/keys/{keyId},/user/keys,/user/orgs,/user,/user/repos,/user/repos,/user/starred,/user/starred/{owner}/{repo},/user/starred/{owner}/{repo},/user/starred/{owner}/{repo},/user/subscriptions,/user/subscriptions/{owner}/{repo},/user/subscriptions/{owner}/{repo},/user/subscriptions/{owner}/{repo},/user/teams,/users,/users/{username}/events,/users/{username}/events/orgs/{org},/users/{username}/followers,/users/{username}/following/{targetUser},/users/{username},/users/{username}/gists,/users/{username}/keys,/users/{username}/orgs,/users/{username}/received_events,/users/{username}/received_events/public,/users/{username}/repos,/users/{username}/starred,/users/{username}/subscriptions
+GET,GET,GET,GET,DELETE,GET,PATCH,GET,POST,DELETE,POST,GET,PATCH,DELETE,GET,PUT,POST,GET,GET,GET,GET,GET,GET,GET,GET,GET,POST,POST,GET,GET,GET,PUT,GET,PATCH,DELETE,GET,PUT,GET,GET,GET,GET,DELETE,GET,PATCH,GET,DELETE,GET,PUT,GET,POST,GET,POST,GET,GET,GET,GET,GET,GET,GET,DELETE,GET,PUT,DELETE,GET,PATCH,GET,GET,GET,GET,POST,GET,GET,DELETE,GET,PUT,GET,DELETE,GET,GET,POST,POST,DELETE,GET,GET,GET,GET,POST,GET,POST,GET,POST,GET,GET,POST,DELETE,GET,PATCH,POST,GET,POST,GET,GET,DELETE,GET,PATCH,POST,POST,DELETE,GET,PATCH,GET,GET,GET,GET,GET,POST,GET,GET,DELETE,GET,DELETE,POST,PUT,PATCH,POST,GET,DELETE,GET,POST,GET,DELETE,GET,PATCH,POST,GET,POST,GET,DELETE,GET,GET,PATCH,POST,GET,PUT,PATCH,DELETE,GET,PATCH,GET,GET,GET,POST,GET,GET,GET,GET,PUT,PATCH,GET,POST,POST,GET,DELETE,GET,PATCH,GET,GET,DELETE,GET,PATCH,POST,GET,GET,GET,GET,GET,GET,GET,POST,GET,DELETE,GET,PUT,GET,GET,GET,GET,GET,GET,GET,GET,DELETE,GET,GET,DELETE,GET,PUT,DELETE,GET,PUT,PATCH,GET,DELETE,GET,PUT,DELETE,GET,POST,GET,GET,DELETE,GET,PUT,GET,GET,GET,DELETE,GET,POST,GET,PATCH,GET,POST,GET,DELETE,GET,PUT,GET,DELETE,GET,PUT,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET,GET
+"
+
+
+Lists all the emojis available to use on GitHub.
+
+","
+
+
+List public events.
+
+","
+
+
+List Feeds. GitHub provides several timeline resources in Atom format. The Feeds API  lists all the feeds available to the authenticating user. 
+
+","
+
+
+List the authenticated user&#39;s gists or if called anonymously, this will return all public gists. 
+
+","
+
+
+Delete a comment.
+
+","
+
+
+Get a single comment.
+
+","
+
+
+Edit a comment.
+
+","
+
+
+List comments on a gist.
+
+","
+
+
+Create a commen
+
+","
+
+
+Delete a gist.
+
+","
+
+
+Fork a gist.
+
+","
+
+
+Get a single gist.
+
+","
+
+
+Edit a gist.
+
+","
+
+
+Unstar a gist.
+
+","
+
+
+Check if a gist is starred.
+
+","
+
+
+Star a gist.
+
+","
+
+
+Create a gist.
+
+","
+
+
+List all public gists.
+
+","
+
+
+List the authenticated user&#39;s starred gists.
+
+","
+
+
+Listing available templates. List all templates available to pass as an option when creating a repository. 
+
+","
+
+
+Get a single template.
+
+","
+
+
+List issues. List all issues across all the authenticated user&#39;s visible repositories. 
+
+","
+
+
+Find issues by state and keyword.
+
+","
+
+
+Find repositories by keyword. Note, this legacy method does not follow the v3 pagination pattern. This method returns up to 100 results per page and pages can be fetched using the start_page parameter.
+
+","
+
+
+This API call is added for compatibility reasons only.
+
+","
+
+
+Find users by keyword.
+
+","
+
+
+Render an arbitrary Markdown document
+
+","
+
+
+Render a Markdown document in raw mode
+
+","
+
+
+This gives some information about GitHub.com, the service.
+
+","
+
+
+List public events for a network of repositories.
+
+","
+
+
+List your notifications. List all notifications for the current user, grouped by repository. 
+
+","
+
+
+Mark as read. Marking a notification as \&quot;read\&quot; removes it from the default view on GitHub.com. 
+
+","
+
+
+View a single thread.
+
+","
+
+
+Mark a thread as read
+
+","
+
+
+Delete a Thread Subscription.
+
+","
+
+
+Get a Thread Subscription.
+
+","
+
+
+Set a Thread Subscription. This lets you subscribe to a thread, or ignore it. Subscribing to a thread is unnecessary if the user is already subscribed to the repository. Ignoring a thread will mute all future notifications (until you comment or get @mentioned). 
+
+","
+
+
+List public events for an organization.
+
+","
+
+
+Get an Organization.
+
+","
+
+
+List issues. List all issues for a given organization for the authenticated user. 
+
+","
+
+
+Members list. List all users who are members of an organization. A member is a user tha belongs to at least 1 team in the organization. If the authenticated user is also an owner of this organization then both concealed and public members will be returned. If the requester is not an owner of the organization the query will be redirected to the public members list. 
+
+","
+
+
+Remove a member. Removing a user from this list will remove them from all teams and they will no longer have any access to the organization&#39;s repositories. 
+
+","
+
+
+Check if a user is, publicly or privately, a member of the organization.
+
+","
+
+
+Edit an Organization.
+
+","
+
+
+Public members list. Members of an organization can choose to have their membership publicized or not. 
+
+","
+
+
+Conceal a user&#39;s membership.
+
+","
+
+
+Check public membership.
+
+","
+
+
+Publicize a user&#39;s membership.
+
+","
+
+
+List repositories for the specified org.
+
+","
+
+
+Create a new repository for the authenticated user. OAuth users must supply repo scope. 
+
+","
+
+
+List teams.
+
+","
+
+
+Create team. In order to create a team, the authenticated user must be an owner of organization. 
+
+","
+
+
+Get your current rate limit status Note: Accessing this endpoint does not count against your rate limit. 
+
+","
+
+
+Get archive link. This method will return a 302 to a URL to download a tarball or zipball archive for a repository. Please make sure your HTTP framework is configured to follow redirects or you will need to use the Location header to make a second GET request. Note: For private repositories, these links are temporary and expire quickly. 
+
+","
+
+
+Check assignee. You may also check to see if a particular user is an assignee for a repository. 
+
+","
+
+
+List assignees. This call lists all the available assignees (owner + collaborators) to which issues may be assigned. 
+
+","
+
+
+Get Branch
+
+","
+
+
+Get list of branches
+
+","
+
+
+List. When authenticating as an organization owner of an organization-owned repository, all organization owners are included in the list of collaborators. Otherwise, only users with access to the repository are returned in the collaborators list. 
+
+","
+
+
+Remove collaborator.
+
+","
+
+
+Check if user is a collaborator
+
+","
+
+
+Add collaborator.
+
+","
+
+
+Delete a commit comment
+
+","
+
+
+Get a single commit comment.
+
+","
+
+
+Update a commit comment.
+
+","
+
+
+List commit comments for a repository. Comments are ordered by ascending ID. 
+
+","
+
+
+List commits on a repository.
+
+","
+
+
+Get the combined Status for a specific Ref The Combined status endpoint is currently available for developers to preview. During the preview period, the API may change without advance notice. Please see the blog post for full details. To access this endpoint during the preview period, you must provide a custom media type in the Accept header: application/vnd.github.she-hulk-preview+json 
+
+","
+
+
+List comments for a single commitList comments for a single commit.
+
+","
+
+
+Create a commit comment.
+
+","
+
+
+Get a single commit.
+
+","
+
+
+Compare two commits
+
+","
+
+
+Delete a file. This method deletes a file in a repository. 
+
+","
+
+
+Get contents. This method returns the contents of a file or directory in a repository. Files and symlinks support a custom media type for getting the raw content. Directories and submodules do not support custom media types. Note: This API supports files up to 1 megabyte in size. Here can be many outcomes. For details see \&quot;http://developer.github.com/v3/repos/contents/\&quot; 
+
+","
+
+
+Create a file.
+
+","
+
+
+Get list of contributors.
+
+","
+
+
+Delete a Repository. Deleting a repository requires admin access. If OAuth is used, the delete_repo scope is required. 
+
+","
+
+
+Users with pull access can view deployments for a repository
+
+","
+
+
+Users with pull access can view deployment statuses for a deployment
+
+","
+
+
+Create a Deployment Status Users with push access can create deployment statuses for a given deployment: 
+
+","
+
+
+Users with push access can create a deployment for a given ref
+
+","
+
+
+Deprecated. Delete a download.
+
+","
+
+
+Deprecated. Get a single download.
+
+","
+
+
+Deprecated. List downloads for a repository.
+
+","
+
+
+Get list of repository events.
+
+","
+
+
+List forks.
+
+","
+
+
+Create a fork. Forking a Repository happens asynchronously. Therefore, you may have to wai a short period before accessing the git objects. If this takes longer than 5 minutes, be sure to contact Support. 
+
+","
+
+
+Get repository.
+
+","
+
+
+Create a Blob.
+
+","
+
+
+Get a Blob. Since blobs can be any arbitrary binary data, the input and responses for the blob API takes an encoding parameter that can be either utf-8 or base64. If your data cannot be losslessly sent as a UTF-8 string, you can base64 encode it. 
+
+","
+
+
+Create a Commit.
+
+","
+
+
+Get a Commit.
+
+","
+
+
+Get all References
+
+","
+
+
+Create a Reference
+
+","
+
+
+Delete a Reference Example: Deleting a branch: DELETE /repos/octocat/Hello-World/git/refs/heads/feature-a  Example: Deleting a tag:        DELETE /repos/octocat/Hello-World/git/refs/tags/v1.0 
+
+","
+
+
+Get a Reference
+
+","
+
+
+Update a Reference
+
+","
+
+
+Create a Tag Object. Note that creating a tag object does not create the reference that makes a tag in Git. If you want to create an annotated tag in Git, you have to do this call to create the tag object, and then create the refs/tags/[tag] reference. If you want to create a lightweight tag, you only have to create the tag reference - this call would be unnecessary. 
+
+","
+
+
+Get a Tag.
+
+","
+
+
+Create a Tree. The tree creation API will take nested entries as well. If both a tree and a nested path modifying that tree are specified, it will overwrite the contents of that tree with the new path contents and write a new tree out. 
+
+","
+
+
+Get a Tree.
+
+","
+
+
+Get list of hooks.
+
+","
+
+
+Delete a hook.
+
+","
+
+
+Get single hook.
+
+","
+
+
+Edit a hook.
+
+","
+
+
+Test a push hook. This will trigger the hook with the latest push to the current repository if the hook is subscribed to push events. If the hook is not subscribed to push events, the server will respond with 204 but no test POST will be generated. Note: Previously /repos/:owner/:repo/hooks/:id/tes 
+
+","
+
+
+Create a hook.
+
+","
+
+
+Delete a comment.
+
+","
+
+
+Get a single comment.
+
+","
+
+
+Edit a comment.
+
+","
+
+
+List comments in a repository.
+
+","
+
+
+Get a single event.
+
+","
+
+
+List issue events for a repository.
+
+","
+
+
+List issues for a repository.
+
+","
+
+
+List comments on an issue.
+
+","
+
+
+Create a comment.
+
+","
+
+
+List events for an issue.
+
+","
+
+
+Get a single issue
+
+","
+
+
+Remove all labels from an issue.
+
+","
+
+
+List labels on an issue.
+
+","
+
+
+Remove a label from an issue.
+
+","
+
+
+Add labels to an issue.
+
+","
+
+
+Replace all labels for an issue. Sending an empty array ([]) will remove all Labels from the Issue. 
+
+","
+
+
+Edit an issue. Issue owners and users with push access can edit an issue. 
+
+","
+
+
+Create an issue. Any user with pull access to a repository can create an issue. 
+
+","
+
+
+Get list of keys.
+
+","
+
+
+Delete a key.
+
+","
+
+
+Get a key
+
+","
+
+
+Create a key.
+
+","
+
+
+List all labels for this repository.
+
+","
+
+
+Delete a label.
+
+","
+
+
+Get a single label.
+
+","
+
+
+Update a label.
+
+","
+
+
+Create a label.
+
+","
+
+
+List languages. List languages for the specified repository. The value on the right of a language is the number of bytes of code written in that language. 
+
+","
+
+
+Perform a merge.
+
+","
+
+
+List milestones for a repository.
+
+","
+
+
+Delete a milestone.
+
+","
+
+
+Get a single milestone.
+
+","
+
+
+Get labels for every issue in a milestone.
+
+","
+
+
+Update a milestone.
+
+","
+
+
+Create a milestone.
+
+","
+
+
+List your notifications in a repository List all notifications for the current user. 
+
+","
+
+
+Mark notifications as read in a repository. Marking all notifications in a repository as \&quot;read\&quot; removes them from the default view on GitHub.com. 
+
+","
+
+
+Edit repository.
+
+","
+
+
+Delete a comment.
+
+","
+
+
+Get a single comment.
+
+","
+
+
+Edit a comment.
+
+","
+
+
+List comments in a repository. By default, Review Comments are ordered by ascending ID. 
+
+","
+
+
+List pull requests.
+
+","
+
+
+List comments on a pull request.
+
+","
+
+
+Create a comment.   #TODO Alternative input ( http://developer.github.com/v3/pulls/comments/ )   description: |     Alternative Input.     Instead of passing commit_id, path, and position you can reply to an     existing Pull Request Comment like this:          body            Required string         in_reply_to            Required number - Comment id to reply to. 
+
+","
+
+
+List commits on a pull request.
+
+","
+
+
+List pull requests files.
+
+","
+
+
+Get a single pull request.
+
+","
+
+
+Get if a pull request has been merged.
+
+","
+
+
+Merge a pull request (Merge Button&#39;s)
+
+","
+
+
+Update a pull request.
+
+","
+
+
+List reviews on a pull request.
+
+","
+
+
+Create a comment.   #TODO Alternative input ( http://developer.github.com/v3/pulls/reviews/ )   description: |     Alternative Input.     Instead of passing commit_id, path, and position you can reply to an     existing Pull Request Comment like this:          body            Required string         in_reply_to            Required number - Comment id to reply to. 
+
+","
+
+
+Create a pull request.
+
+","
+
+
+Get the README. This method returns the preferred README for a repository. 
+
+","
+
+
+Delete a release asset
+
+","
+
+
+Get a single release asset
+
+","
+
+
+Edit a release asset Users with push access to the repository can edit a release asset. 
+
+","
+
+
+Users with push access to the repository will receive all releases (i.e., published releases and draft releases). Users with pull access will receive published releases only
+
+","
+
+
+List assets for a release
+
+","
+
+
+Users with push access to the repository can delete a release.
+
+","
+
+
+Get a single release
+
+","
+
+
+Users with push access to the repository can edit a release
+
+","
+
+
+Create a release Users with push access to the repository can create a release. 
+
+","
+
+
+List Stargazers.
+
+","
+
+
+Get the number of additions and deletions per week. Returns a weekly aggregate of the number of additions and deletions pushed to a repository. 
+
+","
+
+
+Get the last year of commit activity data. Returns the last year of commit activity grouped by week. The days array is a group of commits per day, starting on Sunday. 
+
+","
+
+
+Get contributors list with additions, deletions, and commit counts.
+
+","
+
+
+Get the weekly commit count for the repo owner and everyone else.
+
+","
+
+
+Get the number of commits per hour in each day. Each array contains the day number, hour number, and number of commits 0-6 Sunday - Saturday 0-23 Hour of day Number of commits  For example, [2, 14, 25] indicates that there were 25 total commits, during the 2.00pm hour on Tuesdays. All times are based on the time zone of individual commits. 
+
+","
+
+
+List Statuses for a specific Ref.
+
+","
+
+
+Create a Status.
+
+","
+
+
+List watchers.
+
+","
+
+
+Delete a Repository Subscription.
+
+","
+
+
+Get a Repository Subscription.
+
+","
+
+
+Set a Repository Subscription
+
+","
+
+
+Get list of tags.
+
+","
+
+
+Get list of teams
+
+","
+
+
+List Stargazers. New implementation.
+
+","
+
+
+List all public repositories. This provides a dump of every public repository, in the order that they were created. Note: Pagination is powered exclusively by the since parameter. is the Link header to get the URL for the next page of repositories. 
+
+","
+
+
+Search code.
+
+","
+
+
+Find issues by state and keyword. (This method returns up to 100 results per page.)
+
+","
+
+
+Search repositories.
+
+","
+
+
+Search users.
+
+","
+
+
+Delete team. In order to delete a team, the authenticated user must be an owner of the org that the team is associated with. 
+
+","
+
+
+Get team.
+
+","
+
+
+List team members. In order to list members in a team, the authenticated user must be a member of the team. 
+
+","
+
+
+The \&quot;Remove team member\&quot; API is deprecated and is scheduled for removal in the next major version of the API. We recommend using the Remove team membership API instead. It allows you to remove both active and pending memberships.  Remove team member. In order to remove a user from a team, the authenticated user must have &#39;admin&#39; permissions to the team or be an owner of the org that the team is associated with. NOTE This does not delete the user, it just remove them from the team. 
+
+","
+
+
+The \&quot;Get team member\&quot; API is deprecated and is scheduled for removal in the next major version of the API. We recommend using the Get team membership API instead. It allows you to get both active and pending memberships.  Get team member. In order to get if a user is a member of a team, the authenticated user mus be a member of the team. 
+
+","
+
+
+The API (described below) is deprecated and is scheduled for removal in the next major version of the API. We recommend using the Add team membership API instead. It allows you to invite new organization members to your teams.  Add team member. In order to add a user to a team, the authenticated user must have &#39;admin&#39; permissions to the team or be an owner of the org that the team is associated with. 
+
+","
+
+
+Remove team membership. In order to remove a membership between a user and a team, the authenticated user must have &#39;admin&#39; permissions to the team or be an owner of the organization that the team is associated with. NOTE: This does not delete the user, it just removes their membership from the team. 
+
+","
+
+
+Get team membership. In order to get a user&#39;s membership with a team, the authenticated user must be a member of the team or an owner of the team&#39;s organization. 
+
+","
+
+
+Add team membership. In order to add a membership between a user and a team, the authenticated user must have &#39;admin&#39; permissions to the team or be an owner of the organization that the team is associated with.  If the user is already a part of the team&#39;s organization (meaning they&#39;re on at least one other team in the organization), this endpoint will add the user to the team.  If the user is completely unaffiliated with the team&#39;s organization (meaning they&#39;re on none of the organization&#39;s teams), this endpoint will send an invitation to the user via email. This newly-created membership will be in the &#39;pending&#39; state until the user accepts the invitation, at which point the membership will transition to the &#39;active&#39; state and the user will be added as a member of the team. 
+
+","
+
+
+Edit team. In order to edit a team, the authenticated user must be an owner of the org that the team is associated with. 
+
+","
+
+
+List team repos
+
+","
+
+
+In order to remove a repository from a team, the authenticated user must be an owner of the org that the team is associated with. NOTE: This does not delete the repository, it just removes it from the team.
+
+","
+
+
+Check if a team manages a repository
+
+","
+
+
+In order to add a repository to a team, the authenticated user must be an owner of the org that the team is associated with. Also, the repository must be owned by the organization, or a direct fork of a repository owned by the organization.
+
+","
+
+
+Delete email address(es). You can include a single email address or an array of addresses. 
+
+","
+
+
+List email addresses for a user. In the final version of the API, this method will return an array of hashes with extended information for each email address indicating if the address has been verified and if it&#39;s primary email address for GitHub. Until API v3 is finalized, use the application/vnd.github.v3 media type to get other response format. 
+
+","
+
+
+Add email address(es). You can post a single email address or an array of addresses. 
+
+","
+
+
+List the authenticated user&#39;s followers
+
+","
+
+
+List who the authenticated user is following.
+
+","
+
+
+Unfollow a user. Unfollowing a user requires the user to be logged in and authenticated with basic auth or OAuth with the user:follow scope. 
+
+","
+
+
+Check if you are following a user.
+
+","
+
+
+Follow a user. Following a user requires the user to be logged in and authenticated with basic auth or OAuth with the user:follow scope. 
+
+","
+
+
+Get the authenticated user.
+
+","
+
+
+List issues. List all issues across owned and member repositories for the authenticated user. 
+
+","
+
+
+List your public keys. Lists the current user&#39;s keys. Management of public keys via the API requires that you are authenticated through basic auth, or OAuth with the &#39;user&#39;, &#39;write:public_key&#39; scopes. 
+
+","
+
+
+Delete a public key. Removes a public key. Requires that you are authenticated via Basic Auth or via OAuth with at least admin:public_key scope.
+
+","
+
+
+Get a single public key.
+
+","
+
+
+Create a public key.
+
+","
+
+
+List public and private organizations for the authenticated user.
+
+","
+
+
+Update the authenticated user.
+
+","
+
+
+List repositories for the authenticated user. Note that this does not include repositories owned by organizations which the user can access. You can lis user organizations and list organization repositories separately. 
+
+","
+
+
+Create a new repository for the authenticated user. OAuth users must supply repo scope. 
+
+","
+
+
+List repositories being starred by the authenticated user.
+
+","
+
+
+Unstar a repository
+
+","
+
+
+Check if you are starring a repository.
+
+","
+
+
+Star a repository.
+
+","
+
+
+List repositories being watched by the authenticated user.
+
+","
+
+
+Stop watching a repository
+
+","
+
+
+Check if you are watching a repository.
+
+","
+
+
+Watch a repository.
+
+","
+
+
+List all of the teams across all of the organizations to which the authenticated user belongs. This method requires user or repo scope when authenticating via OAuth.
+
+","
+
+
+Get all users. This provides a dump of every user, in the order that they signed up for GitHub. Note: Pagination is powered exclusively by the since parameter. Use the Link header to get the URL for the next page of users. 
+
+","
+
+
+If you are authenticated as the given user, you will see your private events. Otherwise, you&#39;ll only see public events.
+
+","
+
+
+This is the user&#39;s organization dashboard. You must be authenticated as the user to view this.
+
+","
+
+
+List a user&#39;s followers
+
+","
+
+
+Check if one user follows another.
+
+","
+
+
+Get a single user.
+
+","
+
+
+List a users gists.
+
+","
+
+
+List public keys for a user. Lists the verified public keys for a user. This is accessible by anyone. 
+
+","
+
+
+List all public organizations for a user.
+
+","
+
+
+These are events that you&#39;ll only see public events.
+
+","
+
+
+List public events that a user has received
+
+","
+
+
+List public repositories for the specified user.
+
+","
+
+
+List repositories being starred by a user.
+
+","
+
+
+List repositories being watched by a user.
+
+"
+emojisGet,eventsGet,feedsGet,gistsGet,gistsIdCommentsCommentIdDelete,gistsIdCommentsCommentIdGet,gistsIdCommentsCommentIdPatch,gistsIdCommentsGet,gistsIdCommentsPost,gistsIdDelete,gistsIdForksPost,gistsIdGet,gistsIdPatch,gistsIdStarDelete,gistsIdStarGet,gistsIdStarPut,gistsPost,gistsPublicGet,gistsStarredGet,gitignoreTemplatesGet,gitignoreTemplatesLanguageGet,issuesGet,legacyIssuesSearchOwnerRepositoryStateKeywordGet,legacyReposSearchKeywordGet,legacyUserEmailEmailGet,legacyUserSearchKeywordGet,markdownPost,markdownRawPost,metaGet,networksOwnerRepoEventsGet,notificationsGet,notificationsPut,notificationsThreadsIdGet,notificationsThreadsIdPatch,notificationsThreadsIdSubscriptionDelete,notificationsThreadsIdSubscriptionGet,notificationsThreadsIdSubscriptionPut,orgsOrgEventsGet,orgsOrgGet,orgsOrgIssuesGet,orgsOrgMembersGet,orgsOrgMembersUsernameDelete,orgsOrgMembersUsernameGet,orgsOrgPatch,orgsOrgPublicMembersGet,orgsOrgPublicMembersUsernameDelete,orgsOrgPublicMembersUsernameGet,orgsOrgPublicMembersUsernamePut,orgsOrgReposGet,orgsOrgReposPost,orgsOrgTeamsGet,orgsOrgTeamsPost,rateLimitGet,reposOwnerRepoArchiveFormatPathGet,reposOwnerRepoAssigneesAssigneeGet,reposOwnerRepoAssigneesGet,reposOwnerRepoBranchesBranchGet,reposOwnerRepoBranchesGet,reposOwnerRepoCollaboratorsGet,reposOwnerRepoCollaboratorsUserDelete,reposOwnerRepoCollaboratorsUserGet,reposOwnerRepoCollaboratorsUserPut,reposOwnerRepoCommentsCommentIdDelete,reposOwnerRepoCommentsCommentIdGet,reposOwnerRepoCommentsCommentIdPatch,reposOwnerRepoCommentsGet,reposOwnerRepoCommitsGet,reposOwnerRepoCommitsRefStatusGet,reposOwnerRepoCommitsShaCodeCommentsGet,reposOwnerRepoCommitsShaCodeCommentsPost,reposOwnerRepoCommitsShaCodeGet,reposOwnerRepoCompareBaseIdHeadIdGet,reposOwnerRepoContentsPathDelete,reposOwnerRepoContentsPathGet,reposOwnerRepoContentsPathPut,reposOwnerRepoContributorsGet,reposOwnerRepoDelete,reposOwnerRepoDeploymentsGet,reposOwnerRepoDeploymentsIdStatusesGet,reposOwnerRepoDeploymentsIdStatusesPost,reposOwnerRepoDeploymentsPost,reposOwnerRepoDownloadsDownloadIdDelete,reposOwnerRepoDownloadsDownloadIdGet,reposOwnerRepoDownloadsGet,reposOwnerRepoEventsGet,reposOwnerRepoForksGet,reposOwnerRepoForksPost,reposOwnerRepoGet,reposOwnerRepoGitBlobsPost,reposOwnerRepoGitBlobsShaCodeGet,reposOwnerRepoGitCommitsPost,reposOwnerRepoGitCommitsShaCodeGet,reposOwnerRepoGitRefsGet,reposOwnerRepoGitRefsPost,reposOwnerRepoGitRefsRefDelete,reposOwnerRepoGitRefsRefGet,reposOwnerRepoGitRefsRefPatch,reposOwnerRepoGitTagsPost,reposOwnerRepoGitTagsShaCodeGet,reposOwnerRepoGitTreesPost,reposOwnerRepoGitTreesShaCodeGet,reposOwnerRepoHooksGet,reposOwnerRepoHooksHookIdDelete,reposOwnerRepoHooksHookIdGet,reposOwnerRepoHooksHookIdPatch,reposOwnerRepoHooksHookIdTestsPost,reposOwnerRepoHooksPost,reposOwnerRepoIssuesCommentsCommentIdDelete,reposOwnerRepoIssuesCommentsCommentIdGet,reposOwnerRepoIssuesCommentsCommentIdPatch,reposOwnerRepoIssuesCommentsGet,reposOwnerRepoIssuesEventsEventIdGet,reposOwnerRepoIssuesEventsGet,reposOwnerRepoIssuesGet,reposOwnerRepoIssuesNumberCommentsGet,reposOwnerRepoIssuesNumberCommentsPost,reposOwnerRepoIssuesNumberEventsGet,reposOwnerRepoIssuesNumberGet,reposOwnerRepoIssuesNumberLabelsDelete,reposOwnerRepoIssuesNumberLabelsGet,reposOwnerRepoIssuesNumberLabelsNameDelete,reposOwnerRepoIssuesNumberLabelsPost,reposOwnerRepoIssuesNumberLabelsPut,reposOwnerRepoIssuesNumberPatch,reposOwnerRepoIssuesPost,reposOwnerRepoKeysGet,reposOwnerRepoKeysKeyIdDelete,reposOwnerRepoKeysKeyIdGet,reposOwnerRepoKeysPost,reposOwnerRepoLabelsGet,reposOwnerRepoLabelsNameDelete,reposOwnerRepoLabelsNameGet,reposOwnerRepoLabelsNamePatch,reposOwnerRepoLabelsPost,reposOwnerRepoLanguagesGet,reposOwnerRepoMergesPost,reposOwnerRepoMilestonesGet,reposOwnerRepoMilestonesNumberDelete,reposOwnerRepoMilestonesNumberGet,reposOwnerRepoMilestonesNumberLabelsGet,reposOwnerRepoMilestonesNumberPatch,reposOwnerRepoMilestonesPost,reposOwnerRepoNotificationsGet,reposOwnerRepoNotificationsPut,reposOwnerRepoPatch,reposOwnerRepoPullsCommentsCommentIdDelete,reposOwnerRepoPullsCommentsCommentIdGet,reposOwnerRepoPullsCommentsCommentIdPatch,reposOwnerRepoPullsCommentsGet,reposOwnerRepoPullsGet,reposOwnerRepoPullsNumberCommentsGet,reposOwnerRepoPullsNumberCommentsPost,reposOwnerRepoPullsNumberCommitsGet,reposOwnerRepoPullsNumberFilesGet,reposOwnerRepoPullsNumberGet,reposOwnerRepoPullsNumberMergeGet,reposOwnerRepoPullsNumberMergePut,reposOwnerRepoPullsNumberPatch,reposOwnerRepoPullsNumberReviewsGet,reposOwnerRepoPullsNumberReviewsPost,reposOwnerRepoPullsPost,reposOwnerRepoReadmeGet,reposOwnerRepoReleasesAssetsIdDelete,reposOwnerRepoReleasesAssetsIdGet,reposOwnerRepoReleasesAssetsIdPatch,reposOwnerRepoReleasesGet,reposOwnerRepoReleasesIdAssetsGet,reposOwnerRepoReleasesIdDelete,reposOwnerRepoReleasesIdGet,reposOwnerRepoReleasesIdPatch,reposOwnerRepoReleasesPost,reposOwnerRepoStargazersGet,reposOwnerRepoStatsCodeFrequencyGet,reposOwnerRepoStatsCommitActivityGet,reposOwnerRepoStatsContributorsGet,reposOwnerRepoStatsParticipationGet,reposOwnerRepoStatsPunchCardGet,reposOwnerRepoStatusesRefGet,reposOwnerRepoStatusesRefPost,reposOwnerRepoSubscribersGet,reposOwnerRepoSubscriptionDelete,reposOwnerRepoSubscriptionGet,reposOwnerRepoSubscriptionPut,reposOwnerRepoTagsGet,reposOwnerRepoTeamsGet,reposOwnerRepoWatchersGet,repositoriesGet,searchCodeGet,searchIssuesGet,searchRepositoriesGet,searchUsersGet,teamsTeamIdDelete,teamsTeamIdGet,teamsTeamIdMembersGet,teamsTeamIdMembersUsernameDelete,teamsTeamIdMembersUsernameGet,teamsTeamIdMembersUsernamePut,teamsTeamIdMembershipsUsernameDelete,teamsTeamIdMembershipsUsernameGet,teamsTeamIdMembershipsUsernamePut,teamsTeamIdPatch,teamsTeamIdReposGet,teamsTeamIdReposOwnerRepoDelete,teamsTeamIdReposOwnerRepoGet,teamsTeamIdReposOwnerRepoPut,userEmailsDelete,userEmailsGet,userEmailsPost,userFollowersGet,userFollowingGet,userFollowingUsernameDelete,userFollowingUsernameGet,userFollowingUsernamePut,userGet,userIssuesGet,userKeysGet,userKeysKeyIdDelete,userKeysKeyIdGet,userKeysPost,userOrgsGet,userPatch,userReposGet,userReposPost,userStarredGet,userStarredOwnerRepoDelete,userStarredOwnerRepoGet,userStarredOwnerRepoPut,userSubscriptionsGet,userSubscriptionsOwnerRepoDelete,userSubscriptionsOwnerRepoGet,userSubscriptionsOwnerRepoPut,userTeamsGet,usersGet,usersUsernameEventsGet,usersUsernameEventsOrgsOrgGet,usersUsernameFollowersGet,usersUsernameFollowingTargetUserGet,usersUsernameGet,usersUsernameGistsGet,usersUsernameKeysGet,usersUsernameOrgsGet,usersUsernameReceivedEventsGet,usersUsernameReceivedEventsPublicGet,usersUsernameReposGet,usersUsernameStarredGet,usersUsernameSubscriptionsGet
+opts,opts,opts,opts,id commentId opts,id commentId opts,id commentId body opts,id opts,id body opts,id opts,id opts,id opts,id body opts,id opts,id opts,id opts,body opts,opts,opts,opts,language opts,filter state labels sort direction opts,keyword state owner repository opts,keyword opts,email opts,keyword opts,body opts,opts,opts,owner repo opts,opts,body opts,id opts,id opts,id opts,id opts,id body opts,org opts,org opts,org filter state labels sort direction opts,org opts,org username opts,org username opts,org body opts,org opts,org username opts,org username opts,org username opts,org opts,org body opts,org opts,org body opts,opts,owner repo archiveFormat path opts,owner repo assignee opts,owner repo opts,owner repo branch opts,owner repo opts,owner repo opts,owner repo user opts,owner repo user opts,owner repo user opts,owner repo commentId opts,owner repo commentId opts,owner repo commentId body opts,owner repo opts,owner repo opts,owner repo ref opts,owner repo shaCode opts,owner repo shaCode body opts,owner repo shaCode opts,owner repo baseId headId opts,owner repo path body opts,owner repo path opts,owner repo path body opts,owner repo anon opts,owner repo opts,owner repo opts,owner repo id opts,owner repo id body opts,owner repo body opts,owner repo downloadId opts,owner repo downloadId opts,owner repo opts,owner repo opts,owner repo opts,owner repo body opts,owner repo opts,owner repo body opts,owner repo shaCode opts,owner repo body opts,owner repo shaCode opts,owner repo opts,owner repo body opts,owner repo ref opts,owner repo ref opts,owner repo ref body opts,owner repo body opts,owner repo shaCode opts,owner repo body opts,owner repo shaCode opts,owner repo opts,owner repo hookId opts,owner repo hookId opts,owner repo hookId body opts,owner repo hookId opts,owner repo body opts,owner repo commentId opts,owner repo commentId opts,owner repo commentId body opts,owner repo opts,owner repo eventId opts,owner repo opts,owner repo filter state labels sort direction opts,owner repo _number opts,owner repo _number body opts,owner repo _number opts,owner repo _number opts,owner repo _number opts,owner repo _number opts,owner repo _number name opts,owner repo _number body opts,owner repo _number body opts,owner repo _number body opts,owner repo body opts,owner repo opts,owner repo keyId opts,owner repo keyId opts,owner repo body opts,owner repo opts,owner repo name opts,owner repo name opts,owner repo name body opts,owner repo body opts,owner repo opts,owner repo body opts,owner repo opts,owner repo _number opts,owner repo _number opts,owner repo _number opts,owner repo _number body opts,owner repo body opts,owner repo opts,owner repo body opts,owner repo body opts,owner repo commentId opts,owner repo commentId opts,owner repo commentId body opts,owner repo opts,owner repo opts,owner repo _number opts,owner repo _number body opts,owner repo _number opts,owner repo _number opts,owner repo _number opts,owner repo _number opts,owner repo _number body opts,owner repo _number body opts,owner repo _number opts,owner repo _number body opts,owner repo body opts,owner repo opts,owner repo id opts,owner repo id opts,owner repo id body opts,owner repo opts,owner repo id opts,owner repo id opts,owner repo id opts,owner repo id body opts,owner repo body opts,owner repo opts,owner repo opts,owner repo opts,owner repo opts,owner repo opts,owner repo opts,owner repo ref opts,owner repo ref body opts,owner repo opts,owner repo opts,owner repo opts,owner repo body opts,owner repo opts,owner repo opts,owner repo opts,opts,q opts,q opts,q opts,q opts,teamId opts,teamId opts,teamId opts,teamId username opts,teamId username opts,teamId username opts,teamId username opts,teamId username opts,teamId username opts,teamId body opts,teamId opts,teamId owner repo opts,teamId owner repo opts,teamId owner repo opts,body opts,opts,body opts,opts,opts,username opts,username opts,username opts,opts,filter state labels sort direction opts,opts,keyId opts,keyId opts,body opts,opts,body opts,opts,body opts,opts,owner repo opts,owner repo opts,owner repo opts,opts,owner repo opts,owner repo opts,owner repo opts,opts,opts,username opts,username org opts,username opts,username targetUser opts,username opts,username opts,username opts,username opts,username opts,username opts,username opts,username opts,username opts

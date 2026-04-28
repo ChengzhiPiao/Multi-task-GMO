@@ -1,0 +1,5 @@
+Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+{{fb|SCO}},5,3,0,2,7,3,+4,6
+{{fb|WAL}},5,3,0,2,6,5,+1,6
+{{fb|ESP}},5,3,0,2,6,7,-1,6
+{{fb|ISL}},5,1,0,4,3,8,-5,2

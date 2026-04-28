@@ -1,0 +1,3 @@
+fuel,{{nuclide|deuterium}}-{{nuclide|tritium}},{{nuclide|deuterium}}-{{nuclide|helium|3}},p+-{{nuclide|lithium|6}},p+-{{nuclide|boron|11}}
+T [keV],13.6,58,66,123
+/T2 [m3/s/keV2],1.24×10−24,2.24×10−26,1.46×10−27,3.01×10−27

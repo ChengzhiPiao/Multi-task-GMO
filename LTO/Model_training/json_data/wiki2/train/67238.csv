@@ -1,0 +1,8 @@
+#,Seed,Athlete,1,2,3,4,5,6,7,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,2,{{flagIOC2athlete|[[Toshiya Saito]]|JPN|2017 Summer Universiade}},,V,V,V,V,V,V,6,6,1.000,30,8,22,1,1
+2,19,{{flagIOC2athlete|[[Andras Nemeth (fencer)|Andras Nemeth]]|HUN|2017 Summer Universiade}},D1,,V,V,D3,V,D1,3,6,0.500,20,23,–3,4,40
+3,22,{{flagIOC2athlete|[[Rostyslav Hertsyk]]|UKR|2017 Summer Universiade}},D1,D4,,V,D3,V,D4,2,6,0.333,22,25,–3,5,43
+4,39,{{nowrap|{{flagIOC2athlete|[[Ludwik De Bazelaire]]|POL|2017 Summer Universiade}}}},D2,D1,D3,,D2,V,D4,1,6,0.167,17,27,–10,6,55
+5,42,{{flagIOC2athlete|[[Stef de Greef]]|BEL|2017 Summer Universiade}},D0,V,V,V,,V,D3,4,6,0.667,23,20,3,3,26
+6,59,{{flagIOC2athlete|[[Zhang Yu (fencer)|Zhang Yu]]|CHN|2017 Summer Universiade}},D2,D3,D2,D2,D2,,D0,0,6,0.000,11,30,–19,7,64
+7,61,{{flagIOC2athlete|[[Lee Young-hoon (fencer)|Lee Young-hoon]]|KOR|2017 Summer Universiade}},D2,V,V,V,V,V,,5,6,0.833,27,17,10,2,14

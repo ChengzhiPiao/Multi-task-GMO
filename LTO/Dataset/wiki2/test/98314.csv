@@ -1,0 +1,5 @@
+Address,,MSB,,,,,,,LSB
+,Bit:,7,6,5,4,3,2,1,0
+Base (Data port),Pin:,9,8,7,6,5,4,3,2
+Base+1 (Status port),Pin:,~11,10,12,13,15,,,
+Base+2 (Control port),Pin:,,,,,~17,16,~14,~1

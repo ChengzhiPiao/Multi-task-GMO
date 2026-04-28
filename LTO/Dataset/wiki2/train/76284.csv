@@ -1,0 +1,7 @@
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+,,,,,,,,,
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+,,,,,,,,,
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+number of states,number of observations,probability of transition from state to state,"-dimensional vector, composed of ; must sum to",mean of observations associated with state,variance of observations associated with state,state of observation at time,observation at time,,

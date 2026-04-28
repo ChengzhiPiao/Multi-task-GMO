@@ -1,0 +1,6 @@
+Rank,{{Gold1}},{{Silver2}},{{Bronze3}},4,5,6,7,8,9
+Team,{{hbw|KOR}},{{hbw|JPN}},{{hbw|KAZ}},{{hbw|CHN}},{{hbw|UZB}},{{hbw|HKG}},{{hbw|THA}},{{hbw|IND}},{{hbw|MDV}}
+{{Tooltip|Pld|Played}},5,6,6,5,6,6,5,5,4
+{{Tooltip|W|Won}},5,5,4,2,4,2,0,0,0
+{{Tooltip|D|Drawn}},0,0,0,0,0,0,2,2,0
+{{Tooltip|L|Lost}},0,1,2,3,2,4,3,3,4

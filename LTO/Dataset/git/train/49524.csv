@@ -1,0 +1,1632 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205
+"Print ""Hello World""",Comments in Python,Docstrings,Create a variable,Output both text and a variable,Add a variable to another variable,Verify the type of an object,Create integers,Create floating point numbers,"Create scientific numbers with an ""e"" to indicate the power of 10",Create complex numbers,Casting - Integers,Casting - Floats,Casting - Strings,Get the character at position 1 of a string,Substring. Get the characters from position 2 to position 5 (not included),Remove whitespace from the beginning or at the end of a string,Return the length of a string,Convert a string to lower case,Convert a string to upper case,Replace a string with another string,Split a string into substrings,Addition operator,Subtraction operator,Multiplication operator,Division operator,Modulus operator,Assignment operator,Create a list,Access list items,Change the value of a list item,Loop through a list,Check if a list item exists,Get the length of a list,Add an item to the end of a list,Add an item at a specified index,Remove an item,Remove the last item,Remove an item at a specified index,Empty a list,Using the list() constructor to make a list,Create a tuple,Access tuple items,Change tuple values,Loop through a tuple,Check if a tuple item exists,Get the length of a tuple,Delete a tuple,Using the tuple() constructor to create a tuple,Create a set,Loop through a set,Check if an item exists,Add an item to a set,Add multiple items to a set,Get the length of a set,Remove an item in a set,Remove an item in a set by using the discard() method,Remove the last item in a set by using the pop() method,Empty a set,Delete a set,Using the set() constructor to create a set,Create a dictionary,Access the items of a dictionary,Change the value of a specific item in a dictionary,"Print all key names in a dictionary, one by one","Print all values in a dictionary, one by one",Using the values() function to return values of a dictionary,"Loop through both keys an values, by using the items() function",Check if a key exists,Get the length of a dictionary,Add an item to a dictionary,Remove an item from a dictionary,Empty a dictionary,Using the dict() constructor to create a dictionary,The if statement,The elif statement,The else statement,Short hand if,Short hand if ... else,The and keyword,The or keyword,The while loop,Using the break statement in a while loop,Using the continue statement in a while loop,The for loop,Loop through a string,Using the break statement in a for loop,Using the continue statement in a for loop,Using the range() function in a for loop,Else in for loop,Nested for loop,Create and call a function,Function parameters,Default parameter value,Let a function return a value,Recursion,A lambda function that adds 10 to the number passed in as an argument,A lambda function that multiplies argument a with argument b,"A lambda function that sums argument a, b, and c",Create an array,Access the elements of an array,Change the value of an array element,Get the length of an array,Loop through all elements of an array,Add an element to an array,Remove an element from an array,Create a class,Create an object,The __init__() Function,Create object methods,The self parameter,Modify object properties,Delete object properties,Delete an object,Return an iterator from a tuple,Return an iterator from a string,Loop through an iterator,Create an iterator,Stop iteration,Use a module,Variables in module,Re-naming a module,Built-in modules,Using the dir() function,Import from module,Import the datetime module and display the current date,Return the year and name of weekday,Create a date object,The strftime() Method,Find the lowest and highest value in an iterable,Return the absolute value of a number,Return the value of x to the power of y (x,Return the square root of a number,Round a number upwards and downwards to its nearest integer,Return the value of PI,Convert from JSON to Python,Convert from Python to JSON,Convert Python objects into JSON strings,Convert a Python object containing all the legal data types,Use the indent parameter to define the numbers of indents,Use the separators parameter to change the default separator,Use the sort_keys parameter to specify if the result should be sorted or not,"Search a string to see if it starts with ""The"" and ends with ""Spain""",Using the findall() function,Using the search() function,Using the split() function,Using the sub() function,Using a package,"When an error occurs, print a message",Many exceptions,Use the else keyword to define a block of code to be executed if no errors were raised,Use the finally block to execute code regardless if the try block raises an error or not,Read a file,Read only parts of a file,Read one line of a file,"Loop through the lines of a file to read the whole file, line by line",Create a connection to a database,Create a database in MySQL,Check if a database exist,Create a table,Check if a table exist,Create primary key when creating a table,Insert a record in a table,Insert multiple rows,Get inserted ID,Select all records from a table,Select only some of the columns in a table,Use the fetchone() method to fetch only one row in a table,Select with a filter,Wildcards characters,Prevent SQL injection,Sort the result of a table alphabetically,Sort the result in a descending order (reverse alphabetically),Delete records from an existing table,Prevent SQL injection,Delete an existing table,Delete a table if it exist,Update existing records in a table,Prevent SQL injection,Limit the number of records returned from a query,"Combine rows from two or more tables, based on a related column between them",LEFT JOIN,RIGHT JOIN,Create a database,Check if a database exist,Create a collection,Check if a collection exist,Insert into collection,Return the id field,Insert multiple documents,Insert multiple documents with specified IDs,Find the first document in the selection,Find all documents in the selection,Find only some fields,Filter the result,Advanced query,Filter with regular expressions,Sort the result alphabetically,Sort the result descending (reverse alphabetically),Delete document,Delete many documents,Delete all documents in a collection,Delete a collection,Update a document,Update many/all documents,Limit the result
+"print(""Hello, World!"")
+","#This is a comment.
+print(""Hello, World!"")
+","""""""This is a
+multiline docstring.""""""
+print(""Hello, World!"")
+","x = 5
+y = ""John""
+print(x)
+print(y)
+","x = ""awesome""
+print(""Python is "" + x)
+","x = ""Python is ""
+y = ""awesome""
+z = x + y
+print(z)
+","x = 1
+y = 2.8
+z = 1j
+
+print(type(x))
+print(type(y))
+print(type(z))
+","x = 1
+y = 35656222554887711
+z = -3255522
+
+print(type(x))
+print(type(y))
+print(type(z))
+","x = 1.10
+y = 1.0
+z = -35.59
+
+print(type(x))
+print(type(y))
+print(type(z))
+","x = 35e3
+y = 12E4
+z = -87.7e100
+
+print(type(x))
+print(type(y))
+print(type(z))
+","x = 3+5j
+y = 5j
+z = -5j
+
+print(type(x))
+print(type(y))
+print(type(z))
+","x = int(1)
+y = int(2.8)
+z = int(""3"")
+print(x)
+print(y)
+print(z)
+","x = float(1)
+y = float(2.8)
+z = float(""3"")
+w = float(""4.2"")
+print(x)
+print(y)
+print(z)
+print(w)
+","x = str(""s1"")
+y = str(2)
+z = str(3.0)
+print(x)
+print(y)
+print(z)
+","a = ""Hello, World!""
+print(a[1])
+","b = ""Hello, World!""
+print(b[2:5])
+","a = "" Hello, World! ""
+print(a.strip())
+","a = ""Hello, World!""
+print(len(a))
+","a = ""Hello, World!""
+print(a.lower())
+","a = ""Hello, World!""
+print(a.upper())
+","a = ""Hello, World!""
+print(a.replace(""H"", ""J""))
+","a = ""Hello, World!""
+b = a.split("","")
+print(b)
+","x = 5
+y = 3
+
+print(x + y)
+","x = 5
+y = 3
+
+print(x - y)
+","x = 5
+y = 3
+
+print(x * y)
+","x = 12
+y = 3
+
+print(x / y)
+","x = 5
+y = 2
+
+print(x % y)
+","x = 5
+
+print(x)
+","thislist = [""apple"", ""banana"", ""cherry""]
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+print(thislist[1])
+","thislist = [""apple"", ""banana"", ""cherry""]
+thislist[1] = ""blackcurrant""
+
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+for x in thislist:
+  print(x)
+","thislist = [""apple"", ""banana"", ""cherry""]
+if ""apple"" in thislist:
+  print(""Yes, 'apple' is in the fruits list"")
+","thislist = [""apple"", ""banana"", ""cherry""]
+print(len(thislist))
+","thislist = [""apple"", ""banana"", ""cherry""]
+
+thislist.append(""orange"")
+
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+thislist.insert(1, ""orange"")
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+thislist.remove(""banana"")
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+thislist.pop()
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+del thislist[0]
+print(thislist)
+","thislist = [""apple"", ""banana"", ""cherry""]
+thislist.clear()
+print(thislist)
+","thislist = list((""apple"", ""banana"", ""cherry""))
+print(thislist)
+","thistuple = (""apple"", ""banana"", ""cherry"")
+print(thistuple)
+","thistuple = (""apple"", ""banana"", ""cherry"")
+print(thistuple[1])
+","thistuple = (""apple"", ""banana"", ""cherry"")
+thistuple[1] = ""blackcurrant""
+
+# the value is still the same:
+print(thistuple)
+","thistuple = (""apple"", ""banana"", ""cherry"")
+for x in thistuple:
+  print(x)
+","thistuple = (""apple"", ""banana"", ""cherry"")
+if ""apple"" in thistuple:
+  print(""Yes, 'apple' is in the fruits tuple"")
+","thistuple = (""apple"", ""banana"", ""cherry"")
+print(len(thistuple))
+","thistuple = (""apple"", ""banana"", ""cherry"")
+del thistuple
+print(thistuple) #this will raise an error because the tuple no longer exists
+","thistuple = tuple((""apple"", ""banana"", ""cherry""))
+print(thistuple)
+","thisset = {""apple"", ""banana"", ""cherry""}
+print(thisset)
+
+# Note: the set list is unordered, meaning: the items will appear in a random order.
+
+# Refresh this page to see the change in the result.
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+for x in thisset:
+  print(x)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+print(""banana"" in thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+thisset.add(""orange"")
+
+print(thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+thisset.update([""orange"", ""mango"", ""grapes""])
+
+print(thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+print(len(thisset))
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+thisset.remove(""banana"")
+
+print(thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+thisset.discard(""banana"")
+
+print(thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+x = thisset.pop()
+
+print(x) #removed item
+
+print(thisset) #the set after removal
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+thisset.clear()
+
+print(thisset)
+","thisset = {""apple"", ""banana"", ""cherry""}
+
+del thisset
+
+print(thisset) #this will raise an error because the set no longer exists
+","thisset = set((""apple"", ""banana"", ""cherry""))
+print(thisset)
+# Note: the set list is unordered, so the result will display the items in a random order.
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+print(thisdict)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+x = thisdict[""model""]
+print(x)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+
+thisdict[""year""] = 2018
+
+print(thisdict)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+for x in thisdict:
+  print(x)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+for x in thisdict:
+  print(thisdict[x])
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+for x in thisdict.values():
+  print(x)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+for x, y in thisdict.items():
+  print(x, y)
+","thisdict = {
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+if ""model"" in thisdict:
+  print(""Yes, 'model' is one of the keys in the thisdict dictionary"")
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+
+print(len(thisdict))
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+thisdict[""color""] = ""red""
+print(thisdict)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+thisdict.pop(""model"")
+print(thisdict)
+","thisdict =	{
+  ""brand"": ""Ford"",
+  ""model"": ""Mustang"",
+  ""year"": 1964
+}
+thisdict.clear()
+print(thisdict)
+","thisdict = dict(brand=""Ford"", model=""Mustang"", year=1964)
+# note that keywords are not string literals
+# note the use of equals rather than colon for the assignment
+print(thisdict)
+","a = 33
+b = 200
+
+if b > a:
+  print(""b is greater than a"")
+","a = 33
+b = 33
+if b > a:
+  print(""b is greater than a"")
+elif a == b:
+  print(""a and b are equal"")
+","a = 200
+b = 33
+if b > a:
+  print(""b is greater than a"")
+elif a == b:
+  print(""a and b are equal"")
+else:
+  print(""a is greater than b"")
+","a = 200
+b = 33
+
+if a > b: print(""a is greater than b"")
+","a = 2
+b = 330
+
+print(""A"") if a > b else print(""B"")
+","a = 200
+b = 33
+c = 500
+if a > b and c > a:
+  print(""Both conditions are True"")
+","a = 200
+b = 33
+c = 500
+if a > b or a > c:
+  print(""At least one of the conditions is True"")
+","i = 1
+while i < 6:
+  print(i)
+  i += 1
+","i = 1
+while i < 6:
+  print(i)
+  if (i == 3):
+    break
+  i += 1
+","i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+    continue
+  print(i)
+
+# Note that number 3 is missing in the result
+","fruits = [""apple"", ""banana"", ""cherry""]
+for x in fruits:
+  print(x) 
+","for x in ""banana"":
+  print(x) 
+","fruits = [""apple"", ""banana"", ""cherry""]
+for x in fruits:
+  print(x) 
+  if x == ""banana"":
+    break
+","fruits = [""apple"", ""banana"", ""cherry""]
+for x in fruits:
+  if x == ""banana"":
+    continue
+  print(x) 
+","for x in range(6):
+  print(x) 
+","for x in range(6):
+  print(x)
+else:
+  print(""Finally finished!"")
+","adj = [""red"", ""big"", ""tasty""]
+fruits = [""apple"", ""banana"", ""cherry""]
+
+for x in adj:
+  for y in fruits:
+    print(x, y)
+","def my_function():
+  print(""Hello from a function"")
+
+my_function()
+","def my_function(fname):
+  print(fname + "" Refsnes"")
+
+my_function(""Emil"")
+my_function(""Tobias"")
+my_function(""Linus"")
+","def my_function(country = ""Norway""):
+  print(""I am from "" + country)
+
+my_function(""Sweden"")
+my_function(""India"")
+my_function()
+my_function(""Brazil"")
+","def my_function(x):
+  return 5 * x
+
+print(my_function(3))
+print(my_function(5))
+print(my_function(9))
+","def tri_recursion(k):
+  if(k > 0):
+    result = k + tri_recursion(k - 1)
+    print(result)
+  else:
+    result = 0
+  return result
+
+print(""\n\nRecursion Example Results"")
+tri_recursion(6)
+","x = lambda a: a + 10
+print(x(5))
+","x = lambda a, b: a * b
+print(x(5, 6))
+","x = lambda a, b, c: a + b + c
+print(x(5, 6, 2))
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+print(cars)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+x = cars[0]
+
+print(x)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+cars[0] = ""Toyota""
+
+print(cars)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+x = len(cars)
+
+print(x)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+for x in cars:
+  print(x)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+cars.append(""Honda"")
+
+print(cars)
+","cars = [""Ford"", ""Volvo"", ""BMW""]
+
+cars.pop(1)
+
+print(cars)
+","class MyClass:
+  x = 5
+
+print(MyClass)
+","class MyClass:
+  x = 5
+
+p1 = MyClass()
+print(p1.x)
+","class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person(""John"", 36)
+
+print(p1.name)
+print(p1.age)
+","class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print(""Hello my name is "" + self.name)
+
+p1 = Person(""John"", 36)
+p1.myfunc()
+","class Person:
+  def __init__(mysillyobject, name, age):
+    mysillyobject.name = name
+    mysillyobject.age = age
+
+  def myfunc(abc):
+    print(""Hello my name is "" + abc.name)
+
+p1 = Person(""John"", 36)
+p1.myfunc()
+","class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print(""Hello my name is "" + self.name)
+
+p1 = Person(""John"", 36)
+
+p1.age = 40
+
+print(p1.age)
+","class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print(""Hello my name is "" + self.name)
+
+p1 = Person(""John"", 36)
+
+del p1.age
+
+print(p1.age)
+","class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print(""Hello my name is "" + self.name)
+
+p1 = Person(""John"", 36)
+
+del p1
+
+print(p1)
+","mytuple = (""apple"", ""banana"", ""cherry"")
+myit = iter(mytuple)
+
+print(next(myit))
+print(next(myit))
+print(next(myit))
+","mystr = ""banana""
+myit = iter(mystr)
+
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+","mytuple = (""apple"", ""banana"", ""cherry"")
+
+for x in mytuple:
+  print(x)
+","class MyNumbers:
+  def __iter__(self):
+    self.a = 1
+    return self
+
+  def __next__(self):
+    x = self.a
+    self.a += 1
+    return x
+
+myclass = MyNumbers()
+myiter = iter(myclass)
+
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
+","class MyNumbers:
+  def __iter__(self):
+    self.a = 1
+    return self
+
+  def __next__(self):
+    if self.a <= 20:
+      x = self.a
+      self.a += 1
+      return x
+    else:
+      raise StopIteration
+
+myclass = MyNumbers()
+myiter = iter(myclass)
+
+for x in myiter:
+  print(x)
+","import mymodule
+
+mymodule.greeting(""Jonathan"")
+","import mymodule
+
+a = mymodule.person1[""age""]
+print(a)
+","import mymodule as mx
+
+a = mx.person1[""age""]
+print(a)
+","import platform
+
+x = platform.system()
+print(x)
+","import platform
+
+x = dir(platform)
+print(x)
+","from mymodule import person1
+
+print(person1[""age""])
+","import datetime
+
+x = datetime.datetime.now()
+
+print(x)
+","import datetime
+
+x = datetime.datetime.now()
+
+print(x.year)
+print(x.strftime(""%A""))
+","import datetime
+
+x = datetime.datetime(2020, 5, 17)
+
+print(x)
+","import datetime
+
+x = datetime.datetime(2018, 6, 1)
+
+print(x.strftime(""%B""))
+","x = min(5, 10, 25)
+y = max(5, 10, 25)
+
+print(x)
+print(y)
+","x = abs(-7.25)
+
+print(x)
+","x = pow(4, 3)
+
+print(x)
+","import math
+
+x = math.sqrt(64)
+
+print(x)
+","#Import math library
+import math
+
+#Round a number upward to its nearest integer
+x = math.ceil(1.4)
+
+#Round a number downward to its nearest integer
+y = math.floor(1.4)
+
+print(x)
+print(y)
+","import math
+
+x = math.pi
+
+print(x)
+","import json
+
+# some JSON:
+x = '{ ""name"":""John"", ""age"":30, ""city"":""New York""}'
+
+# parse x:
+y = json.loads(x)
+
+# the result is a Python dictionary:
+print(y[""age""])
+","import json
+
+# a Python object (dict):
+x = {
+  ""name"": ""John"",
+  ""age"": 30,
+  ""city"": ""New York""
+}
+
+# convert into JSON:
+y = json.dumps(x)
+
+# the result is a JSON string:
+print(y)
+","import json
+
+print(json.dumps({""name"": ""John"", ""age"": 30}))
+print(json.dumps([""apple"", ""bananas""]))
+print(json.dumps((""apple"", ""bananas"")))
+print(json.dumps(""hello""))
+print(json.dumps(42))
+print(json.dumps(31.76))
+print(json.dumps(True))
+print(json.dumps(False))
+print(json.dumps(None))
+","import json
+
+x = {
+  ""name"": ""John"",
+  ""age"": 30,
+  ""married"": True,
+  ""divorced"": False,
+  ""children"": (""Ann"",""Billy""),
+  ""pets"": None,
+  ""cars"": [
+    {""model"": ""BMW 230"", ""mpg"": 27.5},
+    {""model"": ""Ford Edge"", ""mpg"": 24.1}
+  ]
+}
+
+# convert into JSON:
+y = json.dumps(x)
+
+# the result is a JSON string:
+print(y)
+","import json
+
+x = {
+  ""name"": ""John"",
+  ""age"": 30,
+  ""married"": True,
+  ""divorced"": False,
+  ""children"": (""Ann"",""Billy""),
+  ""pets"": None,
+  ""cars"": [
+    {""model"": ""BMW 230"", ""mpg"": 27.5},
+    {""model"": ""Ford Edge"", ""mpg"": 24.1}
+  ]
+}
+
+# use four indents to make it easier to read the result:
+print(json.dumps(x, indent=4))
+","import json
+
+x = {
+  ""name"": ""John"",
+  ""age"": 30,
+  ""married"": True,
+  ""divorced"": False,
+  ""children"": (""Ann"",""Billy""),
+  ""pets"": None,
+  ""cars"": [
+    {""model"": ""BMW 230"", ""mpg"": 27.5},
+    {""model"": ""Ford Edge"", ""mpg"": 24.1}
+  ]
+}
+
+# use . and a space to separate objects, and a space, a = and a space to separate keys from their values:
+print(json.dumps(x, indent=4, separators=("". "", "" = "")))
+","import json
+
+x = {
+  ""name"": ""John"",
+  ""age"": 30,
+  ""married"": True,
+  ""divorced"": False,
+  ""children"": (""Ann"",""Billy""),
+  ""pets"": None,
+  ""cars"": [
+    {""model"": ""BMW 230"", ""mpg"": 27.5},
+    {""model"": ""Ford Edge"", ""mpg"": 24.1}
+  ]
+}
+
+# sort the result alphabetically by keys:
+print(json.dumps(x, indent=4, sort_keys=True))
+","import re
+
+#Check if the string starts with ""The"" and ends with ""Spain"":
+
+txt = ""The rain in Spain""
+x = re.search(""^The.*Spain$"", txt)
+
+if x:
+  print(""YES! We have a match!"")
+else:
+  print(""No match"")
+","import re
+
+#Return a list containing every occurrence of ""ai"":
+
+txt = ""The rain in Spain""
+x = re.findall(""ai"", txt)
+print(x)
+","import re
+
+txt = ""The rain in Spain""
+x = re.search(""\s"", txt)
+
+print(""The first white-space character is located in position:"", x.start()) 
+","import re
+
+#Split the string at every white-space character:
+
+txt = ""The rain in Spain""
+x = re.split(""\s"", txt)
+print(x)
+","import re
+
+#Replace all white-space characters with the digit ""9"":
+
+txt = ""The rain in Spain""
+x = re.sub(""\s"", ""9"", txt)
+print(x)
+","import camelcase
+
+c = camelcase.CamelCase()
+
+txt = ""lorem ipsum dolor sit amet""
+
+print(c.hump(txt))
+
+#This method capitalizes the first letter of each word.
+","#The try block will generate an error, because x is not defined:
+
+try:
+  print(x)
+except:
+  print(""An exception occurred"")
+","#The try block will generate a NameError, because x is not defined:
+
+try:
+  print(x)
+except NameError:
+  print(""Variable x is not defined"")
+except:
+  print(""Something else went wrong"")
+","#The try block does not raise any errors, so the else block is executed:
+
+try:
+  print(""Hello"")
+except:
+  print(""Something went wrong"")
+else:
+  print(""Nothing went wrong"")
+","#The finally block gets executed no matter if the try block raises any errors or not:
+
+try:
+  print(x)
+except:
+  print(""Something went wrong"")
+finally:
+  print(""The 'try except' is finished"")
+","f = open(""demofile.txt"", ""r"")
+
+print(f.read())
+","f = open(""demofile.txt"", ""r"")
+
+print(f.read(5))
+","f = open(""demofile.txt"", ""r"")
+
+print(f.readline())
+","f = open(""demofile.txt"", ""r"")
+for x in f:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword""
+)
+
+print(mydb)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""CREATE DATABASE mydatabase"")
+
+#If this page is executed with no error, you have successfully created a database.
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SHOW DATABASES"")
+
+for x in mycursor:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""CREATE TABLE customers (name VARCHAR(255), address VARCHAR(255))"")
+
+#If this page is executed with no error, you have successfully created a table named ""customers"".
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SHOW TABLES"")
+
+for x in mycursor:
+     print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""yourusername"",
+  password=""yourpassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""CREATE TABLE customers (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255), address VARCHAR(255))"")
+
+#If this page is executed with no error, the table ""customers"" now has a primary key
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""INSERT INTO customers (name, address) VALUES (%s, %s)""
+val = (""John"", ""Highway 21"")
+
+mycursor.execute(sql, val)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record inserted."")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""INSERT INTO customers (name, address) VALUES (%s, %s)""
+val = [
+ ('Peter', 'Lowstreet 4'),
+ ('Amy', 'Apple st 652'),
+ ('Hannah', 'Mountain 21'),
+ ('Michael', 'Valley 345'),
+ ('Sandy', 'Ocean blvd 2'),
+ ('Betty', 'Green Grass 1'),
+ ('Richard', 'Sky st 331'),
+ ('Susan', 'One way 98'),
+ ('Vicky', 'Yellow Garden 2'),
+ ('Ben', 'Park Lane 38'),
+ ('William', 'Central st 954'),
+ ('Chuck', 'Main Road 989'),
+ ('Viola', 'Sideway 1633')
+]
+
+mycursor.executemany(sql, val)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record was inserted."")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""INSERT INTO customers (name, address) VALUES (%s, %s)""
+val = (""Michelle"", ""Blue Village"")
+mycursor.execute(sql, val)
+
+mydb.commit()
+
+print(""1 record inserted, ID:"", mycursor.lastrowid)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SELECT * FROM customers"")
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SELECT name, address FROM customers"")
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SELECT * FROM customers"")
+
+myresult = mycursor.fetchone()
+
+print(myresult)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT * FROM customers WHERE address = 'Park Lane 38'""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT * FROM customers WHERE address Like '%way%'""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT * FROM customers WHERE address = %s""
+adr = (""Yellow Garden 2"", )
+
+mycursor.execute(sql, adr)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT * FROM customers ORDER BY name""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT * FROM customers ORDER BY name DESC""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""DELETE FROM customers WHERE address = 'Mountain 21'""
+
+mycursor.execute(sql)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record(s) deleted"")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""DELETE FROM customers WHERE address = %s""
+adr = (""Yellow Garden 2"", )
+
+mycursor.execute(sql, adr)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record(s) deleted"")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""DROP TABLE customers""
+
+mycursor.execute(sql)
+
+#If this page was executed with no error(s), you have successfully deleted the ""customers"" table.
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""DROP TABLE IF EXISTS customers""
+
+mycursor.execute(sql)
+
+#If this page was executed with no error(s), you have successfully deleted the ""customers"" table.
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""UPDATE customers SET address = 'Canyon 123' WHERE address = 'Valley 345'""
+
+mycursor.execute(sql)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record(s) affected"")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""UPDATE customers SET address = %s WHERE address = %s""
+val = (""Valley 345"", ""Canyon 123"")
+
+mycursor.execute(sql, val)
+
+mydb.commit()
+
+print(mycursor.rowcount, ""record(s) affected"")
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+mycursor.execute(""SELECT * FROM customers LIMIT 5"")
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT \
+  users.name AS user, \
+  products.name AS favorite \
+  FROM users \
+  INNER JOIN products ON users.fav = products.id""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT \
+  users.name AS user, \
+  products.name AS favorite \
+  FROM users \
+  LEFT JOIN products ON users.fav = products.id""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import mysql.connector
+
+mydb = mysql.connector.connect(
+  host=""localhost"",
+  user=""myusername"",
+  password=""mypassword"",
+  database=""mydatabase""
+)
+
+mycursor = mydb.cursor()
+
+sql = ""SELECT \
+  users.name AS user, \
+  products.name AS favorite \
+  FROM users \
+  RIGHT JOIN products ON users.fav = products.id""
+
+mycursor.execute(sql)
+
+myresult = mycursor.fetchall()
+
+for x in myresult:
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+
+mydb = myclient['mydatabase']
+
+# database created!
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+
+print(myclient.list_database_names())
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+
+mydb = myclient['mydatabase']
+
+mycol = mydb[""customers""]
+
+# collection created!
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+
+mydb = myclient['mydatabase']
+
+mycol = mydb[""customers""]
+
+print(mydb.list_collection_names())
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+mydb = myclient['mydatabase']
+mycol = mydb[""customers""]
+
+mydict = { ""name"": ""John"", ""address"": ""Highway 37"" }
+
+x = mycol.insert_one(mydict)
+
+print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+mydb = myclient['mydatabase']
+mycol = mydb[""customers""]
+
+mydict = { ""name"": ""Peter"", ""address"": ""Lowstreet 27"" }
+
+x = mycol.insert_one(mydict)
+
+print(x.inserted_id)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+mylist = [
+  { ""name"": ""Amy"", ""address"": ""Apple st 652""},
+  { ""name"": ""Hannah"", ""address"": ""Mountain 21""},
+  { ""name"": ""Michael"", ""address"": ""Valley 345""},
+  { ""name"": ""Sandy"", ""address"": ""Ocean blvd 2""},
+  { ""name"": ""Betty"", ""address"": ""Green Grass 1""},
+  { ""name"": ""Richard"", ""address"": ""Sky st 331""},
+  { ""name"": ""Susan"", ""address"": ""One way 98""},
+  { ""name"": ""Vicky"", ""address"": ""Yellow Garden 2""},
+  { ""name"": ""Ben"", ""address"": ""Park Lane 38""},
+  { ""name"": ""William"", ""address"": ""Central st 954""},
+  { ""name"": ""Chuck"", ""address"": ""Main Road 989""},
+  { ""name"": ""Viola"", ""address"": ""Sideway 1633""}
+]
+
+x = mycol.insert_many(mylist)
+
+#print list of the _id values of the inserted documents:
+
+print(x.inserted_ids)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+mylist = [
+  { ""_id"": 1, ""name"": ""John"", ""address"": ""Highway 37""},
+  { ""_id"": 2, ""name"": ""Peter"", ""address"": ""Lowstreet 27""},
+  { ""_id"": 3, ""name"": ""Amy"", ""address"": ""Apple st 652""},
+  { ""_id"": 4, ""name"": ""Hannah"", ""address"": ""Mountain 21""},
+  { ""_id"": 5, ""name"": ""Michael"", ""address"": ""Valley 345""},
+  { ""_id"": 6, ""name"": ""Sandy"", ""address"": ""Ocean blvd 2""},
+  { ""_id"": 7, ""name"": ""Betty"", ""address"": ""Green Grass 1""},
+  { ""_id"": 8, ""name"": ""Richard"", ""address"": ""Sky st 331""},
+  { ""_id"": 9, ""name"": ""Susan"", ""address"": ""One way 98""},
+  { ""_id"": 10, ""name"": ""Vicky"", ""address"": ""Yellow Garden 2""},
+  { ""_id"": 11, ""name"": ""Ben"", ""address"": ""Park Lane 38""},
+  { ""_id"": 12, ""name"": ""William"", ""address"": ""Central st 954""},
+  { ""_id"": 13, ""name"": ""Chuck"", ""address"": ""Main Road 989""},
+  { ""_id"": 14, ""name"": ""Viola"", ""address"": ""Sideway 1633""}
+]
+
+x = mycol.insert_many(mylist)
+
+#print a list of the _id values of the inserted documents:
+print(x.inserted_ids)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+x mycol.find_one()
+
+print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+for x in mycol.find():
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+for x in mycol.find({},{ ""_id"": 0, ""name"": 1, ""address"": 1 }):
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myquery = { ""address"": ""Park Lane 38"" }
+
+mydoc = mycol.find(myquery)
+
+for x in mydoc:
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+#address greater than S:
+myquery = { ""address"": {""$gt"": ""S""} }
+
+mydoc = mycol.find(myquery)
+
+for x in mydoc:
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+#address starts with S:
+myquery = { ""address"": { ""$regex"": ""^S"" } }
+
+mydoc = mycol.find(myquery)
+
+for x in mydoc:
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+mydoc = mycol.find().sort(""name"")
+
+for x in mydoc:
+  print(x)
+
+
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+mydoc = mycol.find().sort(""name"", -1)
+
+for x in mydoc:
+  print(x)
+
+
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myquery = { ""address"": ""Mountain 21"" }
+
+mycol.delete_one(myquery)
+
+
+#print the customers collection after the deletion:
+for x in mycol.find():
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myquery = { ""address"": {""$regex"": ""^S""} }
+
+x = mycol.delete_many(myquery)
+
+print(x.deleted_count, ""documents deleted"")
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+x = mycol.delete_many({})
+
+print(x.deleted_count, ""documents deleted"")
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+mycol.drop()
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myquery = { ""address"": ""Valley 345"" }
+newvalues = { ""$set"": { ""address"": ""Canyon 123"" } }
+
+mycol.update_one(myquery, newvalues)
+
+#print ""customers"" after the update:
+for x in mycol.find():
+  print(x)
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myquery = { ""address"": { ""$regex"": ""^S"" } }
+
+newvalues = { ""$set"": { ""name"": ""Minnie"" } }
+
+x = mycol.update_many(myquery, newvalues)
+
+print(x.modified_count, ""documents updated."")
+","import pymongo
+
+myclient = pymongo.MongoClient(""mongodb://localhost:27017/"")
+mydb = myclient[""mydatabase""]
+mycol = mydb[""customers""]
+
+myresult = mycol.find().limit(5)
+
+#print the result:
+for x in myresult:
+  print(x)
+"

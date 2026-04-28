@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|L|Lost}},{{Tooltip|MW|Matches won}},{{Tooltip|ML|Matches lost}},{{Tooltip|GW|Games won}},{{Tooltip|GL|Games lost}},{{Tooltip|PW|Points won}},{{Tooltip|PL|Points lost}},{{Tooltip|Pts|Points}},Qualification
+1,{{bd|INA}} [2],2,2,0,10,0,20,0,420,170,4,Play Off H1
+2,{{bd|BRA}},2,1,1,5,5,10,10,329,267,2,Play Off H2
+3,{{bd|MGL}},2,0,2,0,10,0,20,108,420,0,Play Off H3

@@ -1,0 +1,8 @@
+access_project_issue_user,access_project_issue_report_all,access_project_issue_version_project,access_project_issue_version_project_user,access_resource_calendar_project_manager,access_project_issue_report_user,access_crm_case_section,access_project_issue_salesman,access_project_issue_manager
+project.issue,project.issue.report,project_issue_version manager,project_issue_version user,resource.calendar.project.manager,project.issue.report user,crm.case.section,project.issue,project.issue
+model_project_issue,model_project_issue_report,model_project_issue_version,model_project_issue_version,resource.model_resource_calendar,model_project_issue_report,crm.model_crm_case_section,model_project_issue,model_project_issue
+project.group_project_user,project.group_project_manager,project.group_project_manager,project.group_project_user,project.group_project_manager,project.group_project_user,project.group_project_user,base.group_sale_salesman,base.group_sale_manager
+1,1,1,1,1,1,1,1,1
+1,1,1,0,1,0,0,0,0
+1,1,1,0,1,0,0,0,0
+1,1,1,0,1,0,0,0,0

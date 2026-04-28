@@ -1,0 +1,9 @@
+state,,0,1,2,2,3,4,5,5,6,7,8,9,10,11
+previous packets,4th previous,,,,*MATCH,LIT,,,,,,,,,
+previous packets,3rd previous,LIT,MATCH,LONGREP[*],SHORTREP,SHORTREP,,,*MATCH,LIT,,,,,
+previous packets,2nd previous,LIT,LIT,LIT,LIT,LIT,MATCH,LONGREP[*],SHORTREP,SHORTREP,LIT,LIT,LIT,*MATCH,*MATCH
+previous packets,previous,LIT,LIT,LIT,LIT,LIT,LIT,LIT,LIT,LIT,MATCH,LONGREP[*],SHORTREP,MATCH,*REP
+next state when next packet is,LIT,0,0,0,0,0,1,2,2,3,4,5,6,4,5
+next state when next packet is,MATCH,7,7,7,7,7,7,7,7,7,10,10,10,10,10
+next state when next packet is,LONGREP[*],8,8,8,8,8,8,8,8,8,11,11,11,11,11
+next state when next packet is,SHORTREP,9,9,9,9,9,9,9,9,9,11,11,11,11,11

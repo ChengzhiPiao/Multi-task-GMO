@@ -1,0 +1,53 @@
+Year,Driver,No.,Make,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,{{Tooltip|Owners|Owners Points classification}},Pts
+2017,Carl Long,66,Chevy,DAY,ATL,LVS,PHO,CAL,MAR,TEX,BRI,RCH,TAL,"KAN
+31",CLT,,,,,,,,,,,,,"DAR
+33",,,,,,,,"MAR
+36",,,,42nd,66
+2017,Timmy Hill,66,Chevy,,,,,,,,,,,,,"DOV
+28",POC,MCH,SON,DAY,"KEN
+31",NHA,"IND
+14",POC,GLN,MCH,"BRI
+DNQ",DAR,RCH,"CHI
+39",NHA,"DOV
+40","CLT
+33",TAL,KAN,,,,,42nd,66
+2017,David Starr,66,Chevy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"TEX
+38",,"HOM
+36",42nd,66
+2017,David Starr,66,Toyota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"PHO
+28",,42nd,66
+2018,Mark Thompson,66,Ford,"DAY
+22",ATL,LVS,PHO,CAL,MAR,TEX,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41st,44
+2018,Chad Finchum,66,Toyota,,,,,,,,"BRI
+33",RCH,TAL,DOV,,,,,,,,,,,,,,,,,,,,,,,,,,41st,44
+2018,Timmy Hill,66,Toyota,,,,,,,,,,,,"KAN
+32","CLT
+32",POC,"MCH
+35",SON,"CHI
+39",DAY,"KEN
+34",NHA,"POC
+36",GLN,,"BRI
+28","DAR
+37","IND
+35","LVS
+33","RCH
+39","CLT
+38","DOV
+39",TAL,"KAN
+40","MAR
+38","TEX
+DNQ","PHO
+39","HOM
+37",41st,44
+2018,Timmy Hill,66,Chevy,,,,,,,,,,,,,,,,,,,,,,,"MCH
+37",,,,,,,,,,,,,,41st,44
+2019,Joey Gase,66,Toyota,"DAY
+DNQ",ATL,"LVS
+38",PHO,"CAL
+35",MAR,,,"RCH
+33",TAL,DOV,,"CLT
+32",POC,MCH,SON,CHI,DAY,KEN,NHA,POC,GLN,MCH,BRI,DAR,IND,LVS,RCH,CLT,DOV,TAL,KAN,MAR,TEX,PHO,HOM,-*,-*
+2019,Timmy Hill,66,Toyota,,,,,,,"TEX
+38","BRI
+35",,,,"KAN
+39",,,,,,,,,,,,,,,,,,,,,,,,,-*,-*

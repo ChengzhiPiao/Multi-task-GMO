@@ -1,0 +1,8 @@
+access_ crm_lead_report_assign,access_ crm_lead_report_assign_all,access_crm_partner_report,access_res_partner_grade,access_res_partner_grade_public,access_res_partner_grade_manager,access_res_partner_activation_user,access_partner_activation_manager,partner_access_crm_lead
+crm.lead.report.assign,crm.lead.report.assign.all,crm.partner.report.assign.all,res.partner.grade,res.partner.grade,res.partner.grade.manager,res.partner.activation.user,res.partner.activation.manager,crm.lead
+model_crm_lead_report_assign,model_crm_lead_report_assign,model_crm_partner_report_assign,model_res_partner_grade,model_res_partner_grade,model_res_partner_grade,model_res_partner_activation,model_res_partner_activation,model_crm_lead
+base.group_sale_salesman,base.group_user,base.group_sale_salesman,base.group_sale_salesman,base.group_public,base.group_sale_manager,base.group_user,base.group_partner_manager,base.group_portal
+1,1,1,1,1,1,1,1,1
+1,0,0,1,0,1,0,1,1
+1,0,0,1,0,1,0,1,0
+0,0,0,0,0,1,0,1,0

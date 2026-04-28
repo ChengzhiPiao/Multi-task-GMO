@@ -1,0 +1,6 @@
+For each table:
+1. Generate an embedding for each cell using bert
+2. Average all of the embeddings
+
+Train a logistic regression that given a pair of table embeddings compute the overlap between the tables
+

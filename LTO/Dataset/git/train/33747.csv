@@ -1,0 +1,6 @@
+*-----------------------------------------,* part - name of part being moved,* srcLoc - source (from) location,* destLoc - destination (to) location,* period - period of move. 1 is first period,* moveCost - cost to move part in period,* moveTime - time to move part in period,*,*example,"*""0000000p1413""","*""0000000p1413""","*""0000000P1414""",*-----------------------------------------
+,,,,,,,,,SIP,SIP,SIP,
+,,,,,,,,,980.0,980.0,980.0,
+,,,,,,,,,1.0,2.0,1.0,
+,,,,,,,,,0.0,0.0,7.0,
+,,,,,,,,,0.0,0.0,0.0,

@@ -1,0 +1,9 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13
+2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26
+17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59,17:02:59
+2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26,2020-09-26
+RTC,RTC,RTC,RTC,RTC,RTC,SHCC,SHCC,SHCC,contact.tracing,contact.tracing,contact.tracing,contact.tracing
+fac.staff,fac.staff,fac.staff,students,students,students,students,students,students,uf.affil,uf.affil,uf.affil,uf.affil
+Faculty and Staff Tested (With and Without Symptoms),Faculty and Staff Positive (With and Without Symptoms),Percent Positive,Students Tested (With and Without Symptoms),Students Positive (With and Without Symptoms),Percent Positive,Students With or Without Symptoms Tested for COVID-19,Students With or Without Symptoms Confirmed as Positive,Percent Positive,Cases Identified and Followed Among UF Affiliates,Contacts of UF Affiliates Identified and Followed,UF Affiliates or Contacts of UF Affiliates Currently in Isolation or Quarantine,UF Affiliates Returned to Campus
+FS.test.RTC,FS.pos.RTC,FS.percpos.RTC,S.test.RTC,S.pos.RTC,S.percpos.RTC,S.test.SHC,S.pos.SHC,S.percpos.SHC,UF.affil.cases,contacts.followed,UF.isol,UF.affil.back
+12524.0,54.0,0.43,15098.0,753.0,4.98,2145.0,562.0,26.2,2769.0,2042.0,637.0,4174.0

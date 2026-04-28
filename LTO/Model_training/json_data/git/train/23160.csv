@@ -1,0 +1,8 @@
+goal_employee,goal_manager,goal_definition_employee,goal_definition_manager,challenge_employee,challenge_manager,challenge_line_employee,challenge_line_manager,badge_employee,badge_manager,badge_user_employee,badge_user_manager
+Goal Employee,Goal Manager,Goal Definition Employee,Goal Definition Manager,Goal Challenge Employee,Goal Challenge Manager,Challenge Line Employee,Challenge Line Manager,Badge Employee,Badge Manager,Badge-user Employee,Badge-user Manager
+model_gamification_goal,model_gamification_goal,model_gamification_goal_definition,model_gamification_goal_definition,model_gamification_challenge,model_gamification_challenge,model_gamification_challenge_line,model_gamification_challenge_line,model_gamification_badge,model_gamification_badge,model_gamification_badge_user,model_gamification_badge_user
+base.group_user,group_goal_manager,base.group_user,group_goal_manager,base.group_user,group_goal_manager,base.group_user,group_goal_manager,base.group_user,group_goal_manager,base.group_user,group_goal_manager
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,0,1,0,1,0,1,0,1,1,1
+0,1,0,1,0,1,0,1,0,1,1,1
+0,1,0,1,0,1,0,1,0,1,0,1

@@ -1,0 +1,4 @@
+Group,Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+A,{{fb|MEX}},3,1,1,1,5,4,+1,4
+C,{{fb|BOL}},3,1,1,1,4,4,0,4
+B,{{fb|ECU}},3,1,0,2,2,3,−1,3

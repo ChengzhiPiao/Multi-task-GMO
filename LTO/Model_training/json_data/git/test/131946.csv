@@ -1,0 +1,8 @@
+acl_book,acl_book_librarian,acl_book_category,acl_book_category_librarian,acl_book_rent,acl_book_rent_librarian,acl_book_rent_stage,acl_book_rent_librarian_stage,acl_book_rent_tags,acl_book_rent_librarian_tags
+library.book_default,library.book_librarian,library.book_category_default,library.book_category_librarian,library.book_rent_default,library.book_rent_librarian,library.book_rent_stage_default,library.book_rent_stage_librarian,library.book_rent_tags_default,library.book_rent_tags_librarian
+model_library_book,model_library_book,model_library_book_category,model_library_book_category,model_library_book_rent,model_library_book_rent,model_library_rent_stage,model_library_rent_stage,model_library_rent_tag,model_library_rent_tag
+,group_librarian,,group_librarian,,group_librarian,,group_librarian,,group_librarian
+1,1,1,1,1,1,1,1,1,1
+0,1,0,1,0,1,0,1,0,1
+0,1,0,1,0,1,0,1,0,1
+0,1,0,1,0,1,0,1,0,1

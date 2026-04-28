@@ -1,0 +1,4 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13
+1,2,4,5,9,10,11,12,13,14,17,18,23,24
+Neurons,Cells,Axonal terminals,Synapses,"Synapses, symmetrical","Synapses, asymmetrical",Dendritic spines,"Dendritic spines, mushroom","Dendritic spines, stubby","Dendritic spines, thin","Dendritic spines, large","Dendritic spines, giant",Glia cell,Axonal varicosities
+ILX:0107497,ILX:0101839,ILX:0101049,GO:0045202,ILX:0111392,ILX:0100953,GO:0043197,ILX:0107249,ILX:0111129,ILX:0111691,,,,

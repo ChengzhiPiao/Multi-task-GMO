@@ -1,0 +1,5 @@
+Column,Column,Column,FormType,SurveyUtil,Table,Table
+Hot,Iced,WiFi,default,default,default,default
+displayChoicesList,displayChoicesList,displayChoicesList,FormType.formType,SurveyUtil.formId,defaultViewType,displayName
+array,array,array,string,string,string,object
+"[{""choice_list_name"":""yesno"",""data_value"":""Yes"",""display"":{""title"":{""text"":""Yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""No"",""display"":{""title"":{""text"":""No""}},""_row_num"":3}]","[{""choice_list_name"":""yesno"",""data_value"":""Yes"",""display"":{""title"":{""text"":""Yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""No"",""display"":{""title"":{""text"":""No""}},""_row_num"":3}]","[{""choice_list_name"":""yesno"",""data_value"":""Yes"",""display"":{""title"":{""text"":""Yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""No"",""display"":{""title"":{""text"":""No""}},""_row_num"":3}]",SURVEY,Tea_houses_editable,SPREADSHEET,"{""text"":""Tea Houses Editable""}"

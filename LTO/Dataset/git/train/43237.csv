@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+Browser,Browser,Browser,Browser,Browser,Browser,BingMenu,Sign in,BindDisplay
+Open the Url [<Data>] in the Browser,To Test the Accessibility of the Page using aXe,To Test the Accessibility of the Page using aXe,To Test the Accessibility of the Page using aXe,To Test the Accessibility of the Page using aXe,To Test the Accessibility of the Page using aXe,To Test the Accessibility of the Element using aXe,To Test the Accessibility of the Element using aXe,To Test the Accessibility of the Element using aXe
+Open,testAccessibility,testAccessibility,testAccessibility,testAccessibility,testAccessibility,testAccessibilityElement,testAccessibilityElement,testAccessibilityElement
+@https://www.bing.com,@Bing All,"@Bing Include @include span,a",@Bing Exclude @exclude a,"@Bing InExclude @include span, a @exclude p","@BingOptions @options {runOnly:{type: ""tag"", values:[""wcag2a""]}}",,@CustomName,
+,,,,,,,,
+,,,,,,Bing1,Bing1,Bing1

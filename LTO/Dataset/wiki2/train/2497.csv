@@ -1,0 +1,4 @@
+Class,0,1,2,3,4,5
+Type of vehicles,"Motorcycles, bicycles or vehicles with 2 or less wheels",Vehicles with 2 axles and 3 or 4 wheels excluding taxis,Vehicles with 2 axles and 5 or 6 wheels excluding buses,Vehicles with 3 or more axles,Taxis,Buses
+"Rate
+(in Malaysian Ringgit (RM))",Free,RM2.30,RM4.60,RM6.90,RM1.20,RM1.60

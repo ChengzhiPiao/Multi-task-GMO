@@ -1,0 +1,2 @@
+access_service_type,consignment.service.type,model_consignment_service_type,account.group_account_invoice,1,1,1,1
+access_service_type_user,consignment.service.type user,model_consignment_service_type,base.group_user,1,0,0,0

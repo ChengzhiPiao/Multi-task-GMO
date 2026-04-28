@@ -1,0 +1,10 @@
+{{Tooltip|Pos|Position}},1,2,3,4,Eliminated in the first round,5,6,7,8,9,10
+Team,{{fbw|BRA}},{{fbw|ARG}},{{fbw|COL}},{{fbw|PER}},Eliminated in the first round,{{fbw|ECU}},{{fbw|BOL}},{{fbw|PAR}},{{fbw|CHI}},{{fbw|URU}},{{fbw|VEN}}
+{{Tooltip|Pld|Played}},3,5,5,5,Eliminated in the first round,2,2,2,2,2,2
+{{Tooltip|W|Won}},3,3,2,2,Eliminated in the first round,1,1,1,0,0,0
+{{Tooltip|D|Drawn}},0,1,1,1,Eliminated in the first round,1,0,0,0,0,0
+{{Tooltip|L|Lost}},0,1,2,2,Eliminated in the first round,0,1,1,2,2,2
+{{Tooltip|GF|Goals for}},18,17,12,6,Eliminated in the first round,3,8,3,2,1,0
+{{Tooltip|GA|Goals against}},2,6,16,7,Eliminated in the first round,1,4,4,9,11,10
+{{Tooltip|GD|Goal difference}},+16,+11,–4,–1,Eliminated in the first round,+2,+4,–1,–7,–10,–10
+{{Tooltip|Pts|Points}},9,10,7,7,Eliminated in the first round,4,3,3,0,0,0

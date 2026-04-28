@@ -1,0 +1,355 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216
+2020-11-25,2020-11-25,2020-11-25,2020-11-25,2020-11-25,2020-11-25,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-24,2020-11-23,2020-11-23,2020-11-23,2020-11-23,2020-11-23,2020-11-23,2020-11-23,2020-11-23,2020-11-22,2020-11-22,2020-11-22,2020-11-22,2020-11-22,2020-11-22,2020-11-21,2020-11-21,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-20,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-19,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-18,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-17,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16,2020-11-16
+"#sbin
+Today giving nice swing both side..
+No need of any other cash stocks today...","Buy 1 CURMON #SBIN contracts at 243.45, Sell 2 CURMON #PNB contracts at 31.85. Confidence = 65%, on 2020-11-25::11:26:04",#SBIN - SBIN LONG - TradingView - https://t.co/iPcsVO0uAM,State Bank India target has been reached #ShortTermCash #CNC #SBIN #StockMarket #NSE #BSE #IndianMarket https://t.co/bldt23zkPM,"Nifty50 trade above 13,100. Nifty Bank 30000+ in gap up opening. #Sensex at 44,742.95 +219.93 . #IndianMarket #Equity #StockMarket  #ONGC #TATAMOTORS #SBIN leads the market.","#SBIN #RBLBANK #IBULHSGFIN BULLISH, BUY IN DIPS. #frontpage_app","#SBIN - Another trade of the day.  
+
+#PriceAction 
+#Traders 
+#Nifty 
+#BankNifty 
+#TechnicalAnalysis 
+#ChartPattern 
+#Stockstwatch 
+#Trendlines 
+#Breakout 
+#Option
+#Futures https://t.co/Olom5S0zkI","#PSU #Banks Ignored in this  Uptrend rally but I don't think they will be ignored more and will be a new Participate. watch the #Index and wait for the #Harmonic pattern activated above 1661.. Keep an eye on PSU banks
+
+#sbin #bankofbaroda #Banks #BankingSector #Markets #Nifty https://t.co/9zgTpcr87u","RT @shivaji_1983: Similarities between 2014 &amp; 2020 setups.
+
+#PSUBANKS
+
+#CANBK 
+#BankBaroda 
+#SBIN 
+#INDIANBANK
+#UnionBankofIndia 
+
+All thes…",#sbin too confirms buy signal @243,"Top 7 Banks in India 
+
+Follow us on @iifsindia
+
+#India #topbanks #iifsindia #HDFCBank #ICICIBank #BandhanBank #StateBankOfIndia #KotakMahindraBank #SBIN #AxisBank #ICICI #InduslndBank #marketcap #sensextoday #financialeducation #equity https://t.co/pOiCTo9uOQ","Buy 9 CURMON #BANKBARODA contracts at 46, Sell 4 CURMON #SBIN contracts at 242.15. Confidence = 65%, on 2020-11-24::12:28:04","Do u agree for broad based stocks rally #reliance should fall so other stocks will get chance to rally 
+@NeerajCNBC @rajeshpalviya @_anishaj 
+#sunpharma #drreddy #sbin #nifty #banknifty","Buy 9 CURMON #BANKBARODA contracts at 45.95, Sell 4 CURMON #SBIN contracts at 241.9. Confidence = 66%, on 2020-11-24::12:05:04","Huge Up move possible in coming days positional traders can buy in cash or option for 1 month time frame.
+
+#Bankbaroda
+#DRREDDY 
+#SunPharma 
+#Recltd 
+#ONGC
+#SBIN
+#PFC
+#Torrentpower
+
+My target is minimum 5% in all the above script https://t.co/8J6uESD4eM",RT @TechnomanThe: SBI Apprentice Recruitment 2020 | Stipend Rs.19000/- | State Bank Of Ind... https://t.co/MPZBQi5ChI via @YouTube #thetech…,State Bank Of India Now on Wave C  - #SBIN chart https://t.co/XJCBT4BGD7,#SBIN &amp; #Axis closed !! https://t.co/yt1Xt0rg2P,#SBIN ABOVE 241.5 SL 239.95 TGT 244/246,#SBIN #artzteam Support and resistance Please plan accordingly.. I squared off all positions.. waiting for opportunity. https://t.co/LrJ424CLjN,"#GraphiteIndia 
+#sbin
+ few seconds trade
+Cash ac upstox
+In sbin fut ac already Short done https://t.co/rP0sL4UoDy","State Bank India day high is 246.15. waiting for the target
+#ShortTermCash #CNC #SBIN #StockMarket #NSE #BSE",#SBIN long only above 247 ... #frontpage_app https://t.co/GDYa6i65tE,"#sbin enters into MOU
+With Luxembourg stock exchange; MOU is intended to promote ESG and green Finance.",#SBIN - State Bank 15Min Chart For intraday - TradingView - https://t.co/Gcj8YanDen,"RT @market_cafe1: Market Cafe Telegram BOT https://t.co/g72pfoyNff , 
+ 
+LIVE DERIVATIVE ANALYSIS ADDED
+Check out other menu. Free to use
+#n…","SBIN still looking positive.
+
+Rally likely to remain continue till 280--290++
+
+so we can go with another bull call spread of the month of December.
+
+#sbin #statebankofindia #banknifty #nifty #Nifty #nifty50 #Stocks #StockMarket https://t.co/VoVTpnSYLl","#SBIN #EXPIRY Call &amp; #POSITIONAL Call
+#Nifty #OptionsTrading #SwingTrading #StockMarket #StockTrading #StockToWatch #Share #ShareMarket https://t.co/d5k0NLNuyh",#SBIN - I think there will be resistance around 260 - TradingView - https://t.co/2cWt6PkMHD,SBI Apprentice Recruitment 2020 | Stipend Rs.19000/- | State Bank Of Ind... https://t.co/MPZBQi5ChI via @YouTube #thetechnoman @TechnomanThe #sbi #sbijobs #sbiapprenticerecruitmrnt #sbin #SBI #statebankofindia https://t.co/HYdaPydr8W,#SBIN - Bearish CRAB - TradingView - https://t.co/itYRSgn6uH,"Short Term Cash: State Bank India Ltd
+Buy at 242
+Target Price 247
+#ShortTermCash #CNC #SBIN #StockMarket #NSE #BSE","#SBIN - Entered on 5 mins time-frame with #5EMA support and also as there was #50EMA support on 1hr time-frame. Within 15 mins, it gave 5 points.. Being a conservative trader, exited my position as soon as it touched #26EMA resistance. 
+#PriceAction 
+#Traders 
+#Nifty 
+#Futures https://t.co/Gg81gbmAtd",This week 17th Nov to 20th Nov #Dlf #Nifty #banknifty #Reliance #Sbin #lt #bpcl #Naukri https://t.co/3I81gPCmde,"#SBIN last 7 days SMA:238.97, RSI:66.47. Del Perc. Chg:-0.49, Vol Chg:0.00. Support/Resistance - 200.00/250.00, expecting Price at Expiry 230.00","RT @Mamta_Sharma01: My Portfolio. 
+#Eichermot       #Apollohos
+#Jublifood        #Kotakbank
+#Hdfclife           #bergerpaintsindia 
+With TS…","#Today
+#Nifty Fut 12814 to 12849 Than SL Hit But Made High 12909.50
+#Nifty 12850 CE 82 to 138.30
+#BankNifty 29000 CE 316 to 690
+#Reliance 2000 CE 16.60 to 22.30 (Lot 505)
+#SBIN 250 CE 2.10 to 4.20 (Lot 3000)
+#JustDial 612 to 623
+#Pfizer 5074 to 5048 SL
+#BharatForg 512 to 507 SL","Superbbbb positional calls provided by my mentor @CArajievv 🙏❤
+Buying calls in banknifty and nifty💵🥳
+#nifty #banknifty #reliance #dow #StockMarket #sunpharma #MGL #bandhanbank #tcs #icici #concor #zeel #bhartiairtel #infratel #tatasteel #nalco #sbin #bank #intraday #NASDAQ https://t.co/yj5bYMrPug","Booked all longs except NTPC!! Most if not all banks will be below march 2020 lows in the next 3-6 months!! Shorting picks from december series would be SBIN/KOTAK/ICICI/AXIS!! 
+#kotak #sbin #icici #axis","traders trolled #sbin #itc everytime when these stock not performed according #nifty #banknifty but noone trolling #reliance while it was biggest underperformer from last 2 months 
+This is called status of #Reliance 
+stock -20% from high
+#nifty +12% #banknifty +30% in same period","Exited #intradaytrading
+#Kotak Long
+#BNF Long
+#SBIN Long
+
+Happy weekend",RT @BandanaMrs: CITIZEN OF #SBI CUSTOMER ASK   #RBI &amp; MINISTRY OF FINANCE:1.WHY SBI DON'T INFORM SERVICE CHARGES SCHEDULE AS PER LAW &amp;HOW T…,"Here what we did. 
+#IndusindBank 596 to 811
+#AxisBank 490 to 611
+#icicibank 395 to 486
+#kotak 1350 to 1860
+#bajfin 3150 to 4300
+#bajfinserv 5800 to 8200
+#hdtc 1960 to 2350
+#tisco 401 to 530
+#jspl 190 to 242
+#sbin 204 to 252
+#telco 132 to 171
+#jubliant 2180 to 2600🙏 https://t.co/GxSnwfGlZW",#sbin view negated at cost,SBI - Retesting break out levels - #SBIN chart https://t.co/qIE04HBNpM,SBI looks over sold - #SBIN chart https://t.co/lCTsnjGU4n,#sbin when bought... https://t.co/jDUtrP1mgD,"T-Bar(trade-executable) reversal zone, for SBIN! - #SBIN chart https://t.co/NYAyHvF8ZQ","My Portfolio. 
+#Eichermot       #Apollohos
+#Jublifood        #Kotakbank
+#Hdfclife           #bergerpaintsindia 
+With TSl. rest sold.
+(#SBIN, #TATAMOTORS, #CAMS-1 year)",#sbin made a low of 234 now trail SL to cost and wait for final level. cmp 234.6,"#StockOption
+#PSUBANK
+#RiskyTrade
+
+Buy #SBIN 250 CE at cmp 2.10 Strict SL 1.40
+Lot 3000
+
+#nifty50 
+#nifty 
+#sensexbaba
+#callput
+#sensex
+#StockMarket 
+#BANKNIFTY
+#TradingView #HappyDiwali","SBIN - EQ
+
+Buy Above242.90with SL Below240.10
+For Tgts244.40,245.80,247.30
+
+Sell Below240.10with SL Above242.90
+For Tgts238.60,237.20,235.70
+#SBIN #frontpage_app",#SBIN - Sbin give swing breakout 20 to 22% return in few weeks - TradingView - https://t.co/kEYIUgbpez,"#sbin high 253,  😀
+
+Buying signal at 195👍 https://t.co/c4BN0xWyz3",#SBIN - Short SBI - TradingView - https://t.co/ELACWX1Cbw,"@vivbajaj mBOT https://t.co/g72pfoyNff functionalities
+1. Nifty Bank nifty OI Snapshots
+2. Stock symbol snapshots
+3. Indices summary
+4. Indices Heat Maps
+5. PCR Lists
+6. Derviative Spurt analysis
+7. India Vix Snapshots
+8. Live Scanners
+#nifty #nse #Options #bankmifty #reliance #sbin #tcs https://t.co/694OnWCQpy","#SBIN - CMP 239 , The Kind of Volumes Stock saw since 2nd November Is Impressive, Stock is Above 200DMA Seems a Good Long Candidate on Dips of 232-228 if dips SL can be Kept at 215  Closing Basis for 254/265/270+ Kinda Levels if the Current momentum stays intact
+Find ur Trade!! https://t.co/yoxZSser2f",#SBIN Fut Update : Rallied from 230 to 253 235 call option from 5 to 20 Both given best returns hope u enjoed the analysis . . . Like n retweet by tagging me @niftyandcrude to get more analysis for free. . . https://t.co/EmEdFVJcF9,"Today with busy construction work,didn't know when a trade was placed and executed
+2lots although direction was with trend 1st thing I did I cleared the position
+Then Shorted #sbin and trailed 
+And covered, 
+I need to be more alert but mistake happens even after 12yrs of trading https://t.co/O3IK8YLSq3","RT @shivaji_1983: Similarities between 2014 &amp; 2020 setups.
+
+#PSUBANKS
+
+#CANBK 
+#BankBaroda 
+#SBIN 
+#INDIANBANK
+#UnionBankofIndia 
+
+All thes…",#sbin stock *below 238 can fall upto 231-227.5 with in 2-3 trading days view negate above 245 . cmp 239.5,"#Nifty In continuation
+
+Beauty of Chart.
+Made tripple Top third continuous day.
+
+Will see where we get the Weekly close tomorrow.
+
+#Banknifty #BANKNIFTYFUTURE #Reliance #Techm #IndusindBank #Kotakbank #AxisBank #sbin https://t.co/Nflm9o4SA2 https://t.co/u4gwGveIvA","Buy 8 CURMON #CANBK contracts at 94.5, Sell 5 CURMON #SBIN contracts at 249.75. Confidence = 65%, on 2020-11-19::12:46:04","Buy 1 CURMON #BANKNIFTY contracts at 29515, Sell 1 CURMON #SBIN contracts at 249.75. Confidence = 65%, on 2020-11-19::12:46:04","Buy 5 CURMON #NIFTY contracts at 12952.75, Sell 4 CURMON #SBIN contracts at 249.75. Confidence = 67%, on 2020-11-19::12:46:04","Buy 5 CURMON #NIFTY contracts at 12950.2, Sell 4 CURMON #SBIN contracts at 249.45. Confidence = 66%, on 2020-11-19::11:55:04","Buy 8 CURMON #CANBK contracts at 94, Sell 5 CURMON #SBIN contracts at 249.1. Confidence = 67%, on 2020-11-19::11:30:04","Buy 1 CURMON #BANKNIFTY contracts at 29485, Sell 1 CURMON #SBIN contracts at 249.5. Confidence = 65%, on 2020-11-19::11:27:04","Buy 5 CURMON #NIFTY contracts at 12950, Sell 4 CURMON #SBIN contracts at 249.5. Confidence = 66%, on 2020-11-19::11:27:04","Buy 8 CURMON #CANBK contracts at 93.5, Sell 5 CURMON #SBIN contracts at 247.65. Confidence = 66%, on 2020-11-19::11:04:04","RT @NiftyAnalytics: Buy 8 CURMON #CANBK contracts at 93.95, Sell 5 CURMON #SBIN contracts at 249.7. Confidence = 69%, on 2020-11-19::10:40:…","Buy 8 CURMON #CANBK contracts at 93.95, Sell 5 CURMON #SBIN contracts at 249.7. Confidence = 69%, on 2020-11-19::10:40:04","Buy 1 CURMON #BANKNIFTY contracts at 29540, Sell 1 CURMON #SBIN contracts at 249.95. Confidence = 65%, on 2020-11-19::10:39:04","Buy 5 CURMON #NIFTY contracts at 12950.7, Sell 4 CURMON #SBIN contracts at 249.7. Confidence = 67%, on 2020-11-19::10:40:04","#SBIN final target achieved...
+
+Started from 165 https://t.co/LKZOeIH1n5","RT @NiftyAnalytics: Buy 8 CURMON #CANBK contracts at 94.4, Sell 5 CURMON #SBIN contracts at 250.8. Confidence = 69%, on 2020-11-19::10:15:04","Buy 8 CURMON #CANBK contracts at 94.4, Sell 5 CURMON #SBIN contracts at 250.8. Confidence = 69%, on 2020-11-19::10:15:04","Buy 1 CURMON #BANKNIFTY contracts at 29560, Sell 1 CURMON #SBIN contracts at 250.8. Confidence = 71%, on 2020-11-19::10:15:04","Buy 5 CURMON #NIFTY contracts at 12952.75, Sell 4 CURMON #SBIN contracts at 250.8. Confidence = 71%, on 2020-11-19::10:15:04","Buy 1 CURMON #BANKNIFTY contracts at 29535.9, Sell 1 CURMON #SBIN contracts at 250.5. Confidence = 68%, on 2020-11-19::09:50:03","Buy 5 CURMON #NIFTY contracts at 12930, Sell 4 CURMON #SBIN contracts at 250.5. Confidence = 72%, on 2020-11-19::09:50:03","Edelweiss  BUY #SBIN at 280, Open 248, 52wk(351.00 - 149.45). Analyst acc perc./total (4.93 / 142). Week trends SMA:235.38, RSI:88.72. Del Perc. Chg:-0.40, Vol Chg:0.01. Support/Resistance - 200.00/250.00, expecting Price at Expiry 230.00","Buy 5 CURMON #NIFTY contracts at 12892.8, Sell 4 CURMON #SBIN contracts at 248. Confidence = 66%, on 2020-11-19::09:24:03",RT @NawkhareRaman: I had applied for Cams ipo on 22 September through upstox. I did not get allotment. Now its been more than month still m…,RT @GEPLCapital: #Bullish Stocks for the day to watch #TATAMOTORS #BATAINDIA #M&amp;M #SBIN #MOTHERSUMI,#Bullish Stocks for the day to watch #TATAMOTORS #BATAINDIA #M&amp;M #SBIN #MOTHERSUMI,"During #yesbank moratorium #sbin share price got most affected for obvious reasons.
+#LVB moratorium announced and SBI was up nearly 10 % in two days.",#SBIN - SBIN : Nice position to Invest.. BUY - TradingView - https://t.co/TWm5vmECXk,#SBIN - SBI BEARISH CRAB HARMONIC TRADING - TradingView - https://t.co/vvLp9AJkPz,"RT @shivaji_1983: Similarities between 2014 &amp; 2020 setups.
+
+#PSUBANKS
+
+#CANBK 
+#BankBaroda 
+#SBIN 
+#INDIANBANK
+#UnionBankofIndia 
+
+All thes…","#SBIN 2020
+
+5. Low 150 in May 2020, intermediate top 231+ in August 2020, higher bottom 175 in Septemebr 2020.
+
+6. Breakout in November 2020 above 231+, range 150-175 to 230
+
+7. Target 275-280 due to falling trendline, for short term 255 resistance
+
+8. consolidation time 7 months https://t.co/pgVZh8h1aB","#SBIN 2013-2014
+
+1. Stocks hits low 145 in August 2013, intermediate tops around 192-195 levels in November-December 2013.
+
+2. Higher/similar bottom 145 in Feb 2014, Breakout in April 2014.
+
+3. Range 145-195, stock went on to hit 285 and 335
+
+4. consolidation time 7-8 months https://t.co/05IfcNcW3P","RT @shivaji_1983: Similarities between 2014 &amp; 2020 setups.
+
+#PSUBANKS
+
+#CANBK 
+#BankBaroda 
+#SBIN 
+#INDIANBANK
+#UnionBankofIndia 
+
+All thes…","Similarities between 2014 &amp; 2020 setups.
+
+#PSUBANKS
+
+#CANBK 
+#BankBaroda 
+#SBIN 
+#INDIANBANK
+#UnionBankofIndia 
+
+All these stocks post a big fall went into consolidation phase for good 7-8-9 months before giving strong breakout. Some stocks gave 60-70% return in short term","I had applied for Cams ipo on 22 September through upstox. I did not get allotment. Now its been more than month still my money is not unblocked it has gone in lien amount. I contacted to sbi branch manager they said that its not in there #DineshKhara
+#SBIN https://t.co/8Yvy5x5i2H",SBIN with well with in striking distance for target 1 - #SBIN TradingView https://t.co/5N6l6HGCp5,"SBI Up with good volumes
+Good momentum with bullish price action on dailyes
+Keep SL at 226 
+Target 375
+
+#SBIN 
+@in_tradingview https://t.co/rFQmrAGXmh",#SBIN #SBI Achieved Expected Target of Rs.251 after much roller coaster ride. If momentum continues then it may touch 275-280 levels soon https://t.co/FDE7p8MP5K,"#SBIN Bang on !! Trading above 250 :-)
+
+#banknifty #niftyfuture #trading. https://t.co/AvEAZrMtjz",Thank you so much Ayushi ma'am @kuttrapali . Your advice on the stock #SBIN was 101 % correct. This is the reason why I have so much trust on you. 🙏 https://t.co/H42B17Qhkv,#SBIN - MAGNETS - TradingView - https://t.co/r2wh4GOdDt,#SBI from 153-&gt; 253. Up 100rs. Caught at bottom and now huge returns from a such a big stock. #SBIN https://t.co/GgmZyqN1j2,#SBIN future for tomorrow 📊 https://t.co/M4NHOJfuXG,"Fresh reco. during the show with @hemant_ghai
+&amp; @shail_bhatnagar
+
+#Jublfoods 2570 SL 2550 TGT 2685...HFT 2599.95
+#Eicher 2604 SL 2550 TGT 2840...HFT 2639
+#Indusindbk 822 SL 814 TGT 860
+
+#Topcalls from todays morning show #SBIN , #Maruti both closing at days high https://t.co/VjViMSGIaQ",#SBIN 253 high made today. 🙏🏻  #banknifty #Banks https://t.co/hQ7WnXmaAB,"S.S.Tips-#StockMarket Performance-18th Nov 2020 #StockMarkettips
+1.#HCLTECH EQ (#Profit Rs.4/share)
+2.#SRTTRANSIN EQ (Profit Rs.5/share)
+3.#SBIN EQ #Positional (Profit Rs.63/share)
+4.#BPCL FO (#loss Rs.5400/lot)","#SBIN what a run from 196. More to come. 
+
+#Nifty #Banknifty",#SBIN 221 to 253 Closing above major resistance. If it can sustain here till friday... it opens up for 350/375 https://t.co/fTeqFDtx7P,"Sbi running towards target
+
+#SBIN #sbi #NiftyBank #banknifty #trading #projectwealth https://t.co/8Cys73ojm3","Buy 1 CURMON #BANKNIFTY contracts at 29756, Sell 1 CURMON #SBIN contracts at 252. Confidence = 75%, on 2020-11-18::15:17:04","Buy 9 CURMON #NIFTY contracts at 12957.5, Sell 7 CURMON #SBIN contracts at 252. Confidence = 87%, on 2020-11-18::15:17:04","Buy 8 CURMON #CANBK contracts at 94.3, Sell 5 CURMON #SBIN contracts at 252. Confidence = 96%, on 2020-11-18::15:16:05","Its not about talking about probablities !
+Its about trading too
+
+10 Points #INTRADAY with 5 point SL
+1:2R
+#SBIN https://t.co/w7wGjw607I https://t.co/Mi0y864PYf",bought #sbin at 245. Target 265,#SBIN made a high of 251.95,#SBIN #sbi #bse #nifty investors just enjoyyyy https://t.co/r0xmN1gY2T,"Buy 1 CURMON #BANKNIFTY contracts at 29729, Sell 1 CURMON #SBIN contracts at 250.4. Confidence = 66%, on 2020-11-18::14:52:04","Buy 9 CURMON #NIFTY contracts at 12934.55, Sell 7 CURMON #SBIN contracts at 250.4. Confidence = 84%, on 2020-11-18::14:52:04","Buy 3 CURMON #CANBK contracts at 94.05, Sell 2 CURMON #SBIN contracts at 250.4. Confidence = 94%, on 2020-11-18::14:52:05","#nifty #technicalfunda #technical #investing 
+#SBIN State Bank of India 🎯 https://t.co/VNdIahoSf4 https://t.co/cKXvdCk4mQ","Buy 5 CURMON #NIFTY contracts at 12926.5, Sell 4 CURMON #SBIN contracts at 249.4. Confidence = 79%, on 2020-11-18::14:26:04","Buy 3 CURMON #CANBK contracts at 93.5, Sell 2 CURMON #SBIN contracts at 249.4. Confidence = 94%, on 2020-11-18::14:26:05",#SBIN Pushing that 250 level again. Hodor? https://t.co/PLjdlPyMqo,"Buy 5 CURMON #NIFTY contracts at 12934.1, Sell 4 CURMON #SBIN contracts at 248.3. Confidence = 72%, on 2020-11-18::14:01:04","Buy 3 CURMON #CANBK contracts at 93.35, Sell 2 CURMON #SBIN contracts at 248.3. Confidence = 93%, on 2020-11-18::14:01:05",#SBIN - SBIN with well with in striking distance for target 1 - TradingView - https://t.co/cxgEyZ3yrv,#HDFCBANK #ICICIBANK #SBIN #AXISBANK #BANDHANBNK #RBLBANK ALL AT DAY HIGH.. #frontpage_app,"Buy 5 CURMON #NIFTY contracts at 12863.8, Sell 4 CURMON #SBIN contracts at 246.3. Confidence = 73%, on 2020-11-18::13:36:04","Buy 3 CURMON #CANBK contracts at 93.1, Sell 2 CURMON #SBIN contracts at 246.3. Confidence = 83%, on 2020-11-18::13:36:05","Buy 5 CURMON #NIFTY contracts at 12872.95, Sell 4 CURMON #SBIN contracts at 246.55. Confidence = 73%, on 2020-11-18::13:11:04","Buy 3 CURMON #CANBK contracts at 93.1, Sell 2 CURMON #SBIN contracts at 246.55. Confidence = 84%, on 2020-11-18::13:11:05","Buy 3 CURMON #CANBK contracts at 93, Sell 2 CURMON #SBIN contracts at 244. Confidence = 76%, on 2020-11-18::12:46:04","Buy 3 CURMON #CANBK contracts at 93.2, Sell 2 CURMON #SBIN contracts at 245.1. Confidence = 79%, on 2020-11-18::11:55:04","Buy 3 CURMON #CANBK contracts at 93, Sell 2 CURMON #SBIN contracts at 243.75. Confidence = 75%, on 2020-11-18::11:30:04","Buy 5 CURMON #NIFTY contracts at 12884, Sell 4 CURMON #SBIN contracts at 246.2. Confidence = 66%, on 2020-11-18::10:47:04","Buy 3 CURMON #CANBK contracts at 93.45, Sell 2 CURMON #SBIN contracts at 245.2. Confidence = 77%, on 2020-11-18::11:05:04","Nifty PSU Bank index up by 2.2% is the top sectoral gainer led by SBIN, BankBaroda and Indian Bank #NIFTYPSUBANK #SBIN #BANKBARODA #INDIANBANK",#SBIN fully booked at 246 !!! https://t.co/hHvz1UQ91b,"Buy 3 CURMON #CANBK contracts at 93.8, Sell 2 CURMON #SBIN contracts at 245.6. Confidence = 75%, on 2020-11-18::10:40:04","RT @TradingwithFun1: #SBIN nice breakout after good consolidation. 300+ target 
+@DRuzbeh @Stockstudy8 
+
+Retweet for bigger reach https://t.…",#banknifty #sbin #bajfinance #tatamotors just look at my this tweet https://t.co/3TXHaauf5i,"Holding on to directional Long Trades needs lots of discipline
+
+#Nifty 
+#Bnf booked 
+ #SBIN booked 
+#AshokLeyland booked
+#Motherson booked 
+#Tatasteel booked 
+#Eicher booked 
+#Jindalsteel booked
+#Grasim booked
+#Tatamotors 
+#MM
+
+#FnO Nov Series","RT @Mamta_Sharma01: #SBIN...updated chart. 
+Short term can book profit on Resistance. Others can trail. https://t.co/qlewawTmdc","#SBIN...updated chart. 
+Short term can book profit on Resistance. Others can trail. https://t.co/qlewawTmdc",Those who expected 2 digits in #SBIN still short? #Nifty https://t.co/AxYcRXkDmE,"#SBIN nice breakout after good consolidation. 300+ target 
+@DRuzbeh @Stockstudy8 
+
+Retweet for bigger reach https://t.co/bT5ttNXjS0","Buy 5 CURMON #NIFTY contracts at 12876.6, Sell 4 CURMON #SBIN contracts at 246.1. Confidence = 66%, on 2020-11-18::10:15:04","Buy 3 CURMON #CANBK contracts at 94.25, Sell 2 CURMON #SBIN contracts at 246.1. Confidence = 73%, on 2020-11-18::10:15:04","#SBIN 247+
+
+#FnO Nov Series https://t.co/o2czSeuhGk","Buy 5 CURMON #NIFTY contracts at 12872, Sell 4 CURMON #SBIN contracts at 246.25. Confidence = 70%, on 2020-11-18::09:50:04","Buy 3 CURMON #CANBK contracts at 93.3, Sell 2 CURMON #SBIN contracts at 246.25. Confidence = 82%, on 2020-11-18::09:50:04",#SBIN is rocking...😀😀 https://t.co/T1ldZfjRh9,#sbin stock above 247 can touch 254-257.5 with in 3-4 trading days view negate below 240 . cmp 243.5,"Nifty50 is trading at 6.50 points and the Sensex is now trading at 43,975.44 +22.73 points. #ADANIPORTS #TATAMOTORS #SBIN #POWERGRID #JSWSTEEL is trading high opening session.
+
+#BPCL traded down -1.85% today. #Market Update
+#EquityMarket #StockMarket #ShareMarket #NSE #BSE",#SBIN another 20+ points in #Positional https://t.co/o2czSeuhGk,"BULLISH FOR THE DAY, BUY IN DIPS:
+#ICICIBANK 
+#SBIN 
+#ADANIPORTS 
+#INDUSINDBK 
+#BANDHANBNK 
+#RBLBANK
+#ADANIGAS #frontpage_app",#Bullish Stocks for the day to watch #TATAMOTORS #TATATSEEL #HDFCLIFE #SBIN #SBILIFE,"#NIFTY50 SETTELED 20 POINTS GAP DOWN IN PRE-OPEN, MAY REMAIN SIDEWAYS FOR THE DAY.
+STOCKS TO TRADE:
+#RELIANCE 
+#HDFCBANK 
+#TATAMOTORS 
+#BAJFINANCE 
+#SBIN #frontpage_app",#SBIN - SBIN : Strong Bull - TradingView - https://t.co/eATIm5ZyE7,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,I think the RBI ruling over #LVB is sentimentally good for the PSU banks at least #SBIN,#sbin cup &amp; handle @shivaji_1983 do you think its a possibility in case bnifty eventually gets upto 32k https://t.co/6QG5ZnPT0Q,#SBIN BUY MODE TGT 289/327 SL 218 (CLBS) https://t.co/2z5BVQxN5M,#SBIN BUY MODE TGT 289/327 SL 218 (CLBS) #frontpage_app https://t.co/TUrLvNaN2I,"With #LaxmiVilasBank's news every retailer is bearish 
+
+#banknifty weight 
+#HDFCBank – 28.39%
+#ICICIBank – 19.48%
+#Kotakbank 16.31%
+#AxisBank 14.95%
+#sbin – 9.56%
+#IndusIndBank – 4.37%
+#BandhanBank – 2.58%
+#FederalBnk – 1.33%
+#RBLBank – 1.06%
+
+Trends don't change in 1 day #hporb",SBIN   In bull market bearish harmonic trend reversal? - #SBIN TradingView https://t.co/5LuCCHzfhI,"Year 2016.
+low made 148.25 &amp; rallied to 373/-
+
+#ChineseVirus Year 2020
+low made 149.45 &amp; now trading at 240 !! 
+
+#SBIN #PriceHasMemory 
+Support identified using #VirginPriceAction https://t.co/bBN7WFGCMi","Tata Motors, Tata Steel, HDFC Life Insurance and State Bank of India were the top gainers of the day. 
+
+These stocks were trading higher on the NSE from early trading to the end of the session. #MarketUpdate again #BPCL drops -4.25% 
+
+#TATAMOTORS #TATASTEEL #HDFCLIFE #SBIN",#SBIN - SBIN Bullish Above 250 - TradingView - https://t.co/ZJgHvEcKJf,"#SBIN breakout above 240. If sustains above levels can see 250. 
+
+#banknifty #SBI #sbin #btstrades","That's #SBIN #PSU Monkey, 35+ points in less than a Week in FnO https://t.co/YgnJZvluLa","5.#JKLAKSHMI EQ (#loss Rs.4/share)
+6.#NIFTY (#Profit Rs.11100/2lot)
+7.#BANKNIFTY (Profit Rs.8000/2lot)
+8.#RELIANCE 2000CE  (Loss Rs.3535/lot)
+9.#SBIN EQ #Positional (Profit Rs.53/share)","#sbin is the Biggest Gainer in #Banknifty today.
+
+Also it's at 8 MONTH HIGH 
+#stocks #StockMarket https://t.co/9IL3XWbBCM https://t.co/rlkse1pAaS","Buy 3 CURMON #CANBK contracts at 92.6, Sell 2 CURMON #SBIN contracts at 240.3. Confidence = 87%, on 2020-11-17::15:16:04",Stay long trail SL below 230. #SBIN SBI https://t.co/RZTLPARrne,"Buy 3 CURMON #CANBK contracts at 92, Sell 2 CURMON #SBIN contracts at 239.15. Confidence = 88%, on 2020-11-17::14:51:04",#Sbin 237.50 to 239.75. Waiting for  246. https://t.co/MASkf1hTKX,"Buy 3 CURMON #CANBK contracts at 91.85, Sell 2 CURMON #SBIN contracts at 239.25. Confidence = 90%, on 2020-11-17::14:26:04",#sbin #tatasteel #lnt #tatamotors (investors favourite stocks) outperforming #nifty this clearly indicates that smart money chasing these stocks at same time #reliance underperformed,"RT @kach0289: as usual buy right and wait...
+#sbin https://t.co/EdI9vL6eKz","Buy 3 CURMON #CANBK contracts at 91.85, Sell 2 CURMON #SBIN contracts at 237.95. Confidence = 83%, on 2020-11-17::14:01:04","Buy 3 CURMON #CANBK contracts at 92, Sell 2 CURMON #SBIN contracts at 238.45. Confidence = 84%, on 2020-11-17::13:36:04","Today stock breaking 50 day high.
+
+#SBIN
+#DLF 
+#TATAMOTORS
+
+Ready to break 50 day high.
+
+#RBLBANK","Buy 10 CURMON #CANBK contracts at 92.3, Sell 7 CURMON #SBIN contracts at 237.75. Confidence = 74%, on 2020-11-17::13:11:04","Buy 10 CURMON #CANBK contracts at 92.3, Sell 7 CURMON #SBIN contracts at 237.45. Confidence = 70%, on 2020-11-17::12:45:04",New photo posted in Tiger-Trades: '#SBIN OPEN COUNTS 246/253. CMP 237.50. #BIGBULL' by Anand (AS) https://t.co/dN5GDXA7DC https://t.co/qPa3QN2cPO,"Buy 10 CURMON #CANBK contracts at 92.3, Sell 7 CURMON #SBIN contracts at 237.05. Confidence = 66%, on 2020-11-17::11:52:04","SBIN, target has been achieved, Pattern is still valid? - #SBIN chart https://t.co/kZBvzB9971",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,"My 3 Stocks 3% up.....
+#Tatamotors
+#SBIN
+#Cams","Nifty50 hit 52 week high in today trading. #Nifty50 day high is 12,934.05. #Sensex is trading at 43,953.65 +315.67 point higher. Sensex hit high 44,095.85 in today market. 
+
+#TATASTEEL #TATAMOTORS #SBIN #HDFCBANK #INDUSINDBK are leading the market. #BPCL drops -3.35%","#SBIN FROM LIST OF BULLISH STOCKS, ONE FINE 1:2 R:R TRADE GIVEN... #frontpage_app https://t.co/8qquP4fTJk","#SBIN &amp; #TATASTEEL STRUCTURE BULLISH FOR THE DAY, BUY IN DIPS. #frontpage_app",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,"🌟 #October month #trade of #SBIN life
+🌟 Manage &amp; earn 8.5k from October call 900 CE
+🌟 Love to #Trades our #CASH Covered #strategy
+
+#Nifty #stocks #StockMarket #OptionsTrading #futurestrading #SBICard #SBI #banknifty #investing
+#UPSC #EyeTwitter #Moderna #BharatBiotech #Folllow https://t.co/6bmR4ZLxGC",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,#SBIN @ CRUCIAL ZONE FOR EITHER SIDE https://t.co/HIA7JVO5PW,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,"Some of my #StocksToTrade picks blasted during this #Diwali 🪔
+#ABFRL
+#ASAHIINDIA
+#BAJAJFINSV
+#BAJFINANCE
+#BANKBEES
+#CENTURYPLY
+#HDFC
+#ICICIBANK
+#IOC
+#LT
+#NTPC
+#SBIN
+#TATASTEEL
+
+Wishing all #HappyDiwali, #HappyNewYear and success in #Trading 
+@zerodhaonline @ZerodhaVarsity",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,#SBIN - SBI buy is possible - TradingView - https://t.co/CDScHfjg2m,"@IndiaPostOffice @cpmgdelhi very important document cheque book tracking number
+JB261182510IN seems to be delivered on wrong address. I didn't receive the cheque book but it is showing that article is being delivered. Please help #sbin #PostOffice",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,"*Muharat pick 6*
+Buy SBI at current market price till 200-205₹ for 235₹, 247-252₹, 288₹, 325-331₹, 350₹+ Targets. Upto 65-70% returns
+Time frame 12-16 months
+#SBIN #frontpage_app",RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…,RT @PAVLeader: Here is an example of #SBIN to learn this strategy better. Do spend some time to get a better grip over this interesting sub…

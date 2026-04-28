@@ -1,0 +1,8 @@
+#,Seed,Athlete,1,2,3,4,5,6,7,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,3,{{flagIOC2athlete|[[Takahiro Shikine]]|JPN|2017 Summer Universiade}},,V,V,V,D0,V,V,5,6,0.833,25,19,6,3,17
+2,18,{{flagIOC2athlete|[[Maxime Pauty]]|FRA|2017 Summer Universiade}},D4,,V,V,V,V,V,5,6,0.833,29,11,18,1,7
+3,23,{{flagIOC2athlete|[[Christopher Nagle]]|AUS|2017 Summer Universiade}},D3,D0,,V,D2,V,V,3,6,0.500,20,19,1,4,35
+4,38,{{flagIOC2athlete|[[Pedro Macedo]]|POR|2017 Summer Universiade}},D3,D1,D2,,D3,V,V,2,6,0.333,19,20,–1,5,42
+5,43,{{nowrap|{{flagIOC2athlete|[[Iskander Akhmetov]]|RUS|2017 Summer Universiade}}}},V,D2,V,V,,V,V,5,6,0.833,27,12,15,2,12
+6,58,{{flagIOC2athlete|[[Niv Gross]]|ISR|2017 Summer Universiade}},D4,D3,D1,D0,D1,,V,1,6,0.167,14,26,–12,6,59
+7,63,{{flagIOC2athlete|[[Singh Sarbjeet]]|IND|2017 Summer Universiade}},D0,D0,D1,D0,D1,D1,,0,6,0.000,3,30,–27,7,68

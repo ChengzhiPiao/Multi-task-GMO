@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+My Info,Edit,[Nationality] Dropdown,First Name,Middle Name,Middle Name,Last Name,Last Name,Save
+Click the [<Object>] ,Click the [<Object>] ,Select item in [<Object>] which has text: [<Data>],Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Clear text [<Data>] from object [<Object>].,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] 
+Click,Click,selectByVisibleText,Set,Click,clear,Click,Set,Click
+,,Info:Nationality,Info:Name,,,,Info:LastName,
+,,,,,,,,
+OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM,OrangeHRM

@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1,{{fb|SWE}},6,4,3,0,1,12,5,+7
+2,{{fb|FRA}},4,4,2,0,2,6,4,+2
+3,{{fb|NOR}},2,4,1,0,3,4,13,−9

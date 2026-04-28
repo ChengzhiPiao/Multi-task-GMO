@@ -1,0 +1,3 @@
+positions,1-2,3,6-14,15
+text,AR,D,alphanumeric digits,decimal digit
+meaning,residence permit,issuing country: Germany (Deutschland),document number,check digit over 6-14

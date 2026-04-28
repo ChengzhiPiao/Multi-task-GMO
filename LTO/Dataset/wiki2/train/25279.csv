@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | total games PLAYED}},{{Tooltip| W | total games WON}},{{Tooltip| D | total games DRAWN (tied)}},{{Tooltip| L | total games LOST}},{{Tooltip| GF | total goals scored (GOALS FOR)}},{{Tooltip| GA | total goals conceded (GOALS AGAINST)}},{{Tooltip| GD | GOALS DIFFERENCE (GF-GA)}},{{Tooltip| Pts | total POINTS accumulated (3W+D)}}
+{{fbw|FRA}},3,2,1,0,4,0,4,7
+{{fbw|JPN}},3,1,2,0,4,1,3,5
+{{fbw|IRL}},3,1,0,2,3,6,-3,3
+{{fbw|HUN}},3,0,1,2,3,7,-4,1

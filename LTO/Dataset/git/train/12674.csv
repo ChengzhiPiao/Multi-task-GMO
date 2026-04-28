@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8
+Identity,Name,Type a,Status,X Coordinate b,Y Coordinate b,WUA,Village
+Unique ID to each irrigation network component. The ID is the official nomenclature from Klambu Wilalung Irrigation District.,The name of each irrigation network component,"The type of component in the irrigation network (1=structure, 2=canal)","The status of irrigation network components. For structures (1=main structures, 2=supporting structures). For canals (1=primary canal, 2=secondary canal).",The Easting coordinate in UTM Projection System,The Northing coordinate in UTM Projection System,The WUA for which each irrigation network components situated,The village for which each irrigation network components situated
+ID,name,type,stat,X,Y,,
+,,Nominal,Nominal,,,,
+,,,,,,,
+Official data,Official data,Official data,Official data,Official data,Official data,Enumeration,Enumeration

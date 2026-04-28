@@ -1,0 +1,8 @@
+access_project,access_task,access_task_type,access_task_work,access_project_category,access_account_analytic_account,access_project_public,access_task_public,access_task_type_public,access_task_work_public,access_project_category_public,access_account_analytic_account_public
+project,task,task_type,task_work,project_category,account_analytic_account,project,task,task_type,task_work,project_category,account_analytic_account
+project.model_project_project,project.model_project_task,project.model_project_task_type,project.model_project_task_work,project.model_project_category,analytic.model_account_analytic_account,project.model_project_project,project.model_project_task,project.model_project_task_type,project.model_project_task_work,project.model_project_category,analytic.model_account_analytic_account
+base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_public,base.group_public,base.group_public,base.group_public,base.group_public,base.group_public
+1,1,1,1,1,1,1,1,1,1,1,1
+0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0

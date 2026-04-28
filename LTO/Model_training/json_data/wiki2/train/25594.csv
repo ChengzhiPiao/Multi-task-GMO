@@ -1,0 +1,36 @@
+Gustafson Number,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133
+Genre,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Prélude,Allemande,Courante,Courante,Courante,Courante,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Chaconne,Passacaille,Sarabande,Menuet,Allemande,Courante,Sarabande,Gigue,Chaconne,Allemande,Allemande,,Courante,Courante,Courante,Courante,Courante,Courante,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Sarabande,Canarie,Volte,,Chaconne,Sarabande,Chaconne,Allemande,Courante,Sarabande,Gaillarde,Chaconne,Allemande,Courante,Sarabande,Allemande,Allemande grave,Courante,Courante,Courante,Courante,Sarabande,Branle de basque,Sarabande,Sarabande,Gigue,Gaillarde,Chaconne,Gigue,Chaconne,,Allemande,Allemande,Courante,Courante,Courante,Sarabande,Gaillarde,Chaconne,Courante,Courante,Courante,Allemande,Courante,Sarabande,,Sarabande,Passacaille,Allemande,Allemande,Allemande,,Courante,Courante,Courante,Courante,Sarabande,Sarabande,Sarabande,Sarabande,Menuet & double,Courante,Sarabande,Gigue,Allemande,Courante,Sarabande,Allemande,Courante,Pavanne,Chaconne,Gigue,-,Gavotte,Gavotte & double,Allemande & double,Rigaudon & double,Prélude,Prélude,Gavotte & double,Allemande,Courante,Courante
+Title,,,,,,à l'imitation de Mr. Froberger,,,,,,,,,,,,,,,,,,,,,Versailles,,,La précieuse,,,,La bergeronnette,,,Pièces de trois sorts de mouvements,,,,,,,,,,en canon,,,,,,,La pastourelle,,,La complaignante,,,,,,de la paix,,,,,,,,,,,,,,,,,,Tombeau de Monsieur Blancrocher,,,,,,,,,,,,,,,Chaconne ou Passacaille,,,,,L'amiable,La Piémontoise,,,La mignonne,,,,,,de Poitou,,,,,,,,,,,,-,,Gavotte de Mr. Hardel,Le moutier de Mr. de Chambonnières,,,,Gavotte de Mr. Le Bègue,,,Autre courante
+Key,D minor,D major,G minor,G minor,G minor,A minor,A minor,A major,C major,C major,C major,F major,F major,E minor,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C major,C minor,C minor,C minor,C minor,C minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D minor,D major,D major,D major,D major,D major,E minor,E minor,E minor,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,F major,G major,G major,G major,G major,G major,G major,G major,G major,G major,G major,G major,G minor,G minor,G minor,G minor,G minor,G minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A minor,A major,A major,A major,B minor,B minor,B minor,B-flat major,B-flat major,F-sharp minor,G minor,D minor,-,D minor,A minor,C major,C major,C minor,G major,C major,A minor,A minor,A minor
+Sample performances,"Rousset
+Verlet","Leonhardt
+Verlet","Rousset
+Verlet",,"Moroney
+Verlet","Sempe
+Rousset",Verlet,Verlet,Verlet,,Rousset,Verlet,"Rousset
+Sempe","Moroney
+Verlet",Rousset,,Verlet,Verlet,Rousset,,Verlet,Rousset,,Verlet,,Verlet,"Fabrizio
+Rousset
+Sempe",,,"Moroney
+Rousset",Rousset,Rousset,Rousset,Rousset,Verlet,"Moroney
+Rousset
+Verlet",Verlet,,Verlet,,Verlet,Rousset,,"Moroney
+Verlet",,,Verlet,Verlet,,Verlet,Rousset,"Laberge
+Rousset","Rousset
+Verlet","Rousset
+Verlet","Rousset
+Verlet",,Verlet,Verlet,Verlet,Verlet,"Leonhardt
+Verlet","Leonhardt
+Moroney
+Verlet",Verlet,Verlet,Verlet,,"Rousset
+Sempe",Rousset,,,,Rousset,Rousset,,,Rousset,Rousset,Rousset,,,"Leonhardt
+Puyana
+Rousset
+Sempe
+van Asperen",,,,,,,,,Verlet,Verlet,Verlet,Rousset,Rousset,Rousset,"Rousset
+Verlet",Verlet,Leonhardt,Verlet,Verlet,Rousset,Rousset,Verlet,Verlet,Rousset,Verlet,Verlet,Verlet,Rousset,Verlet,Cummings,Verlet,Verlet,Verlet,Verlet,Verlet,Verlet,,,"Puyana
+Rousset
+Sempe
+Verlet",Verlet,Verlet,-,Verlet,Verlet,"Allemande de Mr. de Chambonnières: Verlet
+Double du Moutier par Mr. Couperin: Verlet",,"Moroney
+Rousset",,,Verlet,Verlet,Verlet

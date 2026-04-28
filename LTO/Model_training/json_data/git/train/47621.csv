@@ -1,0 +1,5 @@
+127.4222,127.4222,127.4445,127.4445,127.6778,127.6778,127.6889,127.7222,127.8333,128.4139,128.7556,128.8333,128.8445,129.1222,129.1222,129.1556,129.1556
+127.5333,127.5333,127.5556,127.5556,129.2111,129.2111,127.9,128.2,128.9,,128.9889,129.0,128.9444,129.2667,129.2667,129.2667,129.2667
+Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,HandToWrist,WristToElbow,Hand,HandToWrist,Hand,Hand,HandToWrist,HandToWrist,Hand,Hand
+FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,Target,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed
+LeftGate,RightGate,LeftGate,RightGate,RightGate,LeftGate,LeftGate,LeftGate,LeftGate,PickedUp,LeftGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,LeftGate

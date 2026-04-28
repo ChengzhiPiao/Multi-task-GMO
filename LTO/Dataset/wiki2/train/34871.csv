@@ -1,0 +1,5 @@
+Teams,{{Tooltip | W | Wins}},{{Tooltip | L | Loss}},Pct.,GB,{{Tooltip | R | Runs scored}},{{Tooltip | RA | Runs allowed}}
+{{bb|GBR}},3,0,1.000,&mdash;,30,16
+{{bb|ISR}},2,1,.667,1,30,11
+{{bb|LIT}},1,2,.333,2,19,28
+{{bb|GEO}},0,3,.000,3,9,33

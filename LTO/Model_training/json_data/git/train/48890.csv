@@ -1,0 +1,5 @@
+Column,Column,FormType,SurveyUtil,Table,Table,Table
+Sample,soil_condition,default,default,default,default,default
+displayName,displayChoicesList,FormType.formType,SurveyUtil.formId,colOrder,defaultViewType,displayName
+object,object,string,string,array,string,object
+"{""text"":""Sample""}","[{""choice_list_name"":""soil_type"",""data_value"":""dry"",""display"":{""title"":{""text"":""Dry""}},""_row_num"":2},{""choice_list_name"":""soil_type"",""data_value"":""damp"",""display"":{""title"":{""text"":""Damp""}},""_row_num"":3},{""choice_list_name"":""soil_type"",""data_value"":""moist"",""display"":{""title"":{""text"":""Moist""}},""_row_num"":4},{""choice_list_name"":""soil_type"",""data_value"":""wet"",""display"":{""title"":{""text"":""Wet""}},""_row_num"":5}]",SURVEY,agriculture,"[""Date_and_Time"",""plot_name"",""soil_condition"",""Sample""]",SPREADSHEET,"{""text"":""Agriculture""}"

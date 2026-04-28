@@ -1,0 +1,4 @@
+Implementation,Botan,Bouncy Castle,cryptlib,Crypto++,Libgcrypt,libsodium,OpenSSL,wolfCrypt
+PKCS #11,{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{No}},{{Yes}},{{Yes}}
+PC/SC,{{No}},{{No}},{{No}},{{No}},{{Yes}},{{No}},{{No}},{{No}}
+CCID,{{No}},{{No}},{{No}},{{No}},{{Yes}},{{No}},{{No}},{{No}}

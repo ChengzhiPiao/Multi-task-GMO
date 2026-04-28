@@ -1,0 +1,3 @@
+access_outlet_stock_user,outlet.stock,model_outlet_stock,base.group_user,1,1,1,1
+access_cash_flow_user,cash.flow,model_cash_flow,base.group_user,1,1,1,1
+access_cashflow_line_user,cashflow.line,model_cashflow_line,base.group_user,1,1,1,1

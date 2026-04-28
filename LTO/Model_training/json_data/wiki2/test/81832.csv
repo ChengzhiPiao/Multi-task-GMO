@@ -1,0 +1,7 @@
+Team,{{Tooltip|GP|Games played}},{{Tooltip|W|Wins}},{{Tooltip|T|Ties}},{{Tooltip|L|Losses}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}}
+{{flagicon|Austrian Empire}} Austria,2,2,0,0,12,0
+{{ih|BEL}},4,2,1,1,17,10
+{{ih|ENG}},1,0,0,1,0,11
+{{ih|FRA}},1,0,0,1,1,8
+{{flagicon|German Empire}} Germany,5,3,1,1,14,9
+{{ih|SUI}},2,1,0,1,15,8

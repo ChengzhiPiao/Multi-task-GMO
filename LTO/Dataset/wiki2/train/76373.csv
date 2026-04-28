@@ -1,0 +1,9 @@
+"All possible pairs
+of choice names","All possible pairs
+of choice names",Number of votes with indicated preference,Number of votes with indicated preference,Number of votes with indicated preference
+"All possible pairs
+of choice names","All possible pairs
+of choice names",Prefer X over Y,Equal preference,Prefer Y over X
+X = A,Y = B,5,0,2
+X = A,Y = C,3,0,4
+X = B,Y = C,3,0,4

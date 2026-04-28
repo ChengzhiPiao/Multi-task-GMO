@@ -1,0 +1,2 @@
+access_snailmail_letter_user,snailmail.letter.user,model_snailmail_letter,base.group_user,1,1,1,0
+access_snailmail_letter_system,snailmail.letter.system,model_snailmail_letter,base.group_system,1,1,1,1

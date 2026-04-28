@@ -1,0 +1,8 @@
+#,#,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+Las Vegas Summer League,Team,Chicago Bulls,New York Knicks,Cleveland Cavaliers,Washington Wizards,Utah Jazz,Portland Trail Blazers,New Orleans Pelicans,Sacramento Kings,Phoenix Suns,Dallas Mavericks,Golden State Warriors,San Antonio Spurs,Miami Heat,Houston Rockets,NBA D-League Select,Philadelphia 76ers,Los Angeles Lakers,Denver Nuggets,Toronto Raptors,Los Angeles Clippers,Milwaukee Bucks,Atlanta Hawks,Charlotte Hornets,Minnesota Timberwolves
+Las Vegas Summer League,{{tooltip|GP|Games played}},3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Las Vegas Summer League,{{tooltip|W|Games won}},3,3,3,3,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,0,0,0,0
+Las Vegas Summer League,{{tooltip|L|Games lost}},0,0,0,0,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,3,3,3,3
+Las Vegas Summer League,{{tooltip|PCT|Winning percentage}},1.000,1.000,1.000,1.000,.667,.667,.667,.667,.667,.667,.667,.667,.333,.333,.333,.333,.333,.333,.333,.333,.000,.000,.000,.000
+Las Vegas Summer League,{{Tooltip|QP|Quarter points}},12,9,7.5,6,8,8,8,8,7.5,6,6,3,8,5,5,5,4.5,4,4,3,4.5,4,4,4
+Las Vegas Summer League,Tiebreaker Notes,,,,,Point differential +30,Point differential +21,Point differential +17,Point differential +5,,Point differential +27,Point differential +13,,,Point differential +4,Point differential -14; Won coin flip,Point differential -14; Lost coin flip,,Point differential -24,Point differential -41,,,Point differential -33,Point differential -42,Point differential -50

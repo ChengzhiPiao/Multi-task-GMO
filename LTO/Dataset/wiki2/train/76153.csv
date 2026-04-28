@@ -1,0 +1,4 @@
+P,T,T,F,F
+Q,T,F,T,F
+P &rarr; Q,T,F,T,T
+Q &rarr; P (converse),T,T,F,T

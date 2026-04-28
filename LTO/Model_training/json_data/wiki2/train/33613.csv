@@ -1,0 +1,10 @@
+Team,{{abbr|Pld|Played}},{{abbr|W|Won}},{{abbr|L|Loss}},{{abbr|T|Tied}},{{abbr|D|Drawn}},{{abbr|A|Abandoned}},{{abbr|Bat|Batting points}},{{abbr|Bowl|Bowling points}},{{abbr|Ded|Deducted points}},{{abbr|Pts|Points}}
+"Middlesex (C, P)",16,8,2,0,6,0,50,44,0.0,240
+Surrey (P),16,8,4,0,4,0,43,44,0.0,227
+Northamptonshire,16,7,2,0,7,0,48,45,0.0,226
+Gloucestershire,16,6,5,0,5,0,41,47,1.0,198
+Derbyshire,16,5,6,0,5,0,42,44,0.0,181
+Glamorgan,16,5,6,0,4,0,44,40,1.0,178
+Essex,16,4,4,0,8,0,29,44,2.0,159
+Kent,16,5,9,0,2,0,30,42,9.0,149
+Leicestershire,16,1,11,0,4,0,24,36,0.0,88

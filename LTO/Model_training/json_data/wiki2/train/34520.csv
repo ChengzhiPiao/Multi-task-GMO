@@ -1,0 +1,4 @@
+Tritruncated 7-cube,Type,Schläfli symbol,Coxeter-Dynkin diagrams,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Tritruncated 7-cube,uniform 7-polytope,"3t{4,35}","{{CDD|node|4|node|3|node_1|3|node_1|3|node|3|node|3|node}}
+{{CDD|nodes|split2|node_1|3|node_1|3|node|3|node|3|node}}",,,,,,13440,3360,"{4}v{3,3}","B7, [35,4]
+D7, [34,1,1]",convex

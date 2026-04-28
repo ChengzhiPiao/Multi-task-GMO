@@ -1,0 +1,5 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Arantxa Parra Santonja,100,57,43,.570,1,9,16,31,.516,11,22,.500
+Irina Falconi,105,57,48,.543,1,8,16,31,.516,11,23,.478
+Maria Sanchez,5,0,5,.000,1,0,0,0,-,0,1,.000
+Total,105,57,48,.543,3,17,16,31,.516,11,23,.478

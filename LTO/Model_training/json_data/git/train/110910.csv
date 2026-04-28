@@ -1,0 +1,8 @@
+CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01,CDISCPILOT01
+TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV,TV
+1.0,2.0,3.0,3.5,4.0,5.0,6.0,7.0,8.0,8.1,9.0,9.1,10.0,10.1,11.0,11.1,12.0,13.0,101.0,201.0,501.0
+SCREENING 1,SCREENING 2,BASELINE,AMBUL ECG PLACEMENT,WEEK 2,WEEK 4,AMBUL ECG REMOVAL,WEEK 6,WEEK 8,WEEK 10 (T),WEEK 12,WEEK 14 (T),WEEK 16,WEEK 18 (T),WEEK 20,WEEK 22 (T),WEEK 24,WEEK 26,AE FOLLOW-UP,RETRIEVAL,Rash followup
+-7,-1,1,13,14,28,30,42,56,70,84,98,112,126,140,154,168,182,0,168,0
+,,,,,,,,,,,,,,,,,,,,
+Start of Screen Epoch,Start of Visitnum 3 - 24H,(Just Before) Start of Treatment Epoch,Start of Visitnum  4 - 24H,End of Visitnum  3 + 2W,End of Visitnum  3 + 4W,End of Visitnum  5 + 1D,End of Visitnum  3 + 6W,End of Visitnum  3 + 8W,End of Visitnum  8 + 2W,End of Visitnum  3 + 12W,End of Visitnum  9 + 2W,End of Visitnum  3 + 16W,End of Visitnum  10 + 2W,End of Visitnum  3 + 20W,End of Visitnum  11 + 2W,End of Visitnum  3 + 24W,End of Visitnum  3 + 26W,"When subject is terminated early, with followup visit scheduled by site","If subject stopped treatment early, before Visitnum 12, then Retrieval occurs End of Visitnum 3 + 24W","If subject experienced rash, then Rash Followup occurs at End of last study visit + 2W"
+completion of screening activities,subject leaves clinic after connection of ambulatory ECG machine,After application of first dose,,,,,,,,,,,,,,,,,,

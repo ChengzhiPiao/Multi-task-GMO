@@ -1,0 +1,5 @@
+684.7889,684.7889,684.7889,684.8112,684.8667,684.8667,684.8667,684.8838,685.2
+,,,684.8889,,,,,
+Hand,Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,Hand,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong
+LeftGate,LeftGate,RightGate,Pushed,LeftGate,LeftGate,RightGate,PickedUp,Pushed

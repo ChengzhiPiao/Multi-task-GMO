@@ -1,0 +1,2 @@
+access_hr_onboard_stage_user,hr.onboard.stage,model_hr_onboard_stage,base.group_user,1,0,0,0
+access_hr_onboard_stage_manager,hr.onboard.stage.manager,model_hr_onboard_stage,base.group_hr_user,1,1,1,1

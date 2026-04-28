@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+Browser,Browser,EAgro_Username,EAgro_Password,EAgro_Login,Browser,EAgro_Welcome,EAgro_Admin,Browser,EAgro_Manage_Maturity,Browser,EAgro_Edit_CropType,Browser,EAgro_Days_Elapsed,EAgro_Type_Save,Browser,EAgro_Verify
+Open the Url [<Data>] in the Browser,Wait for [<Data>] milli seconds,Press  key [<Data>](android),Enter the Decrypted value [<Data>] in the Field [<Object>],Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present,Click the [<Object>] ,Wait for [<Data>] milli seconds,Click the [<Object>] ,Wait for [<Data>] milli seconds,Click the [<Object>] ,Wait for [<Data>] milli seconds,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present
+Open,pause,Set,setEncrypted,Click,pause,verifyElementPresent,Click,pause,Click,pause,Click,pause,Set,Click,pause,verifyElementPresent
+AdminSave:URL,@3500,AdminSave:Username,AdminSave:Password,,@3000,,,@3000,,@2000,,@2000,@40,,@2000,
+,,,,,,,,,,,,,,,,
+,,EAgro Home Page,EAgro Home Page,EAgro Home Page,,EAgro Home Page,EAgro_Admin,,EAgro_Admin,,EAgro_Admin,,EAgro_Admin,EAgro_Admin,,EAgro_Admin

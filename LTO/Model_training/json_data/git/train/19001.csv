@@ -1,0 +1,2 @@
+access_partner_formal_education_level_user,All User - Formal Education Level,model_partner_formal_education_level,base.group_user,1,1,1,1
+access_partner_field_of_study_user,All User - Field of Study,model_partner_field_of_study,base.group_user,1,1,1,1

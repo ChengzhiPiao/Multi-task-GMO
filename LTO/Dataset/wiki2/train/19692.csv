@@ -1,0 +1,8 @@
+State,Alabama,Alaska,Arizona,Arkansas,California,Colorado,Connecticut,Delaware,Florida,Georgia,Hawaii,Idaho,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,New Jersey,New Mexico,New York,North Carolina,North Dakota,Ohio,Oklahoma,Oregon,Pennsylvania,Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,West Virginia,Wisconsin,Wyoming
+Governor,30,30,25,30,18*,30,30,30,30,30,30,30,25,30,30,25,30,25,30,30,18,30,25,30,30,30,30,25,30,30,30,30,30,30,18,31,30,30,18,30,21,30,30,25,None,30,18*,30,18,30
+Upper House,25,25,25,25,18*,25,18*,27,21,25,25,18*,21,25,25,18*,30,30,25*,25,18,21,21,25,30,None,21,21,30,30,25,18,25,18*,18,25,21,25,18,25,21,30,26,25,None,21,18*,18,18,25
+Lower House,21,21,25,21,18*,25,18*,24,21,21,18,18*,21,21,21,18*,24,18,21*,21,18,21,21,21,24,None,N.A.,21,18,21,21,18,21,18*,18,21,21,21,18,21,21,21,21,25,None,21,18*,18,18,21
+Lieutenant Governor,30,30,N.A.,30,18*,30,30,30,30,30,30,30,25,30,30,25,30,25,N.A.,30,18*,30,25,30,30,25,30,25,N.A.,30,30,30,30,30,None,31,N.A.,30,18,30,21,30†,30,30,None,30,18*,N.A.,18*,N.A.
+Attorney General,25,18*,25,18*,18*,25,18,None,30,25,None,30,25,None,18,None,30,25,None,18*,18,None,21,26,None,25,None,18*,18*,None,30,30,None,25,18,31,18,30,18,18*,None,18,18,25,None,30,18*,25,18*,18*
+Secretary of State,25,N.A.,25,18*,18*,25,None,None,None,25,N.A.,25,25,18*,18*,None,30,25,None,18*,18,18*,21,25,None,25,None,18*,18*,None,30,None,21,25,18,31,18,None,18,18*,None,None,18*,N.A.,None,18*,18*,18*,18*,25
+Treasurer,25,18*,25,18,18*,25,18*,None,25,18*,None,25,25,,,,30,25,,,18,,,25,,,,18*,,,30,30,21,25,18,31,,None,18,,,,18*,25,,18*,18,18,18,25

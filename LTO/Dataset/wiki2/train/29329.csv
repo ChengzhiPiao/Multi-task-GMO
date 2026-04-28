@@ -1,0 +1,4 @@
+Frequency,"1,800&nbsp;MHz","2,100&nbsp;MHz",800&nbsp;MHz,"1,800&nbsp;MHz","2,100&nbsp;MHz","2,600&nbsp;MHz","3,500&nbsp;MHz"
+Band,,1,20,3,1,7,n78
+Protocol,GSM/GPRS/EDGE,UMTS/HSDPA/HSPA+/DC-HSPA+,LTE/LTE Advanced,LTE/LTE Advanced,LTE/LTE Advanced,LTE/LTE Advanced,5G NR
+Class,2G,3G,4G/4G+,4G/4G+,4G/4G+,4G/4G++,5G

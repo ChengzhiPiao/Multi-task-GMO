@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbu|17|AUS}},4,3,1,0,17,3,+14,10
+{{fb|LAO}},4,1,1,2,10,17,–7,4
+{{fb|MAS}},4,0,2,2,7,14,–7,2

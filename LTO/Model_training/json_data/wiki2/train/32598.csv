@@ -1,0 +1,9 @@
+Model,Stepping,CPU,CPU,CPU,CPU,CPU,CPU,GPU,GPU,GPU,GPU,"Memory
+support",TDP,Released,Part number,"Release
+price (USD)"
+Model,Stepping,Cores,Frequency,Turbo,L2 cache,Multi,Vcore,Model,Compute Units,Frequency,Turbo,"Memory
+support",TDP,Released,Part number,"Release
+price (USD)"
+X3216,{{unk}},2,1.6&nbsp;GHz,3.0&nbsp;GHz,1&nbsp;MB,{{unk}},{{unk}},{{unk}},4,800&nbsp;MHz,{{n/a}},DDR4-1600,12-15&nbsp;W,{{unk}},{{unk}},{{unk}}
+X3418,{{unk}},4,1.8&nbsp;GHz,3.2&nbsp;GHz,2&nbsp;MB,{{unk}},{{unk}},{{unk}},6,800&nbsp;MHz,{{n/a}},DDR4-2400,12-35&nbsp;W,{{unk}},{{unk}},{{unk}}
+X3421,{{unk}},4,2.1&nbsp;GHz,3.4&nbsp;GHz,2&nbsp;MB,{{unk}},{{unk}},{{unk}},8,800&nbsp;MHz,{{n/a}},DDR4-2400,12-35&nbsp;W,{{unk}},{{unk}},{{unk}}

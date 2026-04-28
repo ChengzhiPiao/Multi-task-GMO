@@ -1,0 +1,5 @@
+Medals by sport,Sport,Judo,Athletics,Football,Sailing,Total
+Medals by sport,{{gold01}},1,0,0,0,1
+Medals by sport,{{silver02}},0,1,1,0,2
+Medals by sport,{{bronze03}},0,1,0,2,3
+Medals by sport,Total,1,2,1,2,6

@@ -1,0 +1,1 @@
+int#99	0.0	1.5	1.5	(maxIterations < 0) ? Integer.MAX_VALUE : maxIterations<k	_,,Random#172	0.0	0.16666666666666663	0.16666666666666663	resultSet.size() < k	GT,,,,

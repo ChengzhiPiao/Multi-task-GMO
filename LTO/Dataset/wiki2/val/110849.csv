@@ -1,0 +1,7 @@
+Implementation,Botan,Bouncy Castle,cryptlib,Crypto++,Libgcrypt,libsodium,Nettle,OpenSSL,wolfCrypt
+PKCS#1,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+PKCS#5,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+PKCS#8,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}
+PKCS#12,{{No}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}
+IEEE P1363,{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}}
+ASN.1,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}

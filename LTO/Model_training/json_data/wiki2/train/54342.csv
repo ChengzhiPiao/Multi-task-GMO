@@ -1,0 +1,4 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Rik de Voest,92,37,55,.402,4,9,12,23,.522,10,20,.500
+John Isner,9,4,5,.444,2,3,0,0,–,1,1,1.000
+Total,101,41,60,.406,6,12,12,23,.522,11,21,.524

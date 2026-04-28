@@ -1,0 +1,3 @@
+Stericantic 6-cube,Type,Schläfli symbol,Coxeter-Dynkin diagram,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Stericantic 6-cube,uniform 6-polytope,"t0,1,3{3,33,1}
+h2,4{4,34}",{{CDD|nodes_10ru|split2|node_1|3|node|3|node_1|3|node}} = {{CDD|node_h1|4|node|3|node_1|3|node|3|node_1|3|node}},,,,,12960,2880,,"D6, [33,1,1]",convex

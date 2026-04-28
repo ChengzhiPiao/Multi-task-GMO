@@ -1,0 +1,3 @@
+Transformation name,Identity (transform to original image),Reflection,Scale,Rotate,Shear
+Affine matrix,,,,,
+Example,File:Checkerboard identity.svg,File:Checkerboard reflection.svg,File:Checkerboard scale.svg,File:Checkerboard rotate.svg where {{math|''θ'' {{=}} {{sfrac|π|6}} {{=}}30°}},File:Checkerboard shear.svg

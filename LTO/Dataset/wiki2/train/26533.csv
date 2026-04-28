@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+Avellino,2,2,0,0,8,2,+6,4
+Udinese,2,1,0,1,2,5,&minus;3,2
+Juventus,2,0,0,2,1,4,&minus;3,0

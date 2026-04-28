@@ -1,0 +1,6 @@
+Route No.,750,751,772,780,782,821,822,BET3,BET4
+Origin,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub,{{RapidKL Rail code|KJ|14}} {{KLRT color code|SBK|16}} Pasar Seni Hub
+Destination,UiTM Shah Alam,"Taman Sri Muda, Shah Alam",Subang Suria,"Section 8, Kota Damansara",Petaling Jaya Old Town Terminal,"Pantai Hill Park
+Pantai Dalam",Bangsar Park,"Subang Mewah, USJ 1","Taman Sri Muda, Shah Alam"
+Via,,,,,,,Mid Valley Megamall,New Pantai Expressway,New Pantai Expressway
+Connecting to,"708, 753, 754, T750, T751, T752, T753, T754","702, T756, BET4","T802, T803","T801, BET1","781, T640, PJ01",T791,T817,"770, 771, T776","702, 751, T756"

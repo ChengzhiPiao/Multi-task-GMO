@@ -1,0 +1,6 @@
+Order-5-6 hexagonal honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-5-6 hexagonal honeycomb,Regular honeycomb,"{6,6,6}
+{6,(6,3,6)}","{{CDD|node_1|6|node|6|node|6|node}}
+{{CDD|node_1|6|node|6|node|6|node_h0}} = {{CDD|node_1|6|node|split1-66|branch}}","{6,6} File:H2 tiling 266-1.png",{6},{6},"{6,6} File:H2 tiling 266-4.png
+{(6,3,6)} File:H2 tiling 366-1.png",self-dual,"[6,5,6]
+[6,((6,3,6))]",Regular

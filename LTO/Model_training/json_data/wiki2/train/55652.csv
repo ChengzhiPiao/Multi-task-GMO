@@ -1,0 +1,7 @@
+Sport,Men,Men,Men,Men,Women,Women,Women,Women,Grand Total,Grand Total,Grand Total,Grand Total
+Sport,{{gold1}},{{silver2}},{{bronze3}},Total,{{gold1}},{{silver2}},{{bronze3}},Total,{{gold1}},{{silver2}},{{bronze3}},Total
+Athletics,0,1,2,3,0,0,2,2,0,1,4,5
+Fencing,0,0,1,1,0,0,0,0,0,0,1,1
+Shooting,1,0,1,2,0,0,0,0,1,0,1,2
+Taekwondo,1,0,1,2,0,1,5,6,1,1,6,8
+Total,2,1,5,8,0,1,7,8,2,2,12,16

@@ -1,0 +1,5 @@
+Software,Azure Boards,HeySpace,JIRA,Projektron BCS,Taiga,Trello,Tuleap
+Scrum board,{{yes}},{{Yes}},{{yes}},{{yes}},{{yes}},{{yes}},{{yes}}
+Custom columns,{{yes}},{{Yes}},{{yes}},{{yes}},{{yes}},{{yes}},{{yes}}
+Burndown chart,{{yes}},{{No}},{{yes}},{{yes}},{{yes}},{{yes|Via plugin}},{{yes}}
+Sprint goal,{{yes|Sprint name}},{{yes|Sprint description}},{{yes}},{{no}},{{yes}},{{no}},{{yes|Sprint description}}

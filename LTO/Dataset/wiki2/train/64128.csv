@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Wins}},{{Tooltip|W+|Wins after extra time}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}},Notes
+1,{{beachsoccer|POR}},3,3,0,0,16,5,+11,9,Stage Winners
+2,{{beachsoccer|ITA}},3,1,1,1,13,13,0,5,
+3,{{beachsoccer|GER}},3,1,0,2,11,11,0,3,
+4,{{beachsoccer|IRE|name=Rep. of Ireland}},3,0,0,3,9,20,–11,0,

@@ -1,0 +1,3 @@
+Column,Location,Location,Location,Location,Phase,Phase,Phase,Phase,Phase,Phase,Phase,Phase,Phase,Airport
+Abbreviation,(none),"""off""","""near""","""area of""",STD,TXI,TOF,ICL,ENR,MNV,APR,LDG,UNK,***
+Definition,< 20&nbsp;km (12.5&nbsp;mi),< 20&nbsp;km (12.5&nbsp;mi) (water impact),20&nbsp;km (12.5&nbsp;mi) to 50&nbsp;km (31&nbsp;mi),> 50&nbsp;km (31&nbsp;mi),Standing,Taxi,Take off,Initial climb,En route,Maneuvering,Approach,Landing,Unknown,Active or decommissioned military bases; closed/reassigned civil airports

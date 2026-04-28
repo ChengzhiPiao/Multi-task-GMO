@@ -1,0 +1,10 @@
+Standings,Team,1,2,3,4,5,6,7,8,9,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,Team,Criciúma,Marcílio Dias,Pinheiros,Londrina,Juventude,Avaí,Novo Hamburgo,Brasil de Pelotas,Cascavel,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,Pts,14,10,9,9,8,7,7,4,4,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,G,8,8,8,8,8,8,8,8,8,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,W,6,4,3,3,2,3,3,1,0,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,D,2,2,3,3,4,1,1,2,4,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,L,0,2,2,2,2,4,4,5,4,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,GF,12,8,11,9,7,5,8,8,6,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,GA,4,6,9,8,5,6,11,13,12,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference
+Standings,GD,+8,+2,2,+1,+2,-1,-3,-5,-6,P - position; Pts – points earned; G – games played; W - matches won; D - matches drawn; L - matches lost; GF – goals for; GA – goals against; GD – goal difference

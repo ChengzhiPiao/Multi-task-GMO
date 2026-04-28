@@ -1,0 +1,4 @@
+,Block 1,Block 2,Block 2,Block 2,Block 2,Block 2,Block 3,Block 4
+Block Meaning,Program Identification Code,Group Type,B0,TP,PTY,APP,Group Specific Payload,Group Specific Payload
+Block Payload Bit Value,XXXX XXXX XXXX XXXX,XXXX,0,X,XXXXX,XXXXX,XXXX XXXX XXXX XXXX,XXXX XXXX XXXX XXXX
+Offset Value (Sync),Offset A,Offset B,Offset B,Offset B,Offset B,Offset B,Offset C,Offset D

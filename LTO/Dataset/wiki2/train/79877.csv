@@ -1,0 +1,11 @@
+G,B1,"B2
+Platform level","B2
+Platform level","B2
+Platform level","B2
+Platform level"
+Street Level,Mezzanine,Southbound,"Island platform, doors will open on the left for southbound trains only {{access icon}}",Northbound,"Side platform, doors will open on the right {{access icon}}"
+Exit/Entrance,"Fare control, one-way faregates","← {{rcb|system=PATH|line=JSQ-33|inline=yes}} toward Journal Square (Grove Street)
+← {{rcb|system=PATH|line=JSQ-33 (via HOB)|inline=yes}} toward Journal Square (Grove Street)
+← {{rcb|system=PATH|line=HOB-WTC|inline=yes}} toward World Trade Center (Exchange Place)","Island platform, doors will open on the left for southbound trains only {{access icon}}","→ {{rcb|system=PATH|line=JSQ-33|inline=yes}} toward 33rd Street (Christopher Street) →
+→ {{rcb|system=PATH|line=JSQ-33 (via HOB)|inline=yes}} toward 33rd Street (Hoboken Terminal) →
+→ {{rcb|system=PATH|line=HOB-WTC|inline=yes}} toward Hoboken Terminal (Terminus) →","Side platform, doors will open on the right {{access icon}}"

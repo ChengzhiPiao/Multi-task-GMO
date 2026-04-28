@@ -1,0 +1,2 @@
+access_rp_masukan_all,Retur Pajak Masukan - All User,model_l10n_id_retur_pajak_masukan,base.group_user,1,0,0,0
+access_rp_masukan_taxform_user,Retur Pajak Masukan - Taxform User,model_l10n_id_retur_pajak_masukan,l10n_id_taxform.user_group_taxform,1,1,1,1

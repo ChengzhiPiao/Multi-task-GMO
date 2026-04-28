@@ -1,0 +1,4 @@
+MLPClassifier,,anchors precision,,,,,,,anchors coverage,,,,,,,anchors prec*coverage,,,,,,,anchors size,,,,,,,time to compute anchors,,,,,,,dataset name,generate_circles
+1,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,dataset size,1000
+0.96,,,0.64,0.74,0.61,0.7,0.77,,,0.18,0.16,0.19,0.45,0.52,,,0.28,0.26,0.29,0.55,0.62,,,8.14,4.79,3.69,3.69,2.39,,,17.82,20.97,7.33,11.8,5.12,,dataset nb feature,2
+0.95,,,,,,,,,Normalized coverage,0.35,0.31,0.37,0.87,1.00,,Normalized F1,0.45,0.43,0.46,0.77,0.87,,,,,,,,,,,,,,,,Number of instances running,100

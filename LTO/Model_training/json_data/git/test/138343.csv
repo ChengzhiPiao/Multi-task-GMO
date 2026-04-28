@@ -1,0 +1,4 @@
+org/assertj/core/data/MapEntry.entry,org/assertj/core/data/MapEntry.MapEntry,org/assertj/core/data/MapEntry.equals,org/assertj/core/data/MapEntry.hashCode,org/assertj/core/data/MapEntry.toString,org/assertj/core/data/MapEntry.getKey,org/assertj/core/data/MapEntry.getValue,org/assertj/core/data/MapEntry.setValue
+(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/data/MapEntry;,(Ljava/lang/Object;Ljava/lang/Object;)V,(Ljava/lang/Object;)Z,()I,()Ljava/lang/String;,()Ljava/lang/Object;,()Ljava/lang/Object;,(Ljava/lang/Object;)Ljava/lang/Object;
+10,19,39,12,9,7,7,8
+1,1,4,1,1,1,1,1

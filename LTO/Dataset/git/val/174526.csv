@@ -1,0 +1,4 @@
+org/assertj/core/internal/ExtendedByTypesComparator.ExtendedByTypesComparator,org/assertj/core/internal/ExtendedByTypesComparator.ExtendedByTypesComparator,org/assertj/core/internal/ExtendedByTypesComparator.compare,org/assertj/core/internal/ExtendedByTypesComparator.getComparator,org/assertj/core/internal/ExtendedByTypesComparator.toString
+(Lorg/assertj/core/internal/TypeComparators;)V,(Ljava/util/Comparator;Lorg/assertj/core/internal/TypeComparators;)V,(Ljava/lang/Object;Ljava/lang/Object;)I,()Ljava/util/Comparator;,()Ljava/lang/String;
+17,19,70,7,33
+1,1,8,1,2

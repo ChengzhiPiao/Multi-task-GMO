@@ -1,0 +1,3 @@
+Year,Team,{{tooltip|GP|Games played}},{{tooltip|GS|Games started}},Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing
+Year,Team,{{tooltip|GP|Games played}},{{tooltip|GS|Games started}},{{tooltip|Cmp|Passes completed}},{{tooltip|Att|Passes attempted}},{{tooltip|Pct|Completion percentage}},{{tooltip|Yds|Passing yards}},{{tooltip|Y/A|Yards per passing attempt}},{{tooltip|TD|Passing touchdowns}},{{tooltip|Int|Interceptions}},{{tooltip|Rtg|Passer rating}},{{tooltip|Att|Rushing attempts}},{{tooltip|Yds|Rushing yards}},{{tooltip|Avg|Yards per rushing attempt}},{{tooltip|TD|Rushing touchdowns}}
+2006,CAR,1,0,6,11,54.5,56,5.1,0,1,30.9,1,2,2.0,0

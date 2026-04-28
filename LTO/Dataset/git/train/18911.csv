@@ -1,0 +1,2 @@
+access_account_journal_subtype_all,account.journal_subtype - All,model_account_journal_subtype,,1,0,0,0
+access_account_journal_subtype_employee,account.journal_subtype - Employee,model_account_journal_subtype,base.group_user,1,0,0,0

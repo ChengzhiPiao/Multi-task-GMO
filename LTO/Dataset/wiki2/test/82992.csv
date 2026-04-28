@@ -1,0 +1,6 @@
+Armour penetration table,APHE shell BR-540,"Distance, m",500,1000,1500,2000,APBC shell BR-540B,"Distance, m",500,1000,1500,2000,Naval semi-AP model 1915/28,"Distance, m",100,500,1000,1500,2000,"This data was obtained by Soviet methodics of armour penetration measurement (penetration probability equals 75%).
+It is not directly comparable with western data of similar type."
+Armour penetration table,APHE shell BR-540,"Meet angle 60°, mm",105,95,85,75,APBC shell BR-540B,"Meet angle 60°, mm",105,100,95,85,Naval semi-AP model 1915/28,"Meet angle 60°, mm",110,104,97,91,85,"This data was obtained by Soviet methodics of armour penetration measurement (penetration probability equals 75%).
+It is not directly comparable with western data of similar type."
+Armour penetration table,APHE shell BR-540,"Meet angle 90°, mm",125,115,105,90,APBC shell BR-540B,"Meet angle 90°, mm",130,120,115,105,Naval semi-AP model 1915/28,"Meet angle 90°, mm",136,128,119,111,105,"This data was obtained by Soviet methodics of armour penetration measurement (penetration probability equals 75%).
+It is not directly comparable with western data of similar type."

@@ -1,0 +1,3 @@
+Pentic 6-cube,Type,Schläfli symbol,Coxeter-Dynkin diagram,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Pentic 6-cube,uniform 6-polytope,"t0,4{3,34,1}
+h5{4,34}",{{CDD|nodes_10ru|split2|node|3|node|3|node|3|node_1}} = {{CDD|node_h1|4|node|3|node|3|node|3|node|3|node_1}},,,,,1440,192,,"D6, [33,1,1]",convex

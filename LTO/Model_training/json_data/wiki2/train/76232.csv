@@ -1,0 +1,11 @@
++,"Byte
+0","Bytes
+1..4","Bytes
+1..4","Bytes
+5..(m−1)","Bytes
+m..(p−1)","Bytes
+p..(q−1)"
+Byte +0,Content type,Legacy version,(Major),Protocol message(s),MAC (optional),Padding (block ciphers only)
+Byte +0,Content type,Legacy version,(Major),Protocol message(s),MAC (optional),Padding (block ciphers only)
+Byte +0,Content type,Legacy version,(Major),Protocol message(s),MAC (optional),Padding (block ciphers only)
+Byte +0,Content type,Legacy version,(Major),Protocol message(s),MAC (optional),Padding (block ciphers only)

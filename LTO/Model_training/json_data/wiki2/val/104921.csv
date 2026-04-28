@@ -1,0 +1,4 @@
+Frequency,UHF,kW,Operator,System
+{{UK DVB-T|ch=21|off=pos}},21+,0.015,BBC B,DVB-T2
+{{UK DVB-T|ch=24}},24,0.015,Digital 3&4,DVB-T
+{{UK DVB-T|ch=27}},27,0.015,BBC A,DVB-T

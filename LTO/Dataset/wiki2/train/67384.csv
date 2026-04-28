@@ -1,0 +1,6 @@
+Team,{{Tooltip | Pld | Played }},{{Tooltip | W | Won }},{{Tooltip | L | Lost }},{{Tooltip | D | Draw }},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points }}
+Navan O'Mahonys,4,4,0,0,46,26,+20,8
+Moynalvey,4,3,1,0,25*,29*,-4*,6
+Ballivor,4,1,2,1,22*,31*,-9*,3
+Trim,4,1,2,1,38,41,-3,3
+Martinstown/Athboy,4,0,4,0,11**,15**,-4**,0

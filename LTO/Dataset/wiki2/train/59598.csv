@@ -1,0 +1,6 @@
+Tournament/Year,Grand Slam tournaments,Australian Open,French Open,Wimbledon,US Open,Win–Loss,National Representation,Summer Olympics,Davis Cup,Career statistics,,Tournaments,Titles,Finals Reached,Hard Win–Loss,Clay Win–Loss,Grass Win–Loss,Outdoor Win–Loss,Indoor Win–Loss,Overall Win–Loss,Win (%),Year-End Ranking
+2016,Grand Slam tournaments,,,,,0–0,National Representation,A,A,Career statistics,2016,1,0,0,0–0,0–1,0–0,0–1,0–0,0–1,{{Round|{{#expr:0/1*100}}|0}}%,457
+2017,Grand Slam tournaments,,,,,0–0,National Representation,NH,,Career statistics,2017,0,0,0,0–0,0–0,0–0,0–0,0–0,0–0,N/A,
+{{Tooltip|SR|Strike Rate}},Grand Slam tournaments,0 / 0,0 / 0,0 / 0,0 / 0,0 / 0,National Representation,0 / 0,0 / 0,Career statistics,{{Tooltip|SR|Strike Rate}},1,0,0,0 / 0,0 / 1,0 / 0,0 / 1,0 / 0,0 / 1,{{Round|{{#expr:0/1*100}}|2}}%,"$6,693"
+{{Tooltip|W–L|Win–Loss}},Grand Slam tournaments,0–0,0–0,0–0,0–0,0–0,National Representation,0–0,0–0,Career statistics,{{Tooltip|W–L|Win–Loss}},1,0,0,0–0,0–1,0–0,0–1,0–0,0–1,{{Round|{{#expr:0/1*100}}|2}}%,"$6,693"
+Win %,Grand Slam tournaments,N/A,N/A,N/A,N/A,N/A,National Representation,N/A,N/A,Career statistics,Win %,1,0,0,N/A,{{Round|{{#expr:0/1*100}}|0}}%,N/A,{{Round|{{#expr:0/1*100}}|0}}%,N/A,{{Round|{{#expr:0/1*100}}|0}}%,{{Round|{{#expr:0/1*100}}|2}}%,"$6,693"

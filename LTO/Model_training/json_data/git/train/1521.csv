@@ -1,0 +1,90 @@
+"May 24, 2020 @ 13:35:49.671","May 24, 2020 @ 13:35:48.592","May 24, 2020 @ 13:35:48.576","May 24, 2020 @ 13:35:12.904","May 24, 2020 @ 13:35:02.451","May 24, 2020 @ 13:34:21.640","May 24, 2020 @ 13:34:14.404","May 24, 2020 @ 13:33:28.276","May 24, 2020 @ 13:33:28.258","May 24, 2020 @ 13:30:39.703","May 24, 2020 @ 13:28:02.455","May 24, 2020 @ 13:27:44.693","May 24, 2020 @ 13:27:44.667"
+7,7,7,7,7,9,7,7,7,10,7,12,14
+Integrity checksum changed.,Integrity checksum changed.,Integrity checksum changed.,Integrity checksum changed.,Integrity checksum changed.,Benchmark for Windows audit: Ensure 'MSS: (AutoAdminLogon) Enable Automatic Logon (not recommended)' is set to 'Disabled': Status changed from 'not applicable' to failed,SessionEnv was unavailable to handle a critical notification event,Integrity checksum changed.,Integrity checksum changed.,Multiple Windows error events,Integrity checksum changed.,Sysmon - Suspicious Process - explorer.exe,ATT&CK T1036: System File Execution Location Anomaly
+,,,,,,"""The winlogon notification subscriber <SessionEnv> was unavailable to handle a critical notification event.""",,,"""Id = {00000000-0000-0000-0000-000000000000}; ClientMachine = DESKTOP-HUE026H; User = NT AUTHORITY\SYSTEM; ClientProcessId = 6192; Component = Unknown; Operation = Start IWbemServices::ExecQuery - ROOT\WMI : SELECT * FROM BatteryFullChargedCapacity; ResultCode = 0x80041010; PossibleCause = Unknown""",,"""Process Create:
+RuleName: 
+UtcTime: 2020-05-22 13:19:59.936
+ProcessGuid: {df9fc3d3-d17f-5ec7-0000-001067a21a00}
+ProcessId: 5328
+Image: C:\Windows\explorer.exe
+FileVersion: 10.0.18362.693 (WinBuild.160101.0800)
+Description: Windows Explorer
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: EXPLORER.EXE
+CommandLine: C:\Windows\explorer.exe /factory,{75dff2b7-6936-4c06-a8bb-676a7b00b24b} -Embedding
+CurrentDirectory: C:\Windows\system32\
+User: DESKTOP-HUE026H\John Williams
+LogonGuid: {df9fc3d3-d0d4-5ec7-0000-002021020300}
+LogonId: 0x30221
+TerminalSessionId: 1
+IntegrityLevel: Medium
+Hashes: MD5=F7DC8A74E30E08B9510380274CFB9288,SHA256=C5E88D778C0B118D49BEF467ED059C09B61DEEA505D2A3D5CA1DCC0A5CDF752F,IMPHASH=FE6F775DD0C72FFD106F56930C60A452
+ParentProcessGuid: {df9fc3d3-d0cd-5ec7-0000-0010ccbb0000}
+ParentProcessId: 724
+ParentImage: C:\Windows\System32\svchost.exe
+ParentCommandLine: C:\Windows\system32\svchost.exe -k DcomLaunch -p""","""Process Create:
+RuleName: 
+UtcTime: 2020-05-22 13:19:59.743
+ProcessGuid: {df9fc3d3-d17f-5ec7-0000-00106e921a00}
+ProcessId: 4488
+Image: C:\Windows\SysWOW64\explorer.exe
+FileVersion: 10.0.18362.693 (WinBuild.160101.0800)
+Description: Windows Explorer
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: EXPLORER.EXE
+CommandLine: ""C:\Windows\System32\explorer.exe"" /select, ""C:\Users\John Williams\Downloads\Free Alts.txt""
+CurrentDirectory: C:\Users\John Williams\Downloads\
+User: DESKTOP-HUE026H\John Williams
+LogonGuid: {df9fc3d3-d0d4-5ec7-0000-0020df010300}
+LogonId: 0x301DF
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: MD5=710CD555C00C29C59152DD50CAA553ED,SHA256=6E6E91554392595D18EE3D691258FC1D23E19DDC1E0BD6C26051DEBB8B70E5FD,IMPHASH=C3681D33DE70933393BD754BC4BCE962
+ParentProcessGuid: {df9fc3d3-d161-5ec7-0000-00101c201600}
+ParentProcessId: 5868
+ParentImage: C:\Users\John Williams\Downloads\thisis - Linkvertise Downloader_4159543738.exe
+ParentCommandLine: ""C:\Users\John Williams\Downloads\thisis - Linkvertise Downloader_4159543738.exe"" RSF /ppn:YyhwYgxaFRAiP211FM5W /mnl"""
+,,,,,,,,,,,"C:\\Windows\\explorer.exe /factory,{75dff2b7-6936-4c06-a8bb-676a7b00b24b} -Embedding","\""C:\\Windows\\System32\\explorer.exe\"" /select, \""C:\\Users\\John Williams\\Downloads\\Free Alts.txt\"""
+"File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}' checksum changed.
+Old md5sum was: '271f59daf9ca28fbeb0bd234897e1662'
+New md5sum is : '7fa7290c3b0e7b2d8ed5a092299db356'
+Old sha1sum was: 'e8d6ecabf76ed97cd87dc8593f64cd69ec8ec7a2'
+New sha1sum is : '27735fff26a4f9093576dfbd77d06599094d3497'
+","File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon' checksum changed.
+Old md5sum was: '496e80acc19637c8daf8c286b6ea10f0'
+New md5sum is : '8535e71303cbabe6816cd4f197652bc8'
+Old sha1sum was: '88ef9e17f6f18f6242bf8a46b383b017d42012b9'
+New sha1sum is : '46940de4369c12b1d1c24136f4fe3108925e9678'
+","File '[x64] HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\VolatileUserMgrKey\1\S-1-5-21-438079597-2123118846-2669748851-1001' checksum changed.
+Old md5sum was: '89598d32459256342f73e9b832b618dc'
+New md5sum is : 'be8a4b502546da3087f02371f0f02c17'
+Old sha1sum was: '68aacf23a86d664018607a7fc5d1379269af8643'
+New sha1sum is : 'bd49702c05c290aaa23685f3c33157cdf7b4ee52'
+","File 'HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer' checksum changed.
+Old md5sum was: 'd41d8cd98f00b204e9800998ecf8427e'
+New md5sum is : '497a8c7081c737f07c267a30b1538ff9'
+Old sha1sum was: 'da39a3ee5e6b4b0d3255bfef95601890afd80709'
+New sha1sum is : '58d9cdbd07af978efc5e91b8e7a66696280d3b1e'
+","File 'HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\ActiveX Compatibility' checksum changed.
+Old md5sum was: 'd41d8cd98f00b204e9800998ecf8427e'
+New md5sum is : '44a185f2e5e0fa09edbcbe3e598fe4da'
+Old sha1sum was: 'da39a3ee5e6b4b0d3255bfef95601890afd80709'
+New sha1sum is : 'f7a3cf6aa04ebaeee3c4525064299cb2136e4f06'
+",,,"File 'HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer' checksum changed.
+Old md5sum was: '497a8c7081c737f07c267a30b1538ff9'
+New md5sum is : 'd41d8cd98f00b204e9800998ecf8427e'
+Old sha1sum was: '58d9cdbd07af978efc5e91b8e7a66696280d3b1e'
+New sha1sum is : 'da39a3ee5e6b4b0d3255bfef95601890afd80709'
+","File 'HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\ActiveX Compatibility' checksum changed.
+Old md5sum was: '44a185f2e5e0fa09edbcbe3e598fe4da'
+New md5sum is : 'd41d8cd98f00b204e9800998ecf8427e'
+Old sha1sum was: 'f7a3cf6aa04ebaeee3c4525064299cb2136e4f06'
+New sha1sum is : 'da39a3ee5e6b4b0d3255bfef95601890afd80709'
+",,"File 'HKEY_LOCAL_MACHINE\Security\Policy\PolAdtEv' checksum changed.
+Old md5sum was: '9d15aff4d26f802c3c4d3d74a00d8d4d'
+New md5sum is : 'b40de87500ee3eed90c2ce3ce8c7946f'
+Old sha1sum was: '11f3afa3902d0fadfcc52e4c051995f536c7d4e2'
+New sha1sum is : '2f6e6dd0efd148b1c11d33c91e9cea4a97a84792'
+","{""win"":{""system"":{""providerName"":""Microsoft-Windows-Sysmon"",""providerGuid"":""{5770385f-c22a-43e0-bf4c-06f5698ffbd9}"",""eventID"":""1"",""version"":""5"",""level"":""4"",""task"":""1"",""opcode"":""0"",""keywords"":""0x8000000000000000"",""systemTime"":""2020-05-22T13:19:59.943722400Z"",""eventRecordID"":""1087"",""processID"":""2292"",""threadID"":""3260"",""channel"":""Microsoft-Windows-Sysmon/Operational"",""computer"":""DESKTOP-HUE026H"",""severityValue"":""INFORMATION"",""message"":""\""Process Create:\r\nRuleName: \r\nUtcTime: 2020-05-22 13:19:59.936\r\nProcessGuid: {df9fc3d3-d17f-5ec7-0000-001067a21a00}\r\nProcessId: 5328\r\nImage: C:\\Windows\\explorer.exe\r\nFileVersion: 10.0.18362.693 (WinBuild.160101.0800)\r\nDescription: Windows Explorer\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: EXPLORER.EXE\r\nCommandLine: C:\\Windows\\explorer.exe /factory,{75dff2b7-6936-4c06-a8bb-676a7b00b24b} -Embedding\r\nCurrentDirectory: C:\\Windows\\system32\\\r\nUser: DESKTOP-HUE026H\\John Williams\r\nLogonGuid: {df9fc3d3-d0d4-5ec7-0000-002021020300}\r\nLogonId: 0x30221\r\nTerminalSessionId: 1\r\nIntegrityLevel: Medium\r\nHashes: MD5=F7DC8A74E30E08B9510380274CFB9288,SHA256=C5E88D778C0B118D49BEF467ED059C09B61DEEA505D2A3D5CA1DCC0A5CDF752F,IMPHASH=FE6F775DD0C72FFD106F56930C60A452\r\nParentProcessGuid: {df9fc3d3-d0cd-5ec7-0000-0010ccbb0000}\r\nParentProcessId: 724\r\nParentImage: C:\\Windows\\System32\\svchost.exe\r\nParentCommandLine: C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p\""""},""eventdata"":{""utcTime"":""2020-05-22 13:19:59.936"",""processGuid"":""{df9fc3d3-d17f-5ec7-0000-001067a21a00}"",""processId"":""5328"",""image"":""C:\\\\Windows\\\\explorer.exe"",""fileVersion"":""10.0.18362.693 (WinBuild.160101.0800)"",""description"":""Windows Explorer"",""product"":""Microsoft® Windows® Operating System"",""company"":""Microsoft Corporation"",""originalFileName"":""EXPLORER.EXE"",""commandLine"":""C:\\\\Windows\\\\explorer.exe /factory,{75dff2b7-6936-4c06-a8bb-676a7b00b24b} -Embedding"",""currentDirectory"":""C:\\\\Windows\\\\system32\\\\"",""user"":""DESKTOP-HUE026H\\\\John Williams"",""logonGuid"":""{df9fc3d3-d0d4-5ec7-0000-002021020300}"",""logonId"":""0x30221"",""terminalSessionId"":""1"",""integrityLevel"":""Medium"",""hashes"":""MD5=F7DC8A74E30E08B9510380274CFB9288,SHA256=C5E88D778C0B118D49BEF467ED059C09B61DEEA505D2A3D5CA1DCC0A5CDF752F,IMPHASH=FE6F775DD0C72FFD106F56930C60A452"",""parentProcessGuid"":""{df9fc3d3-d0cd-5ec7-0000-0010ccbb0000}"",""parentProcessId"":""724"",""parentImage"":""C:\\\\Windows\\\\System32\\\\svchost.exe"",""parentCommandLine"":""C:\\\\Windows\\\\system32\\\\svchost.exe -k DcomLaunch -p""}}}","{""win"":{""system"":{""providerName"":""Microsoft-Windows-Sysmon"",""providerGuid"":""{5770385f-c22a-43e0-bf4c-06f5698ffbd9}"",""eventID"":""1"",""version"":""5"",""level"":""4"",""task"":""1"",""opcode"":""0"",""keywords"":""0x8000000000000000"",""systemTime"":""2020-05-22T13:19:59.831367900Z"",""eventRecordID"":""1086"",""processID"":""2292"",""threadID"":""3260"",""channel"":""Microsoft-Windows-Sysmon/Operational"",""computer"":""DESKTOP-HUE026H"",""severityValue"":""INFORMATION"",""message"":""\""Process Create:\r\nRuleName: \r\nUtcTime: 2020-05-22 13:19:59.743\r\nProcessGuid: {df9fc3d3-d17f-5ec7-0000-00106e921a00}\r\nProcessId: 4488\r\nImage: C:\\Windows\\SysWOW64\\explorer.exe\r\nFileVersion: 10.0.18362.693 (WinBuild.160101.0800)\r\nDescription: Windows Explorer\r\nProduct: Microsoft® Windows® Operating System\r\nCompany: Microsoft Corporation\r\nOriginalFileName: EXPLORER.EXE\r\nCommandLine: \""C:\\Windows\\System32\\explorer.exe\"" /select, \""C:\\Users\\John Williams\\Downloads\\Free Alts.txt\""\r\nCurrentDirectory: C:\\Users\\John Williams\\Downloads\\\r\nUser: DESKTOP-HUE026H\\John Williams\r\nLogonGuid: {df9fc3d3-d0d4-5ec7-0000-0020df010300}\r\nLogonId: 0x301DF\r\nTerminalSessionId: 1\r\nIntegrityLevel: High\r\nHashes: MD5=710CD555C00C29C59152DD50CAA553ED,SHA256=6E6E91554392595D18EE3D691258FC1D23E19DDC1E0BD6C26051DEBB8B70E5FD,IMPHASH=C3681D33DE70933393BD754BC4BCE962\r\nParentProcessGuid: {df9fc3d3-d161-5ec7-0000-00101c201600}\r\nParentProcessId: 5868\r\nParentImage: C:\\Users\\John Williams\\Downloads\\thisis - Linkvertise Downloader_4159543738.exe\r\nParentCommandLine: \""C:\\Users\\John Williams\\Downloads\\thisis - Linkvertise Downloader_4159543738.exe\"" RSF /ppn:YyhwYgxaFRAiP211FM5W /mnl\""""},""eventdata"":{""utcTime"":""2020-05-22 13:19:59.743"",""processGuid"":""{df9fc3d3-d17f-5ec7-0000-00106e921a00}"",""processId"":""4488"",""image"":""C:\\\\Windows\\\\SysWOW64\\\\explorer.exe"",""fileVersion"":""10.0.18362.693 (WinBuild.160101.0800)"",""description"":""Windows Explorer"",""product"":""Microsoft® Windows® Operating System"",""company"":""Microsoft Corporation"",""originalFileName"":""EXPLORER.EXE"",""commandLine"":""\\\""C:\\\\Windows\\\\System32\\\\explorer.exe\\\"" /select, \\\""C:\\\\Users\\\\John Williams\\\\Downloads\\\\Free Alts.txt\\\"""",""currentDirectory"":""C:\\\\Users\\\\John Williams\\\\Downloads\\\\"",""user"":""DESKTOP-HUE026H\\\\John Williams"",""logonGuid"":""{df9fc3d3-d0d4-5ec7-0000-0020df010300}"",""logonId"":""0x301df"",""terminalSessionId"":""1"",""integrityLevel"":""High"",""hashes"":""MD5=710CD555C00C29C59152DD50CAA553ED,SHA256=6E6E91554392595D18EE3D691258FC1D23E19DDC1E0BD6C26051DEBB8B70E5FD,IMPHASH=C3681D33DE70933393BD754BC4BCE962"",""parentProcessGuid"":""{df9fc3d3-d161-5ec7-0000-00101c201600}"",""parentProcessId"":""5868"",""parentImage"":""C:\\\\Users\\\\John Williams\\\\Downloads\\\\thisis - Linkvertise Downloader_4159543738.exe"",""parentCommandLine"":""\\\""C:\\\\Users\\\\John Williams\\\\Downloads\\\\thisis - Linkvertise Downloader_4159543738.exe\\\"" RSF /ppn:YyhwYgxaFRAiP211FM5W /mnl""}}}"

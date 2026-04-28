@@ -1,0 +1,8 @@
+access_hr_applicant_user,access_hr_recruitment_report,access_hr_recruitment_stage_user,access_hr_recruitment_degree,access_mail_message_user,access_res_partner_hr_user,access_res_partner_address_hr_user,access_survey_hr_user,access_crm_phonecall_hruser,access_crm_meeting_hruser,access_hr_recruitment_source_hr_officer,access_hr_recruitment_source_all
+hr.applicant.user,hr.recruitment.report,hr.recruitment.stage.user,hr.recruitment.degree,mail.message.user,res.partner.user,res.partner.address.user,survey.hr.user,crm.phonecall hruser,crm.meeting.hruser,hr.recruitment.source,hr.recruitment.source
+model_hr_applicant,model_hr_recruitment_report,model_hr_recruitment_stage,model_hr_recruitment_degree,mail.model_mail_message,base.model_res_partner,base.model_res_partner_address,survey.model_survey,crm.model_crm_phonecall,crm.model_crm_meeting,model_hr_recruitment_source,model_hr_recruitment_source
+base.group_hr_user,base.group_hr_manager,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,0
+1,1,1,1,1,1,1,1,1,1,1,0
+1,1,1,1,1,1,1,0,1,1,1,0

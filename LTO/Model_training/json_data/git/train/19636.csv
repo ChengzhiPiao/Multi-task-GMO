@@ -1,0 +1,3 @@
+access_quick_search_record_normal_user,quick.search.record.normal.user,model_quick_search_record,base.group_user,1,1,0,0
+access_preferences_normal_user,res.users.normal.user,model_res_users,base.group_user,1,1,0,0
+access_quick_search_record_normal_erp_manager,quick.search.record.normal.erp_manager,model_quick_search_record,base.group_erp_manager,1,1,1,1

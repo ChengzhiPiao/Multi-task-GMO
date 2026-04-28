@@ -1,0 +1,11 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43
+Página,Fonte de Voltagem,Texto,Texto,Texto,Diodo,Diodo,Diodo,Resistência,Resistência,Resistência,Texto,Texto,Texto,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha,Linha
+,Diagrama de Circuitos,Padrão,Padrão,Padrão,Diagrama de Circuitos,Diagrama de Circuitos,Diagrama de Circuitos,Diagrama de Circuitos,Diagrama de Circuitos,Diagrama de Circuitos,Padrão,Padrão,Padrão,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,2.0,2.0,4.0,5.0,5.0,4.0,4.0,5.0,3.0,8.0,8.0,6.0,7.0,6.0,7.0,8.0,7.0,6.0,13.0,12.0,14.0,14.0,14.0,14.0,10.0,9.0,11.0,12.0,13.0
+,,,,,,,,,,,,,,3.0,3.0,2.0,2.0,2.0,2.0,6.0,7.0,8.0,11.0,33.0,33.0,9.0,10.0,33.0,15.0,20.0,20.0,12.0,13.0,26.0,12.0,12.0,12.0,12.0,12.0,12.0,13.0,12.0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Página 1,12 V,Sensor capacitivo,Sensor indutivo,Sensor capacitivo,,,,"R 1,32 MΩ","R 1,32 MΩ","R 1,32 MΩ",Microcontrolador,Display,Sensor ultrassônico,,,,,,,Saída 12V,Saída 12V,Saída 12V,,,,,,,,,,GND,VCC,,VCC,Trigger,Echo,Saída 5V,Saída 5V,Saída 5V,SCL,SDA

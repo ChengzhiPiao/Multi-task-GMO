@@ -1,0 +1,5 @@
+{{tooltip|Pos|Position}},Team,{{tooltip|Pld|Played}},{{tooltip|W|Won}},{{tooltip|D|Drawn}},{{tooltip|L|Lost}},{{tooltip|GF|Goal For}},{{tooltip|GA|Goal Against}},{{tooltip|GD|Goal Difference}},{{tooltip|Pts|Points}}
+1,{{nb|England}},3,3,0,0,234,97,137,6
+2,{{nb|Malawi}},3,2,0,1,172,144,28,4
+3,{{nb|Barbados}},3,1,0,2,148,187,−39,2
+4,{{nb|Malaysia}},3,0,0,3,97,223,−126,0

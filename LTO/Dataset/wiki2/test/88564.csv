@@ -1,0 +1,4 @@
+Trirectified 10-orthoplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,7-faces,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Trirectified 10-orthoplex,uniform 10-polytope,"t3{38,4}","{{CDD|node|3|node|3|node|3|node_1|3|node|3|node|3|node|3|node|3|node|4|node}}
+{{CDD|node|3|node|3|node|3|node_1|3|node|3|node|3|node|3|node|split1|nodes}}",,,,,,,,,,"C10, [4,38]
+D10, [37,1,1]",convex

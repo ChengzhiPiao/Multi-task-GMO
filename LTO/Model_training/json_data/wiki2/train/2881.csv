@@ -1,0 +1,9 @@
+,,Stop,Stop,Stop,Affricate,Affricate,Affricate,Fricative,Fricative,Nasal,Approximant,Approximant
+,,plain,aspirated,prenasalized,plain,aspirated,prenasalized,plain,voiced,Nasal,lateral,plain
+Bilabial,plain,p,pʰ,ᵐb,,,,,,m,,
+Bilabial,palatalized,pʲ,pʲʰ,ᵐbʲ,,,,ɸʲ,βʲ,,,
+Alveolar,plain,t,tʰ,ⁿd,t͡s,t͡sʰ,ⁿd͡z,s,,n,l,
+Alveolar,palatalized,tʲ,tʲʰ,ⁿdʲ,t͡ʃ,t͡ʃʰ,ⁿd͡ʒ,ʃ,,,,
+Palatal,Palatal,,,,,,,,,ɲ,ʎ,j
+Velar,plain,k,kʰ,ᵑɡ,,,,x,,,,w
+Velar,palatalized,kʲ,kʲʰ,ᵑɡʲ,,,,xʲ,,,,

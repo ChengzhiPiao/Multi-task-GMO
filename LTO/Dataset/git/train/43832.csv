@@ -1,0 +1,6 @@
+XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB,XG.DB
+Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,Dao,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter,SqliteConverter
+StartRun,StopRun,ObjectAdded,ObjectRemoved,ObjectChanged,ObjectEnabledChanged,FileAdded,FileRemoved,FileChanged,SearchAdded,SearchRemoved,ApiKeyChanged,ApiKeyAdded,ApiKeyRemoved,ApiKeyEnabledChanged,Load,TryCommit,Load,GetCommand,LoadServers,LoadChannels,LoadBots,LoadPackets,LoadFiles,LoadSearches,LoadApiKeys,CreateServer,CreateChannel,CreateBot,CreatePacket,CreateFile,CreateSearch,CreateApiKey
+30,8,3,3,3,3,3,3,3,3,3,3,3,3,3,47,10,16,3,12,12,12,11,10,10,10,20,25,75,40,9,7,10
+3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,2,2,2,2,2,2,1,1,1,1,1,1,1
+0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0,0,0,1,1,1,0,0,0,1,1,1,1,1,1,1

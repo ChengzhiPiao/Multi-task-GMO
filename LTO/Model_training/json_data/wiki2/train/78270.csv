@@ -1,0 +1,5 @@
+Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+{{fb|GUI}},3,3,0,0,7,1,+6,9
+{{fb|TUN}},3,2,0,1,6,4,+2,6
+{{fb|ZAM}},3,1,0,2,3,6,−3,3
+{{fb|RSA}},3,0,0,3,0,5,−5,0

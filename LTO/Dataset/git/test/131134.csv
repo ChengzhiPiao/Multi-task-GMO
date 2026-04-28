@@ -1,0 +1,2 @@
+account_asset_depreciation_line_subtype_all,account.journal_subtype - All,model_account_asset_depreciation_line_subtype,,1,0,0,0
+account_asset_depreciation_line_subtype_employee,account.journal_subtype - Employee,model_account_asset_depreciation_line_subtype,base.group_user,1,0,0,0

@@ -1,0 +1,6 @@
+Aircraft,Helicopters,SA315,SA342 Gazelle,Eurocopter AS355,Eurocopter EC135,Eurocopter EC145,SA 330 Puma,Sikorsky S-70,Eurocopter AS332
+Origin,Helicopters,France,France,France,France,France,France,United States,France
+Type,Helicopters,liaison,observation,utility / observation,utility / MEDIVAC,utility / MEDIVAC,utility / aerial firefighting,utility / transport,VIP
+Variant,Helicopters,,,,,,C/F/H,S-70A-26,AS332/EC225
+In service,Helicopters,7,5,3,3,2,7,2,2
+Notes,Helicopters,,,,,,,,second aircraft used is a EC225 Super Puma

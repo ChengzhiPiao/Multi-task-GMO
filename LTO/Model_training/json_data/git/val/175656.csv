@@ -1,0 +1,5 @@
+620.2556,620.2556,620.2556,620.2889,620.2889,620.2889,620.3889,620.3889,620.3889,621.2116,621.6,621.6556,621.6556,621.6556,621.8778,621.8778,621.8778,622.2667,622.6556,622.7444
+620.4556,620.4556,620.4556,620.6445,620.6445,620.6445,,,,,,,,,621.9445,621.9445,621.9445,,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,FailOnTouchObstacleMed-1,HandToWrist,HandToWrist,HandToWrist,Hand,Hand,Hand,Hand,HandToWrist,WristToElbow
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1
+RightGate,LeftGate,LeftGate,RightGate,LeftGate,LeftGate,RightGate,LeftGate,LeftGate,PickedUp,Pushed,LeftGate,LeftGate,RightGate,LeftGate,LeftGate,RightGate,RightGate,RightGate,RightGate

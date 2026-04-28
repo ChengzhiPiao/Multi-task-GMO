@@ -1,0 +1,9 @@
+Team,Worcestershire,Hampshire,Northamptonshire,Leicestershire,Somerset,Middlesex,Surrey,Lancashire,Warwickshire,Kent,Yorkshire,Essex,Sussex,Gloucestershire,Nottinghamshire,Glamorgan,Derbyshire
+Pld,20,19,20,20,20,20,20,20,20,20,19,20,20,19,20,19,20
+Won,11,10,9,7,6,7,6,5,5,5,4,4,4,4,1,2,1
+Lost,3,3,2,7,4,5,4,0,5,8,7,3,9,9,9,7,6
+Drawn,6,6,9,6,10,8,10,15,10,7,8,12,6,6,10,10,13
+Tie,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Batting bonus,45,55,46,47,49,45,42,47,44,33,37,44,29,29,42,28,23
+Bowling bonus,72,70,67,69,72,56,69,66,65,63,69,52,63,55,66,56,62
+Points,227,225,203,186,181,171,171,163,159,146,146,146,141,124,118,104,95

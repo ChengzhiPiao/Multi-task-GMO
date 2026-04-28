@@ -1,0 +1,8 @@
+access_resource_calendar_user,access_resource_calendar_system,access_resource_calendar_attendance_user,access_resource_calendar_attendance_system,access_resource_resource,access_resource_resource_all,access_resource_calendar_leaves_user,access_resource_calendar_leaves,access_resource_test_all
+resource.calendar.user,resource.calendar.system,resource.calendar.attendance.user,resource.calendar.attendance.system,resource.resource,resource.resource all,resource.calendar.leaves,resource.calendar.leaves,resource.test.all
+model_resource_calendar,model_resource_calendar,model_resource_calendar_attendance,model_resource_calendar_attendance,model_resource_resource,model_resource_resource,model_resource_calendar_leaves,model_resource_calendar_leaves,model_resource_test
+base.group_user,base.group_system,base.group_user,base.group_system,base.group_system,base.group_user,base.group_user,base.group_system,base.group_user
+1,1,1,1,1,1,1,1,1
+0,1,0,1,0,0,1,1,1
+0,1,0,1,0,0,1,1,1
+0,1,0,1,0,0,1,1,1

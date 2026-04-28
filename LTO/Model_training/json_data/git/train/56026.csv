@@ -1,0 +1,8 @@
+2,4,5,6,7,8,9,11,12
+ How is a pairing heap represented?, Which node contains a pointer to its parent?," Which of the heaps is implemented by the following figure?
+", What is the basic operation performed in a pairing heap?," If there are c children of the root, how many calls to the merge procedure is required to reassemble the heap?", Which of the following methods is the best choice for complex applications?, Pairing heaps time complexity was inspired by that of?, The amortized time efficiency for performing deletion of a minimum element is?," Out of the following given options, which is the fastest algorithm?"
+binary tree,root node,fibonacci heaps,merge,c,binary heap,splay tree,O(N),fibonacci heap
+fibonacci tree,right most child,pairing heap,deletion,c+1,d-heap,treap,O(log N),pairing heap
+heap ordered tree,left most child,skew heap,insertion,c-1,treap,red-black tree,O(N2),d-ary heap
+treap,left sibling,leftist heap,swapping,1,pairing heap,avl tree,O(M log N),binary heap
+b,b,a,c,d,a,b,a,a

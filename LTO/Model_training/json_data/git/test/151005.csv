@@ -1,0 +1,4 @@
+RandomForestClassifier,,anchors precision,,,,,,,anchors coverage,,,,,,,anchors prec*coverage,,,,,,,anchors size,,,,,,,time to compute anchors,,,,,,,dataset name,generate_moons
+1,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,dataset size,15000
+1,,,0.91,0.92,0.83,0.91,0.92,,,0.28,0.24,0.32,0.29,0.28,,,0.25,0.22,0.26,0.26,0.26,,,1.12,1.1,1.22,1.12,1.11,,,112.67,162.2,74,134.87,193.5,,dataset nb feature,2
+0.75,,,,,,,,,Normalized coverage,0.88,0.75,1.00,0.91,0.88,,Normalized F1,0.89,0.83,0.91,0.91,0.90,,,,,,,,,,,,,,,,Number of instances running,1000

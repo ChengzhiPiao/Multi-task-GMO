@@ -1,0 +1,252 @@
+db11,db11,db11,db7,db7,db7,db7,db7,db7,db7,db7,db7,db7,db7,db7,db7,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,db9,dbs,rapide,rapide,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vanquish,v12-vantage-s,v12-vantage-s,v12-vantage-s,v12-vantage-s,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage,v8-vantage
+2018,2018,2019,2002,2002,2002,2002,2002,2002,2002,2002,2002,2002,2003,2003,2003,2005,2005,2005,2005,2005,2005,2005,2005,2005,2005,2006,2006,2006,2006,2006,2008,2009,2008,2010,2012,2002,2002,2002,2002,2002,2002,2002,2002,2002,2002,2002,2002,2002,2003,2003,2003,2003,2003,2003,2003,2003,2003,2004,2004,2004,2005,2006,2006,2017,2017,2017,2017,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2006,2007,2008,2008,2008,2009,2009,2009,2009,2009,2010,2011,2011,2012,2012,2015,2015
+Gene,Scott,Mark Holloway,008,Mr. B,Simon Guntherd,AstonThree,Noah,Hoss Boss,T.Glick,Symonte,The Pat Master,AstonFan,jilldell,Brit.,Todgrick,T. Patrick,Peter Afeiche,cliff,financesniper,jose,Peter Afeiche,NwEnglndRe-l-t,sjc-dal,antoniodelgad68,Chuck,Richard,meteoritedb9,murrayr1,Robb G,sjg,astonman,chippern73,Joe64,Mike Tierney,Mike Tierney,bobmaxx,bobs mom,brando hilderbrand,Donald Fann,kaseyllynn,Meric,Mike Cavalier,isaac,tony r.,Marlon,Joe Bryan,Isaac,kpd33184,greach,InuYasha510,Pavilion,xdreem74,AutoEnthuse9128,Damian Stewart,KTM520,Dazdnconfuzed,J Reich,nothingtertgasert,Legacy,FRANKIE,Jerome Henin,steve mann,DB,Chris Gleason,Andrew ,Douglas Elslager,Douglas Elslager,GK,Vasi,tdtollie,Aston Martin Vantage,tim s,DEJ,bob garvey,Dave_Car_Guy,MJW,Bryan Fletcher,Rasscasse,praskind,Sean J,Petter,KansasHick,kansashick,Ken Jaggers,K1,DJ,Shawn,A M Dude,Booboo,gvan54,Brian,Wheelman4000,newcreature,johnred14,kpetree,Neil,Thomas,James Rogers
+ 12/22/2018, 08/26/2018, 06/11/2020, 11/16/2002, 04/27/2003, 12/01/2002, 09/29/2002, 03/16/2002, 11/26/2002, 10/22/2002, 10/26/2002, 07/01/2002, 03/04/2002, 10/04/2003, 11/18/2003, 12/10/2003, 11/10/2006, 06/26/2005, 09/06/2008, 05/14/2005, 03/23/2005, 06/30/2005, 04/15/2005, 07/10/2005, 05/16/2006, 03/02/2006, 07/30/2006, 06/26/2011, 03/26/2007, 11/17/2008, 07/26/2006, 02/14/2009, 01/18/2010, 07/22/2008, 07/06/2019, 02/03/2016, 02/12/2003, 11/08/2002, 04/17/2002, 05/02/2002, 05/08/2002, 07/31/2002, 03/27/2002, 10/13/2002, 11/25/2002, 11/26/2002, 02/24/2003, 10/13/2002, 03/13/2002, 12/10/2003, 08/20/2003, 12/02/2003, 12/10/2003, 12/10/2003, 12/10/2003, 12/10/2003, 02/20/2003, 08/25/2020, 09/16/2004, 09/16/2004, 12/18/2004, 06/10/2005, 08/18/2006, 01/17/2009, 04/13/2019, 02/29/2020, 10/10/2020, 10/07/2020, 09/29/2007, 10/31/2007, 06/01/2006, 09/14/2007, 12/25/2006, 10/18/2006, 08/15/2007, 06/19/2007, 03/29/2007, 09/07/2006, 05/08/2006, 05/07/2006, 08/04/2006, 07/20/2006, 06/12/2006, 05/03/2008, 03/10/2010, 03/26/2009, 03/30/2008, 02/13/2010, 04/07/2009, 12/29/2009, 11/29/2009, 12/25/2009, 07/06/2010, 03/18/2011, 12/22/2010, 10/26/2012, 04/28/2017, 04/17/2017, 06/08/2017
+Our third Aston,We call her Jane,"Pedestrian-stopping beautiful, power and handling",Aston DB 7 Vantage Coupe,Good Stuff All Around,Great,Third one,My beautiful Aston Martin,The Greatest,My New Aston....,DB 7 Vantage Coupe,One summer day,Test Drive,Love it,The very best.,My Baby Car,Simple fun with refinement,This is not a car ... it is a Dream !!,DB9 2005,A real thrill,great,Martin ... Aston Martin,Ashton Martin for 2005,"Not one of the ""crowd"" anymore!",The DB9 volante is a 10,Understated Performance Car,Superb long distance grand touring car,Prettiest Car on the Road,The Finest Car I've Owned,Weekend Car,007 Heaven,World most amazing GT,My First Luxury Sports Car,Extremely fun but rather expensive,Perfect proportions,The best proportions of any car since XKE,Only good for movies not working well,Bobs review,good car,greg,vanquish...,More like Vanish,The Car,V12,great best yet!,Always Broke,Awsome,V12,super car,Vanquish: Best of the Best!,Vanquish Rocks,Joe,The absolute best!,One Beautifully Performing Car,The Vanquish,A Great High Preformance Car,Love this car,My Unicorn,aston martin,My Aston,Aston Martin Strikes Back,A real car,Vanquish,All around Vanquisher,Gentleman Badass!,I swear that the engine is alive!,.....move Heaven and earth.....,Chariot of the Gods.....,Excellent - Best Sports Car I Have Owned,Exclusive!!!,A Perfect Sports Car!,Wonderful car,A keeper,Best Of All Worlds,Love that V8 Vantage,I Love my Vantage,Beauty only skin deep,WOW,AM Vantage V8 is a winner,Finally...,My AM V8 Vantage,Best fun on wheels!,Simply the best,Sportster Even More Fun,Constant Transmission Problems,"Expensive, but worth it fun and class!",Like A Melody,Classy,Dream Wheels,Not for the faint,Broke the first day.,"Not perfect, but the best car ever!",V8 vantage convertible,N420 A Driver's Car,just got a 2011 vantage!,A sports car you can use everyday!,James Bond's car make of choice,Not for everyone and that's part of its appeal...,A great car for the right person
+5,5,5,4,4,4,4,4,5,4,4,2,1,5,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,5,5,1,5,5,5,5,5,5,5,5,2,4,5,4,5,5,5,4,4,4,4,4,5,4,4,4,4,5,4,4,5,5,5,4,4,4,4,5,4,4,4,3,5,4,4,4,4,4,4,3,4,4,4,4,3,3,4,4,4,4,4,5,4,5
+"This is our third Aston Martin. My wife thinks that it is the most beautiful car we have ever had, and this car is our 76th car. When I go to Cars and Coffee with it they have us park with the exotic cars. Last month between a Ferrari and Lamborghini. It had a crowd around it from the time we got there until we left. It gets noticed more than I thought it would, but always with positive responses. None of the negative that a Ferrari or Lamborghini gets. It is a true GT car with a bit more towards sport than the Bentley that is a bit more towards comfort. Our Bentley is a GT Speed that also has 600 hp but has all wheel drive. The DB11 has 600 hp but with rear wheel drive and can be a handful if you turn off the traction control. It has a beautiful leather  interior that is very comfortable even on long trips. It is just about the perfect GT car.
+","I absolutely LOVE my DB11 V12 Coupe.  It is an exotic car, with the performance of an exotic car, but it is easy to drive and not as flashy as most exotics.  We live the heart of Boston and driving around the financial district is as easy as our Porsche Macan Turbo.  Visibility is great and the 360 camera system helps a lot in tight spaces.  I worried a lot about scraping the front chin but in 3 months we have not scraped it yet.  It feels and sounds like you are going faster than you are at lower speeds, but at higher speeds they all feel the same.  It is not an exaggeration when I say going 75 feels the same as going 105, which requires frequent monitoring of speed on the interstate.  The interior is absolutely amazing in every respect, and the seats are both supportive and comfortable, even after several hours in them.  It is also one of the sexiest cars on the road.  If you want an exotic that somewhat blends in, is lovely to look at and sit in, easy to drive and more performance capability than you will ever need off the race track, then you cannot go wrong with a DB11.  If you do not care about gas mileage, then go with the V12.  I had the performance package installed bumping it to 630 hp; noticed the difference as soon as I left the dealership with it.  
+","I have owned the DB11 and the DB11 AMR.  The AMR improves on an already very impressive formula.
+
+The DB11 is so beautiful, it makes you smile every time you see it in the driveway and pedestrians will stop to gawp and take photos.  The proportions and lines are just perfect, with those flared hips and long bonnet accentuating the looks.
+
+The quality of the cabin is undeniable, with hand-stitched leather everywhere, smelling just wonderful.  The electronics in the infotainment system are mostly from Mercedes (albeit an earlier generation), which is, frankly, a relief as their system is one of the best.
+
+The power is awesome and, frankly, more than you will need most of the time.  Massive torque delivery is at almost every part of the RPM range.  I have very rarely put my foot fully to the carpet, other than on a dry, straight road on the German autobahn.  The AMR suspension is stiffer than the original DB11, meaning alpine roads are easier to navigate but still fun enough if you accelerate.
+
+Given it is a hand-made car with millions of lines of software code, some niggles are to be expected, particularly from earlier models.  My AMR is a 2019 model and has been virtually trouble free, apart from a loose hose on the cold-start system.
+
+Overall, a lovely car that will make you smile every time you get into it and others smile when they see it.
+","Boy, I thought I got a lot of comments 
+on my 64 Mustang Convertible. You 
+cannot drive the Aston anywhere without 
+getting complete strangers coming up to 
+you to talk about the car: ""I wanted 
+all my life to see an Aston"" ""Oh my 
+God, the James Bond car!"" ""Are you 
+married?"" It is a real pleasure to see 
+the joy this automobile brings to 
+people.","I personally own two DB7's, one in red 
+and one in green, and they are by far 
+two of my most favorite vehicles. The 
+vehicles have never broken down and 
+they always respond to any weather 
+condition, any driving surface, and any 
+other distraction remarkably. The 
+interior noise level is minimal even at 
+high speeds. It is a great vehicle.","When i first got into this car I 
+thought it was a bit cramped but after 
+i took it ou tof r a test drive I 
+forgot all about the interior and let 
+the my feet and hands take over.  Get 
+this car if you ever get the chance","I just ordered my third one. Obviously 
+I like the car. I think these cars are 
+with out a doubt the sexiest looking 
+cars on the road. They aren't flashy, 
+like Ferrari. ""I would be embarrassed 
+to drive a Ferrari"" Class not flash! 
+This car turns many heads &#8220;I get a 
+thumbs up at almost every intersection 
+from someone that spots the car"". 
+People always try to egg me on to race, 
+I always ignore them.","The cost seems high, yes.  However if you are willing to get into the range of 100,000+ many things open up to you.  Companies such as Ferrari, Maserati, Bentley, Porsche etc.  You must ask youself not how much you want to spend but what do you want. I wanted a car that was powerful, beautiful and well made.  I wanted a great touring car.  I wanted a car that I could take a trip to the coast with.  With that I purchased the Aston Martin Volante 2dr.  When people say, ""well your down 100 grand how do you feel?"", I just smile and laugh.  Cause I know I am up a million.","This would be my 12th one and i really 
+love them, i could'nt ask for anythign 
+else from this car. I would recomend 
+that everyone should get one someday. 
+I can do anything i want and go 
+anywhere i want to with these cars.","I just bought a brand new DB7 
+Vantage Coupe.  It is a beautiful car, 
+inside and out.  It is colored in an 
+irridesent grey, and the interior is 
+Black with carbon fiber trim.  It is a 
+magnificant auto.  I ordered this car 
+with the James Bond special edition 
+sport package, sport tuned exaust 
+and all.  Everywhere I go, heads turn, 
+one guy even bowed to the car and 
+said, "" im not worthy"" the other day.  
+The car put me back quite a bit, but it 
+is every bit worth it.  I've had no 
+mechanical problems at all, 
+however, it is only 2 weeks old.  
+Powe (420 hp) ,performance (0-60 in 
+5.0) and beauty...I love this car.","I always thought my 64 Mustang 
+Convertible brought smiles of joy to 
+the faces of people. That was nothing 
+compared to the DB 7. Almost every time 
+you drive it, complete strangers come 
+up to you to talk about the car, 
+sometimes leading to crowds of 4 or 5 
+people. It is really quite a pleasure 
+in our increasingly cold, impersonal 
+world to see people react with such joy 
+when they see this car.","Do you like expensive toys? I thought I 
+did too, until I bought an Aston 
+Martin. My Vantage was simply a large 
+money pit for uncomfortable rides in a 
+car that handles like a Ford Escort.","I took the DB7 out for a test drive this weekend.  With spring creeping up I wanted to get up to speed with a new car for the season and had heard when it comes to superior driving experiences, I shouldn't pass this car by.  What a mistake.  Cramped in an unforgiving cabin I experienced driving control similiar to that of a Mercedes S class.","This car is awesome. I have always 
+dreamt of owning an Aston.  When I got 
+out of law school and received an 
+awesome job, this was my first 
+purchase.  i do not regret it.","You cannot get any better than the 
+Aston Martin.It drives great,its fast 
+when you need it,It is just full of 
+class. 
+Thank you Aston Martin for giving so 
+much pleasure, to so many lucky people.","This is the best car i've had so far in 
+my life !!! GO FORD COMPANY !!!","Great car! Fun to drive for a GT! If looking for sweet ride you can take anywhere, this is it. Comfortable and fun for long distant driving. Loves the road at high speed. Had no problems with car except for an occasional low tire warning and head-lights were replaced. They are automatic leveling and got stuck in down position. Replaced with no cost. Aston Martin Headquarters called to apologize personally for the inconvenience and gave me another Aston Martin until it was replaced. Interior is first rate with every convenience.","Aston Martins have always had a distinct allure for me ever since seeing the DB5 in Goldfinger and seeing an Astin Martin Lagonda back in the 80's. The DB9 was the dream car for me to own and it took me a good 2- 3 weeks to fully realize just what a splendid car I was driving. Sexy, elegant, powerful, responsive, distinctive and manly are just some of the adjectives I can attribute to this car. ","I have owned most high end cars from maserati gransports 911 turbo, m5, m3, m6, CLS63 AMG benz, and many others some twice and this is in another class by itself. At 150 mph you feel confident this could easily handle 200 mph! just not in the states!","Excellent quality and a beautiful design are the high points.  The most superb exhaust notes I've ever experienced.  The ONLY draw back I've found is a quirky automatic AC system that seems to have a little trouble keeping the cabin as cool as I select, but you can easily compensate by setting it a little bit cooler than you would normally.","Its a great luxurious drive and also has that mean sports car look.  Top of the line luxury sport vehicle, the Aston Martin DB-9, is an A in my book.","Defintely the most beautiful car designed by Aston Martin so far ... and one that does not disappoint in terms of handling, engine power, or finishing. Owning the Aston DB9 is a pure pleasure and it gives me a thrill to see it from the vantage point of another car driving beside it. It is a sight for sore eyes on any day, and gives the driver fantastic control and responsivness. A perfect 10 !!","We preordered the 05 DB-9, auto-tran so the wife can drive it. I was originally skeptical about ordering an AstonM after their merger with Ford a year or few back and losing their designer to Jaguar. However, AstonM has not lost their edge. Soon as I started the car after its initial delivery, it purred so solidly (the only way to describe it). There was no way to say how getting in the car and whisking away, becoming the center of attention on the mediocre streets of reality feels.This car let loose effortlessly as I took off, tearing up the onramp going from 0-80 in only a few seconds.","I was driving an ""03 SL500 Sport.  I had ordered this silver beauty 1.5 years before they started arriving.  Really a nice car, but in North Dallas, I passed 13   Sl's in 2.5 miles to work...and 8 were silver. So...Aston Martin as a little more ""independent"" make.  I thought the beautiful but classic styling might blend in without causing the over-the-top hoopla of a Ferrari, or Lambo.  WRONG.  Everywhere I go it gets comments. I really rarely use the 900watt+ stereo, because I am hooked on the sound of the engine!    It IS hard to stay within speed limit. This car DEMANDS that you remain engaged   in your driving...even if just going to the closest 7-11. So far so good!","I purchased this car with 1200 miles and it has been a joy, the power prestige and comfort are beyond reproach.  If you want a quality super car, this is the one, you can't go wrong. TD",It's a head turner but fun to drive even at longer distances.  Not as many on the road as the Ferrari. The convertible is a pleasure after having the DB7. I love the car.,"I was seeking a distinct and intensely pleasurable driving experience on my road test and wasn't disappointed. The car combines heft and agility with more performance than I need. Both the sound and smoothness of the engine are an experince to be savored and remembered. The fit and finish are exquisite (10+). The seats give great support. Most limitations relate to storage and are: small trunk space (luggage will be shipped), poor cup holder placement, a miniscule glove compartment. Poor local mile age (11.8 MPG)is also a compromise, but hwy milage is better than promised (21+). It's truly an uncommon beautiful car that makes a powerful and unique impression at any speed. It's worth the money!  ",I bought my used '06 DB9 about 3 weeks ago with 1890 miles on it. Owning and AM has been a dream of mine & I'm thrilled that I decided to spring for one. I love this car! It is beautiful inside & out. The power is awesome and the experience of driving it is pure heaven. There's not a better looking car on the road.,"I drive this car everyday and arrive at work and home with a smile on my face. The car is a joy to drive. It is refined, responsive and reliable. Any minor glitches have been quickly attended to by the dealer.  I drive the car I love everyday.",My Aston Martin has been a great weekend car.  I say this because it is usually in the shop with electrical problems during the week!  ,"I have owned my meteor grey DB9 for 6 months and I find it to be an excellent automobile. It is fast, corners extremely well and is a real head turner. It may not be quite as fast as some super cars, but it is more comfortable and a joy to drive on long trips. Did I mention you also get a great deal of attention?","I always wanted an Aston but wasn't sure of the build quality.  When I walked into the showroom the salesman urged me to just drive one and I was sold.  I could feel this was a solid car and I was right.  It has been the most reliable car I have ever owned and I have owned several exotics.  It is also the biggest head turner anywhere. Superb fit and finish.  Amazing engine, perfect wood grain, the finest leather.  Don't even think of comparing this in any way to the much lesser poser car the Vantage--the DB9 is a true Aston.  If you can afford it, buy it - you will be glad you did.","In December I purchased my first true sports car: Aston Martin DB9 2door coupe.  I was able to get it in black with black and grey interior.  To say the least, I was blown away!  I have never owned a fast car like this before.  I had to learn to drive all over again. Keeping it under the speed limit is the hardest thing to do when you can step ever so lightly on the gas peddle and have it up to 120 in no time.  The specs says 0-60 in 4.7 seconds, I'll tell you that its true.  Passing cars is a breeze.  They never know what hit them.  Great car and worth the price.","I bought the DBS for my wife's birthday and we both absolutely love it.  It has excellent handling and it's sharp styling turns heads wherever it goes.  Compared to other sport coupes it gets excellent mpg and low cost of ownership.  My only regret about buying the DBS is that I wish I just got the DB9.  Except for some crome accents, rims and sport seats it is the exact same thing...Just a whole lot less!","Now that the prices for 2010 and 2011 Rapides have fallen to the high $60,000 range, it should be on everyone's shopping list. These are beautiful cars to look at and to drive. The start up sound is a source of excitement to every valet. The interior defines comfort and quality. As most are low mileage (mine has 27000 miles on it since new in July 2011) they are a great bargain. And there is plenty of room for booster seats in the back. 
+","The height, length and width proportions are exceptional. The interior is spacious (back seat is a little tight but works well) and beautifully crafted.
+I have had this car for over four years with no problems except a minor exhaust part. I have about 21000 miles of driving pleasure. It is beautiful to look at, has fantastic pipes and drives wonderfully.
+I bought the car used with 3500 miles. I have had my Rapide for five years and it is an outstanding vehicle. 23000 fun miles. No problems at all.
+Update 2/17. Car is still the best. It looks great and is a fun car to drive. Dynamic looks will keep it fresh for years to come. 
+Prices have come down to a very affordable level.
+Still a magnificent car. Admirers always think it is a new model. Few people are familiar with the Rapide so that may be why it is thought of as a new model.
+
+Update 2/18. I like the car better than ever. It continues to perform wonderfully and it looks great. Prices for 2011, 2012 models are very reasonable.
+Update 2/19. No change. It is still the best looking car on the road. And the exhaust tone blows everything away. It is the envy of all the valets.
+Update 8/19. After owning this car for 8 years, I still enjoy every aspect of it. Absolutely no issues other than TPS system failure. I did buy new tires so I am not too concerned about monitoring the pressure.
+","I recently bought it as an investment, 
+I mean they sell-out every year. Now I 
+am sorry I didn't buy an Enzo or Lamb 
+or even wait for the Maybach. The 
+Value depriaciated so fast. the ride 
+was terrible too. No women even 
+noticed what car it was. I burned the 
+engine racing it on the track a few 
+times and had to pay 25k to repair it. 
+Good luck?",This car rocks!!!  I suggest to every one to go out and buy it.,very nice,"I have street raced in it,I have also
+put an Nitrus Oxide system in it and I
+find it drives well","awesome, fun to drive, always getting 
+attention for people passing by.  it's 
+great!","Having such an exceptional piece of 
+art with functionality in your hands 
+while driving is so exhilarating.  
+Most people would be lucky to even get 
+a glimpse of this vehicle.  With such 
+style and grace, it is the most 
+extraordinary vehicle I have ever 
+owned and is one of my top prized 
+positions along with my McLaren F1 
+95'.  Must say that it's get up and go 
+could be better, but is never any 
+problem what so ever.  Talk about 
+perfect in every aspect.  Shame to see 
+other people give such little reviews 
+for such a vehicle, wonder why.  
+People who change anything about the 
+car, like increasing speed, are 
+insulting the vehicle unless on 
+worldwide.",This car is great!,"the V12 is absolutely the funest, 
+nicest, fastest car I have ever owned.  
+there is not one thing i can say about 
+it that would bring it down in any 
+way.  i wish everyone on earth could 
+have the chance to own or at least 
+drive one.","i thought my ferrari and rolls were the 
+kings but i was wrong its no where near 
+compared to them even though i treasure 
+them. this car is fast reliable 
+comfortable and turns heads its an 
+honor to see one! overall this is the 
+best of aston martin yet","This thing has been back to the dealer 8 times in three weeks.  My VW diesel is faster.
+
+Sorry I bought it, and the dealer knows less about it than I do.","This is an amazing car! Fast, quick, 
+and fun!!!!! It is my baby and i love 
+it.","the V12 is absolutely the funest, 
+nicest, fastest car I have ever owned.  
+there is not one thing i can say about 
+it that would bring it down in any 
+way.  i wish everyone on earth could 
+have the chance to own or at least 
+drive one.",there is nothing more to say than just look at the car,"When recently asked which of my cars I 
+would keep if I had to pick just one, I 
+immediatley responded: The Vanquish!
+
+This car has the elegance, grace and 
+comfort of the Bentley Arnage; is for 
+all practical purposes as fast as the 
+Ferrari 360 (it feels much faster from 
+80 to 140 mph! than the 360!)Handling 
+is more solid and direct than the 575 
+Maranello. The build quality is better 
+than any Mercedes, and the car feels so 
+solid yet nimble on the road!
+
+I have been a new Ferrari buyer/owner 
+since 1982, and a Bentley/Rolls buyer/ 
+owner since 1987. Now that I have 
+experienced this car I don't think 
+anything else will impress me.
+
+Get one if you can and enjoy!  ","The V12 Vanquish is the best car I've 
+ever seen or drove.  It is just the 
+perfect vehicle.  It has a beautiful 
+exterior design.
+ ","Nice,beautiful,sexy,sporty,reliable,fun 
+to drive,performance great,fuel economy 
+is excellent and performance.","I just purchased this car back in 
+September, and it is hands down the 
+best card I've ever owned. It's got the 
+speed, style, comfort, and class I need 
+in a vehicle. Spendy -- yes -- but ever 
+so worth every penny!","Having always been a fan of Aston 
+Martins, when I took shipment of my 
+silver 6.0L Coupe, I was blown away by 
+the fact that I could actually bring 
+this beautifully sculpted car home. Its 
+performance is great, power available 
+all the time, and the perfectly 
+weighted steering works excellently, 
+and carves into the curves like a 
+superbike. The 12-cylinder powerplant 
+will offer Niagra-torque anytime 
+anywhere. For a sports car, the rear 
+vision and trunk space are also quite 
+good. The interior is also luxurious 
+and excellent. I have never purchased a 
+new car 
+before and I can see how great this 
+modern machine is.","This is the funnest vehicle I have ever 
+owned!!!","There's only one word to describe the 
+Aston Martin V12 Vanquish, and that is 
+perfect. The Vanquish is a sleek 
+stunning car that is like no other. It 
+out does any other kind of car in its 
+class. It is very fun and exiting to 
+drive. Superb.","This is the greatest car I've ever 
+had!!!  It is a blast to drive!  It 
+gives mye tingles ever time I get in 
+it!!!","I recently was able to purchase a 2003 Vanquish. It is without question the most beautiful car I could ever imagine owning. I'm not sure if pursuing any other car is even worth the effort. 
+","very good car with stunning looks and 
+fun to drive.  Big price tag makes the 
+vehicle very rare, but if you have the 
+cash, go for it!!!","Beautiful!!!!!!!!!!!!! no other
+explanation needed.","This car is by far the top automobile 
+on anyone's list. After driving this 
+very rare and stylish car it is hard 
+to find any manufacture that can match 
+or exceed the Vanquish's potiental. 
+Its smooth handeling and break-neck 
+speeds make it one of the funnest cars 
+to drive.  Stylish in both interior 
+and exterior design it looks as good 
+as it performs.","This car is as comfortable as a class S mercedes, as fun as a Ferrari  575, and much more reliable as most other cars. You can use it again and again. You will always be amused by the behavior of people when they see it. It is definItely the gentleman's supercar.",This is a phenomenal sports car and handles beautifully.,"I have driven several before purchasing this car.  The 2006 has a nicer interior with more features than you can learn in a weekend.  Starting and driving this exotic muscle car produces the greatest sound.  Steering and ride are precise and comfortable.  It delivers choice in settings and although a little rough at low speed shifting for my wife.  Driving is effortless.  The limited edition Mansory kit offers some subtle carbon fiber ground effects and subdued tail lights, as well as the eye-catching double wide mouth grille.","There is no other naturally aspirated, manually shifted V12 convertible available after Aston Martin offered this car in 2017. With nearly 600hp and rear wheel drive, it is an absolute hoot to drive.  A car with most modern conveniences (including Apple-play) you get a very sophisticated hot-rod!
+
+Ok Now its has been a year since I wrote my original review and I have completed my second year of ownership.  This car has had absolutely no issues and I continue to enjoy the experience tremendously.  Annual service costs are high but understandable considering the uniqueness of the engine and the limited number of these cars in the US market.
+","Really, the V12VS engine is a snarling, snuffling, angry, raw meat eating beast. From start up to shut down the engine dominates this car. But that is no bad thing. Take a beautiful body, a very capable chassis, fine steering, the best carbon ceramic brakes i have ever used, a lovely quality interior and then add a soundtrack worthy of the gods and its a recipe for a wonderful ownership experience. Ok a Porsche may be technically better at 10 tenths around the bends, but offer me a nice Alpine pass and a choice of cars and I will be reaching for the Astons emotional control unit (Aston speak for the key) every single time. Enjoy these before St Greta bans them 
+",".....to get your hands on a 2017 Vantage S manual seven speed Roadster. It's plenty fast with a wonderful V12 normally aspirated Aston Martin engine (not a Mercedes engine like the newer ones), great carbon ceramic brakes, a gorgeous interior and an incredible SOUND that puts my old Ferrari F40 and BB512i Boxer to shame. DO NOT bother with the automatic version as the auto gearbox is clunky/jerky and no fun. There were only 33 of these cars imported into the USA by Aston Martin and I can find none for sale at the moment (10/9/20). NO one builds a car like this anymore. It is truly analog in nature but your cell phone works fine, it has Apple car play, the music system is superb and the car has timeless good looks. You will never see yourself on the road again with the low build number. Only 127 cars (coupes and Roadsters) in total were built for the world. This info number directly from Aston Martin.....rare, collectible, valuable and will only get more so. The newer Vantage models have a totally different body style are not selling very well but the 2017 is iconic........and I predict.......along with everyone else... that it is going to be a VERY collectible automobile.......in fact......it already is. I got mine from O'Gara Aston in Beverly Hills two years ago after searching for 15 months for the one I wanted.....be patient....one will turn up!
+","There were only thirty three 2017 Aston Martin Vantage V12S 7 speed manual Roadsters (that info direct to me from Aston Martin in England)) shipped to the USA. I had been looking for one for over a year and a half and finally found mine at Aston Martin Beverly Hills two years ago. Automobiles are simply not MADE like this anymore. My wife was very upset with me (it was expensive)......but now she adores it. She is also scared to death to try and drive it. And she should be. This car is serious analog automotive firepower and while it is not as fast as my 2017 Porsche 911 Turbo ""S"".....it is far more engaging to drive. The torque and power on the low end is staggering and you can break the rear end loose under acceleration without even trying in most any gear. The carbon ceramic brakes are progressive and smooth and do not squeak.
+DON""T give this car to a novice or a neighbor to drive.....you......and IT will be sorry. The big V12 engine doesn't just ""start"".....it explodes with a bark and howl that will raise every hair on your neck and back every time you fire it up. While it is initially loud...it quickly settles into a healthy growl/rumble that will not annoy your neighborhood at lower RPMS. Then......let the fun begin. This rich, throaty V12 sounds like NOTHING else you have likely ever driven. I have had lots of go-fast cars, such as Ferrari's (including an F40 and a BB512i Boxer), Lambo Countach's, etc. but nothing like this. The 911 Turbo S is more capable at higher speeds but you don't have to drive the V12S 150MPH to enjoy it like you must do in the Porsche.
+The V12S engine is mated perfectly to the seven speed manual box and you will never get bored with it. It is that good.....and super rare to boot. You will likely never see another one on the road when you drive yours. Move Heaven and earth and change wives if necessary to get yours.......you won't be sorry.....just keep looking.....they are almost impossible to find now......but keep up the hunt and keep the faith.......all good things come to those who can/will wait.","I have had a Porsche and numerous BMWs.  For me, this is the treasured prize. The quality of the interior and refinement of the exterior combined with the reliability I have experienced to date make this the finest auto I have ever owned.  One article described it best - it is 95% of the performance and 200% of the ""WOW"" factor of the Porsche Carrera.  The cornering and straight acceleration are a notch inferior to the Porsche, but the pride of ownership and fit and finish ar far superior than anything else.  Try it... you'll like it.","I am another Porsche guy that switched to Aston. The last 10 years I had 5 different Porsches including the latest 997 C2S. Exclusivity is the key. Porsches are extremely common and Astons are so special. I know there is a lot of talk about reliability issues but the moment you hear the engine sound above 4000 rpm you forget about all the bad things and you get big satisfaction without even the need to go fast. A very cool car, no doubt!","I waited 686 days from the date I placed my deposit until delivery of my Vantage. Was it worth the wait? You bet! I've been driving Corvettes for over 20 years and I love them...but the Vantage is so much more. Yes, the Vantage is expensive, but the style and performance are perfect. The handling on winding mountain roads is incredible. The engine sings and begs you to open the windows and turn off the great sound system. I've been driving manual transmissions my entire life and nothing comes close to this 6-speed gearbox. If you really love to drive cars and can afford the $$$, I recommend you take the plunge and go for it. I love it! I love it! I LOVE IT!!!","I have owned several different model Porsches, but none compare in looks, attention, and driving pleasure and ability than my 2007 AM Vantage.  This car is quality and stunning in every way.  It exudes the fact that it is hand built from bumper to bumper.  The low growl when pressing the start button, and even much more so when reaching 4000 rpm, is exciting.  Some say the 380 horse power engine is not enough.  They must be on drugs because for a non-racer like me, it has plenty of responsiveness.  The amount of positive attention and accolades you receive in driving this car is often downright embarrassing.  I could write a book on overwhelming positive public reaction this car draws. ","Have had Porsches, every thing from Boxster to TurboS, two 355 Ferraris and a Ferrari F430. This goes way past the Porsches and just under the 430. ","Have owned many sports cars, most recently a 2006 Porsche 911S. The AMV8 is in a completely different league. More beautiful, more exotic, more fun to drive, more comfortable, more luxurious. More of all the reasons to buy such a car.","I have to say I love pushing the crystal ignition button, hearing the gutteral vroom that gets me on my way. I love the looks and drive of this vehicle. I previously drove a BMW 540i and I currently also own a Dodge Viper. Have had no major problems with the vehicle. ","I took delivery of my Vantage in December 2006 and have put 7000 miles on the car so far (as of June 2007).  I absolutely love the ride, the quality, and the beauty of the car.  I have owned Porsches, BMWs, and a Ferrari, so my expectations for the Aston were high.  I can say that the car has met and exceeded those expectations.  The biggest surprise has been the handling, which is better than I hoped. Although not as tight as the Carrera, it is extremely easy to drive the car on winding roads with lots of confidence. I have not driven the car on the track as I did the Porsche, so I can't compare hard-driving experience, but that isn't what I bought the Aston for.","AM does not know how to make cars in large quantities and it shows with the V8. Failing gearboxes, lack of torque and smouldering clutches followed by lamentable excuses for the lack of quality from AM technical people were some of the resons why I got rid of the car after eight months. A porsche 911 S with a sports exhaust and the sport chrono option is not as pretty as the V8 but will go quicker, be reliable, make noise, retain its value and is cheaper. Watch AM V8 residual values drop as the quality issues come to light.The car is slow, that is why everyone says it needs more torque.The build quality is not what you would expect. Check warranty history if you are buying a used car.","Truly the most exciting car out there in its price range. Not seen everyday like its competitors. The craftsmanship is out of this world. Power, beauty, soul and if you buy one then you will know what I mean.     ","I have one of the first US Vantage V8s and it is a brilliant steer.  Definitely better than any 911 that I have driven and the looks, build quality and excusivity are spot on.  Well done AM!!",An amazing car! Drove Porsches for the past 7 year and this car tops any of them. Beautiful to look at-feels and sounds incredible. I bought mine without ever driving one and I could not be happier.,"I have been driving my Vantage since May. I have to say I like it but I'm not in love with it.  I have been driving Porsches for past few years and I kind of miss driving them.  I think this car could have been a bit wider and few inches longer.  I think the front exterior is just gorgeous but the back is a bit like japanese cars.  Starting price for this car should be $155,000 after improvements. 110K  is cheap for this category of car.","I took delivery in May and have had my best driving experiences ever since then. The looks of this car gets almost too much attention, but it is always a 'thumbs up'. ","I am overwhelmed by the beauty and performance of this automobile. Not easy for a big guy to get into but once seated everything is perfect. In fact, there is almost nothing that could be changed to make the car better.","I traded my 2006 coupe for a leftover 2007 roadster and could not be happier. The '06 had several of the early production problems -- sorted out by AM nicely. This car, OTOH, is simply perfect. IMO, it looks even better than the coupe and the sportshift (once you get used to it) is even more fun than the manual and allows for even more aggressive driving on the twisties. The top fits well and the car is quiet with it up. Wind buffeting is not much of a problem top down.  I get even more thumps up and admiring looks in the roadster than in the coupe. This is a very special, very exclusive car. To the best of my knowledge. there are only three in KC and I have yet to see the other two. ","I loved the car for its curb and higway appeal. But both the manual and automatic transmissions were simply not reliable. I first had a 2007 standard transmission Vantage Coupe that stalled on a freeway or highway five times. After being frightened out of my mind, I was able to get the car to limp back to the dealer. It was a lemon, so Aston Martin replaced the car with a 2008 Vantage that was equipped with an Automatic Transmission. That transmission was always rough at the start of the day, with the vehicle shuddering at each stop. The dealer never recognized the problem and said I did not know how to drive the car. At considerable expense, I paid off the lease early and got rid of the car","The AMV8 may not be the class leader in terms of straight-line performance, but it the leader of its class in terms of overall performance, sheer driving enjoyment and élan.  The car is a perfect combination of beautifully styled aluminum, state-of-the-art technology and enough HP to raise your blood pressure more than enough for everyday driving.  It is a joy to drive as it is a highly responsive and compliant sports car.  You will pay a premium to get into an Aston.  But, hey, once you go past a four-banger econo-box its all a matter of personal preference, isnt it?  The bottom line is that this is an adult sports car that youll enjoy driving day after day.","A car this beautiful and this beautifully made doesn't have to be the fastest in its class.  It is very quick, handles extremely well, and is a treat just to sit in.  There is nothing quite like it in that regard. It is a thrill just to see it in the garage.  And it is a blast to drive.","I completed a long (18 month) but fun process of driving all exotics out there except for Bentley, and at the end the Vantage was the clear winner. The key in my mind is that the Aston is pure motoring bliss.  It looks, feels, and sounds other-worldly, and is completely classy. Also, I've been surprised by how much other motorists and peds love the car.  Constant thumbs-up signs, digital photos.","Having been the owner of many fine cars (Mercedes, BMW, Jaguar) I always suspected that if, and when, I purchased an Aston Martin my heart would be lost forever. How right I was!!! While the Aston Martin Vantage 8 may not be the perfect car, you'd be hard pressed to convince me otherwise.   In my opinion the workmanship, performance, and curb appeal of this beast would stand up to any other make or model. The drop jaw good looks and driving experience makes this an investment worth every penny spent!  I recently showed it at a regional car show and even with more exotic models of Porches, Ferraris (sp), and others my Vantage drew the majority of the raves. Do yourself a favor: buy one!","This is my 2nd Aston which I purchased new and some things never change. The Aston is a high performance car for sure with a reliable and truly excellent engine the rest does not live up. The road holding is OK and no problem on regular highway driving, but the suspension is an issue because there is no ""ABC"" feature that inspires confidence, so in fast and tight corners, an average driver will have to deal with a nervous car and will be more shaken than stirred. It is an unsophisticated car with a washboard ride, but I buy one again!","This beauty stranded me the first day I had it.  The clutch went out on it and it had to be picked up by a flatbed.  Dealer needs it for 10 days, the part has to be ordered from the U.K.  How do you ever trust a car again after it strands you.  I will sell it as soon as I get it back. In addition, the leather above the speedo / tach is coming off, you could actually see the staples that hold it down on the underside.  This is a luxury car??!!  Stick with the BMW's and Lexus's of the world, at least they are delivered in one piece and don't strand you on the side of a highway.","This car has plenty of flaws such as really outdated electronics (GPS, radio, etc.) and horrible ergonomics (tiny buttons in bad locations, etc.).  But none of that matters because when you drive this car you feel like the king of the road.  Sure, there are faster cars and more technologically advanced cars, but nothing gets attention like an Aston Martin, and it's attention with class.  It's not flashy like a Lambo or Lotus - it's all class, and the sound it makes is astounding!  The sound coming out of the exhaust is worth the cost of the car entirely! ","This vehicle makes you proud to own it as soon as you put your hands on the wheel to start driving it. When your about to drive home from a long, bad day at work, the comfort soothes you. The v8 vantage may be Aston Martin's most affordable vehicle and may be known as ""a poor man Aston Martin"" but its technology and luxury design tops many peoples lists and gets them raving, like me.","Recently took delivery of 2011 N420 roadster with 6-speed manual. Came out of a Porsche 997 C4S cabriolet, my second 911 C4. Loved the Porsches, but was in mood for a new driving sensation. 
+
+N420 is magnificent. Very fast, comfortable, beautiful. The torque is amazing in every gear. Sport suspension a bit firmer than 997 in normal mode, but not as firm as Porsche's sport mode. An excellent balance between the two. Firm yet compliant. The sport exhaust is perfectly tuned. Under 3K sound is subdued. Cross 3K, especially under rapid acceleration and the beastly growl is unleashed. ","i just bought this car and love it.
+it puts a smile on my face every time i get in the car.
+it has the nicest interior of any car in its price range and drives perfectly.
+
+my biggest complaint is that i am now spoiled when it comes to other cars.","I have owned this car for about 3 months and have put about 5600 miles on it already! I absolutely love driving it! Putting the top down and listening to the exhaust is pure bliss. Who needs a radio when you have this 4.7L V8 symphony? It's extremely comfortable, I've driven it hundreds of miles on day trips and never felt tired. The trunk space isn't much but it's plenty to fit my golf bag, shoes and backpack at the same time so it's good enough for me. The only real complaint I have about the car is the transmission. In auto mode and in normal driving it's slow and jerky but in sport with the throttle down it's much better.","My ratings are a bit harsh compared to my actual feelings for the car, but they are objective. I LOVE my car. It's a great weekend car. It's not as fast as most other exotics, and the ride quality is VERY stiff. Handling is exceptional, as is braking. It's an elegant, beautiful piece of machinery that produces smiles everywhere you go. You feel like you are driving something special and you feel special for doing so. I have had the car for about 2.5 years and put a little over 17,000 miles on it thus far (I acquired it with 3,242 miles). Mine is not a garage queen, but rather a work of art to be enjoyed. So far I have not had any mechanical issues with the car.
+","If you have the price of admission, I find it's a very satisfying experience. A gently pre-owned GT is the way to go. When new they were a relative bargain; used, it was a no-brainer for me. The fact that it's not the fastest for the money is of no consequence on public roads. You can still scare yourself silly if that's your goal. This car eats miles like no other I've been in including a friend's 911 GT3  and a 1964 Shelby FIA 289 Cobra (mine). This car cruises at 90 like the average car at 60 mph. The ride and the grip are amazing and the wind and road noise is low at speed. The exhaust note is wonderful especially with top down. You can drive a 600 mile day and not feel beat-up at the end. The quality of materials and the hand-craftsmanship is the icing on this very yummy cake! If it were 500 pounds lighter I wouldn't complain however the luxury touches would be compromised and I'm not ready to make it any less compelling a purchase. I'm not concerned with depreciation; this car is a keeper. I dare you to walk away without looking back; beauty never goes out of style!
+Update: November, 2019. An E-ticket experience (old Disneyland reference) every time I take her out. Yes, still very much a keeper! (BTW, Edmunds, I'm writing about a 2015 GT roadster not 2016, please edit as I'm unable to do so, thanks).
+","First, you should know that I bought this car used--barely!  It is a 2015 with only 6000 miles on it when I bought it.  Price was about 2/3 of new and the car seemed to be totally as new.  First owner owned it for a month and then traded it in (!); second owner five months.  Personally I plan to be buried in it!  Why did the other owners not seem to like the car?  My guess is the clutch, which is very difficult--just about like kicking a rock.  But I am in shape and have no real trouble with it, even in traffic, so it is not a problem for me.  This is a great driving car--more acceleration than you can use on public roads, super steering and brakes, wonderful road holding--but with that comes a quite stiff ride.  Despite the substantial beautiful engine sounds you can have a conversation with your passenger, no problem.  Storage is limited, and my car although it came with Bluetooth buttons has no Bluetooth!  Sound system is nice, navigation close to useless.  Overall though just a great car as long as you are OK with the clutch!  And what is really nice is the reaction of others to the car; they just love it and no one gives me the attitude you might get if you were driving a not-to-be-named Italian car.
+
+Update:  I am using this car as my daily driver, with no issues at all.  So far highly reliable and a genuine joy to drive and own.  Also the clutch needed replacement and I installed an AMR clutch--an updated version of the stock clutch, made by Aston Martin, and it has transformed the car in the sense that the clutch effort is no longer high; actually about the same as my wife's manual VW.  I would recommend this for any owner of this car.
+"

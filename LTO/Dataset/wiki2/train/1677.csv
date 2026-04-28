@@ -1,0 +1,5 @@
+{{no2}}Frequency,{{UK DVB-T|ch=30}},{{UK DVB-T|ch=34}},{{UK DVB-T|ch=40|off=neg}},{{UK System I|ch=41}},{{UK DVB-T|ch=43|off=neg}},{{UK System I|ch=44}},{{UK DVB-T|ch=46|off=neg}},{{UK System I|ch=47}},{{UK DVB-T|ch=50|off=neg}},{{UK System I|ch=51}}
+{{no2}}UHF,30,34,40-,41,43-,44,46-,47,50-,51
+{{no2}}kW,10,5,5,500,5,500,5,500,5,500
+{{no2}}Service,BBC (Mux 1),Digital 3&4 (Mux 2),SDN (Mux A),ITV1 Wales (HTV Wales until 2002),Arqiva (Mux C),BBC One Wales,Arqiva (Mux D),S4C,BBC (Mux B),BBC Two Wales
+{{no2}}System,DVB-T,DVB-T,DVB-T,PAL System I,DVB-T,PAL System I,DVB-T,PAL System I,DVB-T,PAL System I

@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Acre}} Rio Branco,6,4,1,1,10,6,4,13
+2,{{flagicon|Pará}} São Francisco,6,2,3,1,7,6,1,9
+3,{{flagicon|Roraima}} São Raimundo (RR),6,1,2,3,7,9,-2,5
+4,{{flagicon|Rondônia}} Genus,6,1,2,3,7,10,-3,5

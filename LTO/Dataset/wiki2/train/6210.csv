@@ -1,0 +1,12 @@
+,,Bilabial,Alveolar,Alveolar,"Palato-
+alveolar",Retroflex,Palatal,Velar,Uvular,Glottal
+,,Bilabial,dental,plain,"Palato-
+alveolar",Retroflex,Palatal,Velar,Uvular,Glottal
+Stop,voiceless,{{IPA|p}},,{{IPA|t}},,,,{{IPA|k}},{{IPA|q}},{{IPA|ʔ}}
+Stop,ejective,{{IPA|pʼ}},,{{IPA|tʼ}},,,,{{IPA|kʼ}},{{IPA|qʼ}},
+Affricate,voiceless,,,,{{IPA|t͡ʃ}},,,,,
+Affricate,ejective,,,,{{IPA|t͡ʃʼ}},,,,,
+Fricative,Fricative,,{{IPA|s̪}},{{IPA|s}},,{{IPA|ʂ}},,{{IPA|x}},,{{IPA|h}}
+Nasal,Nasal,{{IPA|m}},,{{IPA|n}},,,,,,
+Approximant,Approximant,,,{{IPA|l}},,,{{IPA|j}},{{IPA|w}},,
+Flap,Flap,,,{{IPA|ɾ}},,,,,,

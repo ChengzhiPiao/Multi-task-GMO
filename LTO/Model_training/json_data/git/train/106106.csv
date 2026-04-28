@@ -1,0 +1,153 @@
+Hello everyone ! In our previous lessons,"we introduced you to graphs and we also
+looked at and talked about some of the",properties of graph,"but so far we have not discussed how the
+can implement graph,","how they can create a logical structure
+like graph of in computer's memory,","So, let us try to discuss this. A graph as
+we know","contains a set of vertices and a
+set of",edges and this is how we define graph in,pure mathematical terms. A graph G,is defined as an ordered pair of set,V of vertices and a set E of,"edges. Now to create and store a graph in
+computer's","memory, the simplest thing that we
+probably can do","is that we can create two list, one","to store all the vertices and
+another to store all the","edges. For a list, we can use an array","of appropriate size or we can use an
+implementation of","a dynamic list. In-fact we can use a
+dynamic list","available to us in language libraries,
+something like","vector in C++ or ArrayList
+in Java.",Now a vertex is identified by,"its name, so the first list the list of
+vertices","would simply be a list of names or
+strings.",I just filled in names of all the vertices,"for this example graph here. Now what
+should we fill",in this edge list here. An edge,"is identified by it's two endpoints, so
+what we can do is we can create",an edge as an object with two fields.,We can definde edge as a structure,or class with two fields. One to store,"the start vertex and another to store the
+end vertex.","Edge list would basically be an array
+or list of this type",struct edge. In these two definitions of,"edge that have written here, in the first
+one I have used character pointers","because in C we typically use
+character pointers to store",or refer to strings.,"We could use character array also. In C++
+or Java","where we can create classes, we have
+string","available to us as a data-type, so we
+can use that also.","So we can use any of these for the
+feilds. We can use character","pointer or character array or string
+data-type, if it's available","depends on how you want to design your
+implementation.","Now let's fill this edge list here for
+this example graph.","Each row now here has two boxes. Let's
+say the first one is to store","the start vertex and the
+second one is to store","the end vertex. The graph that we have
+here is an","undirected graph, so any vertex can be
+called start vertex","and any vertex can be called end
+vertex. Order of the vertices is not",important here.,"We have nine edges here, one between",A and B another between,A and C another between A,and D and then we have B E,"and B F, instead of having B F as an
+entry we could also have F B","but we just need one of them and then
+we have C G","D H, E H",and F H. Actually there is one more.,"We also have G H. We have 10 edges
+in total here not 9.","Now once again, because this is an
+undirected graph,","if we are saying that there is a edge
+from F to H. ",We are also saying that there is an edge from,"H to F. There is no need to have another
+entry as","H F, we will necessarily be using
+extra memory.",If this was a directed graph F H,"and H F would have meant two different
+connections","which is the start vertex which is the
+end vertex","would have mattered. Maybe in case of
+undirected graphs","we should name the fields as first
+vertex and second vertex and in case of",directed graphs,"we should name the fields as start
+vertex and end vertex.","Now our graphs here could also be a
+weighted graph.",We could have some cost or weight,"associated with the edges. As we know in
+an unweighted graph cost of all the",connection is,"equal but in a weighted graph, different
+connections","would have different weight or different cost.
+Now in this example graph here, I have",associated some,"weights to these edges. Now how do you
+think we should store this data,","the weight of edges. Well if the graph
+is weighted","we can have one more field in the edge
+object",to store the weight. Now an entry in my edge-list has 3 fields.,"One to store the start vertex, one to store","the end vertex and one more to store the weight.
+So this is one possible way of storing",a graph.,"We can simply create two lists, one to
+store the vertices","and another to store the edges, but this","is not very efficient. For any possible
+way of storing and organizing data","we must also see its cost and when we
+say cost","we mean two things - time cost of various
+operations",and the memory usage.,"Typically we measure the rate of growth
+of","time taken with size of input or data,",what the also call time complexity,and we measure the rate of growth of,"memory consumed with size of input data,","what we also call space complexity. Time
+and space complexities","are most commonly expressed in terms of
+what we call","Big-Oh notation. For this lesson, I am
+assuming that you already know about","time and space complexity analysis and
+Big-Oh notation.","If you want to revise some of these
+concepts then","you can check the description up of this
+video for link to some lessons.","We always want to minimize the time
+cost of most frequently performed",operations,"and we always want to make sure that we
+do not consume","unreasonably high number. Okay, so","let's now analyze this particular
+structure that you're trying to use","to store our graph. Let's first
+discuss the memory usage.","For the first list, the vertex list, least
+number of rows needed",or consumed would be equal to,number of vertices. Now,"each row here in this vertex list is
+a name or",string and string can be of any length.,"Right now all strings have just one
+character because I simply named","the node A B C and so on but we could have
+names with multiple characters","and because strings can be of
+different lenghts. All rows may not be",consuming the same amount of memory,"like here. Here, I'm showing","an intra-city road network as
+weighted graph.","Cities are my nodes and road distances
+are my weights.",Now for this graph as you can see names,"are of different lengths, so all rows
+in vertex list or","all rows in edge list would not cost us
+same.","More characters will cost us more bytes.
+But we can safely assume that","the names will not be too long. We can
+safely assume that in almost all",practical scenarios,"average length of strings will be a
+really small value.","if we assume it to be always lesser
+than some constant","then the total space consumed in this
+vertex list","will be proportional to the number of
+rows consumed","that is the number of vertices or
+in other words we can say that","space complexity here is Big-Oh of number
+of vertices.","This is how we right number of
+vertices with two vertical bars.","What we basically mean here is number
+of elements in set V.","Now for the edge list, once again","we are storing strings in first two fields
+of edge object.","So once again each row here will not
+consume same amount of","memory but if we are just storing the
+reference or pointer to a string","like here in the first row instead of
+having values","filled in these two fields, we could
+have","references or pointers to the names
+in the vertex list.","If we will design things like this, each
+will consume same memory.","This in fact is better because
+references in most cases would cost us a",lot lesser than,a copy of the name,"and as reference we can have the actual
+address of the string","and that's what we're doing when we're
+saying that start vertex and",end vertex can be character pointers,"or may be a better design would be
+simply having the index of the name or",string in vertex list.,"Let's say A is at index 0 in
+vertex list and B is that index 1 and",C is at index two,and I'll go on like this. Now,"for start vertex and end vertex, we
+can have",two integer fields. As you can see in both,"my definitions of edge, start vertex and
+end vertex","are of type int now and in each row of edge list
+first and second field","are filled with integer values. I have
+filled in appropriate values of","indices. This definitely is a better
+design","and if you can see now each row in edge
+list","would cost us the same amount of memory.
+So overall space consumed in edge list",would be proportional to number of,"edges or in other words, space complexity
+here","is Big-Oh of number of edges. Okay, so
+this is analysis of","our memory usage. Overall space
+complexity of this design","would be Big-Oh of number of vertices
+plus number of edges.","Is thiis memory usage is reasonably high ?
+Well,","we cannot do a lot better than this if
+we want to store a graph in","in computer's memory. So we are alright in
+terms of memory usage.","Now let's discuss time cost of
+operations.","What do you think can be most frequently
+performed operations","while working with graph. One of the most
+frequently performed operations while",working with,graph would be finding all nodes,"adjacent to a given node, that is finding
+all nodes","directly connected to a given node. What
+do you think would be","time cost of finding all nodes directly
+connected to a given node.","Well, we will have to scan the whole edge
+list. We will have to perform","a linear search. We will have to go through
+all the entries","in the list and see if the start or end
+node in the entry is our given node.","For a directed graph, we would see
+if the start","node in the entry is our given node or not
+and for an undirected graph we would see",both the start as well as the end node.,"Running time would be proportional to
+number of edges","or in other words time complexity of
+this operation would be","Big-Oh of number of edges. Okay, now","another frequently performed operation
+can be finding","if two given nodes are connected or
+not. In this case also, we will have to",perform,"a linear search on the edge list. In
+worst case we will have to look at","all the entries in the edge list. So
+worst-case running time would be","proportional to number of edges. So for
+this operation","too, time complexity is Big-Oh of number of",edges. Now let's try to see how good,"or bad this running time Big-Oh of number
+of","edges is. If you remember this
+discussion from our previous lesson","in a simple graph, in a graph with no self
+loop",or multi edge. If number of vertices,that is the number of elements in set V,"is equal to n, then maximum number of",edges would be N * N-1.,if the graph is directed.,"Each node will be connected to every
+other node","and of course minimum number of edges
+can be zero.","We can have a graph with no edge.
+Maximum number of edges",would be N * N-1 / 2,"if the graph is undirected but all in
+all if you can see","number of edges can go almost up to
+square of number of vertices.","Number of edges can be of to order of
+square of number of vertices.","Let's denote number of vertices
+here as","v, so a number of edges","can be of to order of v^2.
+In a graph, typically","any operation running in order of number
+of edges","would be considered very costly. We try
+to keep things in order of number of",vertices.,"When we are comparing the two running times
+this is very obvious","Big-Oh of v is a lot better than Big-Oh
+v^2.","All in all this vertex list and edge
+list kind of the representation","is not very efficient in terms of time
+cost of operations.","We should think of some other efficient
+design. We should think of something",better.,"We will talk about another possible way of
+storing and representing graph","in next lesson. This is it for this
+lesson. Thanks for watching."
+00:00:00.580,00:00:03.169,00:00:07.620,00:00:08.919,00:00:12.570,00:00:17.060,00:00:21.640,00:00:25.070,00:00:28.120,00:00:31.140,00:00:34.519,00:00:37.749,00:00:41.749,00:00:45.579,00:00:49.309,00:00:53.339,00:00:56.550,00:01:00.569,00:01:04.600,00:01:08.040,00:01:11.820,00:01:14.939,00:01:18.700,00:01:22.490,00:01:25.600,00:01:28.930,00:01:32.229,00:01:38.130,00:01:41.270,00:01:44.880,00:01:48.219,00:01:51.979,00:01:57.719,00:02:00.719,00:02:05.100,00:02:09.739,00:02:12.290,00:02:16.269,00:02:19.540,00:02:23.459,00:02:27.519,00:02:31.769,00:02:35.079,00:02:39.389,00:02:44.049,00:02:47.919,00:02:51.430,00:02:56.290,00:03:01.000,00:03:01.760,00:03:04.799,00:03:07.889,00:03:11.099,00:03:14.409,00:03:20.280,00:03:24.079,00:03:27.290,00:03:31.540,00:03:36.229,00:03:40.489,00:03:43.659,00:03:46.939,00:03:50.879,00:03:54.359,00:03:57.799,00:04:01.479,00:04:04.729,00:04:08.729,00:04:12.799,00:04:13.939,00:04:17.659,00:04:21.269,00:04:23.600,00:04:28.520,00:04:29.410,00:04:32.870,00:04:37.630,00:04:38.950,00:04:42.970,00:04:46.690,00:04:49.850,00:04:55.430,00:04:58.730,00:05:04.060,00:05:04.840,00:05:08.670,00:05:12.070,00:05:17.290,00:05:21.950,00:05:26.460,00:05:30.430,00:05:33.590,00:05:36.770,00:05:39.770,00:05:43.370,00:05:46.660,00:05:51.430,00:05:54.570,00:05:59.190,00:06:02.970,00:06:05.980,00:06:09.230,00:06:13.560,00:06:14.550,00:06:17.660,00:06:20.980,00:06:24.220,00:06:28.690,00:06:33.890,00:06:36.680,00:06:40.060,00:06:43.340,00:06:46.530,00:06:51.039,00:06:56.930,00:07:01.340,00:07:03.379,00:07:06.449,00:07:09.849,00:07:14.409,00:07:17.550,00:07:21.810,00:07:25.879,00:07:31.199,00:07:35.599,00:07:37.020,00:07:41.159,00:07:44.870,00:07:48.210,00:07:51.900,00:07:56.900,00:08:01.319,00:08:05.310,00:08:09.279,00:08:12.349,00:08:16.629,00:08:20.460,00:08:25.370,00:08:28.370,00:08:32.070,00:08:35.589,00:08:39.810,00:08:44.630,00:08:45.770,00:08:47.930,00:08:51.680,00:08:55.810,00:08:59.040,00:09:04.190,00:09:05.800,00:09:11.100,00:09:12.100,00:09:17.269,00:09:21.110,00:09:25.920,00:09:29.910,00:09:35.259,00:09:40.420,00:09:44.019,00:09:47.610,00:09:53.389,00:09:55.130,00:09:59.319,00:10:04.720,00:10:09.509,00:10:14.490,00:10:18.019,00:10:21.759,00:10:25.970,00:10:29.050,00:10:33.120,00:10:37.759,00:10:38.540,00:10:41.550,00:10:45.459,00:10:49.040,00:10:53.120,00:10:57.339,00:11:01.070,00:11:06.130,00:11:10.160,00:11:14.640,00:11:16.710,00:11:19.880,00:11:24.520,00:11:27.820,00:11:31.450,00:11:36.240,00:11:36.880,00:11:41.050,00:11:45.960,00:11:49.250,00:11:52.650,00:11:56.270,00:11:59.520,00:12:03.820,00:12:07.550,00:12:10.850,00:12:14.270,00:12:18.000,00:12:21.170,00:12:24.580,00:12:28.170,00:12:31.580,00:12:35.760,00:12:39.000,00:12:43.490,00:12:48.580,00:12:52.950,00:12:56.280,00:12:59.700,00:13:04.690,00:13:07.820,00:13:12.590,00:13:14.490,00:13:17.510,00:13:22.089,00:13:26.760,00:13:31.170,00:13:35.430,00:13:35.899,00:13:40.560
+00:00:03.169,00:00:07.620,00:00:08.919,00:00:12.570,00:00:17.060,00:00:21.640,00:00:25.070,00:00:28.120,00:00:31.140,00:00:34.519,00:00:37.749,00:00:41.749,00:00:45.579,00:00:49.309,00:00:53.339,00:00:56.550,00:01:00.569,00:01:04.600,00:01:08.040,00:01:11.820,00:01:14.939,00:01:18.700,00:01:22.490,00:01:25.600,00:01:28.930,00:01:32.229,00:01:38.130,00:01:41.270,00:01:44.880,00:01:48.219,00:01:51.979,00:01:57.719,00:02:00.719,00:02:05.100,00:02:09.739,00:02:12.290,00:02:16.269,00:02:19.540,00:02:23.459,00:02:27.519,00:02:31.769,00:02:35.079,00:02:39.389,00:02:44.049,00:02:47.919,00:02:51.430,00:02:56.290,00:03:01.000,00:03:01.760,00:03:04.799,00:03:07.889,00:03:11.099,00:03:14.409,00:03:20.280,00:03:24.079,00:03:27.290,00:03:31.540,00:03:36.229,00:03:40.489,00:03:43.659,00:03:46.939,00:03:50.879,00:03:54.359,00:03:57.799,00:04:01.479,00:04:04.729,00:04:08.729,00:04:12.799,00:04:13.939,00:04:17.659,00:04:21.269,00:04:23.600,00:04:28.520,00:04:29.410,00:04:32.870,00:04:37.630,00:04:38.950,00:04:42.970,00:04:46.690,00:04:49.850,00:04:55.430,00:04:58.730,00:05:04.060,00:05:04.840,00:05:08.670,00:05:12.070,00:05:17.290,00:05:21.950,00:05:26.460,00:05:30.430,00:05:33.590,00:05:36.770,00:05:39.770,00:05:43.370,00:05:46.660,00:05:51.430,00:05:54.570,00:05:59.190,00:06:02.970,00:06:05.980,00:06:09.230,00:06:13.560,00:06:14.550,00:06:17.660,00:06:20.980,00:06:24.220,00:06:28.690,00:06:33.890,00:06:36.680,00:06:40.060,00:06:43.340,00:06:46.530,00:06:51.039,00:06:56.930,00:07:01.340,00:07:03.379,00:07:06.449,00:07:09.849,00:07:14.409,00:07:17.550,00:07:21.810,00:07:25.879,00:07:31.199,00:07:35.599,00:07:37.020,00:07:41.159,00:07:44.870,00:07:48.210,00:07:51.900,00:07:56.900,00:08:01.319,00:08:05.310,00:08:09.279,00:08:12.349,00:08:16.629,00:08:20.460,00:08:25.370,00:08:28.370,00:08:32.070,00:08:35.589,00:08:39.810,00:08:44.630,00:08:45.770,00:08:47.930,00:08:51.680,00:08:55.810,00:08:59.040,00:09:04.190,00:09:05.800,00:09:11.100,00:09:12.100,00:09:17.269,00:09:21.110,00:09:25.920,00:09:29.910,00:09:35.259,00:09:40.420,00:09:44.019,00:09:47.610,00:09:53.389,00:09:55.130,00:09:59.319,00:10:04.720,00:10:09.509,00:10:14.490,00:10:18.019,00:10:21.759,00:10:25.970,00:10:29.050,00:10:33.120,00:10:37.759,00:10:38.540,00:10:41.550,00:10:45.459,00:10:49.040,00:10:53.120,00:10:57.339,00:11:01.070,00:11:06.130,00:11:10.160,00:11:14.640,00:11:16.710,00:11:19.880,00:11:24.520,00:11:27.820,00:11:31.450,00:11:36.240,00:11:36.880,00:11:41.050,00:11:45.960,00:11:49.250,00:11:52.650,00:11:56.270,00:11:59.520,00:12:03.820,00:12:07.550,00:12:10.850,00:12:14.270,00:12:18.000,00:12:21.170,00:12:24.580,00:12:28.170,00:12:31.580,00:12:35.760,00:12:39.000,00:12:43.490,00:12:48.580,00:12:52.950,00:12:56.280,00:12:59.700,00:13:04.690,00:13:07.820,00:13:12.590,00:13:14.490,00:13:17.510,00:13:22.089,00:13:26.760,00:13:31.170,00:13:35.430,00:13:35.899,00:13:40.560,00:13:44.320

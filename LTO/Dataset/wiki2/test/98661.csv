@@ -1,0 +1,44 @@
+D{{Sub|1}},D{{Sub|20}},D{{Sub|21}},"D{{Sub|40}}
+{{Small|Ran}}","D{{Sub|41}}
+{{Small|Ran}}",Majority →,"R{{Sub|41}}
+{{Small|Ran}}","R{{Sub|40}}
+{{Small|Ran}}",R{{Sub|21}},R{{Sub|20}},R{{Sub|1}}
+D{{Sub|2}},D{{Sub|19}},D{{Sub|22}},"D{{Sub|39}}
+{{Small|Ran}}","D{{Sub|42}}
+{{Small|Ran}}",Majority →,"R{{Sub|42}}
+{{Small|Ran}}","R{{Sub|39}}
+{{Small|Ran}}",R{{Sub|22}},R{{Sub|19}},R{{Sub|2}}
+D{{Sub|3}},D{{Sub|18}},D{{Sub|23}},"D{{Sub|38}}
+{{Small|Ran}}","D{{Sub|43}}
+{{Small|Ran}}",Majority →,"R{{Sub|43}}
+{{Small|Ran}}","R{{Sub|38}}
+{{Small|Ran}}",R{{Sub|23}},R{{Sub|18}},R{{Sub|3}}
+D{{Sub|4}},D{{Sub|17}},D{{Sub|24}},"D{{Sub|37}}
+{{Small|Ran}}","D{{Sub|44}}
+{{Small|Retired}}",Majority →,"R{{Sub|44}}
+{{Small|Ran}}","R{{Sub|37}}
+{{Small|Ran}}",R{{Sub|24}},R{{Sub|17}},R{{Sub|4}}
+D{{Sub|5}},D{{Sub|16}},D{{Sub|25}},"D{{Sub|36}}
+{{Small|Ran}}","D{{Sub|45}}
+{{Small|Retired}}",Majority →,"R{{Sub|45}}
+{{Small|Ran}}",R{{Sub|36}},R{{Sub|25}},R{{Sub|16}},R{{Sub|5}}
+D{{Sub|6}},D{{Sub|15}},D{{Sub|26}},"D{{Sub|35}}
+{{Small|Ran}}","R{{Sub|55}}
+{{Small|Retired}}",Majority →,"R{{Sub|46}}
+{{Small|Ran}}",R{{Sub|35}},R{{Sub|26}},R{{Sub|15}},R{{Sub|6}}
+D{{Sub|7}},D{{Sub|14}},D{{Sub|27}},"D{{Sub|34}}
+{{Small|Ran}}","R{{Sub|54}}
+{{Small|Retired}}",Majority →,"R{{Sub|47}}
+{{Small|Ran}}",R{{Sub|34}},R{{Sub|27}},R{{Sub|14}},R{{Sub|7}}
+D{{Sub|8}},D{{Sub|13}},D{{Sub|28}},"D{{Sub|33}}
+{{Small|Ran}}","R{{Sub|53}}
+{{Small|Ran}}",Majority →,"R{{Sub|48}}
+{{Small|Ran}}",R{{Sub|33}},R{{Sub|28}},R{{Sub|13}},R{{Sub|8}}
+D{{Sub|9}},D{{Sub|12}},D{{Sub|29}},"D{{Sub|32}}
+{{Small|Ran}}","R{{Sub|52}}
+{{Small|Ran}}",Majority →,"R{{Sub|49}}
+{{Small|Ran}}",R{{Sub|32}},R{{Sub|29}},R{{Sub|12}},R{{Sub|9}}
+D{{Sub|10}},D{{Sub|11}},D{{Sub|30}},D{{Sub|31}},"R{{Sub|51}}
+{{Small|Ran}}","R{{Sub|51}}
+{{Small|Ran}}","R{{Sub|50}}
+{{Small|Ran}}",R{{Sub|31}},R{{Sub|30}},R{{Sub|11}},R{{Sub|10}}

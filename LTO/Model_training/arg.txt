@@ -1,0 +1,15 @@
+# Running Parameters
+
+## Training and Testing
+```
+python3 src/main.py --model-name GedGNN --dataset wiki2 --model-epoch-start 0 --model-epoch-end 20 --model-train 1
+
+python3 src/main.py --model-name GedGNN --dataset git --model-epoch-start 0 --model-epoch-end 40 --model-train 1
+```
+
+## Post-processing
+```
+python3 src/main.py --model-name GedGNN --dataset wiki2 --model-epoch-start 20 --model-epoch-end 20 --model-train 0
+
+python3 src/main.py --model-name GedGNN --dataset git --model-epoch-start 40 --model-epoch-end 40 --model-train 0
+```

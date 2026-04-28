@@ -1,0 +1,8 @@
+Feature,"Ultrasound abnormalities:
+Multilocular cyst
+Solid areas
+Bilateral lesions
+Ascites
+Intra-abdominal metastases",Menopausal score,CA-125
+RMI 1,{{plainlist | * 0 {{=}} no abnormality * 1 {{=}} one abnormality * 3 {{=}} two or more abnormalities }},{{plainlist | * 1 {{=}} premenopausal * 3 {{=}} postmenopausal }},Quantity in U/ml
+RMI 2,{{plainlist | * 0 {{=}} none * 1 {{=}} one abnormality * 4 {{=}} two or more abnormalities }},{{plainlist | * 1 {{=}} premenopausal * 4 {{=}} postmenopausal }},Quantity in U/ml

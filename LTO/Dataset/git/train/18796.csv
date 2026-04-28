@@ -1,0 +1,2 @@
+res_partner_tag_sale_manager,res.partner.tag.sale.manager,model_res_partner_tag,,1,0,0,0
+res_partner_tag_sale_manager_edition,res.partner.tag.sale.manager.edition,model_res_partner_tag,base.group_sale_manager,1,1,1,1

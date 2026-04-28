@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Wins}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip | Pts | Points}}
+1,{{flagicon|Hungary}} Ferencváros Budapest,3,2,1,0,7,5,+2,7
+2,{{flagicon|Romania}} Steaua Bucharest,3,1,1,1,4,3,+1,4
+3,{{flagicon|Ukraine}} Dynamo Kyiv,3,1,0,2,3,5,-2,3
+4,{{flagicon|Switzerland}} Basel,3,0,2,1,3,4,-1,2

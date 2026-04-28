@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Won}},{{Tooltip | L | Lost}},{{Tooltip | T | Tied}},{{Tooltip | NR | No result}},{{Tooltip | Pts | Points}}
+Khost Province,3,2,1,0,0,4
+Kandahar Province,3,2,1,0,0,4
+Paktia Province,3,1,2,0,0,2
+Balkh Province,3,1,2,0,0,2

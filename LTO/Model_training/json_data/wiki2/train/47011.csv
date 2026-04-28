@@ -1,0 +1,6 @@
+Model #,Length (m),Width (m),Heigh (m),Volume (m3),Power plant,Fuel,Max speed (km/h),Cruise speed (km/h),Max wind scale allowed for operation,Payload (kg),Endurance (h)
+S6-1200,12,2.7,4,48,62 cc @ 5.4&nbsp;hp,Gasoline,80,5 – 40,5 – 6,10,4
+S6-1300,13,2.8,4.1,55,62 cc @ 5.4&nbsp;hp,Gasoline,80,5 – 50,5 – 6,15,5
+S6-1400,14,3,4.3,68,80 cc @ 7&nbsp;hp,Gasoline,80,5 – 60,5 – 6,20,5
+S6-1500,15,3.2,4.5,90,80 – 100 cc @ 7 – 9&nbsp;hp,Gasoline,90,5 – 70,5 – 6,25,6
+S6-1600,16,3.5,4.8,108,80 – 100 cc @ 7 – 9&nbsp;hp,Gasoline,90,5 – 70,5 – 6,30,6

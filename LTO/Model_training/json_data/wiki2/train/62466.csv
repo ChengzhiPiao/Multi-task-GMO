@@ -1,0 +1,5 @@
+{{Tooltip|Pos| Final position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| Pts | Points}}
+1,Fiorentina,4,2,2,0,10,6,6
+2,Lazio,4,2,1,1,10,6,5
+3,Sampdoria,4,1,1,2,5,9,3
+4,Bari,4,1,0,3,5,13,2

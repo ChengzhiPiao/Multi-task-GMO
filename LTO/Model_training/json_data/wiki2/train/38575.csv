@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,Kastrioti,3,2,0,1,8,4,+4,4
+2,Bylis,3,2,0,1,10,7,+3,4
+3,Flamurtari,3,2,0,1,7,5,+2,4
+4,Përmeti,3,0,0,3,1,10,–9,0

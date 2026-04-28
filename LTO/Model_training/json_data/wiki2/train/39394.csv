@@ -1,0 +1,3 @@
+Group,Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals For}},{{Tooltip|GA|Goals Against}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+5,{{fb|GYF|local}},3,2,0,1,8,5,+3,6
+4,{{fb|BRB}},3,2,0,1,3,2,+1,6

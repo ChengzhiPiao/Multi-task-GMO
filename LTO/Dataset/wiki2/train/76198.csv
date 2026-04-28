@@ -1,0 +1,7 @@
+Bottom,Bottom,Bottom,Bottom,Top,Top,Top,Top
+Pin,Function,Pin,Function,Pin,Function,Pin,Function
+1,Ground,6,{{n/a|Unused}},11,Ground,16,+5&nbsp;V
+2,Ground,7,+5&nbsp;V,12,B+ (transmit),17,Ground
+3,Ground,8,{{n/a|Unused}},13,B− (transmit),18,A− (receive)
+4,Ground{{Efn|Drive present}},9,{{n/a|Unused}},14,Ground,19,A+ (receive)
+5,LED,10,Ground,15,+5&nbsp;V,20,Ground

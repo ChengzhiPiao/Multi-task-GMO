@@ -1,0 +1,9 @@
+B8,{{CDD|node|3|node|3|node|3|node|3|node|3|node|3|node|4|node_1}},k-face,fk,f0,f1,f2,f3,f4,f5,f6,f7,k-figure,notes
+A7,{{CDD|node|3|node|3|node|3|node|3|node|3|node|3|node|2|node_x}},( ),f0,256,8,28,56,70,56,28,8,"{3,3,3,3,3,3}",B8/A7 = 2^8*8!/8! = 256
+A6A1,{{CDD|node|3|node|3|node|3|node|3|node|3|node|2|node_x|2|node_1}},{ },f1,2,1024,7,21,35,35,21,7,"{3,3,3,3,3}",B8/A6A1 = 2^8*8!/7!/2 = 1024
+A5B2,{{CDD|node|3|node|3|node|3|node|3|node|2|node_x|2|node|4|node_1}},{4},f2,4,4,1792,6,15,20,15,6,"{3,3,3,3}",B8/A5B2 = 2^8*8!/6!/4/2 = 1792
+A4B3,{{CDD|node|3|node|3|node|3|node|2|node_x|2|node|3|node|4|node_1}},"{4,3}",f3,8,12,6,1792,5,10,10,5,"{3,3,3}",B8/A4B3 = 2^8*8!/5!/8/3! = 1792
+A3B4,{{CDD|node|3|node|3|node|2|node_x|2|node|3|node|3|node|4|node_1}},"{4,3,3}",f4,16,32,24,8,1120,4,6,4,"{3,3}",B8/A3B4 = 2^8*8!/4!/2^4/4! = 1120
+A2B5,{{CDD|node|3|node|2|node_x|2|node|3|node|3|node|3|node|4|node_1}},"{4,3,3,3}",f5,32,80,80,40,10,448,3,3,{3},B8/A2B5 = 2^8*8!/3!/2^5/5! = 448
+A1B6,{{CDD|node|2|node_x|2|node|3|node|3|node|3|node|3|node|4|node_1}},"{4,3,3,3,3}",f6,64,192,240,160,60,12,112,2,{ },B8/A1B6 = 2^8*8!/2/2^6/6!= 112
+B7,{{CDD|node_x||2|node|3|node|3|node|3|node|3|node|3|node|4|node_1}},"{4,3,3,3,3,3}",f7,128,448,672,560,280,84,14,16,( ),B8/B7 = 2^8*8!/2^7/7! = 16

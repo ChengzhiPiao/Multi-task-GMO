@@ -1,0 +1,9 @@
+Gene,Title,Provider_institution,Description,PI,Authors,Assay_ID,Data_format,Data_repository,Data_link,Endpoint,Endpoint_detection,Release date,Repository,Dataset ID
+Gene that the resource is related to,Name/title of the dataset,Institution where work was performed,Paragraph description of the dataset,Principle investigator of the dataset,Person(s) performing associated experiments,Assay(s) associated with the data (BAO IDs),"Data file format(s) - MS, txt, HDF5, etc.",Repository(ies) where data are stored,Link to external data repository containing key dataset metadata,"Data endpoint format (log2 expression, fold change, etc.)","Physical entity/method to calculate endpoint - fluorescence intensity, mass spec, etc.",Date when the data was publicly released (to the external repository),"Repository where the data has been released (e.g. GEO, dbGaP, PubChem, Synapse, etc.)","Identifier as registered by a repository (e.g. GEO ID, PubChem AID, Synpase ID, etc.)"
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield
+IDG_GL,,,,,,,,,,,,,,
+Gene,,,,,,,,,,,,,,
+http://druggablegenome.net/Gene,,,,,,,,,,,,,,
+http://purl.bioontology.org/ontology/OMIM/GENESYMBOL,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

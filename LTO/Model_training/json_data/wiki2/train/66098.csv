@@ -1,0 +1,6 @@
+Order-7-infinite apeirogonal honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-7-infinite apeirogonal honeycomb,Regular honeycomb,"{∞,7,∞}
+{∞,(7,∞,7)}","{{CDD|node_1|infin|node|7|node|infin|node}}
+{{CDD|node_1|infin|node|7|node|infin|node_h0}} ↔ {{CDD|node_1|infin|node|split1-77|branch|labelinfin}}","{&infin;,7} File:H2 tiling 27i-1.png",{∞},{∞},"File:H2 tiling 27i-4.png {7,∞}
+File:H2 tiling 77i-4.png {(7,∞,7)}",self-dual,"[∞,7,∞]
+[∞,((7,∞,7))]",Regular

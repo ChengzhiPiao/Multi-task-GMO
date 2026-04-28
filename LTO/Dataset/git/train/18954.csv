@@ -1,0 +1,2 @@
+access_res_partner_idtype,res_partner_idtype group_user,model_res_partner_idtype,base.group_user,1,0,0,0
+access_res_partner_idtype_manager,res_partner_idtype group_partner_manager,model_res_partner_idtype,base.group_partner_manager,1,1,1,1

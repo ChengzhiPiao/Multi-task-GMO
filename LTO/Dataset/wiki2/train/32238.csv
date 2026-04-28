@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| L | Lost}},{{Tooltip| PF | Points for}},{{Tooltip| PA | Points against}},{{Tooltip| PD | Point differential}},{{Tooltip| Pts | Points}}
+{{bk|INA}},3,3,0,223,165,+58,6
+{{bk|MAS}},3,2,1,212,190,+22,5
+{{bk|SIN}},3,1,2,225,221,+4,4
+{{bk|MYA}},3,0,3,191,275,&minus;84,3

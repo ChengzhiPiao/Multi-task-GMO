@@ -1,0 +1,7 @@
+Rank,1,2,3,4,5,6,7,7,7,7,7
+Site,Lawrence Livermore National Laboratory,Argonne National Laboratory,Forschungszentrum Jülich,RIKEN Advanced Institute for Computational Science,CINECA,"Changsha, China",CNRS/IDRIS-GENCI,Science and Technology Facilities Council - Daresbury Laboratory,University of Edinburgh,EDF R&D,Victorian Life Sciences Computation Initiative
+Machine (Architecture),IBM Sequoia (Blue Gene/Q),IBM Mira (Blue Gene/Q),JUQUEEN (Blue Gene/Q),K computer (Fujitsu custom),Fermi (Blue Gene/Q),Tianhe-2 (NUDT custom),Turing (Blue Gene/Q),Blue Joule (Blue Gene/Q),DIRAC (Blue Gene/Q),Zumbrota (Blue Gene/Q),Avoca (Blue Gene/Q)
+Number of nodes,65536,49152,16384,65536,8192,8192,4096,4096,4096,4096,4096
+Number of cores,1048576,786432,262144,524288,131072,196608,65536,65536,65536,65536,65536
+Problem scale,40,40,38,40,37,36,36,36,36,36,36
+GTEPS,15363,14328,5848,5524.12,2567,2061.48,1427,1427,1427,1427,1427

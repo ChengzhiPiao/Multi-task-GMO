@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Mato Grosso}} Sinop,6,3,1,2,6,5,+1,10
+2,{{flagicon|Mato Grosso do Sul}} Novoperário,6,3,1,2,7,7,0,10
+3,{{flagicon|Goiás}} Aparecidense,6,2,2,2,11,10,+1,8
+4,{{flagicon|Distrito Federal}} Ceilândia,6,1,2,3,9,11,–2,5

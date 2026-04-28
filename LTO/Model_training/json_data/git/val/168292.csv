@@ -1,0 +1,8 @@
+access_project_phase,access_project_user_allocation,access_project_phase_manager,access_project_user_allocation_manager,access_resource_resource_user,access_resource_calendar_leaves_user,access_resource_resource_manager,access_project_user_allocation_manager,access_project_resource_calendar_attendance
+project.phase,project.user.allocation,project.phase manager,project.user.allocation manager,user.user user,user.calendar.leaves user,user.user manager,project.user.allocation.manager,resource.calendar.attendance
+model_project_phase,model_project_user_allocation,model_project_phase,model_project_user_allocation,resource.model_resource_resource,resource.model_resource_calendar_leaves,resource.model_resource_resource,model_project_user_allocation,resource.model_resource_calendar_attendance
+project.group_project_user,project.group_project_user,project.group_project_manager,project.group_project_manager,project.group_project_user,project.group_project_user,project.group_project_manager,project.group_project_manager,project.group_project_manager
+1,1,1,1,1,1,1,1,1
+1,0,1,1,0,1,1,1,0
+1,0,1,1,0,1,1,1,0
+0,0,1,1,0,1,1,1,0

@@ -1,0 +1,13 @@
+2,3,4,5,6,7,9,10,11
+ Which of the following is the name of the node having child nodes?, What is the depth of the root node of K-ary tree?, What is the Height of the root node of K-ary tree?," Which node is the root node of the following K-ary tree?
+"," Which node is the Leaf node in the following K-ary tree?
+"," Which node is the parent node of Node 5?
+"," Which node is the child node of Node C in the following K-ary tree?
+"," Which node is the child node of the Node B in the following K-ary tree?
+"," What is the depth of Node F in the given K-ary tree?
+"
+Brother,2,1,A,A,1,A,A,0
+Sister,1,2,B,B,5,C,C,1
+Mother,0,3,C,D,2,G,B,2
+Parent,3,0,D,F,3,H,No child node,3
+c,d,a,d,c,a,d,c,c

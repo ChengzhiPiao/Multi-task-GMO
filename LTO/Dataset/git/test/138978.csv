@@ -1,0 +1,11 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+Page,MinimalTextBlock,IoT thing camera,AWS Cloud,Region,Serveur,Amazon SQS,AWS Lambda,Compartiment S3,Texte,Texte,MinimalTextBlock,MinimalTextBlock,Ligne,Ligne,Ligne,Ligne,Ligne
+,Standard,AWS Architecture 2019,AWS Architecture 2019,AWS Architecture 2019,Infrastructure réseau,AWS Architecture 2017,AWS Architecture 2017,AWS Architecture 2017,Standard,Standard,Standard,Standard,,,,,
+,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+,,,,4,,4|5,4|5,4|5,4|5,4|5,4|5,4|5,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,9.0,3.0,8.0,8.0,6.0
+,,,,,,,,,,,,,7.0,6.0,9.0,7.0,9.0
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,Arrow,Arrow,Arrow,Arrow,Arrow
+Page 1,Put MP4 objects with Xiaomi path,Xiaomi Mi Home Security Camera 360,AWS Cloud,eu-west-1,NAS,,Lambda,,SQS,S3 backup Bucket,Create a message with S3:CreateObject event,Move MP4 objects to a custom path,,,,,

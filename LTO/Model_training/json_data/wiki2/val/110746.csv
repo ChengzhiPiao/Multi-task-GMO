@@ -1,0 +1,5 @@
+{{Tooltip|Pos.|Position}},Team,{{Tooltip|GP|Games Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GS|Goals Scored}},{{Tooltip|GA|Goals Allowed}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+1,Sur,3,2,1,0,10,3,+7,7
+2,Saham,3,1,2,0,5,4,+1,5
+3,Sohar,3,1,1,1,7,8,-1,4
+4,Al-Rustaq,3,0,0,3,2,9,-7,0

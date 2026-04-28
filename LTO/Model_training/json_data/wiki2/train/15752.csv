@@ -1,0 +1,10 @@
+Pos,1,2,3,4,=5,=5,7,8,9,=10,=10,12,13,14,15,=16,=16,18
+Team,Glasgow Celtic,Glasgow Rangers,Greenock Morton,Partick Thistle,Motherwell,Ayr United,Heart of Midlothian,Kilmarnock,Queen's Park,St Mirren,Clydebank,Third Lanark,Airdrieonians,Hamilton Academical,Dumbarton,Clyde,Falkirk,Hibernian
+Pld,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34,34
+W,26,26,18,17,14,15,14,14,15,10,12,11,9,11,7,7,6,5
+D,6,5,11,7,10,8,9,7,5,12,8,9,11,5,8,6,8,3
+L,2,3,5,10,10,11,11,13,14,12,14,14,14,18,19,21,20,26
+GF,71,86,76,62,51,62,59,61,59,43,54,60,45,49,31,45,46,30
+GA,22,16,40,43,40,53,52,59,57,55,65,62,54,75,58,75,73,91
+GD,49,70,36,19,11,9,7,2,-2,-8,-11,-2,-9,-26,-27,-30,-27,-61
+PTS,58,57,47,41,38,38,37,35,35,32,32,31,29,27,22,20,20,13

@@ -1,0 +1,4 @@
+Year,Team,Games,Games,Tackles,Tackles,Tackles,Tackles,Interceptions / Coverage,Interceptions / Coverage,Interceptions / Coverage,Interceptions / Coverage,Interceptions / Coverage,Fumbles,Fumbles
+Year,Team,GP,GS,{{tooltip|Solo|Solo Tackles}},{{tooltip|Ast| Assisted Tackles}},{{tooltip|Total|Total Tackles}},{{tooltip|Sack|Quarterback Sacks}},{{tooltip|INT| Interceptions}},{{tooltip|Yds|Interception yards}},{{tooltip|Avg|Avg yard interception}},{{tooltip|TD|Interception touchdown}},{{tooltip|PD|Passes Defended}},{{tooltip|FF|Forced Fumbles}},{{tooltip|FR|Fumbles Recovered}}
+2017,TEN,2,2,7,6,1,0.0,0,0,0.0,0,0,0,0
+Career,Career,2,2,7,6,1,0.0,0,0,0.0,0,0,0,0

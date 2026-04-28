@@ -1,0 +1,9 @@
+Rank,Rank,{{Gold1}},{{Silver2}},{{Bronze3}},4,5,6,7,8
+Athlete,Athlete,{{flagIOC2athlete|Yousef Al-Abdulrazzaq|IOC|2010 Asian Beach Games}},{{flagIOC2athlete|Abdullah Al-Fadhel|IOC|2010 Asian Beach Games}},{{flagIOC2athlete|Thanapun Phangchunan|THA|2010 Asian Beach Games}},{{flagIOC2athlete|Chaowalit Kuajaroon|THA|2010 Asian Beach Games}},{{flagIOC2athlete|Teerapong Khunjeng|THA|2010 Asian Beach Games}},{{flagIOC2athlete|Abdulrahman Al-Bader|IOC|2010 Asian Beach Games}},{{flagIOC2athlete|Wu Ronghua|CHN|2010 Asian Beach Games}},{{flagIOC2athlete|Saud Ahmed|KSA|2010 Asian Beach Games}}
+Motor 1,Rank,5,2,1,3,4,DNS,DNS,DSQ
+Motor 1,Pts,39,53,60,48,43,,,
+Motor 2,Rank,1,4,5,3,6,7,8,2
+Motor 2,Pts,60,43,39,48,36,33,30,53
+Motor 3,Rank,1,2,4,5,7,3,6,DNF
+Motor 3,Pts,60,53,43,39,33,48,36,
+Total,Total,159,149,142,135,112,81,66,53

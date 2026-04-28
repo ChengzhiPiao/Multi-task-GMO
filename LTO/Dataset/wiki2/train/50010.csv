@@ -1,0 +1,10 @@
+Rank,1,2,3,4,5,6,7,8,9,10
+Airport,Comodoro Arturo Merino Benítez International Airport,Cerro Moreno International Airport,El Tepual Airport,El Loa Airport,Diego Aracena International Airport,Presidente Carlos Ibáñez del Campo International Airport,Carriel Sur International Airport,La Florida Airport,Chacalluta International Airport,Temuco Airport
+"IATA
+code",SCL,ANF,PMC,CJC,IQQ,PUQ,CCP,LSC,ARI,CPO
+Location,Santiago,Antofagasta,Puerto Montt,Calama,Iquique,Punta Arenas,Concepción,La Serena,Arica,Temuco
+Passengers,"19,192,488","1,901,976","1,485,959","1,438,476","1,196,675","994,971","965,838","775,928","702,666","674,596"
+"Annual
+change",11.39% {{increase}},-3.78% {{decrease}},14.78% {{increase}},5.97% {{increase}},3.58% {{increase}},17.92% {{increase}},6.25% {{increase}},2.13% {{increase}},18.08% {{increase}},17.25% {{increase}}
+"Rank
+change",{{steady}},{{steady}},{{increase}} 1,{{decrease}} 1,{{steady}},{{increase}} 1,{{decrease}} 1,{{steady}},{{steady}},{{steady}}

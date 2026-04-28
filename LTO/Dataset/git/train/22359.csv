@@ -1,0 +1,8 @@
+access_event_event_public,access_event_event_portal,access_event_type_public,access_event_event_ticket_public,access_event_event_ticket_portal,access_event_category_public,access_event_tag_public,access_website_event_menu_public,access_website_event_menu_manager,website_visitor_access_event_user
+event.event.public,event.event.portal,event.type.public,event.event.ticket.public,event.event.ticket.portal,event.tag.category.public,event.tag.public,website.event.menu,website.event.menu,website.visitor.access.event.user
+event.model_event_event,event.model_event_event,event.model_event_type,event.model_event_event_ticket,event.model_event_event_ticket,event.model_event_tag_category,event.model_event_tag,model_website_event_menu,model_website_event_menu,model_website_visitor
+base.group_public,base.group_portal,,base.group_public,base.group_portal,,,,event.group_event_manager,event.group_event_user
+1,1,0,1,1,1,1,1,1,1
+0,0,0,0,0,0,0,0,1,1
+0,0,0,0,0,0,0,0,1,0
+0,0,0,0,0,0,0,0,1,0

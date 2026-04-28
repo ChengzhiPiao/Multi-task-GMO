@@ -1,0 +1,6 @@
+Athlete,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},Points,Points,Points
+Athlete,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Games for}},{{Tooltip|GA|Games against}},{{Tooltip|Diff|Games Difference}}
+{{flagIOC2athlete|[[Erman Eltemur]]|TUR|2015 European Games}},3,3,0,0,10,3,+7
+{{flagIOC2athlete|[[Rafael Aghayev]]|AZE|2015 European Games}},3,2,0,1,9,6,+3
+{{flagIOC2athlete|[[Ruslans Sadikovs]]|LAT|2015 European Games}},3,0,1,2,2,5,-3
+{{flagIOC2athlete|[[Illya Nikulin]]|UKR|2015 European Games}},3,0,1,2,1,8,-7

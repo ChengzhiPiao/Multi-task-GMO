@@ -1,0 +1,4 @@
+prepaid_expense_amortization_employee,account.prepaid_expense_amortization - user,model_account_prepaid_expense_amortization,base.group_user,1,1,1,1
+prepaid_expense_amortization_all,account.prepaid_expense_amortization - all,model_account_prepaid_expense_amortization,,0,0,0,0
+prepaid_expense_amortization_schedule_employee,account.prepaid_expense_amortization_schedule - user,model_account_prepaid_expense_amortization_schedule,base.group_user,1,1,1,1
+prepaid_expense_amortization_schedule_all,account.prepaid_expense_amortization_schedule - all,model_account_prepaid_expense_amortization_schedule,,1,0,0,0

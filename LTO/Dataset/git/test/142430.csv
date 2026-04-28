@@ -1,0 +1,10 @@
+boundary,nonDebris,lymph,Live,CD3,CD4,CD25,CD25CD127_transitional,CD25+CD127-,*,*,*,*,*,Memory,Naive,Total,Activated
++,+,+,-,+,+,+,+,+,+/-,+/-,+/-,+/-+/-,+/-+/-,+,+,+,+
+root,boundary,nonDebris,lymph,Live,CD3,CD4,CD25,CD4,CD25+CD127-,CD25+CD127-,CD25+CD127-,CD25+CD127-,CD25+CD127-,CD4,CD4,CD4,CD4
+"FSC-A,SSC-A",FSC-A,"FSC-A,SSC-A",Live,CD3,CD4,CD25,"CD25,CD127","CD25,CD127",CCR4,CD45RO,HLADR,"CCR4,CD45RO","CCR4,HLADR",,,,
+boundary,mindensity,flowClust,tailgate,mindensity,mindensity,flowClust,flowClust,refGate,flowClust,flowClust,flowClust,refGate,refGate,boolGate,boolGate,boolGate,boolGate
+"max = c(250000, 250000)","gate_range = c(50000, 100000), adjust = 1.5","K = 2, quantile = 0.95, target = c(100000, 50000)",tol = 0.05,,,K = 2,"K = 3, transitional = TRUE, quantile = 0.9, target = c(2000, 500), transitional_angle = 5.5, translation = -0.5",CD25CD127_transitional,K = 2,K = 2,K = 2,CCR4+:CD45RO+,CCR4+:HLADR+,CD25+CD127-&CCR4+CD45RO+,CD25+CD127-&CCR4+CD45RO-,Memory|Naive,Total&CCR4+HLADR+
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,prior_flowClust,standardize_flowset,,,prior_flowClust,prior_flowClust,,prior_flowClust,prior_flowClust,prior_flowClust,,,,,,
+,,K = 2,,,,K = 2,K = 3,,K = 2,K = 2,K = 2,,,,,,

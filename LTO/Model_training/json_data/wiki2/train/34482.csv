@@ -1,0 +1,4 @@
+Quadritruncated 8-cube,Type,Schläfli symbol,Coxeter-Dynkin diagrams,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Quadritruncated 8-cube,uniform 8-polytope,"4t{3,3,3,3,3,3,4}","{{CDD|node|4|node|3|node|3|node_1|3|node_1|3|node|3|node|3|node}}
+{{CDD|node|3|node|3|node|3|node_1|3|node_1|3|node|split1|nodes}}",,,,,,,,"{3,4}v{3,3}","B8, [3,3,3,3,3,3,4]
+D8, [35,1,1]",convex

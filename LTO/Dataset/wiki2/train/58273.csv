@@ -1,0 +1,6 @@
+Rank,{{Gold1}},{{Silver2}},{{Bronze3}},4,5,6
+Team,{{hb|KOR|1984}},{{hb|JPN|1947}},{{hb|KSA}},{{hb|CHN}},{{hb|PRK|1948}},{{hb|UAE}}
+{{Tooltip|Pld|Played}},5,5,5,5,5,5
+{{Tooltip|W|Won}},5,4,3,2,1,0
+{{Tooltip|D|Drawn}},0,0,0,0,0,0
+{{Tooltip|L|Lost}},0,1,2,3,4,5

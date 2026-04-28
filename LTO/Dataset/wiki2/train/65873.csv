@@ -1,0 +1,6 @@
+Infinite-order icosahedral honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Infinite-order icosahedral honeycomb,Regular honeycomb,"{3,5,∞}
+{3,(5,∞,5)}","{{CDD|node_1|3|node|5|node|infin|node}}
+{{CDD|node_1|3|node|5|node|infin|node_h0}} = {{CDD|node_1|3|node|split1-55|branch|labelinfin}}","{3,5} File:Uniform polyhedron-53-t2.png",{3},{∞},"{5,∞} File:H2 tiling 25i-4.png
+{(5,∞,5)} File:H2 tiling 45i-4.png","{∞,5,3}","[∞,5,3]
+[3,((5,∞,5))]",Regular

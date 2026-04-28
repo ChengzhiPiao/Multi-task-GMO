@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+3,Sunderland,46,26,12,8,86,50,+36,90
+4,Charlton Athletic,46,26,10,10,80,49,+31,88
+5,Ipswich Town,46,23,14,9,77,43,+34,83
+6,Sheffield United,46,19,17,10,69,54,+15,74

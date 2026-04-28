@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{futsal|MDA}},3,1,2,0,14,4,+10,5
+{{futsal|GEO}},3,1,2,0,14,4,+10,5
+{{futsal|ARM}},3,1,2,0,8,4,+4,5
+{{futsal|MLT}},3,0,0,3,0,24,&minus;24,0

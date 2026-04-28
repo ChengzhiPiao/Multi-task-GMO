@@ -1,0 +1,2 @@
+access_fp_masukan_all,Faktur Pajak Masukan - All User,model_l10n_id_faktur_pajak_masukan,base.group_user,1,0,0,0
+access_fp_masukan_taxform_user,Faktur Pajak Masukan - Taxform User,model_l10n_id_faktur_pajak_masukan,l10n_id_taxform.user_group_taxform,1,1,1,1

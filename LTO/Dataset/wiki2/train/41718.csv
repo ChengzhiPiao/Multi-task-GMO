@@ -1,0 +1,5 @@
+Medals by sport,Sport,Boccia,Swimming,Athletics,Powerlifting,Total
+Medals by sport,{{gold01}},1,0,0,0,1
+Medals by sport,{{silver02}},0,2,1,0,3
+Medals by sport,{{bronze03}},0,3,4,1,8
+Medals by sport,Total,1,5,5,1,12

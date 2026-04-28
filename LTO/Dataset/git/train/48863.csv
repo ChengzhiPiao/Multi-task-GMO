@@ -1,0 +1,5 @@
+FormType,SurveyUtil,Table,Table,Table,Table,Table
+default,default,default,default,security,security,security
+FormType.formType,SurveyUtil.formId,defaultViewType,displayName,defaultAccessOnCreation,locked,unverifiedUserCanCreate
+string,string,string,object,string,boolean,boolean
+SURVEY,geoweather,SPREADSHEET,"{""text"":""Simple Weather Survey""}",READ_ONLY,false,false

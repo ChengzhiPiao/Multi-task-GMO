@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played }},{{Tooltip | W | Won }},{{Tooltip | L | Lost }},{{Tooltip | D | Draw }},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points }}
+Naomh Conaill,3,3,0,0,65,30,+35,6
+Termon,3,2,1,0,38,40,-2,4
+Gaoth Dobhair,3,1,2,0,38,50,-12,2
+Four Masters,3,0,3,0,43,64,-21,0

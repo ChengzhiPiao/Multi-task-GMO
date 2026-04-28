@@ -1,0 +1,8 @@
+1,2,3,4,5,6,7,8,9,10,11,12
+Browser,firstname,firstname,lastname,lastname,Sex,Years of Experience,datepicker,datepicker,Execute,Button,"Text1
+ Text2"
+Open the Url [<Data>] in the Browser,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],,Click the [<Object>] ,Assert if [<Object>] element is displayed
+Open,Click,Set,Click,Set,Click,Click,Click,Set,BasicFeatures:Reusable,Click,assertElementDisplayed
+URL_Global:URL,,@Cognizant,,@Intelligent Test Scripter,,,,@01/01/2020,,,
+,,,,,,,,,,,
+,Demo,Demo,Demo,Demo,Demo,Demo,Demo,Demo,,Demo,Demo

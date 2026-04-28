@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played }},{{Tooltip | W | Won }},{{Tooltip | L | Lost }},{{Tooltip | D | Draw }},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points }}
+Slane,3,3,0,0,24,16,+8,6
+Walterstown,3,2,1,0,43,24,+19,4
+St. Patrick's,3,1,2,0,30,30,+0,4
+Martry Harps,3,0,3,0,15,36,-21,0

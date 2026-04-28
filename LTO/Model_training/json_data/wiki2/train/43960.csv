@@ -1,0 +1,6 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbu|15|COL}},4,3,1,0,9,3,+6,10
+{{fbu|15|CHI}},4,2,1,1,6,5,+1,7
+{{fbu|15|BRA}},4,1,2,1,4,2,+2,5
+{{fbu|15|URU}},4,1,2,1,6,5,+1,5
+{{fbu|15|VEN}},4,0,0,4,4,14,−10,0

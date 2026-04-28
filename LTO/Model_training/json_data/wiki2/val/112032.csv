@@ -1,0 +1,8 @@
+Software,Reorderable product backlog,Story description,Acceptance criteria,Story points,Planning poker,Planning poker points averaging,Story claiming,Comments on stories,Change tracking
+Azure Boards,{{yes}},{{yes}},{{yes}},{{yes}},{{yes|Via extension}},{{no}},{{yes}},{{yes}},{{yes}}
+HeySpace,{{yes}},{{yes}},{{yes}},{{no}},{{no}},{{no}},{{yes}},{{yes}},{{yes}}
+JIRA,{{yes}},{{yes}},{{yes|Via custom field}},{{yes}},{{yes|Via plugin}},{{yes|Via plugin}},{{yes}},{{yes}},{{yes}}
+Projektron BCS,{{yes}},{{yes}},{{yes}},{{yes}},{{no}},{{no}},{{yes}},{{yes}},{{yes}}
+Taiga,{{yes}},{{yes}},{{yes|Via custom field}},{{yes}},{{no}},{{no}},{{yes}},{{yes}},{{yes}}
+Trello,{{yes}},{{yes}},{{yes}},{{yes|Via plugin}},{{yes|Via plugin}},{{yes|Via plugin}},{{yes}},{{yes}},{{yes}}
+Tuleap,{{yes}},{{yes}},{{yes}},{{yes}},{{no}},{{no}},{{yes}},{{yes}},{{yes}}

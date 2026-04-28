@@ -1,0 +1,4 @@
+{{Tooltip|Pos.|Position}},Team,{{Tooltip|GP|Games Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GS|Goals Scored}},{{Tooltip|GA|Goals Allowed}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+1,Mirbat,2,1,1,0,4,3,+1,4
+2,Al-Seeb,2,0,2,0,2,2,0,2
+3,Al-Suwaiq,2,0,1,1,1,2,-1,1

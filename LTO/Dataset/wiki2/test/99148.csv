@@ -1,0 +1,14 @@
+Athlete,Event,Race,Race,Race,Race,Race,Race,Race,Total,Total
+Athlete,Event,1,2,3,4,5,6,7,Points,Rank
+Peter Commette,Finn,15.0,18.0,11.7,20.0,19.0,19.0,13.0,95.7,11
+"David Whitehurst
+Robert Whitehurst",470,17.0,{{abbr|RET|Retired}},10.0,0.0,22.0,22.0,18.0,89.0,9
+"Norman Freeman
+John Mathias",Flying Dutchman,11.7,19.0,15.0,13.0,8.0,0.0,18.0,65.7,6
+"David McFaull
+Michael Rothwell",Tornado,14.0,16.0,0.0,8.0,3.0,3.0,8.0,36.0,{{silver02}}
+"Dennis Conner
+Conn Findlay",Tempest,3.0,3.0,5.7,10.0,15.0,8.0,3.0,32.7,{{bronze03}}
+"Walter Glasgow
+Richard Hoepfner
+John Kolius",Soling,14.0,5.7,17.0,3.0,13.0,11.7,0.0,47.4,{{silver02}}

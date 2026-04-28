@@ -1,0 +1,2 @@
+org/assertj/core/api/FactoryBasedNavigableListAssert.FactoryBasedNavigableListAssert,(Ljava/util/List;Ljava/lang/Class;Lorg/assertj/core/api/AssertFactory;)V,16,1
+org/assertj/core/api/FactoryBasedNavigableListAssert.toAssert,(Ljava/lang/Object;Ljava/lang/String;)Lorg/assertj/core/api/AbstractAssert;,14,1

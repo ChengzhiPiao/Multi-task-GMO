@@ -1,0 +1,11 @@
+,,,Labial,Dental,Alveolar,Postalveolar,Velar
+Stop,Stop,{{small|Voiceless}},"{{IPA link|p}}
+&nbsp;{{IPA|pː}}",,"{{IPA link|t}}
+&nbsp;{{IPA|tː}}",,"{{IPA link|k}}
+&nbsp;{{IPA|kː}}"
+Stop,Stop,{{small|Voiced}},{{IPA link|b}},,{{IPA link|d}},,{{IPA link|ɡ}}
+Fricative,Fricative,{{small|Voiceless}},,,{{IPA link|s}},{{IPA link|ʃ}},
+Fricative,Fricative,{{small|Voiced}},{{IPA link|β}},{{IPA link|ð}},{{IPA link|z}},{{IPA link|ʒ}},
+Nasal,Nasal,Nasal,{{IPA link|m}},,{{IPA link|n}},{{IPA link|ɲ}},{{IPA link|ŋ}}
+Flap,Flap,Flap,,,{{IPA link|ɾ}},,
+Approximant,Approximant,Approximant,{{IPA link|w}},,,{{IPA link|j}},

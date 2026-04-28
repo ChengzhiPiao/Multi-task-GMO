@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+6,{{fb|URU}},7,2,1,4,14,20,−6,5
+7,{{fb|ECU}},7,1,0,6,7,21,−14,2
+8,{{fb|COL}},7,0,2,5,4,23,−19,2

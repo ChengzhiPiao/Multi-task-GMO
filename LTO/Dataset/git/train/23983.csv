@@ -1,0 +1,8 @@
+access_product_product_public,access_product_template_public,access_product_category_public,access_product_category_pos_manager,access_product_public_category_public,access_product_pricelist_version_public,access_product_pricelist_public,access_product_pricelist_item_public,access_product_product_price_type_public,access_product_style,access_product_supplierinfo,access_product_attribute_public,access_product_attribute_value_public,access_product_attribute_price_public,access_product_attribute_line_public
+product.product.public,product.template.public,product.category.public,product.public.category manager,product.category.public,product.pricelist.version.public,product.pricelist.public,product.pricelist.item.public,product.price.type.public,product.style.public,product.supplierinfo.public,product.attribute public,product.attribute value public,product.attribute price public,product.attribute line public
+product.model_product_product,product.model_product_template,product.model_product_category,model_product_public_category,model_product_public_category,product.model_product_pricelist_version,product.model_product_pricelist,product.model_product_pricelist_item,product.model_product_price_type,website_sale.model_product_style,product.model_product_supplierinfo,product.model_product_attribute,product.model_product_attribute_value,product.model_product_attribute_price,product.model_product_attribute_line
+,,,base.group_sale_manager,,,,,,,,base.group_public,base.group_public,base.group_public,base.group_public
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

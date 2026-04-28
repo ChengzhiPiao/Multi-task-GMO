@@ -1,0 +1,10 @@
+Place,1.,2.,3.,4.,5.,6.,7.,8.,9.,10.
+Team,Árabe Unido,Tauro,San Francisco,El Chorrillo,Plaza Amador,Alianza,Colón River,Sporting Coclé,Atlético Veragüense,Pan de Azúcar
+Played,18,18,18,18,17,18,18,18,17,18
+Won,12,11,11,11,8,9,5,4,3,0
+Draw,4,3,2,2,5,1,3,3,3,4
+Lost,2,4,5,5,4,8,10,11,11,14
+Goals Scored,32,36,38,32,34,28,21,21,15,12
+Goals Conceded,14,11,17,19,18,29,39,35,36,51
++/-,+18,+25,+11,+13,+16,-1,-18,-14,-21,-39
+Points,40,36,35,35,29,28,18,15,12,4

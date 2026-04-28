@@ -1,0 +1,3 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GAv|Goal average}},{{tooltip|Pts|Points}}
+1,{{fb|CUB}},3,2,1,0,10,2,5.00,5
+2,{{fb|HAI|1859}},3,0,1,2,2,10,0.20,1

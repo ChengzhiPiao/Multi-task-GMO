@@ -1,0 +1,7 @@
+1,Browser,Open the Url [<Data>] in the Browser,Open,VerifyLogin:URL,,
+2,Browser,Wait for [<Data>] milli seconds,pause,@3500,,
+3,EAgro_Username,Press  key [<Data>](android),Set,VerifyLogin:Username,,EAgro Home Page
+4,EAgro_Password,Enter the Decrypted value [<Data>] in the Field [<Object>],setEncrypted,VerifyLogin:Password,,EAgro Home Page
+5,EAgro_Login,Click the [<Object>] ,Click,,,EAgro Home Page
+6,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+7,EAgro_Welcome,Verify if [<Object>] element is present,verifyElementPresent,,,EAgro Home Page

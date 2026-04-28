@@ -1,0 +1,2 @@
+NSDPIndicatorID,IndicatorShortName,Definition,Calculation/Formulation,Range,Assumptions,Limitations,IntendedDirection,Purpose/Rationale,PolicyLinkage,PreferredDataSource,AlternativeDataSource,SourceTag,PrimaryCollectionSystem,FrequencyofCollection,OtherDemandSources,ResponsibleAgency,RelatedLinks,graph_type,computation_units,data_non_statistical,graph_title
+ECO 1.8.2,Interest Rate (Average Bank Rate),,,,,,,,,,,,,,,,,bar,,False,Interest Rate level (average bank rate)

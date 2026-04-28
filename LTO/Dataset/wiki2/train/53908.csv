@@ -1,0 +1,10 @@
+Number,Number,3,4,5,6,7,10,11,13,15,19,20,23,24,25,30,50,60,77,98,
+Nation,Nation,{{flagicon|KAZ}},{{flagicon|MNE}},{{flagicon|SRB}},{{flagicon|KAZ}},{{flagicon|TKM}},{{flagicon|UZB}},{{flagicon|KGZ}},{{flagicon|KAZ}},{{flagicon|CZE}},{{flagicon|KAZ}},{{flagicon|KAZ}},{{flagicon|KAZ}},{{flagicon|MDA}},{{flagicon|KAZ}},{{flagicon|UKR}},{{flagicon|UKR}},{{flagicon|BUL}},{{flagicon|RUS}},{{flagicon|MNE}},
+Position,Position,DF,DF,MF,MF,MF,FW,MF,MF,DF,DF,MF,DF,DF,DF,FW,MF,DF,MF,MF,
+Name,Name,Vladislav Chernyshov,Miodrag Džudović,Predrag Govedarica,Anton Chichulin,Arslanmyrat Amanow,Ulugbek Bakayev,Sergei Ivanov,Alibek Ayaganov,Jakub Chleboun,Grigori Sartakov,Abylaykhan Totay,Zakhar Korobov,Simeon Bulgaru,Ihor Chuchman,Kostyantyn Dudchenko,Rinar Valeyev,Orlin Starokin,Almir Mukhutdinov,Igor Burzanović,TOTALS
+Premier League,{{yel}},5,4,4,1,4,7,3,5,2,1,0,7,3,4,1,1,2,11,7,72
+Premier League,{{sent off}},1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,5
+Kazakhstan Cup,{{yel}},1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3
+Kazakhstan Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},6,4,4,1,4,8,3,5,2,1,0,7,3,4,1,1,2,11,8,75
+Total,{{sent off}},1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,5

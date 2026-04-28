@@ -1,0 +1,6 @@
+Team,{{tooltip|GP|Games played}},{{tooltip|W|Wins}},{{tooltip|T|Ties}},{{tooltip|L|Losses}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}}
+{{ih|AND}},2,2,0,0,15,7
+{{ih|POR}},2,2,0,0,14,7
+{{ih|IRL}},1,1,0,0,9,6
+{{ih|BIH}},2,1,0,1,14,14
+Total,7,6,0,1,52,34

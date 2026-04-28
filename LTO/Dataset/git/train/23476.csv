@@ -1,0 +1,8 @@
+access_product_product_public,access_product_template_public,access_product_category_public,access_product_public_category_public,access_product_pricelist_version_public,access_product_pricelist_public,access_product_pricelist_item_public,access_product_product_price_type_public,access_product_attribute,access_product_attribute_value,access_product_attribute_line,access_product_style,access_product_supplierinfo
+product.product.public,product.template.public,product.category.public,product.category.public,product.pricelist.version.public,product.pricelist.public,product.pricelist.item.public,product.price.type.public,product.attribute.public,product.attribute.value.public,product.attribute.line.public,product.style.public,product.supplierinfo.public
+product.model_product_product,product.model_product_template,product.model_product_category,product.model_product_public_category,product.model_product_pricelist_version,product.model_product_pricelist,product.model_product_pricelist_item,product.model_product_price_type,website_sale.model_product_attribute,website_sale.model_product_attribute_value,website_sale.model_product_attribute_line,website_sale.model_product_style,product.model_product_supplierinfo
+,,,,,,,,,,,,
+1,1,1,1,1,1,1,1,1,1,1,1,1
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,7 @@
+open safe,Pick Lock,Cut Open Safe,Guess Combination,Learn Combo,Find Written Combo,Get Combo from Target,Threaten,Blackmail,Bribe
+1,2,3,11,4,6,7,8,9,10
+,1.0,1.0,1.0,1.0,4.0,4.0,7.0,7.0,7.0
+OR,LEAF,LEAF,LEAF,OR,LEAF,AND,LEAF,LEAF,LEAF
+,https://en.wikipedia.org/wiki/Safe-cracking,,https://en.wikipedia.org/wiki/Password_cracking,,,,,,
+Open a Safe,Pick the Lock of the safe,Cut the safe open,Brute Force the combo,Learn The combination to the safe,Find the safes combo written down,Get the combo from a person,Threaten a person,Blackmail a person,Bribe a person
+,Hard,Med,Hard,Hard,Easy,Hard,Med,Hard,Hard

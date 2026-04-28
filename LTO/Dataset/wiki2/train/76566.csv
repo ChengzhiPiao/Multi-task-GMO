@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|GER}},3,3,0,0,9,0,9,6
+2,{{fbw|ITA}},3,2,0,1,6,2,4,4
+3,{{fbw|TPE|football-old}},3,1,0,2,2,8,−6,2
+4,{{fbw|NGA}},3,0,0,3,0,7,−7,0

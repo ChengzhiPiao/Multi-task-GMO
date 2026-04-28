@@ -1,0 +1,14 @@
+,,Labial,Alveolar,Alveolar,"Post-
+alveolar",Palatal,Velar,Velar,Velar,Velar,Glottal
+,,Labial,Alveolar,Alveolar,"Post-
+alveolar",Palatal,fronted,neutral,neutral,backed,Glottal
+,,Labial,Alveolar,Alveolar,"Post-
+alveolar",Palatal,fronted,plain,labial,backed,Glottal
+Nasal,voiceless,{{IPA|m̥}},{{IPA|n̥}},{{IPA|n̥}},,,,,,{{IPA|ŋ̠̊}},
+Nasal,voiced,{{IPA|m}},{{IPA|n}},{{IPA|n}},,,{{IPA|ɲ}},,{{IPA|ŋʷ}},{{IPA|ŋ̠}},
+Stop,plain,{{IPA|p}},{{IPA|t}},{{IPA|ts}},,,{{IPA|kʲ [cʲ]}},{{IPA|k}},{{IPA|kʷ}},{{IPA|q [k̠]}},{{IPA|ʔ}}
+Stop,preaspirated,{{IPA|ʰp}},{{IPA|ʰt}},{{IPA|ʰts}},,,,{{IPA|ʰk}},{{IPA|ʰkʷ}},{{IPA|ʰq [ʰk̠]}},
+Fricative,voiceless,,{{IPA|s}},{{IPA|s}},,,,,,,{{IPA|h}}
+Fricative,voiced,{{IPA|v}},,,{{IPA|r}},,,,,,
+Approximant,voiceless,,{{IPA|l̥}},{{IPA|l̥}},,{{IPA|ȷ̊}},,,{{IPA|w̥}},,
+Approximant,voiced,,{{IPA|l}},{{IPA|l}},,{{IPA|j}},,,{{IPA|w}},,

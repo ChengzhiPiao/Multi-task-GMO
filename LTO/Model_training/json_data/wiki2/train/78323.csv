@@ -1,0 +1,13 @@
+Platform,1,1,1,2,2,2,2,2,2
+"Frequency
+(per hour)",4,4,4,4,4,2,2,2,2
+Destination,Highbury & Islington,{{rws|Dalston Junction}},London Bridge,{{rws|Crystal Palace}},West Croydon,"London Victoria
+(Mon-Sat)",{{rws|Caterham}} (Mon-Sat),"West Croydon
+(Peaks & Sun only)","{{rws|Tattenham Corner}}
+(Sun only)"
+Service Pattern,"All stations via
+{{rws|Shoreditch High Street}}","All stations via
+{{rws|Shoreditch High Street}}",All stations,All Stations,All stations,All stations via {{rws|Clapham Junction}},All stations via East Croydon,"Forest Hill, Sydenham then fast to
+{{rws|Norwood Junction}}",All stations via East Croydon
+Operator,London Overground,London Overground,Southern,London Overground,London Overground,Southern,Southern,Southern,Southern
+Line,East London,East London,Metro,East London,East London,Metro,Metro,Metro,Metro

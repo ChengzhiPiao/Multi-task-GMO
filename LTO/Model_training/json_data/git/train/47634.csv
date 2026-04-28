@@ -1,0 +1,5 @@
+141.4149,142.3778,142.4222,142.4556,142.4889,142.6111,142.6111,143.1333,143.6,143.7556
+142.1524,142.5444,142.5444,142.7556,142.7667,143.3,,143.6,,
+Hand,Hand,HandToWrist,Hand,HandToWrist,WristToElbow,WristToElbow,WristToElbow,WristToElbow,HandToWrist
+FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleShort-1
+PickedUp,LeftGate,LeftGate,RightGate,RightGate,LeftGate,LeftGate,RightGate,LeftGate,Pushed

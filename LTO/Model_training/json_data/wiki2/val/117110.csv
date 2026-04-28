@@ -1,0 +1,30 @@
+State,State,Oregon,Vermont,Maine,Indiana,Nevada,Ohio,Pennsylvania,West Virginia,California,Delaware,Illinois,Iowa,Kansas,Maryland,Massachusetts,Michigan,Minnesota,Missouri,New Jersey,New York,Wisconsin,1865 elections,New Hampshire,Connecticut,Rhode Island,Tennessee,Kentucky,Nevada,Secessionist States not yet readmitted,Alabama,Arkansas,Florida,Georgia,Louisiana,Mississippi,North Carolina,South Carolina,Texas,Virginia,Total
+Type,Type,At-large,District,District,District,At-large,District,District,District,District,At-large,"District +
+1 at-large",District,At-large,District,District,District,District,District,District,District,District,1865 elections,District,District,District,District,District,At-large,Secessionist States not yet readmitted,District,District,At-large,District,District,District,District,District,District,District,Total
+Date,Date,"June 5, 1864","September 6, 1864","September 11, 1864","October 10, 1864","October 10, 1864","October 10, 1864","October 10, 1864","October 22, 1864","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)","November 8, 1864
+(Election Day)",1865 elections,"March 14, 1865","April 3, 1865","April 5, 1865","August 3, 1865","August 7, 1865","November 7, 1865",Secessionist States not yet readmitted,,,"November 29, 1865",,,"October 2, 1865","November 9, 1865",,,,Total
+"Total
+seats","Total
+seats",1,3,5,11,1,19,24,3,3,1,14,6,1,5,10,6,2,9,5,31,6,1865 elections,3,4,2,8,9,1,Secessionist States not yet readmitted,6,3,1,7,5,5,7,4,4,8,"193
+50 vacancies"
+Republican,Seats,1,3,5,9,1,17,16,0,3,0,11,6,1,0,10,6,2,8,2,21,5,1865 elections,3,4,2,0,0,1,Secessionist States not yet readmitted,,,,,,,,,,,"137
+71.0%"
+Republican,Change,{{steady}},{{steady}},{{increase}} 1,{{increase}} 5,{{increase}} 1,{{increase}} 12,{{increase}} 4,{{steady}},{{steady}},{{steady}},{{increase}} 6,{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 1,{{steady}},{{increase}} 7,{{increase}} 1,{{increase}} 7,{{increase}} 2,1865 elections,{{increase}} 1,{{increase}} 1,{{steady}},{{steady}},{{steady}},{{steady}},Secessionist States not yet readmitted,,,,,,,,,,,{{increase}}46
+Democratic,Seats,0,0,0,2,0,2,8,0,0,1,3,0,0,2,0,0,0,1,3,10,1,1865 elections,0,0,0,0,5,0,Secessionist States not yet readmitted,,,,,,,,,,,"38
+19.7%"
+Democratic,Change,{{steady}},{{steady}},{{decrease}} 1,{{decrease}} 5,{{steady}},{{decrease}} 12,{{decrease}} 4,{{steady}},{{steady}},{{steady}},{{decrease}} 6,{{steady}},{{steady}},{{increase}} 1,{{steady}},{{decrease}} 1,{{steady}},{{increase}} 1,{{decrease}} 1,{{decrease}} 7,{{decrease}} 2,1865 elections,{{decrease}} 1,{{decrease}} 1,{{steady}},{{steady}},{{increase}} 5,{{steady}},Secessionist States not yet readmitted,,,,,,,,,,,{{decrease}}31
+Unionist,Seats,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,0,0,0,0,0,0,1865 elections,0,0,0,8,4,0,Secessionist States not yet readmitted,,,,,,,,,,,"18
+9.3%"
+Unionist,Change,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{decrease}} 8,{{steady}},{{steady}},{{steady}},1865 elections,{{steady}},{{steady}},{{steady}},{{increase}} 8,{{decrease}} 5,{{steady}},Secessionist States not yet readmitted,,,,,,,,,,,{{decrease}} 6

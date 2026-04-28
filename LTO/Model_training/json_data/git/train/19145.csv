@@ -1,0 +1,3 @@
+access_service_request_user,access.request.service,model_service_request,base.group_user,1,1,1,0
+access_service_execute_user,access.service.execute,model_service_execute,base.group_user,1,1,1,0
+access_project_user,access.project,hr.model_hr_employee,project.group_project_user,1,1,1,0

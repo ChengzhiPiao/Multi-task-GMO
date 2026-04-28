@@ -1,0 +1,5 @@
+793.1223,793.1667,793.3,793.3112,793.3445,793.5,793.5222,793.6,793.8334,794.3334
+793.3223,793.4333,,793.5444,793.8334,,,,,
+Hand,HandToWrist,WristToElbow,Hand,HandToWrist,WristToElbow,Hand,HandToWrist,Hand,FailOnTouchObstacleLong-1
+FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong-1,Target
+RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,LeftGate,LeftGate,PickedUp,Pushed

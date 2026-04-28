@@ -1,0 +1,4 @@
+Tape symbol,Current state A,Current state A,Current state A,Current state B,Current state B,Current state B
+Tape symbol,Write symbol,Move tape,Next state,Write symbol,Move tape,Next state
+0,1,R,B,1,L,A
+1,1,L,B,1,N,H

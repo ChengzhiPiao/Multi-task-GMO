@@ -1,0 +1,5 @@
+Medals by sport,Sport,Cycling,Gymnastics,Judo,Boxing,Football,Taekwondo,Athletics,Handball,Swimming,Tennis,Total
+Medals by sport,{{gold01}},1,1,1,0,0,0,0,0,0,0,3
+Medals by sport,{{silver02}},0,0,0,1,1,1,0,0,0,0,3
+Medals by sport,{{bronze03}},1,0,0,0,0,0,1,1,1,1,5
+Medals by sport,Total,2,1,1,1,1,1,1,1,1,1,11

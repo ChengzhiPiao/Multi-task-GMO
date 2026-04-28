@@ -1,0 +1,8 @@
+access_mrp_operations_operation_code,access_mrp_operations_operation_code_manager,access_mrp_operations_operation,access_mrp_operations_operation_manager,access_mrp_production_user,access_mrp_production_manager,access_mrp_production_workcenter_line,access_mrp_production_workcenter_line_manager,access_mrp_workorder_manager
+operations.operation.code,operations.operation.code.manager,operations.operation,operations.operation.manager,mrp_production_user,mrp_production_manager,mrp.production.workcenter.line,mrp.production.workcenter.line.manager,mrp.workorder.manager
+model_mrp_operations_operation_code,model_mrp_operations_operation_code,model_mrp_operations_operation,model_mrp_operations_operation,model_mrp_production,model_mrp_production,mrp.model_mrp_production_workcenter_line,mrp.model_mrp_production_workcenter_line,model_mrp_workorder
+mrp.group_mrp_user,mrp.group_mrp_manager,mrp.group_mrp_user,mrp.group_mrp_manager,mrp.group_mrp_user,mrp.group_mrp_manager,mrp.group_mrp_user,mrp.group_mrp_manager,mrp.group_mrp_manager
+1,1,1,1,1,1,1,1,1
+1,0,1,0,1,0,1,0,1
+1,0,1,0,1,0,1,0,1
+1,0,1,0,1,0,1,0,1

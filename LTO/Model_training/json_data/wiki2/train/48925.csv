@@ -1,0 +1,7 @@
+{{Tooltip| Pl | Place}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Wins}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip | Pts | Points}}
+1,{{fbwu|23|USA}},3,3,0,0,5,2,+3,9
+2,{{fbwu|20|GER}},3,2,1,0,9,6,+3,6
+3,{{fbwu|23|JPN}},3,2,0,1,6,2,+4,6
+4,{{fbwu|23|SWE}},3,0,2,1,4,5,-1,2
+5,{{fbwu|23|ENG}},3,0,1,2,3,9,-6,1
+6,{{fbwu|23|NOR}},3,0,0,3,4,7,-3,0

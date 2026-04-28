@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{flagicon|Panama}} Panama,4,3,0,1,8,3,+5,9
+{{flagicon|Honduras}} Honduras,4,3,0,1,7,2,+5,9
+{{flagicon|Nicaragua}} Nicaragua,4,0,0,4,0,10,&minus;10,0

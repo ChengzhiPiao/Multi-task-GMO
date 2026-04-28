@@ -1,0 +1,2 @@
+access_report_report,odoo-reportbro.report_report,odoo-reportbro.model_report_report,base.group_user,1,1,1,1
+access_report_report_line,odoo-reportbro.report_report_line,odoo-reportbro.model_report_report_line,base.group_user,1,1,1,1

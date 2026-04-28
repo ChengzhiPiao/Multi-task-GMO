@@ -1,0 +1,8 @@
+Planet,51 Pegasi b,55 Cancri d,Jupiter,Gliese 581c,Saturn,Proxima Centauri b,Alpha Centauri Bb,Neptune,Earth,Pluto
+Planet Type,Hot Jupiter,Gas giant,Gas giant,Super-Earth,Gas giant,Habitable planet (potentially),Terrestrial planet,Ice giant,Habitable planet,Dwarf planet
+"Semimajor Axis
+(AU)",0.05,5.77,5.20,0.07,9.58,0.05,0.04,30.10,1.00,39.26
+Orbital Period,4.23 days,14.29 years,11.86 years,12.92 days,29.46 years,11.19 days,3.23 days,164.79 years,365.26 days,246.04 years
+"Radial velocity
+(m/s)",55.9,45.2,12.4,3.18,2.75,1.38,0.510,0.281,0.089,0.00003
+Detectable by:,First-generation spectrograph,First-generation spectrograph,First-generation spectrograph,Second-generation spectrograph,Second-generation spectrograph,Second-generation spectrograph,Second-generation spectrograph,Third-generation spectrograph,Third-generation spectrograph (likely),Not detectable

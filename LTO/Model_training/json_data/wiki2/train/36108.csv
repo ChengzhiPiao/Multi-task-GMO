@@ -1,0 +1,8 @@
+Rocket,Antares,Ariane 5,Atlas V,Delta IV,Dnepr,Epsilon,Falcon 9,H-IIA,H-IIB,Kuaizhou,Long March 2,Long March 3,Long March 4,Minotaur I,Minotaur IV,Naro,Pegasus-XL,PSLV,Proton,Soyuz,Soyuz-2,UR-100,Vega,Zenit
+Country,{{flag|USA}},{{EUR}},{{USA}},{{USA}},{{UKR}},{{JPN}},{{USA}},{{JPN}},{{JPN}},{{PRC}},{{PRC}},{{PRC}},{{PRC}},{{USA}},{{USA}},{{RUS}} / {{KOR}},{{USA}},{{IND}},{{RUS}},{{RUS}},{{RUS}},{{RUS}},{{EUR}},{{UKR}} / {{RUS}}
+Family,Antares,Ariane,Atlas,Delta,R-36,Epsilon,Falcon,H-II,H-II,Kuaizhou,Long March,Long March,Long March,Minotaur,Minotaur,Angara,Pegasus,PSLV,Universal Rocket,R-7,R-7,Universal Rocket,Vega,Zenit
+Launches,2,4,8,3,2,1,3,1,1,1,5,3,6,1,1,1,1,3,10,8,8,5,1,2
+Successes,2,4,8,3,2,1,3,1,1,1,5,3,5,1,1,1,1,3,9,8,8,4,1,1
+Failures,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Remarks,Maiden flight,,,,,Maiden flight,,,,Maiden flight,,,,,,Final flight,,,,,,,,

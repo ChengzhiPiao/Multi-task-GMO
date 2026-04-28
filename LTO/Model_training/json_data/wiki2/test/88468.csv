@@ -1,0 +1,4 @@
+Tricantellated 7-simplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Tricantellated 7-simplex,uniform 7-polytope,"r3r{3,3,3,3,3,3}
+or","{{CDD|node|3|node|3|node_1|3|node|3|node_1|3|node|3|node}}
+or {{CDD|node|split1|nodes_11|3ab|nodes|3ab|nodes}}",,,,,,3360,560,,"A7, [3,3,3,3,3,3]",convex

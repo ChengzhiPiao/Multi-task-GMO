@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1,{{fb|CUB}},7,4,3,1,0,7,0,+7
+2,{{fb|SUR}},5,4,2,1,1,5,3,+2
+3,{{fb|GUY}},0,4,0,0,4,0,9,&minus;9

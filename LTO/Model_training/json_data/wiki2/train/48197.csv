@@ -1,0 +1,4 @@
+Shift,Week 1,Week 1,Week 1,Week 1,Week 1,Week 1,Week 1,Week 2,Week 2,Week 2,Week 2,Week 2,Week 2,Week 2,Week 3,Week 3,Week 3,Week 3,Week 3,Week 3,Week 3,Week 4,Week 4,Week 4,Week 4,Week 4,Week 4,Week 4
+Shift,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed,Thu,Fri,Sat,Sun
+08:00–20:00,{{no|D}},{{no|D}},{{no|D}},{{no|B}},{{no|B}},{{no|D}},{{no|D}},{{no|B}},{{no|B}},{{no|B}},{{yes|A}},{{yes|A}},{{no|B}},{{no|B}},{{yes|A}},{{yes|A}},{{yes|A}},{{no|C}},{{no|C}},{{yes|A}},{{yes|A}},{{no|C}},{{no|C}},{{no|C}},{{no|B}},{{no|B}},{{no|C}},{{no|C}}
+20:00–08:00,{{yes|A}},{{yes|A}},{{yes|A}},{{no|C}},{{no|C}},{{yes|A}},{{yes|A}},{{no|C}},{{no|C}},{{no|C}},{{no|D}},{{no|D}},{{no|C}},{{no|C}},{{no|B}},{{no|B}},{{no|B}},{{no|D}},{{no|D}},{{no|B}},{{no|B}},{{no|D}},{{no|D}},{{no|D}},{{yes|A}},{{yes|A}},{{no|D}},{{no|D}}

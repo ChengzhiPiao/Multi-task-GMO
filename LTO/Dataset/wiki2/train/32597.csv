@@ -1,0 +1,8 @@
+Model,Stepping,CPU,CPU,CPU,CPU,CPU,CPU,GPU,GPU,GPU,GPU,"Memory
+support",TDP,Released,Part number,"Release
+price (USD)"
+Model,Stepping,Cores,Frequency,Turbo,L2 cache,Multi,Vcore,Model,Config,Frequency,Turbo,"Memory
+support",TDP,Released,Part number,"Release
+price (USD)"
+X2150,B0,4,1.9&nbsp;GHz,{{n/a}},2&nbsp;MB,,,HD 8400,,800&nbsp;MHz,{{n/a}},DDR3,22&nbsp;W,May 2013,OX2150IAJ44HM,$99
+X2170,,4,2.4&nbsp;GHz,{{n/a}},2&nbsp;MB,,,HD 8400,,800&nbsp;MHz,{{n/a}},DDR3,25&nbsp;W,September 2016,OX2170IXJ44JB,

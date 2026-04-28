@@ -1,0 +1,5 @@
+Team,{{Tooltip|GP |Games played}},{{Tooltip|W |Wins}},{{Tooltip|L |Losses}},{{Tooltip|T |Ties}},{{Tooltip|GF |Goals for}},{{Tooltip|GA |Goals against}},{{Tooltip|GD |Goal difference}},{{Tooltip|Pts|Points}}
+{{ih|BLR}},3,2,0,1,14,4,+10,5
+{{ih|GER}},3,2,1,0,7,9,-2,4
+{{ih|FRA}},3,1,2,0,5,8,-3,2
+{{ih|JPN}},3,0,2,1,5,10,-5,1

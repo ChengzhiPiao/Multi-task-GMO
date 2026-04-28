@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+8,8,9,+,3,2,=,formula,Browser
+Assert if [<Object>] element is displayed,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Store the [<Object>] element's text into the Runtime variable: [<Data>],print the data [<Data>]
+assertElementDisplayed,Click,Click,Click,Click,Click,Click,storeText,print
+,,,,,,,%var1%,%var1%
+,,,,,,,,
+AndroidCalculator,AndroidCalculator,AndroidCalculator,AndroidCalculator,AndroidCalculator,AndroidCalculator,AndroidCalculator,AndroidCalculator,

@@ -1,0 +1,11 @@
+,,Bilabial,Dental,Alveolar,Postalveolar,Palatal,Velar,Velar,Velar,Uvular,Uvular,Glottal,Glottal
+,,Bilabial,Dental,Alveolar,Postalveolar,Palatal,nor.,lab.,pal.,nor.,lab.,nor.,lab.
+Plosive,plain,p,t,,,,k,kʷ,kʲ,q,qʷ,ʔ,
+Plosive,aspirated,pʰ,tʰ,,,,kʰ,kʰʷ,,,,,
+Affricate,plain,,,,tʃ,,,,,,,,
+Affricate,aspirated,,,,tʃʰ,,,,,,,,
+Fricative,Fricative,β,θ,s,ʃ,,,,,,,h,hʷ
+Nasal,Nasal,m,n,,,ɲ,,,,,,,
+Trill,Trill,,r,,,,,,,,,,
+Lateral,Lateral,,l,,,ʎ,,,,,,,
+Approximant,Approximant,w,,,,j,,,,,,,

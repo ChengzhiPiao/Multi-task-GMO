@@ -1,0 +1,7 @@
+#,Seed,Athlete,1,2,3,4,5,6,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,7,{{nowrap|{{flagIOC2athlete|[[Leyla Pirieva]]|RUS|2017 Summer Universiade}}}},,D2,V,D1,V,V,3,5,0.600,18,14,4,2,25
+2,14,{{nowrap|{{flagIOC2athlete|[[Cheung Kimberley Vanessa]]|HKG|2017 Summer Universiade}}}},V,,D2,V,V,V,4,5,0.800,22,14,8,1,16
+3,27,{{nowrap|{{flagIOC2athlete|[[Lucia Ondarts]]|ARG|2017 Summer Universiade}}}},D3,V,,V,D4,V,3,5,0.600,22,19,3,3,26
+4,34,{{nowrap|{{flagIOC2athlete|[[Melissa Rebolledo]]|MEX|2017 Summer Universiade}}}},V,D2,D3,,V,V,3,5,0.600,20,18,2,4,27
+5,47,{{nowrap|{{flagIOC2athlete|[[Kitti Bitterova]]|SVK|2017 Summer Universiade}}}},D1,D3,V,D4,,V,2,5,0.400,18,23,–5,5,45
+6,54,{{nowrap|{{flagIOC2athlete|[[Georgina Barratt]]|AUS|2017 Summer Universiade}}}},D0,D2,D4,D3,D4,,0,5,0.000,13,25,–12,6,58

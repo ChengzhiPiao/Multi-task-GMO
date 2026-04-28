@@ -1,0 +1,9 @@
+{{Tooltip|Pos|Position}},1.,2.,3.,4.,5.,6.,7.,8.,9.,10.
+Team,Beşiktaş JK,Fenerbahçe SK,Galatasaray SK,İstanbulspor,Beyoğlu SK,Vefa SK,Beykoz 1908 S.K.D.,Kasımpaşa SK,Küçükçekmece SK,Topkapı SK
+{{Tooltip|Pld|Played}},18,18,18,18,18,18,18,18,18,18
+{{Tooltip|W|Wins}},18,14,10,8,7,6,5,5,4,1
+{{Tooltip|D|Draw}},0,1,4,4,3,4,1,1,2,4
+{{Tooltip|L|Lost}},0,3,4,6,8,8,12,12,12,13
+{{Tooltip|F|Goals For}},84,63,59,43,40,39,27,26,19,18
+{{Tooltip|A|Goals against}},14,15,23,47,40,43,44,44,62,86
+{{Tooltip|Pts|Points}},54,47,42,38,35,34,29,29,28,17

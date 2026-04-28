@@ -1,0 +1,7 @@
+access_cp_inventario,cp_inventario,model_cp_inventario,base.group_user,1,0,0,0
+access_cp_marca,cp_marca,model_cp_marca,base.group_user,1,0,0,0
+access_cp_status_bien,cp_status_bien,model_cp_status_bien,base.group_user,1,0,0,0
+access_cp_provee,cp_provee,model_cp_provee,base.group_user,1,0,0,0
+access_estado,estado,model_estado,base.group_user,1,0,0,0
+access_municipio,municipio,model_municipio,base.group_user,1,0,0,0
+access_parroquia,parroquia,model_parroquia,base.group_user,1,0,0,0

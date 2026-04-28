@@ -1,0 +1,7 @@
+Type,Local,"Express Monday through Saturday
+All day","Express Monday through Friday
+Mixed service, rush and non-rush","Express Monday through Saturday
+Morning rush",Express Sunday and holidays
+Northwards,{{transmilenio|RF|8|}},{{transmilenio|B|B10|}}{{transmilenio|B|B11|}}{{transmilenio|B|B13|}}{{transmilenio|B|B14|}}{{transmilenio|B|B23|}},{{transmilenio|B|B27|}}{{transmilenio|B|B50|}},{{transmilenio|B|B71|}},{{transmilenio|B|B92|}}{{transmilenio|B|B93|}}
+Southwards,{{transmilenio|RF|8|}},{{transmilenio|D|D10|}}{{transmilenio|G|G11|}}{{transmilenio|H|H13|}}{{transmilenio|F|F14|}}{{transmilenio|K|K23|}},{{transmilenio|H|H27|}}{{transmilenio|C|C61|}},,{{transmilenio|H|H92|}}{{transmilenio|H|H93|Tunal}}
+Frequency,Every three minutes,Every two minutes,Every two minutes,Every two minutes,Every 3–4 minutes

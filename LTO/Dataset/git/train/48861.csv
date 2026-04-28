@@ -1,0 +1,4 @@
+FormType,default,FormType.formType,string,SURVEY
+SurveyUtil,default,SurveyUtil.formId,string,eonasdan
+Table,default,defaultViewType,string,SPREADSHEET
+Table,default,displayName,object,"{""text"":""DateTime Picker""}"

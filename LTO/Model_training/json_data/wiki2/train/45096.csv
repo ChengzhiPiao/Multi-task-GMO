@@ -1,0 +1,5 @@
+&nbsp;&nbsp;GP,Games played,&nbsp;&nbsp;GS&nbsp;,Games started,&nbsp;W-L&nbsp;,Games won-Games lost
+&nbsp;MIN&nbsp;,Minutes per game,&nbsp;FG%&nbsp;,Field-goal percentage,&nbsp;FT%&nbsp;,Free-throw percentage
+&nbsp;OFF&nbsp;,Offensive rebounds per game,&nbsp;DEF&nbsp;,Defensive rebounds per game,&nbsp;REB&nbsp;,Total rebounds per game
+&nbsp;AST&nbsp;,Assists per game,&nbsp;STL&nbsp;,Steals per game,&nbsp;BLK&nbsp;,Blocks per game
+&nbsp;TOV&nbsp;,Turnovers per game,&nbsp;PF&nbsp;,Fouls per game,&nbsp;PTS&nbsp;,Points per game

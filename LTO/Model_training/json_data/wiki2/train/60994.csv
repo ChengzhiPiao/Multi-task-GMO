@@ -1,0 +1,6 @@
+Team,{{Tooltip|GP|Games played}},{{Tooltip|W|Wins}},{{Tooltip|T|Ties}},{{Tooltip|L|Losses}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}}
+{{ih|INA}},1,1,0,0,10,3
+{{ih|MAC}},1,0,0,1,1,7
+{{ih|MAS}},1,1,0,0,8,3
+{{ih|TKM}},1,0,0,1,2,12
+Total,4,2,0,2,21,25

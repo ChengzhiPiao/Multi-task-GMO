@@ -1,0 +1,10 @@
+Position,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Team,Argentinos Juniors,Ferro Carril Oeste,Estudiantes de La Plata,River Plate,Racing de Córdoba,Vélez Sársfield,Newell's Old Boys,San Lorenzo,Talleres de Córdoba,Chacarita Juniors,Instituto de Córdoba,Platense,Temperley,Independiente,Unión de Santa Fe,Boca Juniors,Huracán,Rosario Central,Atlanta
+Points,51,50,48,43,43,42,38,37,34,34,33,33,31,31,30,30,27,25,24
+Played,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36,36
+Won,20,19,21,15,16,14,17,11,11,11,13,10,9,10,11,10,9,7,8
+Drawn,11,12,6,13,11,14,4,15,12,12,7,13,13,11,8,10,9,11,8
+Lost,5,5,9,8,9,8,15,10,13,13,16,13,14,15,17,16,18,18,20
+For,69,46,49,51,42,43,36,47,56,30,46,34,23,45,43,34,36,27,32
+Against,36,18,27,38,31,32,39,46,55,36,47,45,28,59,46,49,55,41,61
+Difference,33,28,22,13,11,11,-3,1,1,-6,-1,-11,-5,-14,-3,-15,-19,-14,-29

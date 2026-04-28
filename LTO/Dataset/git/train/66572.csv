@@ -1,0 +1,96 @@
+LIMITS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+project,guiding questions,,,,results,,,,scenarios,,,,,,,,,,,,,,,,,,,,,data sources,,publications,,,,,,,,,,,,,,,,,,,,,,,,,,,diagnostics,,models,,,,,,,,,,,,,,,year,keywords,,,regional coverage,,,,,,,,,,,,,,,time horizon,
+,preamble,question,question,question,preamble,insight,,insight,preamble,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,source,source,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,source,source,preamble,model,model,model,model,model,model,model,model,model,model,model,model,model,model,,keyword,keyword,keyword,region,region,region,region,region,region,region,region,region,region,region,region,region,region,region,start,end
+,,,,,,,,,,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,link,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,link,full,ris,citation,type,doi,link,full,ris,name,link,,name,version,name,version,name,version,name,version,name,version,name,version,name,version,,,,,,,,,,,,,,,,,,,,,
+,,1.0,2.0,3.0,,1.0,2.0,3.0,,1.0,1.0,2.0,2.0,3.0,3.0,4.0,4.0,5.0,5.0,6.0,6.0,7.0,7.0,8.0,8.0,9.0,9.0,10.0,10.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,,1.0,1.0,2.0,2.0,3.0,3.0,4.0,4.0,5.0,5.0,6.0,6.0,7.0,7.0,,1.0,2.0,3.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,,
+,"This study provides a novel and comprehensive model-based assessment of possible outcomes of the Durban
+ Platform negotiations with a focus on emissions reduction requirements, the consistency with the 2°C target and
+ global economic impacts.",How do short-term policies (contrasting “lenient” with “stringent” bottom-up formulations) until 2020 impact the achievability of long-term stabilization at 450ppm or 500ppm CO2eq in 2100?,What are the differences between scenarios following bottom-up policies until 2020 or 2030 before starting comprehensive coordinated action?,How do mitigation costs for these pathways differ across regions?,The study yields important insights on the distribution of mitigation costs across regions.,The challenges of implementing a long term target after a period of fragmented near-term climate policy can be significant as reflected in steep reductions of emissions intensity and transitional and long term economic impacts. ,"In particular, the challenges of adopting the target are significantly higher in 2030 than in 2020, both in terms of required emissions intensity decline rates and economic impacts. We conclude that an agreement on comprehensive emissions reductions to be implemented from 2020 onwards has particular significance for meeting long term climate policy objectives.","Our results indicate that a policy with uniform carbon pricing and no transfer payments would yield an uneven distribution of policy costs, which would be lower than the global average for OECD countries, higher for developing economies and the highest, for energy exporters.","Scenarios are differentiated into one no-policy baseline (“Base”), 2 fragmented policy scenarios (“RefPol” and “StrPol”), 2 immediate actions scenarios (“450” and “500”), and 5 delayed policy scenarios, out of which 4 assume comprehensive policies after 2020 (“RefPol-450”, “RefPol-500”, “StrPol-450”, “StrPol-500”) and one after 2030 (“RefPol2030-500”)",Base,No-policy baseline,RefPol,Moderate reference policy scenario,StrPol,Stringent reference policy scenario,450,The benchmark scenario with optimal harmonized policies to reach stabilization of concentration of CO2e at 450ppm.,500,The benchmark scenario with optimal harmonized policies to reach stabilization of concentration of CO2e at 500ppm.,RefPol-450,Delayed scenario with moderate reference policies until 2020 and optimal policies towards 450 thereafter.,RefPol-500,Delayed scenario with moderate reference policies until 2020 and optimal policies towards 500 thereafter.,StrPol-450,Delayed scenario with stringent reference policies until 2020 and optimal policies towards 450 thereafter.,StrPol-500,Delayed scenario with stringent reference policies until 2020 and optimal policies towards 500 thereafter.,RefPol2030-500,Delayed scenario with stringent reference policies until 2030 and optimal policies towards 500 thereafter.,AR5 database,https://tntcat.iiasa.ac.at/AR5DB,Kriegler et al. (2013),journal article,10.1142/S2010007813400083,"Kriegler, E. et al. What does the 2°C target imply for a global climate agreement in 2020? the Limits study on Durban platform scenarios. Clim. Change Econ. 04, 1340008 (2013).","TY - JOUR
+ TI - What does the 2°C target imply for a global climate agreement in 2020? The LIMITS study on Durban Platform scenarios
+ AU - Kriegler, Elmar
+ AU - Tavoni, Massimo
+ AU - Aboumahboub, Tino
+ AU - Luderer, Gunnar
+ AU - Calvin, Katherine
+ AU - De Maere, G.
+ AU - Krey, Volker
+ AU - Riahi, Keywan
+ AU - Rösler, Hilke
+ AU - Schaeffer, Michiel
+ AU - Van Vuuren, Detlef
+ T2 - Climate Change Economics
+ DA - 2013///
+ PY - 2013
+ DO - 10.1142/S2010007813400083
+ VL - 04
+ IS - 4
+ SP - 1
+ EP - 30
+ J2 - Clim. Change Econ.
+ UR - http://www.worldscientific.com/doi/abs/10.1142/S2010007813400083?src=recsys
+ N1 - <p>http://www.feem-project.net/limits/03_outreach_01_02.html</p>
+ ER -",Tavoni et al. (2013),journal article,10.1142/S2010007813400095,"Tavoni M, Kriegler E, Aboumahboub T, et al. The distribution of the major economies’ effort in the Durban platform scenarios. Clim Change Econ 04, 1340009 (2013).","TY - JOUR
+ TI - The distribution of the major economies' effort in the Durban platform scenarios
+ AU - Tavoni, Massimo
+ AU - Kriegler, Elmar
+ AU - Aboumahboub, Tino
+ AU - Calvin, Kate V.
+ AU - De Maere, G.
+ AU - Wise, Marshall
+ AU - Klein, David
+ AU - Jewell, Jessica
+ AU - Kober, Tom
+ AU - Lucas, Paul L.
+ AU - Luderer, Gunnar
+ AU - McCollum, David
+ AU - Marangoni, Giacomo
+ AU - Riahi, Keywan
+ AU - Van Vuuren, Detlef
+ T2 - Climate Change Economics
+ AB - The feasibility of achieving climate stabilization consistent with the objective of 2°C is heavily influenced by how the effort in terms of mitigation and economic resources will be distributed among the major economies. This paper provides a multi-model quantification of the mitigation commitment in 10 major regions of the world for a diversity of allocation schemes. Our results indicate that a policy with uniform carbon pricing and no transfer payments would yield an uneven distribution of policy costs, which would be lower than the global average for OECD countries, higher for developing economies and the highest, for energy exporters. We show that a resource sharing scheme based on long-term convergence of per capita emissions would not resolve the issue of cost distribution. An effort sharing scheme which equalizes regional policy costs would yield an allocation of allowances comparable with the ones proposed by the Major Economies. Under such a scheme, emissions would peak between 2030 and 2045 for China and remain rather flat for India. In all cases, a very large international carbon market would be required.
+ DA - 2013/11/01/
+ PY - 2013
+ DO - 10.1142/S2010007813400095
+ DP - worldscientific.com (Atypon)
+ VL - 04
+ IS - 04
+ SP - 1340009
+ J2 - Clim. Change Econ.
+ SN - 2010-0078
+ UR - http://www.worldscientific.com/doi/abs/10.1142/S2010007813400095
+ Y2 - 2014/09/12/11:17:37
+ L1 - http://www.worldscientific.com/doi/pdf/10.1142/S2010007813400095
+ L2 - http://www.worldscientific.com/doi/abs/10.1142/S2010007813400095
+ ER -",Tavoni et al. (2014),journal article,10.1038/nclimate2475,"Tavoni, M. et al. Post-2020 climate agreements in the major economies assessed in the light of global models. Nature Clim. Change advance online publication, (2014).","TY - JOUR
+ TI - Post-2020 climate agreements in the major economies assessed in the light of global models
+ AU - Tavoni, Massimo
+ AU - Kriegler, Elmar
+ AU - Riahi, Keywan
+ AU - van Vuuren, Detlef P.
+ AU - Aboumahboub, Tino
+ AU - Bowen, Alex
+ AU - Calvin, Katherine
+ AU - Campiglio, Emanuele
+ AU - Kober, Tom
+ AU - Jewell, Jessica
+ AU - Luderer, Gunnar
+ AU - Marangoni, Giacomo
+ AU - McCollum, David
+ AU - van Sluisveld, Mariësse
+ AU - Zimmer, Anne
+ AU - van der Zwaan, Bob
+ T2 - Nature Climate Change
+ AB - Integrated assessment models can help in quantifying the implications of international climate agreements and regional climate action. This paper reviews scenario results from model intercomparison projects to explore different possible outcomes of post-2020 climate negotiations, recently announced pledges and their relation to the 2 °C target. We provide key information for all the major economies, such as the year of emission peaking, regional carbon budgets and emissions allowances. We highlight the distributional consequences of climate policies, and discuss the role of carbon markets for financing clean energy investments, and achieving efficiency and equity.
+ DA - 2014/12/15/
+ PY - 2014
+ DO - 10.1038/nclimate2475
+ DP - www.nature.com
+ VL - advance online publication
+ J2 - Nature Clim. Change
+ LA - en
+ SN - 1758-678X
+ UR - http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2475.html
+ Y2 - 2014/12/16/09:57:16
+ L1 - http://www.nature.com/nclimate/journal/vaop/ncurrent/pdf/nclimate2475.pdf
+ L2 - http://www.nature.com/nclimate/journal/vaop/ncurrent/full/nclimate2475.html
+ ER -",Policy brief on policy analysis,policy brief,,http://www.feem-project.net/limits/docs/limits_policy%20brief%20on%20policy%20analysis_en.pdf,,,"Policy brief on ""Limiting Global Warming to 2°C - Policy findings from Durban Platform scenario analyses""",policy brief,,http://www.feem-project.net/limits/docs/limits_pb.pdf,"Tavoni M, Riahi K, Jewell J, Rao S, & McCollum D (2014). Limiting global warming to 2 degrees C. Policy findings from Durban Platform scenario analysis.  LIMITS Publications , FEEM, Milan, Italy.",,,,Seven global models participated in the LIMITS study.,AIM-Enduse,[Backcast] 1.0,IMAGE,2.4,GCAM,3.1,MESSAGE,V.4,TIAM-ECN,LIMITS,REMIND,1.5,WITCH,LIMITS,2013,Distributional impacts of mitigation,Regional mitigation costs,Durban platform scenarios,World,OECD90,Reforming Economies (REF),Asia (ASIA),Middle East and Africa (MAF),Latin America (LAM),Brazil,China,India,EU (EU27),EU15,EU12,Japan,Russia,USA,2005,2100

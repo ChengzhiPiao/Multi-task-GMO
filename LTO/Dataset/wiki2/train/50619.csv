@@ -1,0 +1,10 @@
+Implementation,RC4,HC-256,Rabbit,Salsa20,ChaCha,SEAL,Panama,WAKE,Grain,VMPC,ISAAC
+Botan,{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+Bouncy Castle,{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+cryptlib,{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+Crypto++,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}}
+Libgcrypt,{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+libsodium,{{No}},{{No}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+Nettle,{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+OpenSSL,{{Yes}},{{No}},{{No}},{{No}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+wolfCrypt,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}

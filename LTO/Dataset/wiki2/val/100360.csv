@@ -1,0 +1,3 @@
+Supplier_Key,Supplier_Code,Supplier_Name,Supplier_State,Start_Date,End_Date
+123,ABC,Acme Supply Co,CA,2000-01-01T00:00:00,2004-12-22T00:00:00
+124,ABC,Acme Supply Co,IL,2004-12-22T00:00:00,{{CNone|{{null result}}}}

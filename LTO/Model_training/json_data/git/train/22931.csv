@@ -1,0 +1,8 @@
+access_cenit_schema_system,access_cenit_library_system,access_cenit_data_type_system,access_cenit_data_type_line_system,access_cenit_connection_system,access_cenit_webhook_system,access_cenit_parameter_system,access_cenit_connection_role_system,access_cenit_event_system,access_cenit_translator_system,access_cenit_flow_system
+cenit.schema.system,cenit.library.system,cenit.data_type.system,cenit.data_type.line.system,cenit.connection.system,cenit.webhook.system,cenit.parameter.system,cenit.connection.role.system,cenit.event.system,cenit.translator.system,cenit.flow.system
+model_cenit_schema,model_cenit_library,model_cenit_data_type,model_cenit_data_type_line,model_cenit_connection,model_cenit_webhook,model_cenit_parameter,model_cenit_connection_role,model_cenit_event,model_cenit_translator,model_cenit_flow
+base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1

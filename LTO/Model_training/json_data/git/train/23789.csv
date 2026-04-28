@@ -1,0 +1,8 @@
+access_hr_applicant_user,access_hr_recruitment_stage_user,access_hr_recruitment_stage_manager,access_hr_recruitment_degree,access_hr_recruitment_refuse_reason,access_res_partner_hr_user,access_calendar_event_hruser,access_hr_recruitment_source_hr_officer,access_hr_recruitment_source_all,access_hr_applicant_category,access_hr_applicant_category_manager,access_calendar_event_type_hr_officer,access_applicant_get_refuse_reason
+hr.applicant.user,hr.recruitment.stage.user,hr.recruitment.stage.manager,hr.recruitment.degree,hr.applicant.refuse.reason,res.partner.user,calendar.event.hruser,hr.recruitment.source,hr.recruitment.source,hr.applicant_category,hr.applicant_category,calendar.event.type.officer,access.applicant.get.refuse.reason
+model_hr_applicant,model_hr_recruitment_stage,model_hr_recruitment_stage,model_hr_recruitment_degree,model_hr_applicant_refuse_reason,base.model_res_partner,calendar.model_calendar_event,model_hr_recruitment_source,model_hr_recruitment_source,model_hr_applicant_category,model_hr_applicant_category,calendar.model_calendar_event_type,model_applicant_get_refuse_reason
+group_hr_recruitment_user,group_hr_recruitment_user,group_hr_recruitment_manager,group_hr_recruitment_user,group_hr_recruitment_user,group_hr_recruitment_user,group_hr_recruitment_user,group_hr_recruitment_user,,,group_hr_recruitment_user,group_hr_recruitment_user,hr_recruitment.group_hr_recruitment_user
+1,1,1,1,1,1,1,1,1,1,1,1,1
+1,0,1,1,1,1,1,1,0,1,1,1,1
+1,0,1,1,1,1,1,1,0,1,1,1,1
+1,0,1,1,1,1,1,1,0,0,1,0,0

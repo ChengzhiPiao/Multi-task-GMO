@@ -1,0 +1,2 @@
+org/assertj/core/error/ConditionAndGroupGenericParameterTypeShouldBeTheSame.ConditionAndGroupGenericParameterTypeShouldBeTheSame,(Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,20,1
+org/assertj/core/error/ConditionAndGroupGenericParameterTypeShouldBeTheSame.shouldBeSameGenericBetweenIterableAndCondition,(Ljava/lang/Object;Lorg/assertj/core/api/Condition;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1

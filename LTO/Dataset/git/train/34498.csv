@@ -1,0 +1,2 @@
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
+centroids <- read_csv('../data/interim/zone_centroid_sites.csv'),,"# Join to occupancy data. Not all sites have occupancy data, so we'll keep just the ones that do.","occupied <- left_join(occupied, centroids, by=c('site')) %>% ","  rename(xcoord=MEAN_X, ycoord=MEAN_Y) %>% ",  drop_na(),,# Make it a spatial object for later.,sites.sf <- occupied %>% ,"  st_as_sf(coords=c('xcoord', 'ycoord')) %>% ",  st_set_crs('+proj=utm +zone=10 +datum=WGS84 +units=m +no_defs'),,# Also make a list of site names for later.,site.names <- occupied$site

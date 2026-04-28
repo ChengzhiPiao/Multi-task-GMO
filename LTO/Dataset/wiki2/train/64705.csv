@@ -1,0 +1,8 @@
+#,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+Team,Toronto Raptors,Cleveland Cavaliers,Dallas Mavericks,Memphis Grizzlies,Los Angeles Clippers,Boston Celtics,Brooklyn Nets,San Antonio Spurs,Atlanta Hawks,Houston Rockets,Minnesota Timberwolves,Miami Heat,Phoenix Suns,Milwaukee Bucks,Los Angeles Lakers,Portland Trail Blazers,Chicago Bulls,Philadelphia 76ers,Sacramento Kings,Utah Jazz,Washington Wizards,Golden State Warriors,Denver Nuggets,New Orleans Pelicans
+{{tooltip|GP|Games played}},3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+{{tooltip|W|Games won}},3,3,3,3,3,3,2,2,2,2,2,2,1,1,1,1,1,1,0,0,0,0,0,0
+{{tooltip|L|Games lost}},0,0,0,0,0,0,1,1,1,1,1,1,2,2,2,2,2,2,3,3,3,3,3,3
+{{tooltip|PCT|Winning percentage}},1.000,1.000,1.000,1.000,1.000,1.000,.667,.667,.667,.667,.667,.667,.333,.333,.333,.333,.333,.333,.000,.000,.000,.000,.000,.000
+{{tooltip|QP|Quarter points}},9.5,7.5,7,7,6.5,6.5,8,8,7,7,7,6.5,6,6,5,5,4.5,4,6.5,5,4.5,3.5,3,2.5
+{{tooltip|PD|Point Differential (Tiebreaker)}},,,+32,+12,+29,+16,+27,+19,+19,+3,-4,,-12,-31,-5,-11,,,,,,,,

@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+Browser,headerSearch,headerSearch1,headerSearchButton,20 oz. Hammer,name205594063,name2055940631,Add to Cart,Checkout Now
+Open the Url [<Data>] in the Browser,Click the [<Object>] ,Enter the value [<Data>] in the Field [<Object>],Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] ,Click the [<Object>] 
+Open,Click,Set,Click,Click,Click,Click,Click,Click
+@https://www.homedepot.com,,@hammer,,,,,,
+,,,,,,,,
+,The,The,The,Search,DEWALT,DEWALT,DEWALT,Page

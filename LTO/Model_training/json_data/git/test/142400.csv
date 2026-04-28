@@ -1,0 +1,10 @@
+Task,,,,,,,,,,0001-01-01T00:00:00Z,John Doe 00000000-0000-0000-0000-000000000001,`(see function github.com/fabric8-services/fabric8-wit/controller_test.(*searchControllerTestSuite).TestSearchWorkItemsCSV.func2 in controller/search_blackbox_test.go)`,42.0,,5000.0,,"important
+backend",,5,,,,,,,New,,,,work item 00000000-0000-0000-0000-000000000002,0001-01-01T00:00:00Z
+Task,,,,,,,,,,0001-01-01T00:00:00Z,John Doe 00000000-0000-0000-0000-000000000001,`(see function github.com/fabric8-services/fabric8-wit/controller_test.(*searchControllerTestSuite).TestSearchWorkItemsCSV.func2 in controller/search_blackbox_test.go)`,42.0,,4000.0,,"important
+backend",,4,,,,,,,New,,,,work item 00000000-0000-0000-0000-000000000003,0001-01-01T00:00:00Z
+Task,,,,,,,,,,0001-01-01T00:00:00Z,John Doe 00000000-0000-0000-0000-000000000001,`(see function github.com/fabric8-services/fabric8-wit/controller_test.(*searchControllerTestSuite).TestSearchWorkItemsCSV.func2 in controller/search_blackbox_test.go)`,42.0,,3000.0,,"important
+backend",,3,,,,,,,New,,,,work item 00000000-0000-0000-0000-000000000004,0001-01-01T00:00:00Z
+Task,,,,,,,,,,0001-01-01T00:00:00Z,John Doe 00000000-0000-0000-0000-000000000001,`(see function github.com/fabric8-services/fabric8-wit/controller_test.(*searchControllerTestSuite).TestSearchWorkItemsCSV.func2 in controller/search_blackbox_test.go)`,42.0,,2000.0,,"important
+backend",,2,,,,,,,New,,,,work item 00000000-0000-0000-0000-000000000005,0001-01-01T00:00:00Z
+Task,,,,,,,,,,0001-01-01T00:00:00Z,John Doe 00000000-0000-0000-0000-000000000001,`(see function github.com/fabric8-services/fabric8-wit/controller_test.(*searchControllerTestSuite).TestSearchWorkItemsCSV.func2 in controller/search_blackbox_test.go)`,42.0,,1000.0,,"important
+backend",,1,,,,,,,New,,,,work item 00000000-0000-0000-0000-000000000006,0001-01-01T00:00:00Z

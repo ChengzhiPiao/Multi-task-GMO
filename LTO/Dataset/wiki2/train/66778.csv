@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Minas Gerais}} Uberlândia,6,3,2,1,10,7,+3,11
+2,{{flagicon|São Paulo}} Novorizontino,6,2,3,1,10,9,+1,9
+3,{{flagicon|Rio de Janeiro}} Americano,6,2,2,2,10,11,−1,8
+4,{{flagicon|Espírito Santo}} Atlético Itapemirim,6,0,3,3,3,6,−3,3

@@ -1,0 +1,5 @@
+Ion,Acidic reaction,E° (V),Neutral/basic reaction,E° (V)
+Hypochlorite,2&nbsp;H+ + 2&nbsp;HOCl + 2&nbsp;e− → Cl2(g) + 2&nbsp;H2O,1.63,ClO− + H2O + 2&nbsp;e− → Cl− + 2OH−,0.89
+Chlorite,6&nbsp;H+ + 2&nbsp;HOClO + 6&nbsp;e− → Cl2(g) + 4&nbsp;H2O,1.64,{{chem|ClO|2|−}} + 2&nbsp;H2O + 4&nbsp;e− → Cl− + 4&nbsp;OH−,0.78
+Chlorate,12&nbsp;H+ + 2&nbsp;{{chem|ClO|3|−}} + 10&nbsp;e− → Cl2(g) + 6&nbsp;H2O,1.47,{{chem|ClO|3|−}} + 3&nbsp;H2O + 6&nbsp;e− → Cl− + 6&nbsp;OH−,0.63
+Perchlorate,16&nbsp;H+ + 2&nbsp;{{chem|ClO|4|−}} + 14&nbsp;e− → Cl2(g) + 8&nbsp;H2O,1.42,{{chem|ClO|4|−}} + 4&nbsp;H2O + 8&nbsp;e− → Cl− + 8&nbsp;OH−,0.56

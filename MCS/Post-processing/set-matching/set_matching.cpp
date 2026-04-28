@@ -1,0 +1,377 @@
+#pragma GCC optimize(2)
+#include<bits/stdc++.h>
+#define N 605
+#define K 20000
+#define K_max 100
+#define rand_time 3
+#define LL long long
+#define inf 214748364777777ll
+#define INF 2147483647214748364ll
+#define LD long double
+#define eps 1e-4
+#define max_dif 1000000
+#define dif 10
+#define s_id set<int>::iterator
+using namespace std;
+int n,m,mapping[N][N],f[N],a[N],b[N];LL cost[N][N],c[N][N],c_tmp[N][N];vector<int> A[N],B[N];bool cut[N][N];
+LL dis[N<<1],slack[N];int vis[N<<1],vis2[N<<1];bool in[N];/*vector<int> miss;*/
+int tot,tt,vx[N],lst[N],ok[N][N],hd,tl,q[N*N*N];// for choosing a random vertex
+bool use[K+5];int Ans[K+5][15];double running_time[K+5][15];
+int ged[N];LL bm[K+5];
+int ans=0;bool flg=0;double recall_=0,prec_=0,f1_=0,precision_=0;
+struct graph{int n,m,u[N*N],v[N*N];string labels[N];}GA,GB;bool con1[N][N],con2[N][N];
+int MCS[K+5],deg[N],gr[K+5],rand_v[N],rk[N],num,max_size,potential[N];bool del[N];double E,recall,prec,f1,precision,time_tot;LL e;
+int tmp_matching[N];map<string,int> mp;
+int pre_mapping[N];
+struct path{
+    int mapping[N];bool com[N];
+    void dfs(int x,int y,int z){
+        int cnt=0;for(int i=x;i<=z;i++) if(!potential[i]) cnt++;
+        if(cnt+y<=max_size) return;if(!cnt){max_size=y;return;} 
+        if(!potential[x]){
+            for(int i=x+1;i<=z;i++) if(!potential[i]&&con1[q[i]][q[x]]!=con2[mapping[q[i]]][mapping[q[x]]]) potential[i]=x;
+            dfs(x+1,y+1,z);
+            for(int i=x+1;i<=z;i++) if(potential[i]==x) potential[i]=0;
+        }
+        dfs(x+1,y,z);
+    }
+    int gen_path(){
+        int tmp=-1;max_size=0;
+        for(int tt=1;tt<=10;tt++){
+            int res=0;for(int j=1;j<=GA.n;j++) if(mapping[j]<=GB.n&&GA.labels[j]==GB.labels[mapping[j]]) q[++res]=j,deg[res]=0,rand_v[res]=rand();
+            for(int jj=1;jj<=res;jj++) for(int kk=1;kk<=res;kk++){int j=q[jj],k=q[kk];if(con1[j][k]^con2[mapping[j]][mapping[k]]) deg[jj]++;}
+            while(res){
+                while(1){
+                    bool flg=0;
+                    for(int jj=1;jj<=res;jj++) if(deg[jj]==1){
+                        int j=q[jj],jj2=0;for(int kk=1;kk<=res;kk++){int k=q[kk];if(con1[j][k]^con2[mapping[j]][mapping[k]]) jj2=kk;}
+                        // cerr<<jj2<<'\n';
+                        jj=jj2,j=q[jj];
+                        for(int kk=jj;kk<res;kk++) q[kk]=q[kk+1],deg[kk]=deg[kk+1];res--;
+                        for(int kk=1;kk<=res;kk++){int k=q[kk];if(con1[j][k]^con2[mapping[j]][mapping[k]]) deg[kk]--;}
+                        flg=1;break;
+                    }
+                    if(!flg) break;
+                }
+                int jj=1;for(int kk=1;kk<=res;kk++) if(deg[kk]){jj=kk;break;} if(!deg[jj]) break;
+                for(int kk=jj+1;kk<=res;kk++) if(deg[kk]&&(deg[kk]>deg[jj]||(deg[kk]>=deg[jj]&&rand_v[kk]>rand_v[jj]))) jj=kk;
+                int j=q[jj];for(int kk=jj;kk<res;kk++) q[kk]=q[kk+1],deg[kk]=deg[kk+1];res--;
+                for(int kk=1;kk<=res;kk++){int k=q[kk];if(con1[j][k]^con2[mapping[j]][mapping[k]]) deg[kk]--;}
+            }
+            for(int j=1;j<=GA.n;j++) if(mapping[j]<=GB.n&&GA.labels[j]==GB.labels[mapping[j]]){
+                bool flg=1;
+                for(int kk=1;kk<=res;kk++){int k=q[kk];if(j==k){flg=0;break;}if(con1[j][k]^con2[mapping[j]][mapping[k]]){flg=0;break;}}
+                if(flg) q[++res]=j;
+            }
+            if(res>tmp){memset(com,0,sizeof(com)),tmp=res;for(int i=1;i<=res;i++) com[q[i]]=1;}
+        }
+
+        //random
+        // for(int tt=1;tt<=100;tt++){
+        //     res=0;for(int j=1;j<=GA.n;j++) if(G[i].best_matching[j]<=GB.n&&GA.labels[j]==GB.labels[G[i].best_matching[j]]) q[++res]=j,deg[res]=0,rand_v[res]=rand(),rk[res]=res,del[res]=0;
+        //     for(int jj=1;jj<=res;jj++) for(int kk=1;kk<=res;kk++){int j=q[jj],k=q[kk];if(con1[j][k]^con2[G[i].best_matching[j]][G[i].best_matching[k]]) deg[jj]++;}
+        //     sort(rk+1,rk+res+1,cmp2);for(int jj=1;jj<=res;jj++){
+        //         bool F=0;for(int kk=1;kk<=res;kk++) if(deg[kk]){F=1;break;} if(!F){ans=max(ans,res-jj+1);break;} del[rk[jj]]=1;
+        //         int j=q[rk[jj]];for(int kk=1;kk<=res;kk++) if(!del[kk]){int k=q[kk];if(con1[j][k]^con2[G[i].best_matching[j]][G[i].best_matching[k]]) deg[rk[jj]]--,deg[kk]--;}
+        //     }
+        // }
+
+        //2^n
+        // tot=0;for(int j=1;j<=GA.n;j++) if(G[i].best_matching[j]<=GB.n&&GA.labels[j]==GB.labels[G[i].best_matching[j]]) q[++tot]=j;
+        // for(int s=1;s<(1<<tot);s++){
+        //     int tt=0;for(int j=0;j<tot;j++) if((s>>j)&1) vis[++tt]=j+1;bool flg=1;
+        //     for(int jj=1;jj<=tt;jj++) for(int kk=jj+1;kk<=tt;kk++){int j=q[vis[jj]],k=q[vis[kk]];if(con1[j][k]^con2[G[i].best_matching[j]][G[i].best_matching[k]]){flg=0;break;}}
+        //     if(flg) res=max(res,tt);
+        // }
+
+        // int res=0;for(int j=1;j<=GA.n;j++) if(mapping[j]<=GB.n&&GA.labels[j]==GB.labels[mapping[j]]) q[++res]=j;dfs(1,0,res),tmp=max_size;
+
+        return tmp;
+    }
+}gt,pred/*[K_max+5]*/;
+int d_nxt[N],d_lst[N];
+struct Graph{
+    vector<pair<int,int> > I,O;// Matching M must contain I, and must not contain O
+    int best_matching[N],second_matching[N],match[N],V;LL bm,sm;
+    LL h[N<<1];// result of KM algorithm, for setting the edges' weight non-negative
+    inline void print(){
+        // cout/*<<"matching result: "*/<<bm<<' '/*<<"matching matrix:\n"*/;
+        // for(int i=1;i<=n;cout<<'\n',i++) for(int j=1;j<=m;j++) if(best_matching[i]==j) cout<<1<<' ';else cout<<0<<' ';cout<<'\n';
+    } // print the best matching
+    inline void spfa(){
+        int S=0;for(int i=1;i<=n;i++) h[i]=-inf,(!vis[i])&&(S=i,0);if(!S) return;h[S]=0;hd=1,tl=1;q[1]=S;
+        while(hd<=tl){
+            int x=q[hd++],y=best_matching[x];in[x]=0;
+            for(int i=1;i<=n;i++) if(!vis[i]&&ok[i][y]!=tt&&h[i]<h[x]+cost[i][y]-cost[x][y])
+            {h[i]=h[x]+cost[i][y]-cost[x][y];if(!in[i]) in[i]=1,q[++tl]=i;}
+        }
+    }
+    inline void get_h(){// get the dual variable h
+        tt++;for(int i=0;i<O.size();i++) ok[O[i].first][O[i].second]=tt;spfa();
+        for(int i=1;i<=n;i++) h[best_matching[i]+n]=cost[i][best_matching[i]]-h[i];
+    }
+    inline void dijkstra(int S){
+        int x=best_matching[S]+n;
+        for(int i=1;i<=m;i++) d_nxt[i]=i+1,d_lst[i]=i-1;d_nxt[0]=1,d_lst[m+1]=m;
+        for(int i=1;i<=m;i++) if(vis[i+n]) d_nxt[d_lst[i]]=d_nxt[i],d_lst[d_nxt[i]]=d_lst[i];
+        for(int i=1;i<=n+m;i++) dis[i]=INF;dis[S]=0;while(1){
+            vis[S]=1;if(S>n) d_nxt[d_lst[S-n]]=d_nxt[S-n],d_lst[d_nxt[S-n]]=d_lst[S-n];
+            if(S<=n){for(int i=d_nxt[0];i<=m;i=d_nxt[i]) if(i!=best_matching[S]&&dis[S]+c[S][i]<dis[i+n]&&c[S][i]!=inf) dis[i+n]=dis[S]+c[S][i],lst[i]=S;}
+            else{if(match[S-n]){dis[match[S-n]]=dis[S],S=match[S-n],vis[S]=1;continue;}} 
+            S=0;for(int i=d_nxt[0];i<=m;i=d_nxt[i]) if(!vis[i+n]&&dis[i+n]!=INF) if(!S||dis[i+n]<dis[S]) S=i+n;if(!S) break;vis[S]=1;
+            if(S==x) break;
+        }
+    }
+    inline int get_upper_bound(){
+        for(int j=1;j<=n;j++) pred.mapping[j]=GB.n+1;
+        for(int i=1;i<=n;i++) vis[i]=vis2[i]=0;
+        for(auto i:I) pred.mapping[i.first]=i.second,vis[i.first]=1,vis2[i.second]=1;int res=pred.gen_path();
+        mp.clear();
+        for(int i=1;i<=GA.n;i++) if(!vis[i]) mp[GA.labels[i]]++;
+        for(int i=1;i<=GB.n;i++) if(!vis2[i]) if(mp[GB.labels[i]]) mp[GB.labels[i]]--,res++;
+        for(int i=1;i<=n;i++) vis[i]=vis2[i]=0;
+        return res;
+    }
+    inline void get_ans_sec(){
+        for(int j=1;j<=n;j++) pred.mapping[j]=second_matching[j];int tmp=pred.gen_path();ans=max(ans,tmp);//bound=max(bound,tmp);
+        int res=0;for(int j=1;j<=GA.n;j++) if(mapping[j][min(second_matching[j],GB.n+1)]) res++;
+        if(ans==tmp) precision_=1.0*res/GA.n;
+        if(ans==tmp){for(int j=1;j<=n;j++) pre_mapping[j]=second_matching[j];}
+    }
+    inline void get_ans(){
+        for(int j=1;j<=n;j++) pred.mapping[j]=best_matching[j];int tmp=pred.gen_path();ans=max(ans,tmp);//bound=max(bound,tmp);
+        int res=0;for(int j=1;j<=GA.n;j++) if(mapping[j][min(best_matching[j],GB.n+1)]) res++;
+        // precision_=max(precision_,1.0*res/GA.n);
+        if(ans==tmp) precision_=1.0*res/GA.n;
+        if(ans==tmp){for(int j=1;j<=n;j++) pre_mapping[j]=best_matching[j];}
+    }
+    inline void get_second(){
+        memset(second_matching,0,sizeof(second_matching)),memset(match,0,sizeof(match)),memset(vis,0,sizeof(vis));
+        for(int i=0;i<I.size();i++) vis[I[i].first]=vis[I[i].second+n]=2;
+        get_h();for(int i=1;i<=n;i++) for(int j=1;j<=m;j++) if(best_matching[i]==j) c[i][j]=0,match[j]=i;else c[i][j]=h[i]+h[j+n]-cost[i][j];
+        for(int i=0;i<O.size();i++) c[O[i].first][O[i].second]=inf;
+        tot=0;for(int i=1;i<=n;i++) if(!vis[i]) vx[++tot]=i;if(!tot){sm=-INF;return;} 
+        for(int i=1;i<=n;i++) for(int j=1;j<=m;j++) cut[i][j]=0;for(int i=1;i<=n+m;i++) vis2[i]=vis[i];
+        V=0,sm=-INF;for(int i=1;i<=tot;i++){
+            int S=vx[i],x=best_matching[S],sa=a[S],sb=b[x];if(cut[sa][sb]) continue;cut[sa][sb]=1;
+            for(int ii=1;ii<=n+m;ii++) vis[ii]=vis2[ii];
+            for(int ii=0;ii<A[sa].size();ii++) for(int jj=0;jj<B[sb].size();jj++){int k=A[sa][ii],j=B[sb][jj];if(best_matching[k]^j) c_tmp[k][j]=c[k][j],c[k][j]=inf;}
+            dijkstra(S);if(dis[x+n]<INF&&bm-dis[x+n]>sm){
+                for(int j=1;j<=n;j++) tmp_matching[j]=second_matching[j];LL tmp_sm=sm;int tmp_V=V;
+                sm=bm-dis[x+n],V=S;
+                for(int j=1;j<=n;j++) second_matching[j]=best_matching[j];
+                while(1){second_matching[lst[x]]=x;if(lst[x]==S) break;x=best_matching[lst[x]];} // find the cycle and get the second-best-matching
+                // get_ans_sec();
+                if(sm<=tmp_sm){for(int j=1;j<=n;j++) second_matching[j]=tmp_matching[j];sm=tmp_sm,V=tmp_V;}
+            }
+            for(int ii=0;ii<A[sa].size();ii++) for(int jj=0;jj<B[sb].size();jj++){int k=A[sa][ii],j=B[sb][jj];if(best_matching[k]^j) c[k][j]=c_tmp[k][j];}
+        }
+        get_ans_sec();
+    }
+    inline bool check(int x){
+        vis[x+n]=1;if(match[x]!=-1){q[++tl]=match[x],vis[match[x]]=1;return 0;}
+        while(x!=-1) match[x]=lst[x],swap(x,best_matching[lst[x]]);return 1;
+    }
+    inline void bfs(int S){
+        hd=1,tl=1;q[1]=S,vis[S]=1;while(1){
+            while(hd<=tl){
+                int x=q[hd++];for(int i=1;i<=n;i++) if(!vis[i+n]){
+                    LL d=h[x]+h[i+n]-cost[x][i];if(slack[i]>=d)
+                    {lst[i]=x;if(d) slack[i]=d;else if(check(i)) return;}
+                }
+            }
+            LL res=INF;for(int i=1;i<=n;i++) if(!vis[i+n]) res=min(res,slack[i]);
+            for(int i=1;i<=n;i++){if(vis[i]) h[i]-=res;if(vis[i+n]) h[i+n]+=res;else slack[i]-=res;}
+            for(int i=1;i<=n;i++) if(!vis[i+n]&&!slack[i]&&check(i)) return;
+        }
+    }
+    inline void KM(){
+        for(int i=1;i<=n;i++){match[i]=best_matching[i]=-1,h[i]=h[i+n]=0;for(int j=1;j<=n;j++) h[i]=max(h[i],cost[i][j]);}
+        for(int i=1;i<=n;i++){for(int j=1;j<=n;j++) slack[j]=inf;memset(vis,0,sizeof(vis)),bfs(i);}
+        bm=0;for(int i=1;i<=n;i++) bm+=cost[i][best_matching[i]];
+    }
+}G[K_max+5];// K subgraphs
+inline bool cmp(int x,int y){return G[x].bm>G[y].bm;}
+inline void read(){
+    cin>>n>>m;for(int i=1;i<=n;i++){double x;for(int j=1;j<=m;j++) cin>>x,cost[i][j]=(LL)x;} 
+    for(int i=1;i<=n;i++) for(int j=1;j<=m;j++) cin>>mapping[i][j];
+    GA.n=n;for(int i=1;i<=n;i++) cin>>GA.labels[i];cin>>GA.m;for(int i=1;i<=GA.m;i++) cin>>GA.u[i]>>GA.v[i],GA.u[i]++,GA.v[i]++;
+    GB.n=m-1;for(int i=1;i<=m-1;i++) cin>>GB.labels[i];cin>>GB.m;for(int i=1;i<=GB.m;i++) cin>>GB.u[i]>>GB.v[i],GB.u[i]++,GB.v[i]++;
+}
+inline int gf(int x){return f[x]==x?x:f[x]=gf(f[x]);}
+vector<int> NB[N<<1],NB2[N<<1];
+vector<int> IN[N<<1],OUT[N<<1];
+inline void init(){
+    memset(vis,0,sizeof(vis));G[1].I.clear(),G[1].O.clear();
+
+    //preparation for set merging
+    for(int i=1;i<=GA.n+GB.n;i++) NB[i].clear(),NB2[i].clear(),IN[i].clear(),OUT[i].clear();
+    // for(int i=1;i<=GA.m;i++){if(cost[GA.v[i]][m]<=900000000) OUT[GA.u[i]].push_back(GA.v[i]);if(cost[GA.u[i]][m]<=900000000) IN[GA.v[i]].push_back(GA.u[i]);}
+    // for(int i=1;i<=GB.m;i++) OUT[GB.u[i]+GA.n].push_back(GB.v[i]),IN[GB.v[i]+GA.n].push_back(GB.u[i]);
+    // for(int i=1;i<=GA.n+GB.n;i++){sort(IN[i].begin(),IN[i].end()),sort(OUT[i].begin(),OUT[i].end());}
+    for(int i=1;i<=GA.m;i++){if(cost[GA.v[i]][m]<=900000000) NB[GA.u[i]].push_back(GA.v[i]);if(cost[GA.u[i]][m]<=900000000) NB[GA.v[i]].push_back(GA.u[i]);}
+    for(int i=1;i<=GB.m;i++) NB[GB.u[i]+GA.n].push_back(GB.v[i]),NB[GB.v[i]+GA.n].push_back(GB.u[i]);
+    for(int i=1;i<=GA.n+GB.n;i++){NB2[i]=NB[i];if(i<=GA.n) NB2[i].push_back(i);else NB2[i].push_back(i-GA.n);sort(NB[i].begin(),NB[i].end()),sort(NB2[i].begin(),NB2[i].end());}
+
+    //complete the cost matrix
+    for(int i=1;i<=GA.n;i++) for(int j=1;j<=GB.n;j++) if(GA.labels[i]!=GB.labels[j]) cost[i][j]=0;
+    for(int i=1;i<=n;i++) for(int j=m+1;j<=n+m-1;j++) cost[i][j]=cost[i][m];m=n+m-1;
+    // m--;
+    for(int i=n+1;i<=m;i++) for(int j=1;j<=m;j++) cost[i][j]=0;n=m;
+
+    //merge the set
+    for(int i=1;i<=GB.n;i++) f[i]=i;for(int i=GB.n+1;i<=n;i++) f[i]=GB.n+1;// column
+    // for(int i=1;i<=GB.n;i++) for(int j=i+1;j<=GB.n;j++) if(gf(i)^gf(j)){bool flg=1;for(int k=1;k<=n;k++) if(abs(cost[k][i]-cost[k][j])>dif){flg=0;break;} if(flg){for(int k=1;k<=n;k++) cost[k][j]=cost[k][i];f[gf(j)]=gf(i);}} //case 2: cost[i][k]=cost[j][k]
+    // for(int i=1;i<=GA.n;i++){LL res=0;int cnt=0;for(int j=GB.n+1;j<=n;j++){res+=cost[i][j];if(cost[i][j]) cnt++;}res/=(n-GB.n);for(int j=GB.n+1;j<=n;j++) cost[i][j]=res;}
+    // for(int i=1;i<=GA.n;i++){LL res=0;int cnt=0;for(int j=GB.n+1;j<=n;j++){res+=cost[i][j];if(cost[i][j]) cnt++;}res/=max(cnt,1);for(int j=GB.n+1;j<=n;j++) cost[i][j]=res;}
+    // tot=0;for(int i=1;i<=n;i++) if(gf(i)==i){tot++,B[tot].clear();for(int j=i;j<=n;j++) if(gf(j)==i) b[j]=tot,B[tot].push_back(j);} 
+    // for(int i=1;i<=GB.n;i++) for(int j=i+1;j<=GB.n;j++) if(gf(i)^gf(j)) if((IN[i+GA.n]==IN[j+GA.n]&&OUT[i+GA.n]==OUT[j+GA.n])&&GB.labels[i]==GB.labels[j]) f[gf(j)]=gf(i);
+    for(int i=1;i<=GB.n;i++) for(int j=i+1;j<=GB.n;j++) if(gf(i)^gf(j)) if((NB[i+GA.n]==NB[j+GA.n]||NB2[i+GA.n]==NB2[j+GA.n])&&GB.labels[i]==GB.labels[j]) f[gf(j)]=gf(i);
+    // for(int i=1;i<=GB.n;i++) for(int j=i+1;j<=GB.n;j++) if(gf(i)^gf(j)){bool flg=1;for(int k=1;k<=n;k++) if(abs(cost[k][i]-cost[k][j])>dif){flg=0;break;} if(flg){for(int k=1;k<=n;k++) cost[k][j]=cost[k][i];f[gf(j)]=gf(i);}} //case 2: cost[i][k]=cost[j][k]
+    tot=0;for(int i=1;i<=n;i++) if(gf(i)==i){tot++,B[tot].clear();for(int j=i;j<=n;j++) if(gf(j)==i){b[j]=tot,B[tot].push_back(j);for(int k=1;k<=n;k++) cost[k][j]=cost[k][i];}}
+    for(int i=1;i<=GA.n;i++) f[i]=i;for(int i=GA.n+1;i<=n;i++) f[i]=GA.n+1;// row
+    // for(int i=1;i<=n;i++) for(int j=i+1;j<=n;j++) if(gf(i)^gf(j)){bool flg=1;for(int k=1;k<=n;k++) if(abs(cost[i][k]-cost[j][k])>dif){flg=0;break;} if(flg){for(int k=1;k<=n;k++) cost[j][k]=cost[i][k];f[gf(j)]=gf(i);}} //case 2: cost[i][k]=cost[j][k]
+    // tot=0;for(int i=1;i<=n;i++) if(gf(i)==i){tot++,A[tot].clear();for(int j=i;j<=n;j++) if(gf(j)==i) a[j]=tot,A[tot].push_back(j);}
+    // for(int i=1;i<=GA.n;i++) for(int j=i+1;j<=GA.n;j++) if(gf(i)^gf(j)) if((IN[i]==IN[j]&&OUT[i]==OUT[j])&&GA.labels[i]==GA.labels[j]) f[gf(j)]=gf(i);
+    // for(int i=1;i<=GA.n;i++) for(int j=i+1;j<=GA.n;j++) if(gf(i)^gf(j)){bool flg=1;for(int k=1;k<=n;k++) if(abs(cost[i][k]-cost[j][k])>dif){flg=0;break;} if(flg){for(int k=1;k<=n;k++) cost[j][k]=cost[i][k];f[gf(j)]=gf(i);}} //case 2: cost[i][k]=cost[j][k]
+    for(int i=1;i<=GA.n;i++) for(int j=i+1;j<=GA.n;j++) if(gf(i)^gf(j)) if((NB[i]==NB[j]||NB2[i]==NB2[j])&&GA.labels[i]==GA.labels[j]) f[gf(j)]=gf(i);
+    tot=0;for(int i=1;i<=n;i++) if(gf(i)==i){tot++,A[tot].clear();for(int j=i;j<=n;j++) if(gf(j)==i){a[j]=tot,A[tot].push_back(j);for(int k=1;k<=n;k++) cost[j][k]=cost[i][k];}}
+    // for(int i=1;i<=tot;i++) cout<<A[i].size()<<' ';cout<<'\n';
+    tot=0,G[1].KM();
+}
+int KK,acc;
+inline void AKM(int tc){
+    clock_t start_time=clock();
+    bool flg=1;G[1].print();G[1].get_ans(),G[1].get_second();// Get the second-best matching
+    for(int i=0;i<=10;i++) Ans[tc][i]=888888,running_time[tc][i]=0;
+    Ans[tc][0]=ans;
+    clock_t end_time=clock();
+    running_time[tc][0]=(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC);
+    int tmp=ans;
+    for(int k=2;k<=K_max;k++){
+        int id=1;for(int i=2;i<k;i++) if(G[i].sm>G[id].sm) id=i;// find the maximum second_best_matching
+        if(G[id].sm==-INF){KK=k-1;/*cout<<"Only "<<k-1<<" matchings exist"<<'\n'<<'\n';*/flg=0;for(int i=k;i<=K_max;i++) G[i].bm=-INF;/*for(int i=1;i<=n;cout<<'\n',i++) for(int j=1;j<=n;j++) cout<<cost[i][j]<<' ';*/break;}
+        int S=G[id].V,x=G[id].best_matching[S],sa=a[S],sb=b[x];G[k].I=G[id].I,G[k].O=G[id].O,G[k].O.push_back(make_pair(S,x));
+        for(int ii=0;ii<A[sa].size();ii++) for(int jj=0;jj<B[sb].size();jj++)
+        {int i=A[sa][ii],j=B[sb][jj];if(G[id].best_matching[i]==j) G[id].I.push_back(make_pair(i,j));else G[k].O.push_back(make_pair(i,j));}
+        memcpy(G[k].best_matching,G[id].second_matching,sizeof(G[id].second_matching)),G[k].bm=G[id].sm,G[k].print();
+        G[id].get_second(),G[k].get_second();// update I&O and second_best_matching
+        if(G[id].get_upper_bound()<=ans) G[id].sm=-INF;if(G[k].get_upper_bound()<=ans) G[k].sm=-INF;
+        if(k%10==0){
+            end_time=clock();
+            Ans[tc][k/10]=ans;
+            running_time[tc][k/10]=(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC);
+        }
+    }
+    end_time=clock();
+    for(int i=1;i<=10;i++){
+        if(i*10>KK) running_time[tc][i]=max(running_time[tc][i],(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC)),Ans[tc][i]=ans;
+    }
+    // if(flg) cout<<K<<"-best matchings are found"<<'\n'<<'\n';
+}
+inline bool cmp2(int x,int y){return rand_v[x]<rand_v[y];}
+inline void solve(int tc){
+    KK=K_max;//cout<<tc<<'\n';
+    // cout<<"Test data "<<tc<<":\n";
+    read();// read the data
+
+    // if(tc!=1142) return;
+
+    // if(GA.n==5&&GA.m==4&&GA.u[1]==1&&GA.v[1]==2&&GA.u[2]==1&&GA.v[2]==4&&GA.u[3]==2&&GA.v[3]==3&&GA.u[4]==3&&GA.v[4]==5)
+    // if(GB.n==6&&GB.m==5&&GB.u[1]==1&&GB.v[1]==2&&GB.u[2]==1&&GB.v[2]==4&&GB.u[4]==2&&GB.v[4]==3&&GB.u[5]==3&&GB.v[5]==5&&GB.u[3]==1&&GB.v[3]==6){
+    //     for(int i=1;i<=n;cout<<'\n',i++) for(int j=1;j<=m;j++) cout<<cost[i][j]<<' '; 
+    // }
+    // if(GA.n<=6&&GB.n<=6){
+    //     cout<<GA.n<<' '<<GB.n<<'\n';
+    //     for(int i=1;i<=GA.n;cout<<'\n',i++) for(int j=1;j<=GB.n+1;j++) cout<<cost[i][j]<<' ';
+    //     for(int i=1;i<=GA.n;i++) cout<<GA.labels[i]<<' ';cout<<'\n';
+    //     for(int i=1;i<=GA.m;i++) cout<<GA.u[i]-1<<' '<<GA.v[i]-1<<'\n';
+    //     for(int i=1;i<=GB.n;i++) cout<<GB.labels[i]<<' ';cout<<'\n';
+    //     for(int i=1;i<=GB.m;i++) cout<<GB.u[i]-1<<' '<<GB.v[i]-1<<'\n';
+    // }
+    // return;
+
+
+    // if(!use[tc]) return;
+    clock_t start_time=clock();
+    init();// Get the matching matrix and the best matching
+    for(int j=1;j<=GA.m;j++) con1[GA.u[j]][GA.v[j]]=con1[GA.v[j]][GA.u[j]]=1;for(int j=1;j<=GB.m;j++) con2[GB.u[j]][GB.v[j]]=con2[GB.v[j]][GB.u[j]]=1;
+    ans=0;flg=0;recall_=0,prec_=0,f1_=0,precision_=0;
+    AKM(tc);// Algorithm of K-best Matching
+    // for(int i=1;i<=K;i++) bm[(i-1)/100+1]+=G[i].bm,cout<<G[i].bm<<' ';cout<<'\n';
+    // for(int j=1;j<=GA.n;j++) gt.mapping[j]=mapping[j];gt.gen_path();
+    // for(int i=1;i<=KK;i++){
+    //     for(int j=1;j<=GA.n;j++) pred[i].mapping[j]=G[i].best_matching[j];int tmp=pred[i].gen_path();ans=max(ans,tmp);
+    //     int res=0;for(int j=1;j<=GA.n;j++) if(mapping[j][min(G[i].best_matching[j],GB.n+1)]) res++;precision_=max(precision_,1.0*res/GA.n);
+    //     if(i==10) MCS[1]+=gr[tc]-ans;if(i==100) MCS[2]+=gr[tc]-ans;if(i==1000) MCS[3]+=gr[tc]-ans;
+    //     // int intersec=0;for(int j=1;j<=GA.n;j++) if(pred[i].com[j]&&gt.com[j]) intersec++;
+    //     // if(!intersec) continue;recall_=max(recall_,1.0*intersec/gr[tc]),prec_=max(prec_,1.0*intersec/tmp),f1_=max(f1_,2.0/(1.0*gr[tc]/intersec+1.0*tmp/intersec));
+    //     // if(i%100==0) MCS[i/100]+=ans;
+    //     // if(ans==gr[tc]){flg=1,cout<<i<<'\n';break;}
+    // }
+    // if(!flg) cout<<K+1<<'\n';
+
+    // cout<<ans<<'\n';
+    // for(int i=1;i<=n;i++) cout<<pre_mapping[i]<<' ';cout<<'\n';
+
+    for(int j=1;j<=GA.m;j++) con1[GA.u[j]][GA.v[j]]=con1[GA.v[j]][GA.u[j]]=0;for(int j=1;j<=GB.m;j++) con2[GB.u[j]][GB.v[j]]=con2[GB.v[j]][GB.u[j]]=0;
+    // cout<<ans<<'\n';
+    if(ans!=gr[tc]) E+=1.0*(gr[tc]-ans)/gr[tc],e+=gr[tc]-ans;else acc++,precision_=1;
+    precision+=precision_,num++;
+
+    cout<<"MCS = "<<ans<<'\n';
+    cout<<"Original Matching = ";for(int i=1;i<=GA.n;i++) if(pre_mapping[i]<=GB.n) cout<<"("<<i-1<<","<<pre_mapping[i]-1<<") ";cout<<'\n';
+    for(int j=1;j<=n;j++) pred.mapping[j]=pre_mapping[j];int tmp=pred.gen_path();
+    cout<<"Processed Matching = ";for(int i=1;i<=tmp;i++) cout<<"("<<q[i]-1<<","<<pre_mapping[q[i]]-1<<") ";cout<<'\n';
+    
+    // if(tc%100==0) 
+    // cerr<<tc<<'\n';
+    // recall+=recall_,prec+=prec_,f1_+=f1;
+    clock_t end_time=clock();
+    // cout<<ans<<' '<<(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC)<<'\n';
+    time_tot+=(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC);
+}
+int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
+    // freopen("use3.txt","r",stdin);
+    // int n_use;cin>>n_use;while(n_use--){int x;cin>>x;for(int i=x*20+1;i<=(x+1)*20;i++) use[i]=1;}
+    // freopen("use2.txt","r",stdin);
+    // int n_use;cin>>n_use;while(n_use--){int x;cin>>x;for(int i=x*20+1;i<=(x+1)*20;i++) use[i]=1;}
+    // freopen("use.txt","r",stdin);
+    // int n_use;cin>>n_use;while(n_use--){int x;cin>>x;for(int i=(x-1)*100+1;i<=x*100;i++) use[i]=1;}
+    // freopen("ground_truth_MCIS_IOT_AIDS.txt","r",stdin);
+    int tc=1;
+    // cin>>tc;
+    // for(int i=1;i<=tc;i++) cin>>gr[i];
+    // freopen("val_data_MCIS_IOT_AIDS.txt","r",stdin);
+    // freopen("case_study_set_matching.txt","w",stdout);
+    // freopen("K_set_matching_ub_IOT_AIDS.txt","w",stdout);
+
+    clock_t start_time=clock();
+
+    srand(time(NULL));
+    // cin>>tc;
+    // tc=1;
+    for(int i=1;i<=tc;i++) solve(i);
+    
+    // for(int i=1;i<=K/100;i++) printf("%.3f ",1.0*bm[i]/10000.0);
+
+    // for(int i=1;i<=K/100;i++) printf("%.3f ",MCS[i]/1000.0);
+    
+    // cout<<1.0*e/tc<<' '<<E/tc<<'\n';
+    // cout<<1.0*MCS[1]/num<<' '<<1.0*MCS[2]/num<<' '<<1.0*MCS[3]/num<<'\n';//MAE with K=10,100,1000
+
+    // cout<<1.0*e/num<<' ';//MAE
+    // cout<<1.0*acc/num<<' ';
+
+    // // cout<<prec/num<<' '<<recall/num<<' '<<f1/num<<' ';//prec,recall,f1
+
+    // cout<<precision/num<<' ';//precision
+
+    // clock_t end_time=clock();
+
+    // // printf("%.4f\n",(double)(1.0*(end_time-start_time)/CLOCKS_PER_SEC));//time
+    // printf("%.4f\n",time_tot);//time
+    return 0;
+}

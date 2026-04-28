@@ -1,0 +1,5 @@
+Board,Dealer,Vul.,,Board,Dealer,Vul.,,Board,Dealer,Vul.,,Board,Dealer,Vul.
+1,N,None,,5,N,N-S,,9,N,E-W,,13,N,All
+2,E,N-S,,6,E,E-W,,10,E,All,,14,E,None
+3,S,E-W,,7,S,All,,11,S,None,,15,S,N-S
+4,W,All,,8,W,None,,12,W,N-S,,16,W,E-W

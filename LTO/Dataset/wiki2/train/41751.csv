@@ -1,0 +1,5 @@
+{{Tooltip| Grp | Group}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+C,Manila Nomads,4,3,0,1,10,10,0,9
+A,Pasargad,4,2,1,1,12,2,+10,7
+D,Philippine Air Force,4,1,2,1,4,6,&minus;2,5
+B,Forza,4,1,1,2,3,6,&minus;3,4

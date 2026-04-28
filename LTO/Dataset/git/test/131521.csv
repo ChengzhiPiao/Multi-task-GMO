@@ -1,0 +1,4 @@
+access_bukpot_pph_23_in,Bukti Potong PPh 23 In - All User,model_l10n_id_bukti_potong_pph_23_in,base.group_user,1,0,0,0
+access_bukpot_pph_23_in_taxform_user,Bukti Potong PPh 23 In - Taxform User,model_l10n_id_bukti_potong_pph_23_in,l10n_id_taxform.user_group_taxform,1,1,1,1
+access_bukpot_pph_23_out,Bukti Potong PPh 23 Out - All User,model_l10n_id_bukti_potong_pph_23_out,base.group_user,1,0,0,0
+access_bukpot_pph_23_out_taxform_user,Bukti Potong PPh 23 Out - Taxform User,model_l10n_id_bukti_potong_pph_23_out,l10n_id_taxform.user_group_taxform,1,1,1,1

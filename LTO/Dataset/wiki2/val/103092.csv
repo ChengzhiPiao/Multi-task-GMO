@@ -1,0 +1,9 @@
+Year,Year,2002,2003,2004,2005,2006,2007,2008,Total,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+Issues,Issues,1,2,1,1,0,0,2,7,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+By metal,gold,{{yes|1}},{{yes|1}},{{no|–}},{{yes|1}},{{no|–}},{{no|–}},{{yes|1}},4,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+By metal,silver,{{no|–}},{{yes|1}},{{yes|1}},{{no|–}},{{no|–}},{{no|–}},{{yes|1}},3,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+By metal,Others,{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},0,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+By face value,€100,{{no|–}},{{yes|1}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},1,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}
+By face value,€20,{{yes|1}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{no|–}},{{yes|1}},2,{{legend|#90ff90|Coins were minted }} {{legend|#ff9090|No coins were minted}}

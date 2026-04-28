@@ -1,0 +1,2 @@
+access_shopinvader_payment_edit,shopinvader_payment edit,model_shopinvader_payment,shopinvader.group_shopinvader_manager,1,1,1,1
+access_shopinvader_payment_read,shopinvader_payment read,model_shopinvader_payment,base.group_user,1,0,0,0

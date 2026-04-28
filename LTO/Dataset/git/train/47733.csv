@@ -1,0 +1,5 @@
+779.7556,779.7556,779.7556,779.7889,779.7889,779.7889,779.9111,779.9111,779.9111,780.5916,780.8556,780.8556,780.9,781.0222,781.0222
+779.9333,779.9333,779.9333,780.1111,780.1111,780.1111,,,,781.4852,,,781.6334,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,Hand,Hand,Hand,HandToWrist,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1
+LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,PickedUp,LeftGate,RightGate,RightGate,LeftGate,RightGate

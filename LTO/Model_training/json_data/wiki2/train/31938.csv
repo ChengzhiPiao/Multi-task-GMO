@@ -1,0 +1,6 @@
+Rank,{{gold1}},{{silver2}},{{bronze3}},4,5,6
+Team,{{UAAPteam|UE|junior}},{{UAAPteam|UST|junior}},{{UAAPteam|NU|junior}},{{UAAPteam|La Salle|junior}},{{UAAPteam|Ateneo|junior}},{{UAAPteam|UP|junior}}
+W,10,8,6,4,2,0
+L,0,2,4,6,8,10
+PCT,1.000,.800,.600,.400,.200,.000
+GB,—,2,4,6,8,10

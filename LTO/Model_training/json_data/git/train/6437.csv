@@ -1,0 +1,2 @@
+output_dir,fp16,fp16_opt_level,n_gpu,n_tpu_cores,max_grad_norm,do_train,do_predict,gradient_accumulation_steps,seed,model_name_or_path,config_name,tokenizer_name,cache_dir,learning_rate,weight_decay,adam_epsilon,warmup_steps,num_train_epochs,train_batch_size,eval_batch_size,max_source_length,max_target_length,data_dir
+/dccstor/tuhinstor/tuhin/NQ-overlap/bart_sum,False,O1,1,0,1.0,True,False,1,42,bart-large,,,,3e-05,0.0,1e-08,0,3,2,2,1024,56,/dccstor/tuhinstor/tuhin/NQ-overlap

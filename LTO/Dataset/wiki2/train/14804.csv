@@ -1,0 +1,10 @@
+Number,1.,2.,3.,4.,5.,6.,7.,8.,9.
+Country,{{SUI}},{{USA}},{{RSA}},{{THA}},{{RUS}},{{SVK}},{{BEL}},{{AUS}},{{JPN}}
+Players,Martina Hingis / Roger Federer,Monica Seles / Jan-Michael Gambill,Amanda Coetzer / Wayne Ferreira,Tamarine Tanasugarn / Paradorn Srichaphan,Elena Likhovtseva / Marat Safin,Karina Habšudová / Dominik Hrbatý,Kim Clijsters / Olivier Rochus,Nicole Pratt / Richard Fromberg,Ai Sugiyama / Takao Suzuki
+Place,Champions,Runners-up,Second place-Group A,Third place-Group A,Second place-Group B,Third place-Group B,Fourth place-Group B,Fourth place-Group A,Did not qualify
+"Round Robin
+W-L",3-0,3-0,2-1,1-2,1-2,1-2,1-2,0-3,0-0
+"Matches
+W-L",8-1,8-1,5-4,4-5,4-5,3-6,3-6,1-8,0-0
+"Sets
+W-L",17-2,17-7,11-10,7-12,11-13,12-15,8-18,4-15,0-0

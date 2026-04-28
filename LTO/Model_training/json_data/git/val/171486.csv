@@ -1,0 +1,9 @@
+hdfs.datanode.dfs_remaining,hdfs.datanode.dfs_capacity,hdfs.datanode.dfs_used,hdfs.datanode.cache_capacity,hdfs.datanode.cache_used,hdfs.datanode.num_failed_volumes,hdfs.datanode.last_volume_failure_date,hdfs.datanode.estimated_capacity_lost_total,hdfs.datanode.num_blocks_cached,hdfs.datanode.num_blocks_failed_to_cache,hdfs.datanode.num_blocks_failed_to_uncache
+gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge
+,,,,,,,,,,
+byte,byte,byte,byte,byte,,millisecond,byte,block,block,block
+,,,,,,,,,,
+The remaining disk space left in bytes,Disk capacity in bytes,Disk usage in bytes,Cache capacity in bytes,Cache used in bytes,Number of failed volumes,The date/time of the last volume failure in milliseconds since epoch,The estimated capacity lost in bytes,The number of blocks cached,The number of blocks that failed to cache,The number of failed blocks to remove from cache
+0,0,0,0,0,0,0,0,0,0,0
+hdfs,hdfs,hdfs,hdfs,hdfs,hdfs,hdfs,hdfs,hdfs,hdfs,hdfs
+dfs rem,dfs cap,dfs usd,cache cap,cache usd,faild vols,lst faild vol,cap lst,blk cachd,blk fld,blk faild uncache

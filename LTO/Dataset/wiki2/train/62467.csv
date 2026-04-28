@@ -1,0 +1,5 @@
+{{Tooltip|Pos| Final position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| Pts | Points}}
+1,Basel,4,3,1,0,12,7,7
+2,Lugano,4,1,2,1,7,8,4
+3,Young Boys,4,1,1,2,6,5,3
+4,Zürich,4,1,0,3,9,10,2

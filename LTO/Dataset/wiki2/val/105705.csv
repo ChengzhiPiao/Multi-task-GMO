@@ -1,0 +1,5 @@
+Number,Uniform number,GP,Games played,SO,Shutouts
+F,Forward,G,Goals,SV%,Save percentage
+D,Defenceman,A,Assists,Min,Minutes played
+GK,Goaltender,Pts,Points,GA,Goals against
+Club,Player's club before tournament,PIM,Penalties in minutes,GAA,Goals against average

@@ -1,0 +1,10 @@
+Rank,Rank,1,2,3,4,5,6,7,8,9,10,11,12
+Contestant,Contestant,Rachel,Jenny*,Jen,Eddie,Marque,Rebecca,Sophia*,Susie,Kelly,David,Wilhelmina,Hamed
+Episode,1,IN,IN,IN,BTM,WIN,WIN,IN,IN,IN,BTM,OUT,OUT
+Episode,2,IN,IN,IN,WIN,WIN,BTM,IN,BTM,OUT,OUT,,
+Episode,3,IN,IN/SWAP,WIN,BTM,BTM,2nd,IN/SWAP,IN,,,,
+Episode,3,IN,WIN,IN,BTM,BTM,WIN,OUT,OUT,,,,
+Episode,4,WIN,IN,WIN,IN,IN,IN,,,,,,
+Episode,4,BTM,BTM,WIN,WIN,OUT,OUT,,,,,,
+Episode,5,WIN,WIN,OUT,OUT,,,,,,,,
+Episode,6,WINNER,RUNNER-UP,,,,,,,,,,

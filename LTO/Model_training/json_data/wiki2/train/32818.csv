@@ -1,0 +1,9 @@
+Number,Number,1,4,5,6,8,9,10,11,14,16,18,20,21,22,24,27,28,
+Position,Position,GK,DF,DF,MF,DF,FW,MF,FW,DF,MF,DF,MF,MF,FW,DF,MF,MF,
+Name,Name,Rein Baart,Alex Surprenant,André Duberry,Shaun Saiko,John Jonke,Chris Lemire,Kyle Yamada,Paul Craig,Paul Matthijs,Eddy Sidra,Paul Hamilton,Chris Kooy,Dominic Oppong,Dan Antoniuk,Antonio Rago,Sam Lam,Ilja van Leerdam,TOTALS
+NASL Regular Season,{{yel}},0,6,1,7,1,5,1,1,1,0,7,3,2,2,5,1,1,44
+NASL Regular Season,{{sent off}},2,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,6
+Canadian Championship,{{yel}},0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+Canadian Championship,{{sent off}},0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Total,{{yel}},0,6,1,7,1,5,1,1,1,1,7,3,2,2,5,1,1,45
+Total,{{sent off}},2,0,0,2,1,1,0,0,0,0,1,0,0,0,0,0,0,7

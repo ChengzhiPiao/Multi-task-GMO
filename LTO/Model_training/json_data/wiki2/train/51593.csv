@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | total games PLAYED}},{{Tooltip| W | total games WON}},{{Tooltip| D | total games DRAWN (tied)}},{{Tooltip| L | total games LOST}},{{Tooltip| GF | total goals scored (GOALS FOR)}},{{Tooltip| GA | total goals conceded (GOALS AGAINST)}},{{Tooltip| GD | GOALS DIFFERENCE (GF-GA)}},{{Tooltip| Pts | total POINTS accumulated (3W+D)}}
+{{fb|POR}},3,2,0,1,5,3,+2,6
+{{fb|TUR}},3,2,0,1,5,5,0,6
+{{fb|CZE}},3,1,0,2,4,6,&minus;2,3
+{{fb|SUI}},3,1,0,2,3,3,0,3

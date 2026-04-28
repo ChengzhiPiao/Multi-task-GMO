@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|USA}},3,3,0,0,11,2,9,6
+2,{{fbw|SWE}},3,2,0,1,12,3,9,4
+3,{{fbw|BRA}},3,1,0,2,1,7,−6,2
+4,{{fbw|JPN}},3,0,0,3,0,12,−12,0

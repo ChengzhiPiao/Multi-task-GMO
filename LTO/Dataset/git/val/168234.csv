@@ -1,0 +1,8 @@
+access_delivery_carrier,access_delivery_grid,access_delivery_grid_line,access_delivery_carrier_manager,access_delivery_grid_manager,access_delivery_grid_line_manager,access_delivery_carrier_partner_manager,access_delivery_carrier_stock_manager,access_delivery_grid_stock_manager,access_delivery_grid_line_stock_manager
+delivery.carrier,delivery.grid,delivery.grid.line,delivery.carrier,delivery.grid,delivery.grid.line,delivery.carrier partner_manager,delivery.carrier,delivery.grid,delivery.grid.line
+model_delivery_carrier,model_delivery_grid,model_delivery_grid_line,model_delivery_carrier,model_delivery_grid,model_delivery_grid_line,model_delivery_carrier,model_delivery_carrier,model_delivery_grid,model_delivery_grid_line
+base.group_sale_salesman,base.group_sale_salesman,base.group_sale_salesman,base.group_sale_manager,base.group_sale_manager,base.group_sale_manager,base.group_partner_manager,stock.group_stock_manager,stock.group_stock_manager,stock.group_stock_manager
+1,1,1,1,1,1,1,1,1,1
+0,0,0,1,1,1,0,1,1,1
+0,0,0,1,1,1,0,1,1,1
+0,0,0,1,1,1,0,1,1,1

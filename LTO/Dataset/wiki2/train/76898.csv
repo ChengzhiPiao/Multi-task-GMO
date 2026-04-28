@@ -1,0 +1,10 @@
+{{abbr|Dim.|Dimension}},{{abbr|Dim.|Dimension}},1,2,3,4,5,6,7,8,9+
+Finite,Convex,1,∞,5,6,3,3,3,3,3
+Finite,Star,0,∞,4,10,0,0,0,0,0
+Finite,Skew,0,∞,?,?,?,?,?,?,?
+Euclidean,Convex,1,1,3,1,3,1,1,1,1
+Hyperbolic,Compact,0,1,∞,4,5,0,0,0,0
+Hyperbolic,Star,0,0,∞,0,4,0,0,0,0
+Hyperbolic,Paracompact,0,0,∞,11,2,5,0,0,0
+Compounds,Convex,0,∞,5,26,0,0,3,6,{{efn|1 if the number of dimensions is of the form 2<sup>''k''</sup> − 1; 2 if the number of dimensions is of the form 2<sup>''k''</sup>; 0 otherwise.}}
+Compounds,Star,0,∞,0,20,0,0,0,0,0

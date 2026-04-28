@@ -1,0 +1,5 @@
+Position,Club,{{Tooltip| G | Games}},{{Tooltip| W | Win}},{{Tooltip| D | Draw}},{{Tooltip| L | Loss}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| P | Points}}
+1,Gençlerbirliği,3,3,-,-,7,3,9
+2,Beşiktaş,3,2,-,1,6,5,7
+3,Eskişehir Demirspor,3,1,-,2,11,8,5
+4,Altay,3,-,-,3,2,10,3

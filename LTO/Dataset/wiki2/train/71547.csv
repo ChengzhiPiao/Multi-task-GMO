@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|L|Lost}},{{Tooltip|MW|Matches won}},{{Tooltip|ML|Matches lost}},{{Tooltip|GW|Games won}},{{Tooltip|GL|Games lost}},{{Tooltip|PW|Points won}},{{Tooltip|PL|Points lost}},{{Tooltip|Pts|Points}},Qualification
+1,{{bd|HKG}},2,2,0,10,0,20,0,447,313,2,Play Off A1
+2,{{bd|NED}} [9/16],2,1,1,3,7,8,15,385,439,1,Play Off A2
+3,{{bd|NZL}},2,0,2,2,8,6,17,356,436,0,Play Off A3

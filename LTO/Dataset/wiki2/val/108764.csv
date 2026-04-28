@@ -1,0 +1,10 @@
+Number,Number,1,3,4,4,5,7,8,10,11,12,14,15,16,19,20,21,23,26,26,27,29,31,32,
+Nation,Nation,{{flagicon|LAT}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|POR}},{{flagicon|POR}},{{flagicon|SUI}},{{flagicon|ITA}},{{flagicon|TUN}},{{flagicon|BRA}},{{flagicon|NIR}},{{flagicon|ALB}},{{flagicon|NLD}},{{flagicon|SUI}},{{flagicon|FRA}},{{flagicon|HUN}},{{flagicon|CMR}},{{flagicon|SUI}},{{flagicon|SUI}},{{flagicon|CIV}},{{flagicon|SUI}},{{flagicon|SUI}},{{flagicon|SUI}},{{flagicon|SUI}},
+Position,Position,GK,DF,DF,DF,DF,MF,MF,MF,FW,FW,MF,DF,MF,FW,DF,FW,MF,MF,MF,DF,MF,DF,MF,
+Name,Name,Andris Vanins,Aislan,Adaílton,José Gonçalves,André Marques,Sébastien Wüthrich,Gennaro Gattuso,Oussama Darragi,Léo Itaperuna,Kyle Lafferty,Vullnet Basha,Michael Dingsdag,Didier Crettenand,Mathieu Manset,Vilmos Vanczák,Yannick N'Djeng,Xavier Margairaz,Gelson Fernandes,Serey Die,Léo Lacroix,Alberto Regazzoni,Arnaud Bühler,Anthony Sauthier,TOTALS
+Super League,{{yel}},3,4,1,3,4,1,11,7,6,10,6,9,1,1,8,3,7,4,4,1,2,1,1,96
+Super League,{{sent off}},0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,5
+Swiss Cup,{{yel}},0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3
+Swiss Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},3,4,1,3,5,1,11,7,6,11,6,9,1,1,8,3,7,5,4,1,2,1,1,99
+Total,{{sent off}},0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,5

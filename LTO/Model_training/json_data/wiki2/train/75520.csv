@@ -1,0 +1,6 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Wins}},{{Tooltip|W+|Wins after extra time}},{{Tooltip|W<small>P</small>|Wins on penalties}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{beachsoccer|COL|name=Team Colombia}},0,0,0,0,0,0,0,0,0
+2,{{beachsoccer|ECU|name=Team Ecuador}} (H),0,0,0,0,0,0,0,0,0
+3,{{beachsoccer|PAR|name=Team Paraguay}},0,0,0,0,0,0,0,0,0
+4,{{beachsoccer|PER|name=Team Peru}},0,0,0,0,0,0,0,0,0
+5,{{beachsoccer|VEN|name=Team Venezuela}},0,0,0,0,0,0,0,0,0

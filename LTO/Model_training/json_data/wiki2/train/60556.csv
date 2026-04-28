@@ -1,0 +1,10 @@
+Number,Number,23,24,4,21,16,3,17,6,14,5,7,15,18,20,8,10,12,13,5,2,7,9,12,22,31,
+Nation,Nation,{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|SEN}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ITA}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|NGA}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|ESP}},{{flagicon|POR}},{{flagicon|ESP}},{{flagicon|ESP}},
+Position,Position,DF,MF,DF,DF,MF,DF,MF,MF,DF,MF,DF,MF,FW,MF,MF,FW,FW,GK,DF,DF,MF,FW,DF,MF,MF,
+Name,Name,Jorge Morcillo,Joaquín,Ximo Navarro,Nano,Fidel,Fran Vélez,Antonio Puertas,Pape Maly Diamanka,Ángel Trujillo,Borja Fernández,Marco Motta,Corona,Juanjo Expósito,José Ángel,Ramon Azeez,José Ángel Pozo,Chuli,Casto,Alex Quintanilla,Isidoro,Iago Díaz,Quique González,Henrique Sereno,Iván Sánchez,Gaspar,TOTALS
+Segunda División,{{yel}},17,11,10,10,9,8,8,6,6,5,4,4,4,3,3,3,3,3,1,1,1,1,1,1,1,124
+Segunda División,{{sent off}},0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,6
+Copa del Rey,{{yel}},0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Copa del Rey,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},17,11,10,10,9,8,8,6,6,5,4,4,4,4,3,3,3,3,1,1,1,1,1,1,1,125
+Total,{{sent off}},0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,6

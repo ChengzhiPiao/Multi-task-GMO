@@ -1,0 +1,8 @@
+Place,Nation,Games,Games,Games,Games,Points,Points,Points,"Table
+points"
+Place,Nation,played,won,drawn,lost,for,against,difference,"Table
+points"
+1,{{ru|KOR}},3,2,1,0,60,33,27,5
+2,{{ru|TWN}},3,2,0,1,77,45,32,4
+3,{{ru|THA}},3,1,1,1,61,45,16,3
+4,{{ru|SGP}},3,0,0,3,25,100,-75,0

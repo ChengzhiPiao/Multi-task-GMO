@@ -1,0 +1,2 @@
+access_hr_employee_children_employee,hr.employee.children_employee,model_hr_employee_children,base.group_user,1,0,0,0
+access_hr_employee_children_user,hr.employee.children_user,model_hr_employee_children,hr.group_hr_manager,1,1,1,1

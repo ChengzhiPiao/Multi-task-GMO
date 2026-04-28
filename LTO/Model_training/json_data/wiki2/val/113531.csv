@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Wins}},{{Tooltip|W+|Wins after extra time}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}},Notes
+1,{{beachsoccer|ITA}},3,2,1,0,10,6,+4,8,Stage Winners
+2,{{beachsoccer|POR}},3,2,0,1,15,12,+3,6,
+3,{{beachsoccer|ESP}},3,0,1,2,12,15,−3,2,
+4,{{beachsoccer|FRA}},3,0,0,3,15,19,–4,0,

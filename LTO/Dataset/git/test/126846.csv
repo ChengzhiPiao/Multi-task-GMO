@@ -1,0 +1,2 @@
+NSDPIndicatorID,IndicatorShortName,Definition,Calculation/Formulation,Range,Assumptions,Limitations,IntendedDirection,Purpose/Rationale,PolicyLinkage,PreferredDataSource,AlternativeDataSource,SourceTag,PrimaryCollectionSystem,FrequencyofCollection,OtherDemandSources,ResponsibleAgency,RelatedLinks,graph_type,computation_units,data_non_statistical,graph_title
+ECO 1.8.1,Growth Rate in Users of Financial Services,,,,,,,,,,,,,,,,,bar,,False,"Total number of new users of financial services annual, acknowledging pop growth (number accounts opening/year)"

@@ -1,0 +1,8 @@
+Rocket,Ariane 5,Atlas V,Delta II,Dnepr,H-IIA,Falcon 1,Kosmos,Long March 2,Long March 3,Long March 4,Molniya,Pegasus,Polar Satellite Launch Vehicle,Proton,Safir,Soyuz,Soyuz-2,Space Shuttle,UR-100,Zenit
+Country,{{EUR}},{{USA}},{{USA}},{{UKR}},{{JPN}},{{USA}},{{RUS}},{{PRC}},{{PRC}},{{PRC}},{{RUS}},{{USA}},{{IND}},{{RUS}},{{IRN}},{{RUS}},{{RUS}},{{USA}},{{RUS}},{{UKR}} / {{RUS}}
+Family,Ariane,Atlas,Delta,R-36,H-II,Falcon,R-12/R-14,Long March,Long March,Long March,R-7,Pegasus,PSLV,Universal Rocket,Safir,R-7,R-7,Space Shuttle,Universal Rocket,Zenit
+Launches,6,2,5,2,1,2,3,4,4,3,1,2,3,10,1,8,1,4,1,6
+Successes,6,2,5,2,1,1,3,4,4,3,1,2,3,9,0,8,1,4,1,6
+Failures,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Remarks,,,,,,,,,,,,,,,Maiden flight,,,,,

@@ -1,0 +1,9 @@
+,,Bilabial,Alveolar,Alveolar,Palatal,Velar,Velar,Uvular,Uvular,Glottal
+,,Bilabial,central,lateral,Palatal,plain,rounded,plain,rounded,Glottal
+Stop,voiceless,p,t,,,k,kʷ,q,qʷ,ʔ
+Stop,ejective,pʼ,tʼ,,,kʼ,kʼʷ,qʼ,qʼʷ,ʔ
+Affricate,voiceless,,ts,,tʃ,,,,,
+Affricate,ejective,,tsʼ,tɬʼ,tʃʼ,,,,,
+Nasal,Nasal,m,n,,,,,,,
+Fricative,Fricative,,s,ɬ,ʃ,x,xʷ,χ,χʷ,h
+Approximant,Approximant,,,l,j,,w,,,

@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fb|BRA|1968}},6,6,0,0,23,2,+21,12
+2,{{fb|PAR|1954}},6,4,0,2,6,5,+1,8
+3,{{fb|COL}},6,1,1,4,7,12,−5,3
+4,{{fb|VEN|1954}},6,0,1,5,1,18,−17,1

@@ -1,0 +1,2 @@
+account_asset_impairment_employee,account.asset.impairment - All Employee,model_account_asset_impairment,base.group_user,1,1,1,1
+account_asset_impairment_reversal_employee,account.asset.impairment_reversal - All Employee,model_account_asset_impairment_reversal,base.group_user,1,1,1,1

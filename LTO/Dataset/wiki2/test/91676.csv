@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pts | Points}},{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}}
+{{fb|SEN}},4,3,1,2,0,7,3,+4
+{{fb|SLE}},4,3,1,2,0,5,3,+2
+{{fb|GNB}},4,3,1,2,0,4,2,+2
+{{fb|GAM}},0,3,0,0,3,2,10,–8

@@ -1,0 +1,2 @@
+access_sale_exception,sale.exception,model_sale_exception,base.group_user,1,0,0,0
+access_sale_exception_manager,sale.exception,model_sale_exception,base.group_sale_manager,1,1,1,1

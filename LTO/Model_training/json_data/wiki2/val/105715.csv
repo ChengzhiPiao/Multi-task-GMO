@@ -1,0 +1,5 @@
+Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GAv|Goal average}},{{tooltip|Pts|Points}}
+{{fb|FRG}},3,1,2,0,7,5,1.40,4
+{{fb|NIR}},3,1,1,1,4,5,0.80,3
+{{fb|TCH}},3,1,1,1,8,4,2.00,3
+{{fb|ARG|alt}},3,1,0,2,5,10,0.50,2

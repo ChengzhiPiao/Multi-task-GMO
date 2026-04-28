@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pts | Points}},{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}}
+{{fb|GUI}},4,2,2,0,0,4,1,+3
+{{fb|SLE}},2,2,1,0,1,2,2,0
+{{fb|MTN|1959}},0,2,0,0,2,2,5,–3

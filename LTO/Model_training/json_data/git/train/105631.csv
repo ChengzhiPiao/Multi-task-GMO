@@ -1,0 +1,262 @@
+Hero Override,Desktop Body,Mobile Body,Responsive Body Top,Responsive Body Bottom,Desktop Styles,Mobile Styles,Responsive Styles,Header Scripts,Desktop Header Scripts,Mobile Header Scripts,Footer Scripts,Desktop Footer Scripts,Mobile Footer Scripts,Hide Top Leaderboard Ad,Hide Bottom Leaderboard Ad
+"<div class=""strib-styles ssa ssb ssc"">
+  <section class=""hero"" id=""hero"">
+    <div class=""topNavBar"">
+      <a href=""http://www.startribune.com"">
+        <div class=""strib""></div>
+      </a>
+      <div class=""sponsor"">
+        </div>
+    </div>
+    <div class=""title-card"">
+      <a href=""/x/485943941?preview=1""><h1>Feeling Superior</h1></a>
+    </div>
+    <video autoplay loop id=""heroVideo"">
+      <source src=""http://static.startribune.com/video/HERO-protect.mp4"" type=""video/mp4"">
+    </video>
+  </section>
+  <section id=""mobile-hero"" class=""mobile-hero mobile"">
+    <div class=""topNavBar"">
+      <a href=""http://www.startribune.com"">
+        <div class=""strib""></div>
+      </a>
+      <div class=""sponsor"">
+        </div>
+    </div>
+    <div class=""title-card"">
+      <a href=""/x/485943941?preview=1""><h1>Feeling Superior</h1></a>
+    </div>
+  </section>
+  <h4 class=""mobile home-logo"">
+    <a href=""http://m.startribune.com"">Star Tribune</a>
+  </h4>
+</div>",,,"<div class=""strib-styles ssa ssb ssc"">
+  <h1>Protect and serve</h1>
+  <div class=""byline"">
+    <address>By <a rel=""author"" href=""http://example.com/author"">Melanie Radzicki McManus</a> - special to the Star Tribune&nbsp;&nbsp;•&nbsp;&nbsp;Visuals by <a rel=""photographer"" href=""http://example.com/author"">Brian Peterson</a><span class=""spacer-alt""></span>
+      <time pubdate datetime=""2017-07-30T16:00:00"">August 17, 2018 &mdash; 12:00am</time>
+  </div>
+  <!-- share -->
+
+  <section class=""container-lg"">
+    <div class=""summaryBlock"">
+      <div class=""summaryText"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. This text would then be continued here in a brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. This text would then be continued to a brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. This text would then be continued here in a brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. A brief summary describing unique aspects to this part’s adventure. </div>
+            <div class=""summaryBlockReefers"">
+        <div class=""mapReefer"">
+          <a href=""/x/485934211?preview=1""><h4>INTERACTIVE MAP</h4> Read dispatches from Melanie’s 18-day hike</div></a>
+        <div class=""galleryReefer"">
+          <a href=""/x/486590611?preview=1""><h4>GALLERIES</h4> Explore Superior Trail in photos and videos</a>
+        </div>
+        <div class=""biosReefer"">
+          <a href=""/x/486590301?preview=1""><h4>BIOGRAPHIES</h4> Meet the authors of the series</a>
+        </div>
+      </div>
+    </div>","<div class=""teases"">
+  <article class=""tease"">
+    <header>
+      <a href=""/x/485941911?preview=1""><b>PART 1</b>&nbsp;&nbsp;Water everywhere</a>
+    </header>
+    <figure class=""tease-photo one"">
+      <a href=""/x/485941911?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_water.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+  <article class=""tease"">
+    <header>
+      <a href=""/x/485942462?preview=1""><b>PART 2</b>&nbsp;&nbsp;Hiking boom</a>
+    </header>
+    <figure class=""tease-photo two"">
+      <a href=""/x/485942462?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_boom.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+  <article class=""tease"">
+    <header>
+      <a href=""/x/485942671?preview=1""><b>PART 3</b>&nbsp;&nbsp;People of the trail</a>
+    </header>
+    <figure class=""tease-photo three"">
+      <a href=""/x/485942671?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_people.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+  <!--     ROW TWO -->
+  <article class=""tease"">
+    <header>
+      <a href=""/x/485943391?preview=1""><b>PART 4</b>&nbsp;&nbsp;Suffering and joy</a>
+    </header>
+    <figure class=""tease-photo four"">
+      <a href=""/x/485943391?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_suffer.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+  <article class=""tease"">
+    <header>
+      <a href=""/x/485943601?preview=1""><b>PART 5</b>&nbsp;&nbsp;Nature effect</a>
+    </header>
+    <figure class=""tease-photo five"">
+      <a href=""/x/485943601?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_nature.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+  <article class=""tease toCome"">
+    <header>
+      <a href=""/x/485943721?preview=1""><b>PART 6</b>&nbsp;&nbsp;Protect and serve</a>
+    </header>
+    <figure class=""tease-photo six"">
+      <a href=""/x/485943721?preview=1"">
+        <div class=""tease-photo-img"">
+          <video class=""thevideo"" loop preload=""none"">
+            <source src=""http://static.startribune.com/video/THUMB_protect.mp4"" type=""video/mp4"">
+          </video>
+        </div>
+    </figure>
+    <h1>Tease title longer, more descriptive max </h1></a>
+    
+    <div class=""tease-summary"">A brief summary describing unique aspects to this part’s adventure. Looking for something concise. Lengths should be similar but don’t need to be match exactly. </div>
+  </article>
+</div>
+<div class=""teases ads"">
+  <h4>Sponsors</h4>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos1 -->
+    <div id='div-gpt-ad-4205362-1'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-1'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 1 -->
+  </article>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos2 -->
+    <div id='div-gpt-ad-4205362-2'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-2'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 2 -->
+  </article>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos3 -->
+    <div id='div-gpt-ad-4205362-3'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-3'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 3 -->
+  </article>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos4 -->
+    <div id='div-gpt-ad-4205362-4'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-4'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 4 -->
+  </article>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos5 -->
+    <div id='div-gpt-ad-4205362-5'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-5'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 5 -->
+  </article>
+  <article class=""tease"">
+    <!-- Begin AdSlot Pos6 -->
+    <div id='div-gpt-ad-4205362-6'>
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-4205362-6'); });
+
+      </script>
+    </div>
+    <!-- End AdSlot 6 -->
+  </article>
+</div>
+</section>
+</div>
+",,,"<link rel=""stylesheet"" href=""http://static.startribune.com/news/projects/all/2018superiorHiking/styles.bundle.css"" type=""text/css"" />","<!-- Begin Outdoor Weekend Series Header Tag -->
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+   
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-1')
+                             .setTargeting('pos', ['1'])
+                             .addService(googletag.pubads()));
+   
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-2')
+                             .setTargeting('pos', ['2'])
+                             .addService(googletag.pubads()));
+    
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-3')
+                             .setTargeting('pos', ['3'])
+                             .addService(googletag.pubads()));
+   
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-4')
+                             .setTargeting('pos', ['4'])
+                             .addService(googletag.pubads()));
+    
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-5')
+                             .setTargeting('pos', ['5'])
+                             .addService(googletag.pubads()));
+    
+    gptadslots.push(googletag.defineSlot('/7932/website/web_sports/web_sports_outdoors/web_sports_outdoors_weekend_series', [[300,250]], 'div-gpt-ad-4205362-6')
+                             .setTargeting('pos', ['6'])
+                             .addService(googletag.pubads()));
+
+  });
+</script>
+<!-- End Header Tag -->",,,"<script>
+var figure = $("".tease"").hover( hoverVideo, hideVideo );
+
+function hoverVideo(e) {  
+    $('video', this).get(0).play(); 
+}
+
+function hideVideo(e) {
+    $('video', this).get(0).pause(); 
+}
+</script>",,,1,

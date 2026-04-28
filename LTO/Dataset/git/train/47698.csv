@@ -1,0 +1,5 @@
+743.2713,743.6778,743.6778,743.9222,743.9222,745.0,745.0,745.2222,745.3445,745.5444,745.584,745.5889,745.5889,745.6,745.6334,745.7444,745.8223,745.8223,746.3334,746.3334,746.5889
+744.4,745.0444,745.0444,745.2222,745.2222,,,745.8778,746.0556,,,,,,746.3,,,,,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,HandToWrist,Hand,Hand,Hand,Hand,Hand,Hand,WristToElbow,HandToWrist,HandToWrist,WristToElbow,WristToElbow,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1
+PickedUp,RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,LeftGate,LeftGate,Pushed,PickedUp,RightGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,RightGate,RightGate,RightGate,Pushed

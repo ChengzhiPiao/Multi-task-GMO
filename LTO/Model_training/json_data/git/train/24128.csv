@@ -1,0 +1,8 @@
+access_mail_message_all,access_mail_message_user,access_mail_mail_all,access_mail_mail_user,access_mail_mail_system,access_mail_followers_all,access_mail_followers_user,access_mail_followers_system,access_mail_notification_all,access_mail_notification_user,access_mail_notification_system,access_mail_group_all,access_mail_group_user,access_mail_alias_all,access_mail_alias_user,access_mail_alias_system,access_mail_message_subtype_all,access_mail_message_subtype_system,access_mail_thread_all,access_publisher_warranty_contract_all
+mail.message.all,mail.message.user,mail.mail.all,mail.mail.user,mail.mail.system,mail.followers.all,mail.followers.user,mail.followers.system,mail.notification.all,mail.notification.user,mail.notification.system,mail.group.all,mail.group.user,mail.alias.all,mail.alias.user,mail.alias.system,mail.message.subtype.all,mail.message.subtype.system,mail.thread.all,publisher.warranty.contract.all
+model_mail_message,model_mail_message,model_mail_mail,model_mail_mail,model_mail_mail,model_mail_followers,model_mail_followers,model_mail_followers,model_mail_notification,model_mail_notification,model_mail_notification,model_mail_group,model_mail_group,model_mail_alias,model_mail_alias,model_mail_alias,model_mail_message_subtype,model_mail_message_subtype,model_mail_thread,model_publisher_warranty_contract
+,base.group_user,,base.group_user,base.group_system,,base.group_user,base.group_system,,base.group_user,base.group_system,,base.group_user,,base.group_user,base.group_system,,base.group_system,,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,1,0,1,1,0,1,1,0,1,1,0,1,0,1,1,0,1,1,1
+0,1,0,1,1,0,0,1,0,1,1,0,1,0,1,1,0,1,1,1
+0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,1,0,1,1,1

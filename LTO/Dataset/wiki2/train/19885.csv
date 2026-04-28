@@ -1,0 +1,10 @@
+"Number
+of bytes","First
+code point","Last
+code point",Byte 1,Byte 2,Byte 3,Byte 4,Byte 5,Byte 6
+1,U+0000,U+007F,{{mono|0xxxxxxx}},,,,,
+2,U+0080,U+07FF,{{mono|110xxxxx}},{{mono|10xxxxxx}},,,,
+3,U+0800,U+FFFF,{{mono|1110xxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},,,
+4,U+10000,U+1FFFFF,{{mono|11110xxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},,
+5,U+200000,U+3FFFFFF,{{mono|111110xx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},
+6,U+4000000,U+7FFFFFFF,{{mono|1111110x}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}},{{mono|10xxxxxx}}

@@ -1,0 +1,3 @@
+p,T,T,F,F
+q,T,F,T,F
+p ↑ q,F,T,T,T

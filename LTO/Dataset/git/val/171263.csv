@@ -1,0 +1,6 @@
+10000-8,10000-8,10000-8,10000-8,10000-8,10000-8,10000-8,10000-8,10000-8
+R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR,R wave duration in lead AVR
+LP31088-5,LP6244-0,LP6879-3,LP6960-1,LP7289-4,LP7753-9,LP7795-0,LP14259-3,LP14744-4
+R wave duration.lead AVR,EKG,Time,Pt,Heart,Qn,EKG.MEAS,Lead,Duration
+COMPONENT,METHOD,PROPERTY,TIME,SYSTEM,SCALE,CLASS,COMPONENT,COMPONENT
+Primary,Primary,Primary,Primary,Primary,Primary,Primary,Search,Search

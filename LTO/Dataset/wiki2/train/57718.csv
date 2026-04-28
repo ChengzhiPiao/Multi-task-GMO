@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{flagicon|Moscow}} Moscow,3,2,1,0,6,0,+6,5
+{{flagicon|Russian SFSR}} RSFSR,3,1,2,0,3,0,+3,4
+{{flagicon|Kazakh SSR}} Kazakhstan,3,1,1,1,6,2,+4,3
+{{flagicon|Kyrgyz SSR}} Kyrgyzia,3,0,0,3,1,14,-13,0

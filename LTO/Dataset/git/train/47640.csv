@@ -1,0 +1,5 @@
+309.6111,309.6555,309.6667,310.1889,310.2333,312.2556,312.2556,312.2889,312.3111,312.3111,312.3445,313.0889,313.3419,314.3889,314.4111,315.5312,315.8445,315.8445,316.0667
+310.3667,311.2867,309.7778,310.2111,310.2444,314.4667,314.4445,312.6333,314.8667,314.8,312.5778,313.7444,313.878,,,,,,
+Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,Hand,Hand,WristToElbow,WristToElbow,Hand,Hand,Hand,WristToElbow
+FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed
+Pushed,PickedUp,LeftGate,LeftGate,LeftGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,Pushed,PickedUp,RightGate,LeftGate,PickedUp,LeftGate,RightGate,Pushed

@@ -1,0 +1,7 @@
+Aircraft,Aircraft,Airbus A319-100,Airbus A320-200,Airbus A321-200,Airbus A320neo,Embraer 190,Total
+In Service,In Service,3,10,1,3,8,25
+Orders,Orders,&mdash;,&mdash;,&mdash;,&mdash;,&mdash;,0
+Passengers,C,12,12,12,,8,
+Passengers,Y,108,138,182,162,88,
+Passengers,Total,120,150,194,162,96,
+Notes,Notes,,,,,,

@@ -1,0 +1,8 @@
+access_hr_applicant_user,access_hr_recruitment_report,access_hr_recruitment_stage_user,access_hr_recruitment_degree,access_res_partner_hr_user,access_survey_hr_user,access_calendar_event_hruser,access_hr_recruitment_source_hr_officer,access_hr_recruitment_source_all,access_hr_applicant_category,access_hr_applicant_category_manager,access_calendar_event_type_hr_officer
+hr.applicant.user,hr.recruitment.report,hr.recruitment.stage.user,hr.recruitment.degree,res.partner.user,survey.hr.user,calendar.event.hruser,hr.recruitment.source,hr.recruitment.source,hr.applicant_category,hr.applicant_category,calendar.event.type.officer
+model_hr_applicant,model_hr_recruitment_report,model_hr_recruitment_stage,model_hr_recruitment_degree,base.model_res_partner,survey.model_survey_survey,calendar.model_calendar_event,model_hr_recruitment_source,model_hr_recruitment_source,model_hr_applicant_category,model_hr_applicant_category,calendar.model_calendar_event_type
+base.group_hr_user,base.group_hr_manager,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,,,base.group_hr_manager,base.group_hr_user
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,0,1,1,1
+1,1,1,1,1,1,1,1,0,1,1,1
+1,1,1,1,1,0,1,1,0,0,1,0

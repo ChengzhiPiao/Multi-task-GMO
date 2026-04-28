@@ -1,0 +1,4 @@
+Season,Season,Season,Season,Defense,Defense,Defense,Defense,Defense,Fumbles,Fumbles
+Year,Team,{{tooltip|GP|Games played}},{{tooltip|GS|Games started}},{{tooltip|Tack.|Total tackles}},{{tooltip|Solo.|Solo tackles}},{{tooltip|Ass.|Assisted tackles}},{{tooltip|Sacks|Quarterback sacks}},{{tooltip|TFL|Tackles-for-loss}},{{tooltip|FF|Forced fumbles}},{{tooltip|FR|Fumble recoveries}}
+2016,BAL,1,0,3,2,1,0,0,0,0
+Career,Career,1,0,3,2,1,0,0,0,0

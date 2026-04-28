@@ -1,0 +1,5 @@
+140.0889,140.0889,140.1445,140.1445,140.3222,140.3222,140.7,140.7,140.7778,140.7778,141.0556,141.0556,141.3497,141.8667,141.8667,142.3111,142.3111,142.4111,142.4111
+140.3445,140.3445,140.5222,140.5222,142.4667,142.4667,141.1,141.1,142.1556,142.1556,141.9222,141.9222,,142.1778,142.1778,142.6222,142.6222,142.6445,142.6445
+Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,Hand,Hand,HandToWrist,HandToWrist,Hand,Hand
+FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong,Target,FailOnTouchObstacleLong,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleShort
+LeftGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,PickedUp,RightGate,LeftGate,RightGate,LeftGate,RightGate,LeftGate

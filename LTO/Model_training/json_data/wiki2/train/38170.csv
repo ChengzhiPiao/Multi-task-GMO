@@ -1,0 +1,5 @@
+{{tooltip|Pos|Position}},Club,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,Manchester City,6,5,1,0,14,4,+10,11
+2,Stoke,6,2,2,2,9,10,–1,6
+3,Manchester United,6,2,0,4,9,14,–5,4
+4,Port Vale,6,1,1,4,9,13,–4,3

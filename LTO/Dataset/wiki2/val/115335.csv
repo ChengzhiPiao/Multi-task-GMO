@@ -1,0 +1,5 @@
+Medals by sport,Sport,Athletics,Bowling,Judo,Powerlifting,Swimming,Table tennis,Wheelchair tennis,Total
+Medals by sport,{{gold01}},0,2,0,0,0,0,0,2
+Medals by sport,{{silver02}},1,2,0,0,2,4,0,9
+Medals by sport,{{bronze03}},4,2,1,1,0,5,1,14
+Medals by sport,Total,5,6,1,1,2,9,1,25

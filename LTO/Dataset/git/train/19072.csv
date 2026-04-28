@@ -1,0 +1,2 @@
+access_ir_cron_inactivity_period_user,access_ir_cron_inactivity_period_user,model_ir_cron_inactivity_period,base.group_user,1,,,
+access_ir_cron_inactivity_period_manager,access_ir_cron_inactivity_period_manager,model_ir_cron_inactivity_period,base.group_system,1,1.0,1.0,1.0

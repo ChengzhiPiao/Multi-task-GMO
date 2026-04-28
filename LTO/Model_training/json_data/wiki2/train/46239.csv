@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{Fbm|GER}},2,2,0,0,2,0,+1,6
+{{Fbm|MLI}},2,1,0,1,3,1,+2,3
+{{Fbm|BRA}},2,0,0,2,0,4,-4,0

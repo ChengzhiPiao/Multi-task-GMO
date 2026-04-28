@@ -1,0 +1,10 @@
+{{Tooltip| Pos |Position}},&nbsp;&nbsp;1,&nbsp;&nbsp;2,&nbsp;&nbsp;3,&nbsp;&nbsp;4,&nbsp;&nbsp;5,&nbsp;&nbsp;6,&nbsp;&nbsp;7,&nbsp;&nbsp;8,&nbsp;&nbsp;9,&nbsp;&nbsp;10,&nbsp;&nbsp;11,&nbsp;&nbsp;12
+Team,Libertad,Guaraní,Cerro Porteño,Sol de América,Nacional,Tacuary,Olimpia,12 de Octubre,3 de Febrero,Sportivo Luqueño,2 de Mayo,Silvio Pettirossi
+{{Tooltip| Pts | total Points accumulated (3W+1D)}},44,43,37,36,32,31,28,28,24,24,22,9
+{{Tooltip| GP | total games PLAYED}},22,22,22,22,22,22,22,22,22,22,22,22
+{{Tooltip| W | total games WON}},12,12,10,12,8,9,7,8,6,6,4,1
+{{Tooltip| D | total games DRAWN (tied)}},8,7,7,3,8,4,7,4,6,6,10,6
+{{Tooltip| L | total games LOST}},2,3,5,7,6,9,8,10,10,10,8,15
+{{Tooltip| GF | total goals scored (GOALS FOR)}},35,36,32,37,23,23,33,27,27,27,26,15
+{{Tooltip| GA | total goals conceded (GOALS AGAINST)}},17,17,26,30,22,24,31,33,31,38,33,39
+{{Tooltip| GD | total goals difference (GF-GA)}},+18,+19,+6,+7,+1,-1,+2,-6,-4,-11,-7,-24

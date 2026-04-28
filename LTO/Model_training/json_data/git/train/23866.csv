@@ -1,0 +1,8 @@
+access_event_location_manager,access_event_track_manager,access_event_track_tag_public,access_event_track_tag_manager,access_event_track_location_public,access_event_track_location_manager,access_event_track__public,access_event_track_sponsor_type_manager,access_event_track_sponsor_type_public,access_event_track_sponsor_manager,access_event_track_sponsor_public,access_event_track_stage_all,access_event_track_stage_event_manager,access_website_event_menu_public,access_website_event_menu_manager
+event.track.location manager,event.track manager,event.track.tag public,event.track.tag manager,event.track.location public,event.track.location manager,event.track.public,event.track.sponsor.type.public,event.track.sponsor.type.public,event.track.sponsor.type.public,event.track.sponsor.public,event.track.stage.all,event.track.stage.event.manager,website.event.menu,website.event.menu
+model_event_track_location,model_event_track,model_event_track_tag,model_event_track_tag,model_event_track_location,model_event_track_location,model_event_track,model_event_sponsor_type,model_event_sponsor_type,model_event_sponsor,model_event_sponsor,model_event_track_stage,model_event_track_stage,model_website_event_menu,model_website_event_menu
+event.group_event_manager,event.group_event_manager,,event.group_event_manager,,event.group_event_manager,,event.group_event_manager,,event.group_event_manager,,,event.group_event_manager,,event.group_event_manager
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,0,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,0,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,0,1

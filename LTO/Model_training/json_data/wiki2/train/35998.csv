@@ -1,0 +1,7 @@
+Orbital regime,Launches,Achieved,Not achieved,"Accidentally
+achieved",Remarks
+Transatmospheric,1,1,0,0,
+Low Earth,44,41,2,1,"14 to ISS (1 failure, 1 partial failure)"
+Geosynchronous/transfer,32,31,1,0,
+Medium Earth,7,7,0,0,
+High Earth,3,3,0,0,

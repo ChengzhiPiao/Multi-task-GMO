@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1,{{fb|URS|1955}},8,4,4,0,0,11,3,+8
+2,{{fb|TUR}},4,4,2,0,2,4,4,0
+3,{{fb|NOR}},0,4,0,0,4,3,11,&minus;8

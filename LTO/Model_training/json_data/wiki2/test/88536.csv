@@ -1,0 +1,4 @@
+Bitruncated 8-orthoplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Bitruncated 8-orthoplex,uniform 8-polytope,"t1,2{3,3,3,3,3,3,4}","{{CDD|node|3|node_1|3|node_1|3|node|3|node|3|node|3|node|3|node}}
+{{CDD|node|3|node_1|3|node_1|3|node|3|node|3|node|split1|nodes}}",,,,,,,,"{ }v{3,3,3,4}","B8, [3,3,3,3,3,3,4]
+D8, [35,1,1]",convex

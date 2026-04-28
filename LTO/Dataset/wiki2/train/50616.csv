@@ -1,0 +1,10 @@
+Implementation,MD5,SHA-1,SHA-2,SHA-3,RIPEMD-160,Tiger,Whirlpool,GOST,Stribog,BLAKE2
+Botan,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Bouncy Castle,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+cryptlib,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{No}},{{No}},{{No}}
+Crypto++,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}}
+Libgcrypt,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+libsodium,{{No}},{{No}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{Yes}}
+Nettle,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{No}},{{No}}
+OpenSSL,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}}
+wolfCrypt,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{Yes}}

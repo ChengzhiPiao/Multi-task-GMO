@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Bahia}} Juazeirense,6,2,3,1,9,6,3,9
+2,{{flagicon|Paraíba}} Sousa,6,2,3,1,6,4,2,9
+3,{{flagicon|Alagoas}} Coruripe,6,2,1,3,9,10,-1,7
+4,{{flagicon|Pernambuco}} Central,6,2,1,3,7,11,-4,7

@@ -1,0 +1,2 @@
+access_test_website_dependent,test_website_dependent,web_website.model_test_website_dependent,base.group_user,1,0,0,0
+access_test_company_dependent,test_company_dependent,web_website.model_test_company_dependent,base.group_user,1,1,1,1

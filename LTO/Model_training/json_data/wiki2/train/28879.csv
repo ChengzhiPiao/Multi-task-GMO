@@ -1,0 +1,11 @@
+,D15,D16,R56,R55,Majority due to vacancy→,R36,R35,R16,R15,
+,D14,D17,R57,R54,Majority due to vacancy→,R37,R34,R17,R14,
+,D13,D18,R58,R53,Majority due to vacancy→,R38,R33,R18,R13,
+,D12,D19,R59,R52,Majority due to vacancy→,R39,R32,R19,R12,
+,D11,D20,R60,R51,Majority due to vacancy→,R40,R31,R20,R11,
+D1,D10,D21,V1,R50,Majority due to vacancy→,R41,R30,R21,R10,R1
+D2,D9,D22,"D29
+Gain",R49,Majority due to vacancy→,R42,R29,R22,R9,R2
+D3,D8,D23,D28,R48,Majority due to vacancy→,R43,R28,R23,R8,R3
+D4,D7,D24,D27,R47,Majority due to vacancy→,R44,R27,R24,R7,R4
+D5,D6,D25,D26,R46,R45,R45,R26,R25,R6,R5

@@ -1,0 +1,9 @@
+Product Name,Append/Merge,Import wizard,Import (CSV),Import (DBF),Import (Excel),Import (SAF-T),Import (SIE),Import (XBRL-GL)
+Analyzer - Arbutus Software,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Audit Command Language (ACL),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{dunno}},{{dunno}},{{Yes}}
+Easy2Analyse (QDAC.net),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+ESKORT Computer Audit (SESAM),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{No}}
+InfoZoom,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{dunno}},{{dunno}},{{dunno}}
+Interactive Data Extraction and Analysis (IDEA),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+TeamMate Analytics / TopCAATs,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{dunno}},{{Yes}}
+SoftCAAT/ eCAAT,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}}

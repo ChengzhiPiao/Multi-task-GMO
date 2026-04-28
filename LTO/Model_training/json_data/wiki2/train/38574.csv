@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,Elbasani,3,2,0,1,5,2,+2,4
+2,Teuta,3,2,0,1,4,3,+1,4
+3,Burreli,3,1,0,2,2,4,–2,2
+4,Kukësi,3,1,0,2,2,4,–2,2

@@ -1,0 +1,3 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,{{fb|COL}},2,1,1,0,2,1,+1,3
+2,{{fb|PER}},2,0,1,1,1,2,−1,1

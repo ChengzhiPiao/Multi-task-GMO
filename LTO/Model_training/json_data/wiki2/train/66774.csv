@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Goiás}} Iporá,6,4,1,1,10,4,+6,13
+2,{{flagicon|Distrito Federal}} Brasiliense,6,3,2,1,9,3,+6,11
+3,{{flagicon|Mato Grosso do Sul}} Corumbaense,6,2,2,2,5,9,−4,8
+4,{{flagicon|Mato Grosso}} Dom Bosco,6,0,1,5,2,10,−8,1

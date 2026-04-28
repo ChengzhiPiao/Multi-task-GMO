@@ -1,0 +1,6 @@
+Radiation,"x-rays, gamma rays,
+beta particles, muons",neutrons,neutrons,neutrons,"protons, charged pions","alpha particles,
+Nuclear fission products,
+heavy nuclei"
+Energy,&nbsp;,< 1 MeV,1 MeV - 50 MeV,> 50 MeV,&nbsp;,&nbsp;
+WR (formerly Q),1,2.5 + 18.2·e−[ln(E)]²/6,5.0 + 17.0·e−[ln(2·E)]²/6,2.5 + 3.25·e−[ln(0.04·E)]²/6,2,20

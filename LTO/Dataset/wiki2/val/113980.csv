@@ -1,0 +1,9 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Wins}},{{Tooltip|W+|Wins after extra time or penalties}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{beachsoccer|POR}},6,4,1,1,50,26,+24,14
+2,{{beachsoccer|ESP}},6,4,0,2,34,23,+11,12
+3,{{beachsoccer|RUS}},6,4,0,2,24,24,0,12
+4,{{beachsoccer|ITA}},6,3,1,2,39,28,+11,11
+5,{{beachsoccer|SUI}},6,2,0,4,34,27,+7,6
+6,{{beachsoccer|POL}},6,2,0,4,23,32,–9,6
+7,{{beachsoccer|FRA}},6,1,1,4,18,28,–10,5
+8,{{beachsoccer|NOR}},6,1,0,5,16,50,–34,3

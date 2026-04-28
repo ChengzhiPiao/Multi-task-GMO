@@ -1,0 +1,2 @@
+Bit Value,0,1,?,-,label
+Description,Bit must be 0,Bit must be 1,"Bit may be either 0 or 1, and is used for a purpose.","Bit is unused, or should not be expected to be a certain value",Refer to a later explanation for the purpose of the bit.

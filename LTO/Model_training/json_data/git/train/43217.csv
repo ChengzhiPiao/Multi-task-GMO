@@ -1,0 +1,1 @@
+" although the declaration pre C++11 would be:&#xD;&#xA;&#xD;&#xA;    const f f1 ;&#xD;&#xA;&#xD;&#xA;In C++11 going forward the standard wording seems to support gccs behavior but we have an open defect report and until it is resolved this seems uncertain."";;",,,,,,

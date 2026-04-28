@@ -1,0 +1,4 @@
+Rectified 10-orthoplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,7-faces,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Rectified 10-orthoplex,uniform 10-polytope,"t1{38,4}","{{CDD|node|4|node_1|3|node|3|node|3|node|3|node|3|node|3|node|3|node|3|node}}
+{{CDD|nodes_11|split2|node|3|node|3|node|3|node|3|node|3|node|3|node|3|node}}",,,,,,,46080,5120,8-simplex prism,"C10, [4,38]
+D10, [37,1,1]",convex

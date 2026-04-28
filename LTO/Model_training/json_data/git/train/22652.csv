@@ -1,0 +1,8 @@
+access_sms_account_user,access_sms_account_system,access_sms_compose_user,access_sms_compose_system,access_sms_gateway_user,access_sms_gateway_system,access_sms_message_user,access_sms_message_system,access_sms_number_user,access_sms_number_system,access_sms_template_user,access_sms_template_system
+sms.account.user,sms.account.system,sms.compose.user,sms.compose.system,sms.gateway.user,sms.gateway.system,sms.message.user,sms.message.system,sms.number.user,sms.number.system,sms.template.user,sms.template.system
+model_sms_account,model_sms_account,model_sms_compose,model_sms_compose,model_sms_gateway,model_sms_gateway,model_sms_message,model_sms_message,model_sms_number,model_sms_number,model_sms_template,model_sms_template
+base.group_user,base.group_system,base.group_user,base.group_system,base.group_user,base.group_system,base.group_user,base.group_system,base.group_user,base.group_system,base.group_user,base.group_system
+1,1,1,1,1,1,1,1,1,1,1,1
+0,1,1,1,0,1,0,1,0,1,1,1
+0,1,1,1,0,1,1,1,0,1,1,1
+0,1,0,0,0,1,0,1,0,1,0,1

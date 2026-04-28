@@ -1,0 +1,5 @@
+Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals For}},{{Tooltip|GA|Goals Against}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+{{fbu|21|ITA}},3,1,2,0,3,2,+1,5
+{{fbu|21|SUI}},3,1,1,1,3,2,+1,4
+{{fbu|21|POR}},3,1,1,1,4,4,0,4
+{{fbu|21|ENG}},3,1,0,2,4,6,&minus;2,3

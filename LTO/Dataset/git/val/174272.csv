@@ -1,0 +1,4 @@
+org/assertj/core/api/AtomicLongFieldUpdaterAssert.AtomicLongFieldUpdaterAssert,org/assertj/core/api/AtomicLongFieldUpdaterAssert.hasValue,org/assertj/core/api/AtomicLongFieldUpdaterAssert.getActualValue,org/assertj/core/api/AtomicLongFieldUpdaterAssert.hasValue,org/assertj/core/api/AtomicLongFieldUpdaterAssert.getActualValue
+(Ljava/util/concurrent/atomic/AtomicLongFieldUpdater;)V,(Ljava/lang/Long;Ljava/lang/Object;)Lorg/assertj/core/api/AtomicLongFieldUpdaterAssert;,(Ljava/lang/Object;)Ljava/lang/Long;,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAtomicFieldUpdaterAssert;,(Ljava/lang/Object;)Ljava/lang/Object;
+12,10,11,11,9
+1,1,1,1,1

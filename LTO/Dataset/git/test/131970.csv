@@ -1,0 +1,8 @@
+access_is_type_evenement_ei,access_is_nature_evenement_ei,access_is_victime_ei,access_is_motif_retour_ei,access_is_ei,access_is_type_evenement_ei_user,access_is_nature_evenement_ei_user,access_is_motif_retour_ei_user,access_is_victime_ei_user,access_is_ei_user
+is.type.evenement.ei,is.nature.evenement.ei,is.victime.ei,is.motif.retour.ei,is.ei,is.type.evenement.ei,is.nature.evenement.ei,is.motif.retour.ei,is.victime.ei,is.ei_user
+model_is_type_evenement_ei,model_is_nature_evenement_ei,model_is_victime_ei,model_is_motif_retour_ei,model_is_ei,model_is_type_evenement_ei,model_is_nature_evenement_ei,model_is_motif_retour_ei,model_is_victime_ei,model_is_ei
+base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_user
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,0,0,1,1,1
+1,1,1,1,1,0,0,1,1,1
+1,1,1,1,1,0,0,1,1,0

@@ -1,0 +1,5 @@
+Pos,Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Wins}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip | Pts | Points}}
+1,Goyang KB,3,2,0,1,6,3,+3,6
+2,Gangneung City,3,1,1,1,8,8,0,4
+3,Changwon City,3,1,1,1,4,4,0,4
+4,Mokpo City,3,1,0,2,4,7,-3,3

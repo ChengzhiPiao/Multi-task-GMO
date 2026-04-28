@@ -1,0 +1,5 @@
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://www.homedepot.com,,
+2,email,Enter the value [<Data>] in the Field [<Object>],Set,@guest@gmail.com,,temp
+3,go,Click the [<Object>] ,Click,,,temp
+4,Browser,Wait for [<Data>] milli seconds,pause,@3000,,
+5,Thank you for signing up.Your,Assert if [<Object>]'s Text Contains [<Data>],assertElementTextContains,@Thank you for signing up,,temp

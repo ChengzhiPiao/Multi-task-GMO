@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|São Paulo}} Ituano Q,6,4,1,1,15,5,10,13
+2,{{flagicon|Rio Grande do Sul}} Caxias Q,6,3,0,3,9,9,0,9
+3,{{flagicon|Paraná}} Maringá,6,2,2,2,8,10,-2,8
+4,{{flagicon|Santa Catarina}} Metropolitano,6,1,1,4,5,13,-8,4

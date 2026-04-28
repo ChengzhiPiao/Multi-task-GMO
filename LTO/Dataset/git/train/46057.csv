@@ -1,0 +1,4 @@
+1,Execute,Given  User is in Manulife.ca Home Page,Links in left navigation pane:User is in Manulife.ca Home Page,,,
+2,Execute,When  User clicks on Group Plans in left navigation pane,Links in left navigation pane:User clicks on Group Plans in left navigation pane,,,
+3,Execute,Then  user is in Group Plans home page,Links in left navigation pane:user is in Group Plans home page,,,
+4,Execute,And  the text Which group plan you are looking for? is displayed,Links in left navigation pane:the text Which group plan you are looking for_ is displayed,,,

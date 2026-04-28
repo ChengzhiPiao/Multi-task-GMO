@@ -1,0 +1,9 @@
+Rival,{{fb|Asturias}}{{efn|name=astcan1|A combined team of players from [[Asturias]] and [[Cantabria]].}},{{fb|Cantabria}},"File:Flag of Castile.svg Castile{{efn|name=Centro|Matches against the 'Central Federation' (''Centro'') team, including [[Madrid]] and the wider [[Castile (historical region)|Castile]] region.}}",{{fb|Catalonia}},{{fb|Corsica}},{{fb|GEO}} (GSSR),{{flagicon|Jalisco}} Jalisco,{{fb|Silesia}},Summary
+{{Abbr|Pld|Played}},1,1,1,13,1,1,3,1,22
+{{Abbr|W|Won}},1,0,0,7,0,1,3,1,13
+{{Abbr|D|Drawn}},0,0,1,5,1,0,0,0,7
+{{Abbr|L|Lost}},0,1,0,1,0,0,0,0,2
+{{Abbr|GF|Goals for}},6,2,1,26,1,3,12,4,55
+{{Abbr|GA|Goals against}},3,3,1,11,1,1,2,3,25
+{{Abbr|GD|Goal difference}},+3,−1,0,+15,0,+2,+10,+1,+30
+Win %{{efn|A draw counts as a ½ win}},{{#expr:1/1*100 round 2}}%,{{#expr:0/1*100 round 2}}%,{{#expr:0.5/1*100 round 2}}%,{{#expr:9.5/13*100 round 2}}%,{{#expr:0.5/1*100 round 2}}%,{{#expr:1/1*100 round 2}}%,{{#expr:3/3*100 round 2}}%,{{#expr:1/1*100 round 2}}%,{{#expr:37/50*100 round 2}}%

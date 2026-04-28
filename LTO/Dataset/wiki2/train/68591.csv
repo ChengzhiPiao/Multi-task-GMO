@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played }},{{Tooltip | W | Won }},{{Tooltip | L | Lost }},{{Tooltip | D | Draw }},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points }}
+Ferbane,3,3,0,0,57,28,+29,6
+Gracefield,3,2,1,0,48,48,+0,4
+St. Rynagh's,3,1,2,0,38,44,-6,2
+Ballycumber,3,0,3,0,32,55,-23,0

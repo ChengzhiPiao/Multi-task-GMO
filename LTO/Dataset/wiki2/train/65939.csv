@@ -1,0 +1,6 @@
+Order-infinite-infinite triangular honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-infinite-infinite triangular honeycomb,Regular honeycomb,"{3,∞,∞}
+{3,(∞,∞,∞)}","{{CDD|node_1|3|node|infin|node|infin|node}}
+{{CDD|node_1|3|node|infin|node|infin|node_h0}} = {{CDD|node_1|3|node|split1-ii|branch|labelinfin}}","{3,∞} File:H2 tiling 23i-4.png",{3},{∞},"{∞,∞} File:H2 tiling 2ii-4.png
+{(∞,∞,∞)} File:H2 tiling iii-4.png","{∞,∞,3}","[∞,∞,3]
+[3,((∞,∞,∞))]",Regular

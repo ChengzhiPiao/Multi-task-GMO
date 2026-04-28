@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GAv|Goal average}},{{tooltip|Pts|Points}}
+1,{{fb|HUN|1915}},2,2,0,0,8,2,4.00,4
+2,{{fb|AUT}},1,1,0,0,6,1,6.00,2
+3,{{fb|BUL}},3,0,0,3,3,14,0.21,0

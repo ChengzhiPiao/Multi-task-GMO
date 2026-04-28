@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Draw }},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,Palmeiras,10,6,2,2,19,14,+5,20
+2,Rio Branco,10,4,1,5,19,22,-3,13
+3,União São João,10,1,6,3,15,18,-3,9
+4,Botafogo,10,2,2,6,9,13,-4,8

@@ -1,0 +1,10 @@
+Number,Number,1,2,3,4,8,10,11,12,13,14,21,23,29,41,77,88,96,98,
+Nation,Nation,{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|SWE}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|MNE}},{{flagicon|RUS}},{{flagicon|AUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},
+Position,Position,GK,DF,DF,DF,FW,MF,DF,DF,DF,MF,FW,MF,DF,MF,MF,MF,MF,FW,
+Name,Name,Anton Shunin,Grigori Morozov,Sebastian Holmén,Vladimir Rykov,Kirill Panchenko,Aleksandr Zotov,Ivan Temnikov,Dmitri Belorukov,Sergei Terekhov,Ivan Markelov,Fatos Bećiraj,Anton Sosnin,Luke Wilkshire,Aleksandr Sapeta,Anatoli Katrich,Aleksandr Tashayev,Maksim Kuzmin,Anton Terekhov,TOTALS
+Russian FNL,{{yel}},1,8,1,6,2,4,8,2,2,4,2,5,2,8,1,2,1,1,60
+Russian FNL,{{sent off}},0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2
+Russian Cup,{{yel}},0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2
+Russian Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},1,8,1,6,2,4,8,2,2,4,2,5,2,9,1,2,2,1,62
+Total,{{sent off}},0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2

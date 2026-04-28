@@ -1,0 +1,8 @@
+Ignore Empty,DoNotRewriteRegex Empty,UseSiteUrlsRegex Empty,DoNotRedirectRegex Empty,DoNotRedirectSecureRegex Empty,ForceLowerCaseRegex Empty,NoFriendlyUrlRegex Empty,DoNotIncludeInPathRegex Empty,ValidExtensionlessUrlsRegex Empty,RegexMatch Empty
+						IgnoreRegex,			DoNotRewriteRegex,				UseSiteUrlsRegex,			DoNotRedirectRegex,		DoNotRedirectSecureRegex,			ForceLowerCaseRegex,			NoFriendlyUrlRegex,		DoNotIncludeInPathRegex,	ValidExtensionlessUrlsRegex,					RegexMatch
+					,				,				,				,		,			,				,		,	,						
+					http://,					http://,					http://,					http://,					http://,					http://,					http://,					http://,					http://,					http://
+	About Us,	About Us,	About Us,	About Us,	About Us,	About Us,	About Us,	About Us,	About Us,	About Us
+		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us,		http://{alias}/About-Us
+						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId},						{defaultPage}?TabId={tabId}
+200,200,200,200,200,200,200,200,200,200

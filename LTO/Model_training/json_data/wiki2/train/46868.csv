@@ -1,0 +1,6 @@
+Model #,Length (m),Width (m),Heigh (m),Volume (m3),Power plant,Fuel,Max speed (km/h),Cruise speed (km/h),Max wind scale allowed for operation,Payload (kg),Endurance (h),Tailplane,Remote control radius (km),Remote control station
+M2-900,9,2.5,3.5,27,38 cc @ 3&nbsp;hp,Gasoline,60,2 – 30,4 – 5,3,3,Cruciform tail,1.5,Futaba 6 channel
+M2-1100,11,2.6,3.8,33,38 cc @ 3&nbsp;hp,Gasoline,60,2 – 30,4 – 5,5,4,Cruciform tail,1.5,Futaba 6 channel
+M2-1200,12,2.7,4,48,62 cc @ 5.4&nbsp;hp,Gasoline,90,5 – 30,5 – 6,10,4,Cruciform tail,1.5,Futaba 6 – 9 channel
+M2-1300,13,2.8,4.1,55,80 cc @ 7&nbsp;hp,Gasoline,90,5 – 50,5 – 6,15,5,Cruciform tail,1.5,Futaba 6 – 9 channel
+M2-1500,15,3.2,4.5,90,80 – 100 cc @ 7 – 9&nbsp;hp,Gasoline,100,5 – 60,5 – 6,25,6,Cruciform tail,1.5,Futaba 6 – 9 channel

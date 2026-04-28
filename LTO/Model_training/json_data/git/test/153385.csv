@@ -1,0 +1,47 @@
+UBA EMC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+project,guiding questions,,,results,,,scenarios,,,,,,,,,,,,,,,,,data sources,,publications,,,,,,,,,,models,,,year,keywords,,,,,,,,regional coverage,,,,,,,,,,,,time horizon,
+,preamble,question,question,preamble,insight,insight,preamble,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,source,source,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,preamble,model,model,,keyword,keyword,keyword,keyword,,,,,region,region,region,region,region,region,region,region,region,region,region,region,start,end
+,,,,,,,,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,link,citation,type,doi,full,ris,citation,type,doi,full,ris,,name,version,,,,,,,,,,,,,,,,,,,,,,,
+,,1.0,2.0,,1.0,2.0,,1.0,1.0,2.0,2.0,3.0,3.0,4.0,4.0,5.0,5.0,6.0,6.0,7.0,7.0,8.0,8.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,,1.0,1.0,,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,,
+,"The study analyses various economic mitigation challenges in a broad range of scenarios, varying the carbon tax, technology assumption and start data of ambitious policies in a set of 300 scenarios.","How do the four crucial economic mitigation challenges - short- and long-term costs, energy price increase and total carbon value - increase with climate target stringency, i.e. lower temperature targets?",How are the temperature-challenge trade-off curves for the four economic mitigation challenges shifted under different assumptions on technology availability and policy delay?,"The study analysis various trade-off curves, each with temperature on the horizontal and different economic challenges on the vertical axis.","The trade-off curves for all four analyzed economic challenges (short- and long-term costs, energy price increase and total carbon value, i.e. aggregated payments in emission pricing schemes) are highly convex, with strongly increasing costs for lower targets, practically setting a lower limit to achievable targets. If the temparature axis of the trade-off curve is using maximum temperatures (instead of 2100 temperature), this is even more pronounced.","Both, assuming a delay of stringent policies or assuming non-availability of crucial technologies (bioenergy and or CCS) shifts the curve to higher temperatures.","A total of ~300 scenarios have been calculated, differentiated across three dimensions (the list of scenarios below only details the 8 scenarios included in the SR1.5 database):
+Carbon tax: For each of the combination of policy timing and technology availability (see below),  a total of 10 carbon price scenarios is calculated: the 5,10,20,30,40,50,100,200,500 and 1000 $/t CO2 in 2020 with 5% p.a. exponential increase thereafter
+Technology availability: 7 scenario assumptions are considered: i) ""Def"" default—full technology portfolio, (ii) ""NoCCS""—unavailability of CCS, (iii) ""NoBECCS""—unavailability of CCS in combination with bioenergy (BECCS), (iv) ""LimBio""—reduced bioenergy potential (100 EJ compared to 300 EJ in all other cases), (v) ""NucPO""—phase out of investments into nuclear energy, (vi)"" LimSW"" —penetration of solar and wind power limited to 20%, and (vii) ""LowEI""
+Policy timing: we consider in total three scenario groups ""Frag2015"", ""Frag2020"" and ""Frag2030"" with delayed adoption of cooperative mitigation action with globally harmonized GHG pricing resulting in comprehensive emissions reductions, assuming that climate policies remain weak and fragmented until 2015, 2020 and 2030, respectively. In the time-steps before the start of cooperative action, world regions are assumed to follow a weak, fragmented climate policy regime based on a weak interpretation of the pledges or reduction proposals under the Cancun Agreements or Copenhagen Accord for 2020, and an extrapolation of the implied climate policy ambition beyond 2020 (WeakPol reference scenario, see SI section 6 (available at stacks.iop.org/ERL/8/034033/mmedia) and Luderer et al 2013). The ""WeakPol"" scenario yields similar global emissions by 2020 as the full implementation of the unconditional pledges under lenient accounting rules (UNEP 2012). In addition, we considered a (already at publication hypothetical) ""immediate"" scenario with global comprehensive emissions reductions effective and implemented from 2015 onwards. ",Def_30$,"Scenario with default (full) technology availability, and carbon tax starting at 30$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",Def_100$,"Scenario with default (full) technology availability, and carbon tax starting at 100$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",LimSW_30$,"Scenario with solar and wind power limited to 20%, and carbon tax starting at 30$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",LimSW_100$,"Scenario with solar and wind power limited to 20%, and carbon tax starting at 100$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",NucPO_30$,"Scenario with nuclear phase-out, and carbon tax starting at 30$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",NucPO_100$,"Scenario with nuclear phase-out, and carbon tax starting at 100$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",LowEI_30$,"Scenario with reduced energy demand, and carbon tax starting at 30$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",LowEI_100$,"Scenario with reduced energy demand, and carbon tax starting at 100$ (2005US$) in 2020 with 5% p.a. exponential growth (""Frag2015"")",SR1.5 database,https://data.ene.iiasa.ac.at/iamc-1.5c-explorer/,Luderer et al. (2013),journal article,10.1088/1748-9326/8/3/034033,"Luderer, G. et al. Economic mitigation challenges: how further delay closes the door for achieving climate targets. Environ. Res. Lett. 8, 034033 (2013).","TY  - JOUR
+TI  - Economic mitigation challenges: how further delay closes the door for achieving climate targets
+AU  - Luderer, Gunnar
+AU  - Pietzcker, Robert C.
+AU  - Bertram, Christoph
+AU  - Kriegler, Elmar
+AU  - Meinshausen, Malte
+AU  - Edenhofer, Ottmar
+T2  - Environmental Research Letters
+AB  - While the international community aims to limit global warming to below 2 ° C to prevent dangerous climate change, little progress has been made towards a global climate agreement to implement the emissions reductions required to reach this target. We use an integrated energy–economy–climate modeling system to examine how a further delay of cooperative action and technology availability affect climate mitigation challenges. With comprehensive emissions reductions starting after 2015 and full technology availability we estimate that maximum 21st century warming may still be limited below 2 ° C with a likely probability and at moderate economic impacts. Achievable temperature targets rise by up to ∼0.4 ° C if the implementation of comprehensive climate policies is delayed by another 15 years, chiefly because of transitional economic impacts. If carbon capture and storage (CCS) is unavailable, the lower limit of achievable targets rises by up to ∼0.3 ° C. Our results show that progress in international climate negotiations within this decade is imperative to keep the 2 ° C target within reach.
+DA  - 2013/09/01/
+PY  - 2013
+DO  - 10.1088/1748-9326/8/3/034033
+DP  - Institute of Physics
+VL  - 8
+IS  - 3
+SP  - 034033
+J2  - Environ. Res. Lett.
+LA  - en
+SN  - 1748-9326
+ST  - Economic mitigation challenges
+UR  - http://iopscience.iop.org/1748-9326/8/3/034033
+Y2  - 2013/11/04/15:55:42
+L2  - http://iopscience.iop.org/1748-9326/8/3/034033/article
+ER  - 
+
+
+",Luderer et al. (2013),policy brief,,(Policy Brief) Economic Mitigation Challenges: How Further Delay Closes the Door for Climate Targets,"TY  - RPRT
+TI  - Economic Mitigation Challenges: How Further Delay Closes the Door for Climate Targets - Policy Brief
+AU  - Luderer, Gunnar
+AU  - Petermann, Nils
+AU  - Pietzcker, Robert
+AU  - Bertram, Christoph
+AU  - Kriegler, Elmar
+AU  - Meinshausen, Malte
+AU  - Edenhofer, Ottmar
+DA  - 2013///
+PY  - 2013
+UR  - https://www.pik-potsdam.de/members/luderer/ClimateTargets_EconomicMitigationChallenges_PolicyBrief20130910_clean.pdf",,REMIND,1.5,2013,Economic mitigation challenges,Short term costs,Long term costs,Energy price (increase),Total carbon value,fragmented action,globally harmonized GHG pricing,technology availability ,World,China,India,USA,Japan,Russia,EU-28,"Middle East, North Africa and Caspian (MEA)",Sub-saharan Africa without ZAF (AFR),Latin America and Carribean (LAM),Other Asia (OAS),Rest of World (ROW),2005,2100

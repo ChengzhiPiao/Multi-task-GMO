@@ -1,0 +1,438 @@
+"The following content is
+provided under a Creative",Commons license.,"Your support will help
+MIT OpenCourseWare","continue to offer high quality
+educational resources for free.","To make a donation, or to
+view additional materials","from hundreds of MIT courses
+visit MIT OpenCourseWare",at ocw.mit.edu.,"Professor: I am Haynes
+Miller, I am substituting",for David Jerison today.,"So you have a substitute
+teacher today.","So I haven't been here
+in this class with you","so I'm not completely
+sure where you are.","I think you've just been
+talking about differentiation","and you've got some examples
+of differentiation like these","basic examples: the
+derivative of x^n is nx^(n-1).","But I think maybe you've
+spent some time computing","the derivative of the sine
+function as well, recently.","And I think you have
+some rules for extending",these calculations as well.,"For instance, I think you
+know that if you differentiate","a constant times a
+function, what do you get?",Student: [INAUDIBLE].,"Professor: The constant
+comes outside like this.",Or I could write (cu)' = cu'.,"That's this rule,
+multiplying by a constant,","and I think you also know
+about differentiating a sum.","Or I could write this
+as (u + v)' = u' + v'.","So I'm going to be using
+those but today I'll","talk about a collection
+of other rules","about how to deal with
+a product of functions,","a quotient of functions,
+and, best of all,",composition of functions.,"And then at the end,
+I'll have something",to say about higher derivatives.,So that's the story for today.,That's the program.,"So let's begin by talking
+about the product rule.","So the product
+rule tells you how","to differentiate a
+product of functions,","and I'll just give you
+the rule, first of all.",The rule is it's u'v + uv'.,It's a little bit funny.,"Differentiating a
+product gives you a sum.","But let's see how that works
+out in a particular example.","For example, suppose
+that I wanted",to differentiate the product.,"Well, the product
+of these two basic","examples that we
+just talked about.","I'm going to use
+the same variable","in both cases instead of
+different ones like I did here.","So the derivative
+of x^n times sin x.",So this is a new thing.,"We couldn't do this without
+using the product rule.","So the first function is x^n
+and the second one is sin x.","And we're going to
+apply this rule.","So u is x^n. u' is, according
+to the rule, nx^(n-1).","And then I take v and write it
+down the way it is, sine of x.",And then I do it the other way.,"I take u the way
+it is, that's x^n,","and multiply it by the
+derivative of v, v'.",We just saw v' is cosine of x.,So that's it.,"Obviously, you can
+differentiate longer products,","products of more things
+by doing it one at a time.",Let's see why this is true.,"I want to try to show you
+why the product rule holds.","So you have a standard way
+of trying to understand this,","and it involves looking at
+the change in the function","that you're interested
+in differentiating.","So I should look at how
+much the product uv changes",when x changes a little bit.,"Well, so how do
+compute the change?","Well, I write down the
+value of the function","at some new value
+of x, x + delta x.","Well, I better write
+down the whole new value","of the function, and
+the function is uv.","So the whole new
+value looks like this.","It's u(x + delta x)
+times v(x + delta x).",That's the new value.,"But what's the change
+in the product?","Well, I better subtract
+off what the old value","was, which is u(x) v(x).","Okay, according to the
+rule we're trying to prove,",I have to get u' involved.,"So I want to involve the
+change in u alone, by itself.",Let's just try that.,"I see part of the formula for
+the change in u right there.","Let's see if we can get
+the rest of it in place.","So the change in x is
+(u(x + delta x) - u(x).","That's the change in x
+[Correction: change in u].","This part of it occurs up here,
+multiplied by v(x + delta x),",so let's put that in too.,"Now this equality sign
+isn't very good right now.","I've got this
+product here so far,","but I've introduced
+something I don't like.","I've introduced u times
+v(x delta x), right?",Minus that.,"So the next thing I'm gonna do
+is correct that little defect","by adding in u(x)
+v(x + delta x).","Okay, now I cancelled off
+what was wrong with this line.","But I'm still not
+quite there, because I",haven't put this in yet.,"So I better subtract off
+uv, and then I'll be home.","But I'm going to do
+that in a clever way,","because I noticed that
+I already have a u here.","So I'm gonna take
+this factor of u","and make it the
+same as this factor.","So I get u(x) times this,
+minus u(x) times that.","That's the same thing as
+u times the difference.","So that was a
+little bit strange,","but when you stand
+back and look at it,","you can see multiplied out,
+the middle terms cancel.",And you get the right answer.,"Well I like that because
+it's involved the change in u","and the change in v. So this
+is equal to delta u times v(x +","delta x) minus u(x) times
+the change in v. Well,",I'm almost there.,"The next step in computing
+the derivative is","take difference quotient,
+divide this by delta x.","So, (delta (uv)) /
+(delta x) is well,","I'll say (delta u / delta
+x) times v(x + delta x).",Have I made a mistake here?,"This plus magically became a
+minus on the way down here,",so I better fix that.,"Plus u times (delta
+v) / (delta x).",This u is this u over here.,"So I've just divided
+this formula by delta x,","and now I can take the limit
+as x goes to 0, so this",is as delta x goes to 0.,"This becomes the definition
+of the derivative,","and on this side, I
+get du/dx times...","now what happens to this
+quantity when delta x goes",to 0?,"So this quantity is getting
+closer and closer to x.","So what happens
+to the value of v?","It becomes equal to x of v.
+That uses continuity of v. So,","v(x + delta x) goes
+to v(x) by continuity.","So this gives me times v,
+and then I have u times,","and delta v / delta
+x gives me dv/dx.",And that's the formula.,"That's the formula
+as I wrote it down",at the beginning over here.,"The derivative of a product
+is given by this sum.",Yeah?,"Student: How did you
+get from the first line","to the second of
+the long equation?",Professor: From here to here?,Student: Yes.,"Professor: So maybe it's easiest
+to work backwards and verify","that what I wrote
+down is correct here.","So, if you look there's a u
+times v(x + delta x) there.",And there's also one here.,"And they occur with
+opposite signs.",So they cancel.,"What's left is u(x + delta
+x) v(x + delta x) - uv.","And that's just
+what I started with.","Student: [INAUDIBLE]
+They cancel right?","Professor: I cancelled out
+this term and this term,",and what's left is the ends.,Any other questions?,Student: [INAUDIBLE].,"Professor: Well, I just
+calculated what delta uv is,","and now I'm gonna divide
+that by delta x on my way",to computing the derivative.,"And so I copied down the right
+hand side and divided delta x.","I just decided to divide the
+delta u by delta x and delta v",by delta x.,Good.,Anything else?,"So we have the
+product rule here.","The rule for differentiating
+a product of two functions.",This is making us stronger.,"There are many
+more functions you",can find derivatives of now.,How about quotients?,"Let's find out how
+to differentiate",a quotient of two functions.,"Well again, I'll write down what
+the answer is and then we'll",try to verify it.,So there's a quotient.,Let me write this down.,"There's a quotient
+of two functions.",And here's the rule for it.,"I always have to think about
+this and hope that I get it",right. (u'v - uv') / v^2.,"This may be the craziest rule
+you'll see in this course,",but there it is.,"And I'll try to show you why
+that's true and see an example.",Yeah there was a hand?,Student: [INAUDIBLE],"Professor: What letters look
+the same? u and v look the same?","I'll try to make them
+look more different.","The v's have points
+on the bottom.","u's have little round
+things on the bottom.",What's the new value of u?,"The value of u at x + delta
+x is u + delta u, right?",That's what delta u is.,"It's the change in u when
+x gets replaced by delta x",[Correction: x + delta x].,"And the change in v, the
+new value v, is v + delta v.","So this is the new value of u
+divided by the new value of v.",That's the beginning.,"And then I subtract off
+the old values, which","are u minus v. This'll
+be easier to work out",when I write it out this way.,"So now, we'll cross
+multiply, as I said.","So I get uv + (delta u)v minus,
+now I cross multiply this way,",you get uv - u(delta v).,"And I divide all this
+by (v + delta v)u.","Okay, now the reason
+I like to do it","this way is that you see the
+cancellation happening here. uv","and uv occur twice and
+so I can cancel them.","And I will, and I'll answer
+these questions in a minute.",Audience: [INAUDIBLE].,"Professor: Ooh,
+that's a v. All right.","Good, anything else?",That's what all hands were.,Good.,"All right, so I cancel these
+and what I'm left with then","is delta u times v
+minus u times delta v","and all this is over v
++ delta v times v. Okay,",there's the difference.,"There's the change
+in the quotient.","The change in this function
+is given by this formula.","And now to compute
+the derivative,","I want to divide by delta
+x, and take the limit.","So let's write that down,
+delta(u/v)/delta x is this",formula here divided by delta x.,"And again, I'm going to put
+the delta x under these delta u",and delta v. Okay?,"I'm gonna put delta
+x in the denominator,","but I can think of
+that as dividing","into this factor
+and this factor.","So this is (delta u/ delta
+x)v - u(delta v/delta x).","And all that is divided
+by the same denominator,",(v + delta v)v. Right?,"Put the delta x up in
+the numerator there.","Next up, take the limit
+as delta x goes to 0.","I get, by definition,
+the derivative of (u/v).","And on the right
+hand side, well, this",is the derivative du/dx right?,"Times v. See and then
+u times, and here it's",the derivative dv/dx.,Now what about the denominator?,"So when delta x goes to 0,
+v stays the same, v stays",the same.,What happens to this delta v?,"It goes to 0, again,
+because v is continuous.","So again, delta v
+goes to 0 with delta x","because they're continuous
+and you just get v times v.","I think that's the formula
+I wrote down over there.",(du/dx)v - u(dv/dx).,"And all divided by the square
+of the old denominator.","Well, that's it.",That's the quotient rule.,Weird formula.,Let's see an application.,Let's see an example.,"So the example I'm going
+to give is pretty simple.","I'm going to take the
+numerator to be just 1.",So I'm gonna take u = 1.,"So now I'm
+differentiating 1 / v,","the reciprocal of a
+function; 1 over a function.",Here's a copy of my rule.,"What's du/ dx in that
+case? u is a constant,",so that term is 0 in this rule.,"I don't have to
+worry about this.",I get a minus.,"And then u is 1, and dv/dx.","Well, v is whatever v is.",I'll write dv/dx as v'.,"And then I get a v^2
+in the denominator.",So that's the rule.,I could write it as v^(-2) v'.,Minus v' divided by v^2.,That's the derivative of 1 / v.,How about sub-example of that?,"I'm going to take the special
+case where u = 1 again.",And v is a power of x.,"And I'm gonna use the rule
+that we developed earlier about",the derivative of x^n.,So what do I get here?,"d/dx (1/x^n) is, I'm plugging
+into this formula here with v =",x^n.,"So I get minus, uh, v^-2.","If v = x^n, v^-2 is, by the
+rule of exponents, x^(-2n).","And then v' is the derivative
+of x^n, which is nx^(n-1).","Okay, so let's put
+these together.","There's several
+powers of x here.",I can put them together.,I get -n x to the -2n + n - 1.,One of these n's cancels.,"And what I'm left
+with is -n - 1.","So we've computed the
+derivative of 1 / x^n,","which I could also
+write as x^-n, right?","So I've computed the derivative
+of negative powers of x.","And this is the
+formula that I get.","If you think of this -n as a
+unit, as a thing to itself,",it occurs here in the exponent.,"It occurs here,
+and it occurs here.","So how does that
+compare with the formula",that we had up here?,"The derivative of
+a power of x is","that power times x to
+one less than that power.","That's exactly the same as the
+rule that I wrote down here.","But the power here happens
+to be a negative number,","and the same negative number
+shows up as a coefficient",and there in the exponent.,Yeah?,Student: [INAUDIBLE].,Professor: How did I do this?,Student: [INAUDIBLE].,"Professor: Where did
+that x^(-2n) come from?",So I'm applying this rule.,"So the denominator in
+the quotient rule is v^2.","And v was x^n, so the
+denominator is x^(2n).","And I decided to
+write it as x^(-2n).",So the green comments there...,"What they say is that I
+can enlarge this rule.","This exact same rule is true
+for negative values of n,",as well as positive values of n.,"So there's something
+new in your list","of rules that you can apply,
+of values of the derivative.","That standard rule is true for
+negative as well as positive",exponents.,"And that comes out
+of a quotient rule.","Okay, so we've done two rules.","I've talked about the product
+rule and the quotient rule.",What's next?,Let's see the chain rule.,So this is a composition rule.,"So the kind of thing that
+I have in mind, composition","of functions is
+about substitution.","So the kind of function that I
+have in mind is, for instance,",y = (sin t)^10.,That's a new one.,"We haven't seen how to
+differentiate that before, I",think.,"This kind of power of a trig
+function happens very often.","You've seen them happen,
+as well, I'm sure, already.","And there's a little notational
+switch that people use.",They'll write sin^10(t).,"But remember that when
+you write sin^10(t),","what you mean is
+take the sine of t,","and then take the
+10th power of that.",It's the meaning of sin^10(t).,"So the method of dealing
+with this kind of composition","of functions is to use
+new variable names.","What I mean is, I can
+think of this (sin t)^10.","I can think of it it
+as a two step process.","First of all, I
+compute the sine of t.",And let's call the result x.,There's the new variable name.,"And then, I express
+y in terms of x.","So y says take this and
+raise it to the tenth power.","In other words, y = x^10.","And then you plug x
+= sin(t) into that,","and you get the formula for
+what y is in terms of t.","So it's good practice to
+introduce new letters when","they're convenient, and
+this is one place where",it's very convenient.,"So let's find a rule
+for differentiating","a composition, a
+function that can","be expressed by
+doing one function","and then applying
+another function.",And here's the rule.,"Well, maybe I'll actually
+derive this rule first,",and then you'll see what it is.,"In fact, the rule is
+very simple to derive.","So this is a proof first, and
+then we'll write down the rule.","I'm interested in delta y /
+delta t. y is a function of x.",x is a function of t.,"And I'm interested in how
+y changes with respect","to t, with respect to
+the original variable t.","Well, because of that
+intermediate variable,","I can write this as (delta y /
+delta x) (delta x / delta t).","It cancels, right?",The delta x cancels.,"The change in that immediate
+variable cancels out.",This is just basic algebra.,"But what happens when I
+let delta t get small?",Well this give me dy/dt.,"On the right-hand side,
+I get (dy/dx) (dx/dt).","So students will often
+remember this rule.","This is the rule, by saying
+that you can cancel out",for the dx's.,"And that's not so
+far from the truth.","That's a good way
+to think of it.","In other words, this is
+the so-called chain rule.","And it says that differentiation
+of a composition is a product.","It's just the product
+of the two derivatives.","So that's how you differentiate
+a composite of two functions.",And let's just do an example.,Let's do this example.,Let's see how that comes out.,"So let's differentiate,
+what did I say?",(sin t)^10.,"Okay, there's an inside function
+and an outside function.","The inside function is
+x as a function of t.","This is the inside function, and
+this is the outside function.","So the rule says, first
+of all let's differentiate",the outside function.,Take dy/dx.,"Differentiate it with
+respect to that variable x.","The outside function
+is the 10th power.",What's its derivative?,So I get 10x^9.,"In this account, I'm using
+this newly introduced variable",named x.,"So the derivative of the
+outside function is 10x^9.","And then here's the
+inside function,","and the next thing I want
+to do is differentiate it.","So what's dx/dt, d/dt (sin
+t), the derivative of sine t?","All right, that's cosine t.","That's what the
+chain rule gives you.","This is correct, but
+since we were the ones","to introduce this
+notation x here,","that wasn't given to us in
+the original problem here.","The last step in
+this process should","be to put back,
+to substitute back",in what x is in terms of t.,So x = sin t.,"So that tells me that I get
+10(sin(t))^9, that's x^9,",times the cos(t).,"Or the same thing
+is sin^9(t)cos(t).","So there's an application
+of the chain rule.","You know, people often
+wonder where the name chain",rule comes from.,"I was just wondering
+about that myself.","So is it because
+it chains you down?",Is it like a chain fence?,I decided what it is.,"It's because by
+using it, you burst","the chains of differentiation,
+and you can differentiate",many more functions using it.,"So when you want to
+think of the chain rule,",just think of that chain there.,It lets you burst free.,"Let me give you another
+application of the chain rule.",Ready for this one?,"So I'd like to
+differentiate the sin(10t).","Again, this is the
+composite of two functions.",What's the inside function?,"Okay, so I think I'll introduce
+this new notation. x = 10t,","and the outside
+function is the sine.",So y = sin x.,"So now the chain
+rule says dy/dt is...","Okay, let's see.","I take the derivative
+of the outside function,",and what's that?,"Sine prime and we can
+substitute because we",know what sine prime is.,"So I get cosine of whatever,
+x, and then times what?","Now I differentiate the inside
+function, which is just 10.","So I could write this
+as 10cos of what?","10t, x is 10t.","Now, once you get used to
+this, this middle variable,","you don't have to
+give a name for it.","You can just to think
+about it in your mind","without actually writing
+it down, d/dt (sin(10t)).","I'll just do it again
+without introducing",this middle variable explicitly.,Think about it.,"I first of all differentiate
+the outside function,",and I get cosine.,"But I don't change the thing
+that I'm plugging into it.","It's still x that I'm
+plugging into it. x is 10t.","So let's just write 10t and
+not worry about the name",of that extra variable.,"If it confuses you,
+introduce the new variable.","And do it carefully
+and slowly like this.","But, quite quickly,
+I think you'll","get to be able to keep
+that step in your mind.",I'm not quite done yet.,"I haven't differentiated
+the inside function,",the derivative of 10t = 10.,"So you get, again,
+the same result.","A little shortcut that
+you'll get used to.","Really and truly, once
+you have the chain rule,",the world is yours to conquer.,"It puts you in a very,
+very powerful position.","Okay, well let's see.",What have I covered today?,"I've talked about product rule,
+quotient rule, composition.","I should tell you something
+about higher derivatives,",as well.,So let's do that.,This is a simple story.,"Higher is kind of
+a strange word.","It just means differentiate
+over and over again.","All right, so let's see.","If we have a function
+u or u(x), please","allow me to just write
+it as briefly as u.","Well, this is a sort
+of notational thing.","I can differentiate
+it and get u'.",That's a new function.,"Like if you started
+with the sine, that's",gonna be the cosine.,"A new function, so I can
+differentiate it again.","And the notation for the
+differentiating of it again,",is u prime prime.,"So u'' is just u'
+differentiated again.","For example, if u is the sine
+of x, so u' is the cosine of x.","Has Professor Jerison
+talked about what",the derivative of cosine is?,What is it?,"Ha, okay so u'' is -sin x.",Let me go on.,What do you suppose u''' means?,"I guess it's the
+derivative of u''.","It's called the
+third derivative.","And u'' is called the
+second derivative.","And it's u''
+differentiated again.","So to compute u''' in this
+example, what do I do?",I differentiate that again.,"There's a constant term,
+-1, constant factor.",That comes out.,The derivative of sine is what?,"Okay, so u''' = -cos x.",Let's do it again.,"Now after a while, you get
+tired of writing these things.","And so maybe I'll use
+the notation u^(4).",That's the fourth derivative.,That's u''''.,"Or it's (u''') differentiated
+again, the fourth derivative.","And what is that
+in this example?","Okay, the cosine has
+derivative minus the sine,",like you told me.,"And that minus sign
+cancels with that sign,","and all together, I get sin x.",That's pretty bizarre.,"When I differentiate the
+function sine of x four times,","I get back to the
+sine of x again.",That's the way it is.,"Now this notation, prime
+prime prime prime, and things",like that.,"There are different
+variants of that notation.","For example, that's
+another notation.","Well, you've used the
+notation du/dx before. u'",could also be denoted du/dx.,"I think we've
+already here, today,","used this way of
+rewriting du/dx.","I think when I was talking about
+d/dt(uv) and so on, I pulled","that d/dt outside and
+put whatever function","you're differentiating
+over to the right.","So that's just a
+notational switch.",It looks good.,"It looks like good
+algebra doesn't it?","But what it's doing is regarding
+this notation as an operator.","It's something you apply to a
+function to get a new function.","I apply it to the sine function,
+and I get the cosine function.","I apply it to x^2, and I get 2x.","This thing here, that symbol,
+represents an operator,",which you apply to a function.,"And the operator says, take the
+function and differentiate it.","So further notation
+that people often use,","is they give a different
+name to that operator.","And they'll write
+capital D for it.","So this is just using capital
+D for the symbol d/dx.","So in terms of that
+notation, let's see.","Let's write down what higher
+derivatives look like.",So let's see.,That's what u' is.,How about u''?,"Let's write that in terms
+of the d/dx notation.","Well I'm supposed to
+differentiate u' right?","So that's d/dx applied
+to the function du/dx.",Differentiate the derivative.,That's what I've done.,"Or I could write that as d/dx
+applied to d/dx applied to u.",Just pulling that u outside.,So I'm doing d/dx twice.,I'm doing that operator twice.,"I could write that as
+(d/dx)^2 applied to u.","Differentiate twice, and
+do it to the function u.","Or, I can write it as,
+now this is a strange one.","I could also write
+as-- like that.","It's getting stranger
+and stranger, isn't it?","This is definitely just a
+kind of abuse of notation.","But people will go even
+further and write d squared",u divided by dx squared.,So this is the strangest one.,"This identity quality
+is the strangest one,","because you may think that
+you're taking d of the quantity",x^2.,But that's not what's intended.,This is not d(x^2).,"What's intended is the
+quantity dx squared.","In this notation,
+which is very common,","what's intended
+by the denominator",is the quantity dx squared.,"It's part of this second
+differentiation operator.","So I've written a bunch
+of equalities down here,","and the only content
+to them is that these","are all different notations
+for the same thing.","You'll see this
+notation very commonly.","So for instance the
+third derivative","is d cubed u divided
+by dx cubed, and so on.",Sorry?,Student: [INAUDIBLE].,"Professor: Yes, absolutely.","Or an equally good notation is
+to write the operator capital","D, done three times, to u.",Absolutely.,"So I guess I should also write
+over here when I was talking","about d^2, the
+second derivative,","another notation is do the
+operator capital D twice.","Let's see an example of
+how this can be applied.",I'll answer this question.,Student: [INAUDIBLE].,"Professor: Yeah,
+so the question is","whether the fourth
+derivative always gives you","the original function back,
+like what happened here.",No.,"That's very, very special
+to sines and cosines.",All right?,"And, in fact, let's
+see an example of that.",I'll do a calculation.,"Let's calculate the
+nth derivative of x^n.","Okay, n is a number,
+like 1, 2, 3, 4.",Here we go.,Let's do this.,"So, let's do this bit by bit.","What's the first
+derivative of x^n?",So everybody knows this.,"I'm just using a new notation,
+this capital D notation.",So it's nx^(n-1).,"Now know, by the way, n could
+be a negative number for that,","but for now, for
+this application,","I wanna take n to be
+1, 2, 3, and so on;",one of those numbers.,"Okay, we did one derivative.","Let's compute the second
+derivative of x^n.","Well there's this n
+constant that comes out,","and then the exponent comes
+down, and it gets reduced by 1.",All right?,Should I do one more?,D^3 (x^n) is n(n-1).,That's the constant from here.,"Times that exponent,
+n - 2, times 1 less, n",- 3 is the new exponent.,"Well, I keep on going until
+I come to a new blackboard.","Now, I think I'm
+going to stop when","I get to the n minus
+first derivative,","so we can see what's
+likely to happen.","So when I took the
+third derivative,","I had the n minus
+third power of x.","And when I took the
+second derivative,",I had the second power of x.,"So, I think what'll
+happen when I","have the n minus
+first derivative","is I'll have the first
+power of x left over.","The powers of x
+keep coming down.","And what I've done it n - 1
+times, I get the first power.","And then I get a big constant
+out in front here times more","and more and more of these
+smaller and smaller integers",that come down.,"What's the last integer that
+came down before I got x^1",here?,"Well, let's see.","It's just 2, because this x^1
+occurred as the derivative",of x^2.,"And the coefficient
+in front of that is 2.",So that's what you get.,"The numbers n, n-1, and so
+on down to 2, times x^1.","And now we can differentiate
+one more time and calculate what",D^n x^n is.,"So I get the same number, n
+times n-1 and so on and so on,",times 2.,"And then I guess
+I'll say times 1.","Times, what's the derivative
+of x^1= 1, so times 1.","Time 1, times 1.","Where this one means
+the constant function 1.","Does anyone know what
+this number is called?",That has a name.,It's called n factorial.,"And it's written n
+exclamation point.","And we just used an example
+of mathematical induction.","So the end result is
+D^n x^n is n!, constant.",Okay that's a neat fact.,"Final question for the lecture
+is what's D^(n + 1) applied",to x^n?,Ha.,Excellent.,"It's the derivative
+of a constant.",So it's 0.,Okay.,Thank you.
+00:00:00.110,00:00:02.320,00:00:03.150,00:00:05.930,00:00:09.960,00:00:12.630,00:00:15.910,00:00:22.240,00:00:25.050,00:00:26.510,00:00:41.880,00:00:44.400,00:00:47.580,00:00:52.170,00:00:56.840,00:01:03.197,00:01:05.280,00:01:11.230,00:01:16.290,00:01:18.950,00:01:24.080,00:01:27.770,00:01:32.590,00:01:36.670,00:01:42.550,00:01:45.350,00:01:58.870,00:02:06.870,00:02:09.850,00:02:12.290,00:02:15.080,00:02:18.180,00:02:20.024,00:02:21.690,00:02:23.480,00:02:26.670,00:02:29.120,00:02:43.360,00:02:44.750,00:02:46.760,00:02:49.270,00:02:57.280,00:02:58.500,00:03:02.320,00:03:06.730,00:03:08.270,00:03:11.280,00:03:13.890,00:03:15.584,00:03:17.000,00:03:20.790,00:03:28.430,00:03:30.300,00:03:36.120,00:03:39.670,00:03:41.740,00:03:49.450,00:03:56.029,00:03:57.320,00:04:00.690,00:04:05.260,00:04:09.234,00:04:11.520,00:04:14.980,00:04:20.560,00:04:22.700,00:04:25.730,00:04:31.490,00:04:34.590,00:04:37.350,00:04:41.390,00:04:44.630,00:04:47.120,00:04:49.330,00:04:56.160,00:04:58.410,00:05:01.480,00:05:05.230,00:05:09.450,00:05:10.960,00:05:13.200,00:05:15.410,00:05:20.920,00:05:24.950,00:05:27.750,00:05:31.420,00:05:32.990,00:05:36.620,00:05:40.260,00:05:46.330,00:05:50.080,00:05:54.760,00:05:57.890,00:06:00.440,00:06:04.770,00:06:06.690,00:06:09.800,00:06:12.010,00:06:17.120,00:06:24.620,00:06:28.834,00:06:30.500,00:06:32.670,00:06:38.420,00:06:40.500,00:06:43.900,00:06:46.620,00:06:48.560,00:06:52.510,00:06:57.180,00:06:59.406,00:07:01.030,00:07:04.280,00:07:07.340,00:07:10.420,00:07:16.810,00:07:26.320,00:07:27.510,00:07:30.050,00:07:42.910,00:07:50.690,00:08:03.150,00:08:10.000,00:08:13.340,00:08:18.810,00:08:23.260,00:08:27.950,00:08:30.310,00:08:34.520,00:08:42.070,00:08:46.480,00:08:51.790,00:08:57.400,00:09:02.750,00:09:05.710,00:09:09.000,00:09:14.030,00:09:22.590,00:09:26.586,00:09:30.680,00:09:31.819,00:09:33.360,00:09:35.660,00:09:39.170,00:09:46.223,00:09:48.056,00:09:49.514,00:09:51.390,00:09:53.460,00:09:56.380,00:09:59.800,00:10:05.130,00:10:07.840,00:10:09.940,00:10:11.490,00:10:20.530,00:10:29.120,00:10:33.920,00:10:37.430,00:10:39.700,00:10:41.490,00:10:49.660,00:10:55.640,00:10:57.980,00:11:00.250,00:11:07.760,00:11:11.550,00:11:16.230,00:11:16.990,00:11:22.490,00:11:24.260,00:11:26.980,00:11:28.325,00:11:29.700,00:11:31.420,00:11:33.580,00:11:35.370,00:11:47.669,00:11:50.210,00:11:52.370,00:11:55.192,00:11:56.150,00:11:58.970,00:12:00.340,00:12:02.910,00:12:09.140,00:12:11.900,00:12:14.330,00:12:18.014,00:12:18.930,00:12:27.300,00:12:33.040,00:12:37.040,00:12:38.520,00:12:41.160,00:12:44.980,00:12:55.442,00:12:56.400,00:13:01.327,00:13:02.410,00:13:09.700,00:13:13.130,00:13:16.130,00:13:18.705,00:13:22.910,00:13:26.084,00:13:27.750,00:13:38.890,00:13:46.330,00:13:52.840,00:13:55.970,00:13:59.490,00:14:02.187,00:14:04.520,00:14:06.260,00:14:14.030,00:14:15.570,00:14:16.750,00:14:17.880,00:14:20.870,00:14:24.900,00:14:32.250,00:14:33.360,00:14:36.600,00:14:39.580,00:14:41.570,00:14:45.000,00:14:53.560,00:14:56.820,00:15:00.986,00:15:02.780,00:15:05.080,00:15:07.150,00:15:09.920,00:15:21.130,00:15:23.130,00:15:28.970,00:15:33.010,00:15:37.830,00:15:43.470,00:15:46.210,00:15:51.300,00:15:55.570,00:16:00.420,00:16:04.250,00:16:10.220,00:16:10.720,00:16:13.480,00:16:17.970,00:16:23.330,00:16:28.180,00:16:30.867,00:16:35.510,00:16:40.770,00:16:42.160,00:16:43.540,00:16:44.520,00:16:46.160,00:16:51.070,00:16:54.680,00:16:58.100,00:17:02.790,00:17:07.580,00:17:14.430,00:17:16.880,00:17:22.790,00:17:27.050,00:17:28.700,00:17:31.650,00:17:36.800,00:17:38.820,00:17:43.854,00:17:45.520,00:17:50.070,00:17:56.840,00:17:59.300,00:18:03.730,00:18:12.110,00:18:15.840,00:18:21.000,00:18:25.630,00:18:29.080,00:18:33.230,00:18:42.645,00:18:45.260,00:18:51.580,00:19:01.430,00:19:10.150,00:19:12.010,00:19:13.550,00:19:14.940,00:19:22.330,00:19:23.936,00:19:29.260,00:19:32.550,00:19:39.210,00:19:42.640,00:19:46.560,00:19:51.990,00:19:54.310,00:19:59.890,00:20:01.820,00:20:04.120,00:20:06.860,00:20:12.300,00:20:16.010,00:20:19.050,00:20:22.360,00:20:23.780,00:20:24.280,00:20:30.440,00:20:34.930,00:20:49.150,00:20:55.990,00:20:59.900,00:21:04.440,00:21:11.109,00:21:19.010,00:21:22.080,00:21:26.270,00:21:31.230,00:21:36.310,00:21:40.300,00:21:46.670,00:21:49.550,00:21:51.120,00:21:57.290,00:21:59.020,00:22:04.650,00:22:05.670,00:22:07.150,00:22:22.220,00:22:24.890,00:22:28.210,00:22:31.106,00:22:39.700,00:22:42.695,00:22:44.820,00:22:46.590,00:22:50.600,00:22:53.540,00:22:58.020,00:23:02.910,00:23:05.100,00:23:08.030,00:23:10.440,00:23:13.590,00:23:20.950,00:23:33.190,00:23:39.710,00:23:42.070,00:23:44.160,00:23:47.450,00:23:50.150,00:23:53.340,00:23:58.070,00:24:03.400,00:24:06.420,00:24:10.590,00:24:14.550,00:24:17.060,00:24:21.820,00:24:24.260,00:24:25.860,00:24:27.770,00:24:30.270,00:24:32.880,00:24:34.930,00:24:37.420,00:24:40.600,00:24:43.890,00:24:51.950,00:24:53.760,00:24:56.850,00:25:00.850,00:25:05.160,00:25:12.670,00:25:15.330,00:25:17.600,00:25:23.100,00:25:26.120,00:25:29.930,00:25:34.370,00:25:42.220,00:25:44.430,00:25:47.130,00:25:49.080,00:25:51.860,00:25:55.160,00:26:01.410,00:26:26.690,00:26:34.910,00:26:39.570,00:26:42.070,00:26:44.690,00:26:48.820,00:26:55.250,00:26:59.400,00:27:03.130,00:27:07.910,00:27:19.170,00:27:22.590,00:27:23.550,00:27:25.370,00:27:29.200,00:27:31.020,00:27:34.640,00:27:42.440,00:27:51.090,00:27:53.990,00:27:58.150,00:28:00.360,00:28:03.130,00:28:07.730,00:28:11.619,00:28:13.160,00:28:17.490,00:28:20.730,00:28:24.560,00:28:26.400,00:28:28.980,00:28:32.440,00:28:35.320,00:28:45.980,00:28:47.860,00:28:56.040,00:28:59.540,00:29:02.504,00:29:03.170,00:29:06.340,00:29:15.230,00:29:18.070,00:29:19.590,00:29:21.910,00:29:25.880,00:29:28.040,00:29:31.553,00:29:35.640,00:29:47.960,00:30:04.830,00:30:16.220,00:30:25.524,00:30:27.440,00:30:30.220,00:30:35.640,00:30:38.260,00:30:41.320,00:30:46.660,00:30:47.920,00:30:50.710,00:30:54.240,00:30:56.470,00:30:58.520,00:31:06.470,00:31:11.400,00:31:16.380,00:31:20.260,00:31:26.170,00:31:33.190,00:31:35.150,00:31:47.980,00:31:49.860,00:31:52.240,00:31:54.530,00:31:58.100,00:31:59.740,00:32:03.170,00:32:08.560,00:32:11.470,00:32:12.720,00:32:15.510,00:32:18.180,00:32:19.970,00:32:23.202,00:32:24.160,00:32:26.900,00:32:29.190,00:32:33.250,00:32:36.420,00:32:38.680,00:32:41.110,00:32:46.730,00:32:50.210,00:32:51.310,00:32:57.370,00:32:59.580,00:33:00.670,00:33:10.440,00:33:12.150,00:33:14.950,00:33:32.950,00:33:34.600,00:33:38.510,00:33:45.010,00:33:49.330,00:33:54.790,00:33:55.900,00:33:57.680,00:34:00.760,00:34:03.570,00:34:05.780,00:34:07.470,00:34:12.930,00:34:21.380,00:34:24.150,00:34:26.580,00:34:28.220,00:34:36.810,00:34:38.930,00:34:42.970,00:34:46.420,00:34:53.050,00:34:56.210,00:34:59.000,00:35:03.680,00:35:05.340,00:35:08.460,00:35:09.950,00:35:13.500,00:35:17.930,00:35:18.690,00:35:21.890,00:35:24.650,00:35:27.290,00:35:29.490,00:35:33.440,00:35:37.970,00:35:41.290,00:35:42.010,00:35:44.430,00:35:47.640,00:35:48.940,00:35:51.720,00:35:56.920,00:36:00.290,00:36:03.491,00:36:03.990,00:36:13.650,00:36:24.070,00:36:29.320,00:36:35.730,00:36:38.460,00:36:43.230,00:36:48.150,00:36:52.360,00:36:55.010,00:36:57.430,00:36:58.110,00:37:06.260,00:37:12.410,00:37:16.920,00:37:20.680,00:37:24.220,00:37:31.140,00:37:40.340,00:37:44.860,00:37:47.330,00:37:49.460,00:37:52.270,00:38:02.980,00:38:05.050,00:38:20.440,00:38:21.870,00:38:23.090,00:38:24.360,00:38:28.890,00:38:31.710,00:38:40.920,00:38:43.030,00:38:47.240,00:38:54.350,00:38:57.850,00:38:59.570,00:39:01.590,00:39:08.030,00:39:15.170,00:39:23.130,00:39:33.330,00:39:36.630,00:39:40.770,00:39:45.030,00:39:50.500,00:39:52.190,00:39:56.190,00:40:00.130,00:40:01.330,00:40:03.930,00:40:08.240,00:40:12.750,00:40:14.630,00:40:16.410,00:40:18.250,00:40:23.630,00:40:26.240,00:40:28.570,00:40:32.320,00:40:34.940,00:40:37.050,00:40:47.330,00:40:47.830,00:40:58.755,00:40:59.880,00:41:04.417,00:41:09.400,00:41:11.502,00:41:13.960,00:41:16.180,00:41:20.820,00:41:22.820,00:41:23.903,00:41:32.582,00:41:34.040,00:41:36.230,00:41:38.880,00:41:39.580,00:41:43.470,00:41:45.200,00:41:47.850,00:41:50.920,00:42:06.130,00:42:13.190,00:42:13.720,00:42:15.360,00:42:17.650,00:42:22.500,00:42:24.090,00:42:27.830,00:42:30.520,00:42:34.380,00:42:37.250,00:42:41.280,00:42:43.070,00:42:44.550,00:42:49.530,00:42:52.070,00:42:59.980,00:43:01.190,00:43:03.780,00:43:07.600,00:43:09.410,00:43:13.220,00:43:15.740,00:43:26.430,00:43:28.100,00:43:29.980,00:43:35.370,00:43:38.970,00:43:42.957,00:43:44.540,00:43:45.760,00:43:48.310,00:43:49.730,00:43:53.510,00:43:55.390,00:43:59.350,00:44:04.230,00:44:07.450,00:44:08.500,00:44:12.310,00:44:17.460,00:44:19.390,00:44:23.320,00:44:24.340,00:44:27.800,00:44:29.730,00:44:35.140,00:44:41.560,00:44:42.770,00:44:48.070,00:44:49.680,00:44:52.500,00:44:58.640,00:45:01.260,00:45:10.490,00:45:14.070,00:45:15.110,00:45:19.720,00:45:24.240,00:45:28.830,00:45:37.750,00:45:42.460,00:45:47.570,00:45:49.730,00:45:50.850,00:45:54.340,00:45:56.620,00:45:57.940,00:45:58.440
+00:00:02.320,00:00:03.150,00:00:05.930,00:00:09.960,00:00:12.630,00:00:15.910,00:00:22.240,00:00:25.050,00:00:26.510,00:00:41.880,00:00:44.400,00:00:47.580,00:00:52.170,00:00:56.840,00:00:59.860,00:01:05.280,00:01:11.230,00:01:16.290,00:01:18.950,00:01:24.080,00:01:27.770,00:01:32.590,00:01:36.670,00:01:40.030,00:01:45.350,00:01:58.870,00:02:03.650,00:02:09.850,00:02:12.290,00:02:15.080,00:02:18.180,00:02:20.024,00:02:21.690,00:02:23.480,00:02:26.670,00:02:29.120,00:02:43.360,00:02:44.750,00:02:46.760,00:02:49.270,00:02:51.600,00:02:58.500,00:03:02.320,00:03:06.730,00:03:08.270,00:03:11.280,00:03:13.890,00:03:15.584,00:03:17.000,00:03:20.790,00:03:23.230,00:03:30.300,00:03:36.120,00:03:39.670,00:03:41.740,00:03:49.450,00:03:56.029,00:03:57.320,00:04:00.690,00:04:05.260,00:04:09.234,00:04:11.520,00:04:14.980,00:04:20.560,00:04:22.700,00:04:25.730,00:04:31.490,00:04:34.590,00:04:37.350,00:04:41.390,00:04:44.630,00:04:47.120,00:04:49.330,00:04:56.160,00:04:58.410,00:05:01.480,00:05:05.230,00:05:09.450,00:05:10.960,00:05:13.200,00:05:15.410,00:05:20.920,00:05:24.950,00:05:27.750,00:05:31.420,00:05:32.990,00:05:36.620,00:05:40.260,00:05:46.330,00:05:50.080,00:05:54.760,00:05:57.890,00:06:00.440,00:06:04.770,00:06:06.690,00:06:09.800,00:06:12.010,00:06:17.120,00:06:24.620,00:06:28.834,00:06:30.500,00:06:32.670,00:06:38.420,00:06:40.500,00:06:43.900,00:06:46.620,00:06:48.560,00:06:52.510,00:06:57.180,00:06:59.406,00:07:01.030,00:07:04.280,00:07:07.340,00:07:10.420,00:07:16.810,00:07:26.320,00:07:27.510,00:07:30.050,00:07:42.910,00:07:50.690,00:08:03.150,00:08:10.000,00:08:13.340,00:08:18.810,00:08:23.260,00:08:27.950,00:08:30.310,00:08:34.520,00:08:42.070,00:08:46.480,00:08:51.790,00:08:57.400,00:09:02.750,00:09:05.710,00:09:09.000,00:09:14.030,00:09:22.590,00:09:26.586,00:09:30.680,00:09:31.819,00:09:33.360,00:09:35.660,00:09:39.170,00:09:46.223,00:09:48.056,00:09:49.514,00:09:51.390,00:09:53.460,00:09:56.380,00:09:59.800,00:10:05.130,00:10:07.840,00:10:09.940,00:10:11.490,00:10:20.530,00:10:29.120,00:10:33.920,00:10:37.430,00:10:39.700,00:10:41.490,00:10:49.660,00:10:55.640,00:10:57.980,00:11:00.250,00:11:07.760,00:11:11.550,00:11:16.230,00:11:16.990,00:11:22.490,00:11:24.260,00:11:26.980,00:11:28.325,00:11:29.700,00:11:31.420,00:11:33.580,00:11:35.370,00:11:47.669,00:11:50.210,00:11:52.370,00:11:55.192,00:11:56.150,00:11:58.970,00:12:00.340,00:12:02.910,00:12:09.140,00:12:11.900,00:12:14.330,00:12:18.014,00:12:18.930,00:12:27.300,00:12:33.040,00:12:37.040,00:12:38.520,00:12:41.160,00:12:44.980,00:12:55.442,00:12:56.400,00:13:01.327,00:13:02.410,00:13:09.700,00:13:13.130,00:13:16.130,00:13:18.705,00:13:22.910,00:13:26.084,00:13:27.750,00:13:38.890,00:13:46.330,00:13:49.980,00:13:55.970,00:13:59.490,00:14:02.187,00:14:04.520,00:14:06.260,00:14:14.030,00:14:15.570,00:14:16.750,00:14:17.880,00:14:20.870,00:14:24.900,00:14:32.250,00:14:33.360,00:14:36.600,00:14:39.580,00:14:41.570,00:14:45.000,00:14:53.560,00:14:56.820,00:15:00.986,00:15:02.780,00:15:05.080,00:15:07.150,00:15:09.920,00:15:16.980,00:15:23.130,00:15:28.970,00:15:33.010,00:15:37.830,00:15:43.470,00:15:46.210,00:15:51.300,00:15:55.570,00:15:56.480,00:16:04.250,00:16:10.220,00:16:10.720,00:16:13.480,00:16:17.970,00:16:23.330,00:16:28.180,00:16:30.867,00:16:31.700,00:16:40.770,00:16:42.160,00:16:43.540,00:16:44.520,00:16:46.160,00:16:51.070,00:16:54.680,00:16:58.100,00:17:02.790,00:17:07.580,00:17:14.430,00:17:16.880,00:17:22.790,00:17:27.050,00:17:28.700,00:17:31.650,00:17:36.800,00:17:38.820,00:17:40.790,00:17:45.520,00:17:50.070,00:17:51.380,00:17:59.300,00:18:03.730,00:18:12.110,00:18:15.840,00:18:16.770,00:18:25.630,00:18:29.080,00:18:33.230,00:18:42.645,00:18:45.260,00:18:51.580,00:18:57.250,00:19:05.550,00:19:12.010,00:19:13.550,00:19:14.940,00:19:22.330,00:19:23.936,00:19:25.310,00:19:32.550,00:19:39.210,00:19:42.640,00:19:46.560,00:19:51.990,00:19:54.310,00:19:59.890,00:20:01.820,00:20:04.120,00:20:06.860,00:20:12.300,00:20:16.010,00:20:19.050,00:20:22.360,00:20:23.780,00:20:24.280,00:20:30.440,00:20:34.930,00:20:49.150,00:20:55.990,00:20:59.900,00:21:04.440,00:21:11.109,00:21:12.650,00:21:22.080,00:21:26.270,00:21:31.230,00:21:36.310,00:21:40.300,00:21:46.670,00:21:49.550,00:21:51.120,00:21:57.290,00:21:59.020,00:22:04.650,00:22:05.670,00:22:07.150,00:22:22.220,00:22:24.890,00:22:28.210,00:22:31.106,00:22:31.730,00:22:42.695,00:22:44.820,00:22:46.590,00:22:50.600,00:22:53.540,00:22:58.020,00:22:59.320,00:23:05.100,00:23:08.030,00:23:10.440,00:23:13.590,00:23:20.950,00:23:33.190,00:23:36.830,00:23:42.070,00:23:44.160,00:23:47.450,00:23:50.150,00:23:53.340,00:23:58.070,00:23:59.360,00:24:06.420,00:24:10.590,00:24:14.550,00:24:17.060,00:24:21.820,00:24:24.260,00:24:25.860,00:24:27.770,00:24:30.270,00:24:32.880,00:24:34.930,00:24:37.420,00:24:40.600,00:24:43.890,00:24:51.950,00:24:53.760,00:24:56.850,00:25:00.850,00:25:05.160,00:25:12.670,00:25:15.330,00:25:17.600,00:25:23.100,00:25:26.120,00:25:29.930,00:25:31.410,00:25:42.220,00:25:44.430,00:25:47.130,00:25:49.080,00:25:51.860,00:25:55.160,00:26:01.410,00:26:26.690,00:26:34.910,00:26:39.570,00:26:42.070,00:26:44.690,00:26:48.820,00:26:55.250,00:26:56.530,00:27:03.130,00:27:07.910,00:27:19.170,00:27:22.590,00:27:23.550,00:27:25.370,00:27:29.200,00:27:31.020,00:27:34.640,00:27:37.530,00:27:51.090,00:27:53.990,00:27:58.150,00:28:00.360,00:28:03.130,00:28:07.730,00:28:11.619,00:28:13.160,00:28:17.490,00:28:20.730,00:28:24.560,00:28:26.400,00:28:28.980,00:28:32.440,00:28:35.320,00:28:45.980,00:28:47.860,00:28:50.860,00:28:59.540,00:29:02.504,00:29:03.170,00:29:06.340,00:29:15.230,00:29:18.070,00:29:19.590,00:29:21.910,00:29:25.880,00:29:28.040,00:29:31.553,00:29:35.640,00:29:47.960,00:30:04.830,00:30:16.220,00:30:17.970,00:30:27.440,00:30:30.220,00:30:35.640,00:30:38.260,00:30:41.320,00:30:46.660,00:30:47.920,00:30:50.710,00:30:54.240,00:30:56.470,00:30:58.520,00:31:06.470,00:31:11.400,00:31:16.380,00:31:17.360,00:31:26.170,00:31:33.190,00:31:35.150,00:31:44.890,00:31:49.860,00:31:52.240,00:31:54.530,00:31:58.100,00:31:59.740,00:32:03.170,00:32:08.560,00:32:11.470,00:32:12.720,00:32:15.510,00:32:18.180,00:32:19.970,00:32:23.202,00:32:24.160,00:32:26.900,00:32:29.190,00:32:33.250,00:32:36.420,00:32:38.680,00:32:41.110,00:32:46.730,00:32:50.210,00:32:51.310,00:32:57.370,00:32:59.580,00:33:00.670,00:33:10.440,00:33:12.150,00:33:14.950,00:33:32.950,00:33:34.600,00:33:38.510,00:33:45.010,00:33:49.330,00:33:51.780,00:33:55.900,00:33:57.680,00:34:00.760,00:34:03.570,00:34:05.780,00:34:07.470,00:34:12.930,00:34:21.380,00:34:24.150,00:34:26.580,00:34:28.220,00:34:33.020,00:34:38.930,00:34:42.970,00:34:46.420,00:34:53.050,00:34:56.210,00:34:59.000,00:35:03.680,00:35:05.340,00:35:08.460,00:35:09.950,00:35:13.500,00:35:17.930,00:35:18.690,00:35:21.890,00:35:24.650,00:35:27.290,00:35:29.490,00:35:33.440,00:35:37.970,00:35:41.290,00:35:42.010,00:35:44.430,00:35:47.640,00:35:48.940,00:35:51.720,00:35:56.920,00:36:00.290,00:36:03.491,00:36:03.990,00:36:13.650,00:36:24.070,00:36:29.320,00:36:30.630,00:36:38.460,00:36:43.230,00:36:48.150,00:36:52.360,00:36:55.010,00:36:57.430,00:36:58.110,00:37:06.260,00:37:12.410,00:37:16.920,00:37:20.680,00:37:24.220,00:37:31.140,00:37:40.340,00:37:44.860,00:37:47.330,00:37:49.460,00:37:52.270,00:38:02.980,00:38:05.050,00:38:20.440,00:38:21.870,00:38:23.090,00:38:24.360,00:38:28.890,00:38:31.710,00:38:35.590,00:38:43.030,00:38:47.240,00:38:54.350,00:38:57.850,00:38:59.570,00:39:01.590,00:39:08.030,00:39:15.170,00:39:23.130,00:39:33.330,00:39:36.630,00:39:40.770,00:39:45.030,00:39:46.030,00:39:52.190,00:39:56.190,00:40:00.130,00:40:01.330,00:40:03.930,00:40:08.240,00:40:12.750,00:40:14.630,00:40:16.410,00:40:18.250,00:40:23.630,00:40:26.240,00:40:28.570,00:40:32.320,00:40:34.940,00:40:37.050,00:40:47.330,00:40:47.830,00:40:58.755,00:40:59.880,00:41:04.417,00:41:05.500,00:41:11.502,00:41:13.960,00:41:16.180,00:41:20.820,00:41:22.820,00:41:23.903,00:41:32.582,00:41:34.040,00:41:36.230,00:41:38.880,00:41:39.580,00:41:43.470,00:41:45.200,00:41:47.850,00:41:50.920,00:42:06.130,00:42:13.190,00:42:13.720,00:42:15.360,00:42:17.650,00:42:22.500,00:42:24.090,00:42:27.830,00:42:30.520,00:42:34.380,00:42:37.250,00:42:41.280,00:42:43.070,00:42:44.550,00:42:49.530,00:42:52.070,00:42:59.980,00:43:01.190,00:43:03.780,00:43:07.600,00:43:09.410,00:43:13.220,00:43:15.740,00:43:26.430,00:43:28.100,00:43:29.980,00:43:35.370,00:43:38.970,00:43:42.957,00:43:44.540,00:43:45.760,00:43:48.310,00:43:49.730,00:43:53.510,00:43:55.390,00:43:59.350,00:44:04.230,00:44:07.450,00:44:08.500,00:44:12.310,00:44:17.460,00:44:19.390,00:44:23.320,00:44:24.340,00:44:27.800,00:44:29.730,00:44:35.140,00:44:41.560,00:44:42.770,00:44:48.070,00:44:49.680,00:44:52.500,00:44:58.640,00:45:01.260,00:45:10.490,00:45:14.070,00:45:15.110,00:45:19.720,00:45:21.400,00:45:28.830,00:45:37.750,00:45:42.460,00:45:47.570,00:45:49.730,00:45:50.850,00:45:54.340,00:45:56.620,00:45:57.940,00:45:58.440,00:45:59.980

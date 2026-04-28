@@ -1,0 +1,8 @@
+access_category,access_discussion,access_message,access_emailmessage,access_multi,access_multi_line,access_mixed,access_domain_bool,access_test_new_api_foo,access_test_new_api_bar,access_test_new_api_related,access_test_new_api_company,access_test_new_api_sparse,access_test_new_api_compute_inverse
+test_new_api_category,test_new_api_discussion,test_new_api_message,test_new_api_emailmessage,test_new_api_multi,test_new_api_multi_line,test_new_api_mixed,access_domain_bool,access_test_new_api_foo,access_test_new_api_bar,access_test_new_api_related,access_test_new_api_company,access_test_new_api_sparse,access_test_new_api_compute_inverse
+test_new_api.model_test_new_api_category,test_new_api.model_test_new_api_discussion,test_new_api.model_test_new_api_message,test_new_api.model_test_new_api_emailmessage,test_new_api.model_test_new_api_multi,test_new_api.model_test_new_api_multi_line,test_new_api.model_test_new_api_mixed,model_domain_bool,model_test_new_api_foo,model_test_new_api_bar,model_test_new_api_related,model_test_new_api_company,model_test_new_api_sparse,model_test_new_api_compute_inverse
+,,,,,,,,,,,,,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1

@@ -1,0 +1,13 @@
+Grade,"Excellent
+{{lang-ar|ممتاز}}","Excellent
+{{lang-ar|ممتاز}}","Very good
+{{lang-ar|جيد جداً}}","Very good
+{{lang-ar|جيد جداً}}","Good
+{{lang-ar|جيد}}","Good
+{{lang-ar|جيد}}","Acceptable
+{{lang-ar|مقبول}}","Acceptable
+{{lang-ar|مقبول}}","Failure
+{{lang-ar|راسب}}"
+Grade,A+,A,B+,B,C+,C,D+,D,F
+Percentage,95–100,90–94,85–89,80–84,75–79,70–74,65–69,60–64,0–59
+GPA value,4.0,3.75,3.50,3.0,2.50,2.0,1.50,1.0,0.0

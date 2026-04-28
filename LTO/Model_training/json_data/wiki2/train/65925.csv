@@ -1,0 +1,6 @@
+Order-8 cubic honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-8 cubic honeycomb,Regular honeycomb,"{4,3,8}
+{4,(3,8,3)}","{{CDD|node_1|4|node|3|node|8|node}}
+{{CDD|node_1|4|node|3|node|8|node_h0}} = {{CDD|node_1|4|node|split1|branch|label4}}","{4,3} File:Uniform polyhedron-43-t0.png",{4},{8},"{3,8}, {(3,4,3)}
+File:H2 tiling 238-4.pngFile:H2 tiling 334-4.png","{8,3,4}","[4,3,8]
+[4,((3,4,3))]",Regular

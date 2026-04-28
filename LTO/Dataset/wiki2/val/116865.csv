@@ -1,0 +1,8 @@
+,,Condition of ears:,Rinne test,Rinne test,Rinne test,Rinne test,Rinne test,Rinne test
+,,Condition of ears:,⊕,⊕,⊖,⊕,⊖,left ear
+,,Condition of ears:,⊕,⊕,⊕,⊖,⊖,right ear
+Weber test,lateralizes to left,left,Normal,Normal,Conductive loss,Normal,Conductive loss,Combined loss = conductive and sensorineural loss
+Weber test,lateralizes to left,right,Sensorineural loss,Sensorineural loss,Normal,Combined loss,Combined loss,Combined loss = conductive and sensorineural loss
+Weber test,no lateralization,both,Normal,Sensorineural loss,,,Conductive loss,Combined loss = conductive and sensorineural loss
+Weber test,lateralizes to right,left,Sensorineural loss,Sensorineural loss,Combined loss,Normal,Combined loss,Combined loss = conductive and sensorineural loss
+Weber test,lateralizes to right,right,Normal,Normal,Normal,Conductive loss,Conductive loss,Combined loss = conductive and sensorineural loss

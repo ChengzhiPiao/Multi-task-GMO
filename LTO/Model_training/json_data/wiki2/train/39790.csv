@@ -1,0 +1,9 @@
+{{Tooltip|Pos|Position}},1,2,3,4,5,6,7,8,9,10,11,12,13,14
+Team,Lightbody Santos (Cape Town),Battswood F.C. (Cape Town),PE Blackpool,Hotspur F.C.(Port Elizabeth),Crusaders United (Stanger),Bosmont Chelsea,Maritzburg United F.C. (Pietermaritzburg),Birds F.C. (Pretoria),Manning Rangers F.C. (Durban),Bluebells United,Berea F.C. (Durban),Manchester United (Estcourt),Manchester City (Actonville),Real Taj (Pietermaritzburg)
+{{Tooltip|Pld|Played}},26,26,26,26,26,26,26,24,24,25,26,25,26,26
+width=25{{!}}{{Tooltip|W|Won}},19,17,12,12,13,12,10,9,7,6,4,2,5,3
+width=25{{!}}{{Tooltip|D|Draw}},6,3,8,7,5,4,6,7,8,10,10,11,4,7
+width=25{{!}}{{Tooltip|L|Lost}},1,6,6,7,8,10,10,8,9,9,12,12,17,16
+width=25{{!}}{{Tooltip|GF|Goals For}},78,49,35,37,34,36,41,43,39,26,28,16,30,31
+width=25{{!}}{{Tooltip|GA|Goals Against}},24,22,25,30,30,32,33,45,39,31,55,31,66,60
+{{Tooltip|Pts|Points}},44,37,32,31,31,28,26,25,22,22,18,15,14,13

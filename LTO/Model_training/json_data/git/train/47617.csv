@@ -1,0 +1,5 @@
+80.37052,80.82223,82.34444,82.45555999999999,82.88889,84.10162,84.51111999999999,84.64445,84.77778,84.86667,86.31111,86.72222,86.85556,86.94444,87.16261,87.5,87.8
+81.61089,80.91111,82.75555,83.04445,83.45555999999999,85.10686,86.44444,87.64445,85.6,85.53333,87.54445,87.44444,87.34444,87.13334,,87.65556,87.93333
+Hand,Hand,Hand,HandToWrist,WristToElbow,Hand,Hand,HandToWrist,Hand,HandToWrist,WristToElbow,Hand,Hand,HandToWrist,Hand,Hand,Hand
+FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleShort-1,FailOnTouchObstacleMed,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong,Target,FailOnTouchObstacleMed,FailOnTouchObstacleShort
+PickedUp,RightGate,RightGate,RightGate,RightGate,PickedUp,RightGate,RightGate,LeftGate,LeftGate,RightGate,LeftGate,LeftGate,LeftGate,PickedUp,RightGate,RightGate

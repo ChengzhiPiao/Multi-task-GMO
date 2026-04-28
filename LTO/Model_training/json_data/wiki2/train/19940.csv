@@ -1,0 +1,12 @@
+Property/Interaction,Property/Interaction,Mediating particles,Affected particles,Acts on,Bound states formed,"Strength at the scale of quarks
+(relative to electromagnetism)","Strength at the scale of
+protons/neutrons
+(relative to electromagnetism)"
+Gravitation,Gravitation,"Not yet observed
+(Graviton hypothesised)",All particles,"Mass, energy","Planets, stars, galaxies, galaxy groups",{{val||e=-41}} (predicted),{{val||e=-36}} (predicted)
+Electroweak,Weak,"W+, W− and Z0",Left-handed fermions,Flavor,n/a,{{val||e=-4}},{{val||e=-7}}
+Electroweak,Electromagnetic,γ (photon),Electrically charged,Electric charge,"Atoms, molecules",1,1
+Strong,Fundamental,Gluons,"Quarks, gluons",Color charge,Hadrons,60,"Not applicable
+to hadrons"
+Strong,Residual,"π, ρ and ω mesons",Hadrons,,Atomic nuclei,"Not applicable
+to quarks",20

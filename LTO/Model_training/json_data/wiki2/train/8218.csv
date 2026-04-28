@@ -1,0 +1,4 @@
+Sport,Baseball,Basketball,Bowling,Cheerleading,Cross country,Dance,Football,Golf,Lacrosse,Rifle,Soccer,Softball,Swimming and diving,Tennis,Track and field,Volleyball,Wrestling
+Sanctioned boys',{{Y}},{{Y}},,,{{Y}},,{{Y}},{{Y}},,,{{Y}},,{{Y}},{{Y}},{{Y}},,{{Y}}
+Sanctioned girls',,{{Y}},,,{{Y}},,,{{Y}},,,{{Y}},{{Y}},{{Y}},{{Y}},{{Y}},{{Y}},
+Non-sanctioned,,,{{Y}},{{Y}},,{{Y}},,,{{Y}},{{Y}},,,,,,{{Y}} (boys'),

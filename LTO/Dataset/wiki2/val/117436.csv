@@ -1,0 +1,8 @@
+Binary encoding,Binary encoding,Binary encoding,Binary encoding,Binary encoding,Binary encoding,Binary encoding,Binary encoding,,Decimal digits,Decimal digits,Decimal digits,Decimal digits
+Code&nbsp;space (128&nbsp;states),b6,b5,b4,b3,b2,b1,b0,,d1,d0,Values encoded,Description
+50.0% (64&nbsp;states),0,a,b,c,d,e,f,,0abc,0def,(0–7) (0–7),Two lower digits
+"25.0% (32&nbsp;states, 16&nbsp;used)",1,0,x,c,d,e,f,,100c,0def,(8–9) (0–7),"One lower digit,
+one higher digit"
+12.5% (16&nbsp;states),1,1,0,f,a,b,c,,0abc,100f,(0–7) (8–9),"One lower digit,
+one higher digit"
+"12.5% (16&nbsp;states, 4&nbsp;used)",1,1,1,c,x,x,f,,100c,100f,(8–9) (8–9),Two higher digits

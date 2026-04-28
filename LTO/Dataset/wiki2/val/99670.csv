@@ -1,0 +1,11 @@
+,,Labial,Dental,Dental,Lateral,Palatal,Velar,Uvular,Pharyngeal,Glottal
+,,Labial,laminal,sibilant,Lateral,Palatal,Velar,Uvular,Pharyngeal,Glottal
+Nasal,Nasal,{{IPA|m}},{{IPA|n}},,,,,,,
+Plosive,voiceless,,{{IPA|tʰ}},,,,{{IPA|kʰ}},,,{{IPA|ʔ}}
+Plosive,voiced,{{IPA|b~pʼ}},{{IPA|d~tʼ}},,,{{IPA|(dʒ~tʃʼ)}},{{IPA|ɡ}},,,
+Plosive,emphatic,,{{IPA|tˤ~tʼ}},,,,{{IPA|kʼ}},,,
+Fricative,voiceless,{{IPA|f}},{{IPA|θ}},{{IPA|s}},{{IPA|ɬ}},{{IPA|ʃ}},,{{IPA|χ}},{{IPA|ħ}},{{IPA|h}}
+Fricative,voiced,,{{IPA|ð}},{{IPA|z}},,,,{{IPA|ʁ~q}},{{IPA|ʕ}},
+Fricative,emphatic,,{{IPA|θˤ~θʼ}},{{IPA|sˤ~sʼ}},{{IPA|ɬˤ~ɬʼ}},{{IPA|ʃˤ~ʃʼ}},,,,
+Rhotic,Rhotic,,{{IPA|r~ɾ}},,,,,,,
+Semivowel,Semivowel,{{IPA|w}},,,{{IPA|l}},{{IPA|j}},,,,

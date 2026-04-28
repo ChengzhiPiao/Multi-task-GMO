@@ -1,0 +1,6 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbu|20|BRA}},4,3,1,0,10,4,+6,10
+{{fbu|20|PAR}},4,2,2,0,3,1,+2,8
+{{fbu|20|CHI}},4,2,0,2,10,7,+3,6
+{{fbu|20|BOL}},4,1,1,2,4,8,–4,4
+{{fbu|20|PER}},4,0,0,4,4,11,–7,0

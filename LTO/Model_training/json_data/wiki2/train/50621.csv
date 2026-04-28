@@ -1,0 +1,10 @@
+Implementation,AES,Camellia,3DES,Blowfish,Twofish,CAST5,IDEA,GOST 28147-89 / GOST R 34.12-2015,ARIA
+Botan,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Bouncy Castle,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+cryptlib,{{Yes}},{{No}},{{Yes}},{{Yes}},{{-}},{{Yes}},{{Yes}},{{-}},{{-}}
+Crypto++,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Libgcrypt,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{-}}
+libsodium,{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}}
+Nettle,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{-}},{{-}},{{-}},{{-}},{{-}}
+OpenSSL,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+wolfCrypt,{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{Yes}},{{No}},{{No}}

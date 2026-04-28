@@ -1,0 +1,6 @@
+1,AuthResource,Login,/rest/auth/login,POST,massimo,password,,,,Auth1.json,"userId"":""massimo"""
+2,AuthResource,Login,/rest/auth/login,POST,massimo,,,,,Auth1.json,"userId"":""massimo"""
+3,AuthResource,Login,/rest/auth/login,POST,,password,,,,Auth1.json,"userId"":""massimo"""
+4,AuthResource,Login,/rest/auth/login,POST,,,,,,Auth1.json,"userId"":""massimo"""
+5,AuthResource,Login,/rest/auth/login,POST,password,,,,,Auth2.json,"userId"":""massimo"""
+6,AuthResource,Login,/rest/auth/login,POST,massimo,,,,,Auth3.json,"userId"":""massimo"""

@@ -1,0 +1,24 @@
+Track,Atlanta Motor Speedway,Auto Club Speedway,Bristol Motor Speedway,Charlotte Motor Speedway,Charlotte Motor Speedway roval,Chicagoland Speedway,Darlington Raceway,Daytona International Speedway,Dover International Speedway,Homestead-Miami Speedway,Indianapolis Motor Speedway,ISM Raceway,Kansas Speedway,Kentucky Speedway,Las Vegas Motor Speedway,Martinsville Speedway,Michigan International Speedway,New Hampshire Motor Speedway,Pocono Raceway,Richmond Raceway,Sonoma Raceway,Talladega Superspeedway,Texas Motor Speedway,Watkins Glen International
+Nickname,Hotlanta Speedway,Fontana,The Last Great Colosseum / Thunder Valley,,,,The Track Too Tough to Tame / The Lady in Black,World Center of Racing,Monster Mile,,The Brickyard,The Jewel of the Desert,,,Sin City / The Diamond in the Desert,The Paperclip,,The Magic Mile,The Tricky Triangle / What Turn 4?,Strawberry Hill,Sonoma / Sears Point,Dega,The Great American Speedway,The Glen
+Miles,{{convert|1.54|mi|km|adj=on}},{{convert|2|mi|km|adj=on}},{{convert|0.533|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{Convert|2.28|mi|km}},{{convert|1.5|mi|km|adj=on}},{{convert|1.37|mi|km|adj=on}},{{convert|2.5|mi|km|adj=on}},{{convert|1|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{convert|2.5|mi|km|adj=on}},{{convert|1|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{convert|0.526|mi|km|adj=on}},{{convert|2|mi|km|adj=on}},{{convert|1.058|mi|km|adj=on}},{{convert|2.5|mi|km|adj=on}},{{convert|0.75|mi|km|adj=on}},{{convert|1.99|mi|km|adj=on}},{{convert|2.66|mi|km|adj=on}},{{convert|1.5|mi|km|adj=on}},{{convert|2.45|mi|km|adj=on}}
+{{Tooltip|Config.|Configuration}},Quad-Oval,D-Shaped Oval,Oval,Quad Oval,Road course,D-Shaped Oval,Oval,Tri-Oval,Oval,Oval,Oval,Tri-Oval,D-Shaped Oval,D-Shaped Oval,D-Shaped Oval,Oval,D-Shaped Oval,Oval,Tri-Oval,D-Shaped Oval,Road Course,Tri-Oval,Quad-Oval,Road Course
+Location,Georgia (Hampton),California (Fontana),Tennessee (Bristol),North Carolina (Concord),North Carolina (Concord),Illinois (Joliet),South Carolina (Darlington),Florida (Daytona Beach),Delaware (Dover),Florida (Homestead),Indiana (Speedway),Arizona (Avondale),Kansas (Kansas City),Kentucky (Sparta),Nevada (Clark County),Virginia (Ridgeway),Michigan (Brooklyn),New Hampshire (Loudon),Pennsylvania (Long Pond),Virginia (Henrico County),California (Sonoma),Alabama (Talladega),Texas (Fort Worth),New York (Watkins Glen)
+Seating,"111,000","68,000","160,000","94,000","94,000","75,000","75,000","101,000","85,000","65,000","257,325","67,000","72,000+","107,000","116,000","55,000","72,000","88,000","76,812","71,000","47,000","80,000","181,655","41,000"
+Races,Folds of Honor QuikTrip 500,Auto Club 400,"Food City 500
+Bass Pro Shops NRA Night Race","Coca-Cola 600
+Monster Energy NASCAR All-Star Race",Bank of America 500,Overton's 400,Bojangles' Southern 500,"Advance Auto Parts Clash
+Can-Am Duel
+Daytona 500
+Coke Zero 400","AAA 400 Drive for Autism
+Dover 400",Ford EcoBoost 400,Brantley Gilbert Big Machine Brickyard 400,"Camping World 500
+Can-Am 500","GoBowling.com 400
+Hollywood Casino 400",Quaker State 400,"Kobalt 400
+South Point 400","STP 500
+First Data 500","FireKeepers Casino 400
+Pure Michigan 400",New Hampshire 301,"Axalta presents the Pocono 400
+Gander Outdoors 400","Toyota Owners 400
+Federated Auto Parts 400",Toyota/Save Mart 350,"GEICO 500
+Alabama 500","O'Reilly Auto Parts 500
+AAA Texas 500",I Love New York 355 at The Glen
+Map,Atlanta,Auto Club,Bristol,Charlotte,,Chicagoland,Darlington,Daytona,Dover,Homestead-Miami,Indianapolis,Phoenix,Kansas,Kentucky,Las Vegas,Martinsville,Michigan,New Hampshire,Pocono,Richmond,Sonoma,Talladega,Texas,Watkins Glen
+Lights,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,Yes,No

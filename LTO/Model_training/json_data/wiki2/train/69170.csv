@@ -1,0 +1,3 @@
+Rank,Name,Goals,Games,Average,Team
+{{gold1}},player,28,5,{{#expr:28/5}},team
+{{silver2}},player,19,6,{{#expr:19/6 round 2}},team

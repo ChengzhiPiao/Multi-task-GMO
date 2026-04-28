@@ -1,0 +1,326 @@
+GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,GEA,,,GEA,GEA,GEA,GEA,GEA,,,,,,,,,,,,GEA,GEA
+project,guiding questions,guiding questions,guiding questions,results,results,results,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,data sources,data sources,data sources,data sources,data sources,data sources,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,publications,diagnostics,diagnostics,models,models,models,models,models,year,project,keywords,keywords,keywords,keywords,keywords,regional coverage,,,regional coverage,regional coverage,regional coverage,regional coverage,regional coverage,,,,,,,,,,,,time horizon,
+,preamble,question,question,preamble,insight,insight,preamble,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,source,source,source,source,source,source,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,reference,source,source,preamble,model,model,model,model,,,keyword,keyword,keyword,keyword,keyword,region,,,region,region,region,region,region,,,,,,,,,,,,start,end
+,,,,,,,,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,link,name,link,name,link,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,ris,full,doi,citation,type,doi,full,ris,citation,type,doi,full,ris,citation,type,doi,full,ris,name,link,,name,version,name,version,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,1.0,2.0,,1.0,2.0,,1.0,1.0,2.0,2.0,3.0,3.0,4.0,4.0,5.0,5.0,6.0,6.0,7.0,7.0,8.0,8.0,9.0,9.0,10.0,10.0,11.0,11.0,12.0,12.0,13.0,13.0,14.0,14.0,15.0,15.0,16.0,16.0,17.0,17.0,18.0,18.0,19.0,19.0,20.0,20.0,21.0,21.0,22.0,22.0,23.0,23.0,24.0,24.0,25.0,25.0,26.0,26.0,27.0,27.0,28.0,28.0,29.0,29.0,30.0,30.0,31.0,31.0,32.0,32.0,33.0,33.0,34.0,34.0,35.0,35.0,36.0,36.0,37.0,37.0,38.0,38.0,39.0,39.0,40.0,40.0,41.0,41.0,42.0,42.0,1.0,1.0,2.0,2.0,3.0,3.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,8.0,8.0,8.0,8.0,8.0,9.0,9.0,9.0,9.0,9.0,1.0,1.0,,1.0,1.0,2.0,2.0,,,1.0,2.0,3.0,4.0,5.0,1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,,
+,"The main purpose of the GEA has been to establish a state-of-the-art assessment of the science of energy in light of the inevidable transformation that is required to address major challenges and avoiding potentially catasgtrophic future consequences for humand kind and planetary systems.  The transformation pathways developed within the framework of the GEA are designed to explore technical measures, policies, and related costs and benefits for meeting the following energy objectives:
+      - Improving energy access: Universal access to electricity and clean cooking by 2030
+      - Reduce air pollution and improve human health: Achieve global compliance with World Health Organization (WHO) air quality standards (PM2.5 concentration < 35 μg/m3) by 2030
+      - Avoid dangerous climate change: Limit global average temperature change to 2°C above preindustrial levels with a likelihood >50%
+      - Enhance energy security: Reduce energy import dependence; increase diversity and resilience of energy supply (both by 2050)
+",Which are the fundamental key-messages common to the scenario ensemble?,Is universal access to modern energy carriers and cleaner cooking achievable by 2030 while limiting long term global warming to 2°C?,"The pathways show that it is technically possible to achieve improved energy access , air quality, and energy security simultaneously while avoiding dangerous climate change. In fact, a number of alternative combinations of resources, technologies, and policies are found capable of attaining these objectives. From a large ensemble of possible transformations, three distinct groups of pathways (GEA-Supply, GEA-Mix, and GEA-Efficiency) have been identified and analyzed.","Limiting climate change to to 2°C will require a technological transformation of the global energy system over the next several decades, as well as the rapid introduction of policies and fundamental political changes toward concerted and coordinated efforts to integrate global concerns into local and national policy priorities.  The GES analysis demonstrates that a sustainable future requires a transforamtion from today's energy systems to those with: (i) radical improvements in energuy systems, especially in the end-use, and (ii) greater shares of reneable energies and advanced energy systems with carbon capture and storage (CCS) for both fossil fuels and biomass.","Achieving universal access to clean cooking fuels and electricity requires that between US$36 billion and US$41 billion be spent annually over the next two decades. In addition to furthering human development and poverty alleviation goals, universal access is necessary for attaining World Health Organization guidelines for air quality in all countries by 2030. At the same time, in order to ensure a high likelihood of limiting global warming to 2°C, global CO2 emissions need to peak by about 2020 and then be reduced 30–70% by 2050 relative to 2000. Under the GEA pathways, energy security improves in the world as a whole and in the majority of regions: imports decline and supply diversity increases.","The GEA comprises essentially a single normative scenario of the sustainability  transition.  Within  this  single  scenario,  alternative  pathways  are  developed  that  describe  transformations  toward  normative  objectives  related  to  the  environmental  impacts  of  energy  conversion  and  use,  energy  security,  and  energy  access.  All  pathways  fulfill  these  objectives by reaching specific and clear targets. For example, they all limit the future global mean temperature increase to not more than 2°C above preindustrial levels, and they all lead to almost universal access to  clean  energy  services  throughout  the  world  by  2030.  Another  feature  common  to  all  pathways  is  that  all  economic  and  demographic  changes  within  them  are  consistent  with  the  GEA’s  aspirational  goals  with respect to sustainable development. 
+
+Three  GEA  pathway groups, labeled GEA-Efficiency, GEA-Mix, and GEA-Supply, are constructed  to  represent  different  emphases  in  terms  of  demand-side  and  supply-side  changes.  Each  group  varies  in  particular  with  respect  to  assumptions  about  the  comprehensiveness  of  demand-side  policies  to enhance efficiency, leading to pathways of comparatively low energy demand  (GEA-Efficiency),  intermediate  demand  (GEA-Mix),  and  high  demand  (GEA-Supply). Within  each  group,  a  range  of  alternative  pathways  for  the  supply-side  transformation  are  explored.  The sceanrio setup therefore results in three general branching points:
+1.        Energy demand level:
+           •        GEA-Efficiency (low demand)
+           •        GEA-Supply (high demand)
+           •        GEA-Mix (intermediate demand)
+2.        The dominant transportation fuels and technologies used:
+           •        Conventional Transportation (liquid fuels)
+           •        Advanced Transportation (electricity / hydrogen)
+3.        The diversity of the portfolio of supply-side options:
+           •        Full Portfolio (all options)
+           •        No CCS
+           •        No BioCCS (CCS + Bio-energy)
+           •        No Sinks
+           •        No Nuclear
+           •        No Nuclear & CCS
+           •        Limited Renewables
+",geaha_450_atr_full,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No technology restrictions",geaha_450_atr_limbe,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geaha_450_atr_limir,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geaha_450_atr_nbecs,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)",geaha_450_atr_nonuc,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geaha_450_atr_nsink,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward",geaha_450_btr_full,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No technology restrictions",geaha_450_btr_nonuc,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geala_450_atr_full,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No technology restrictions",geala_450_atr_limbe,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geala_450_atr_limbe_limir,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy
+ Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geala_450_atr_limir,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geala_450_atr_nbecs,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)",geala_450_atr_nbecs_nsink_limbe,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)
+ No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward
+ Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geala_450_atr_noccs,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: CCS excluded",geala_450_atr_noccs_nonuc,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: CCS excluded
+ No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geala_450_atr_nonuc,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geala_450_atr_nsink,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward",geala_450_btr_full,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No technology restrictions",geala_450_btr_limbe,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geala_450_btr_limbe_limir,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy
+ Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geala_450_btr_limir,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geala_450_btr_nbecs,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)",geala_450_btr_nbecs_nsink_limbe,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)
+ No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward
+ Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geala_450_btr_noccs,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: CCS excluded",geala_450_btr_noccs_nonuc,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: CCS excluded
+ No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geala_450_btr_nonuc,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geala_450_btr_nsink,"Demand level: GEA-Efficiency: Pathway emphasizing demand-side and efficiency improvements
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward",geama_450_atr_full,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No technology restrictions",geama_450_atr_limbe,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geama_450_atr_limir,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geama_450_atr_nbecs,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)",geama_450_atr_noccs,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: CCS excluded",geama_450_atr_nonuc,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geama_450_atr_nsink,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Advanced transportation with increased electicity and hydrogen use
+ Technology restriciton: No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward",geama_450_btr_full,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No technology restrictions",geama_450_btr_limbe,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy potential reduced to 50% of central estimate to reflect potential implementation issues for sustainable bioenergy",geama_450_btr_limir,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Intermittent renewables (wind, solar) restricted to 20% of final electricity consumption",geama_450_btr_nbecs,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: Bioenergy used only for co-firing in fossil CCS facilities (no dedicated BioCCS faciltities)",geama_450_btr_nonuc,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No new nuclear power plants built after 2020, leading to full phase-out after 2060 (assuming 40-year plant lifetime)",geama_450_btr_nsink,"Demand level: GEA-MIX: Pathway emphasizing regional diversity at an intermediate level of demand between GEA-Efficiency and GEA-Supply
+ Longterm policy: 450 ppm CO2e (2.0°C)
+ Transportation system: Conventional transportation relying on liquid fuels
+ Technology restriciton: No additional afforestation beyond baseline assumption of no net global deforestation from 2070 onward",geah_counterfactual,"Demand level: GEA-Supply: Pathway emphasizing supply-side transfromation at relatively high energy demand
+ Longterm policy: Hypothetical no-policy baseline describing the evolution of the energy system in the absence of any transformational policies of the energy system
+ Transportation system: None
+ Technology restriciton: None",GEA Scenario Database,www.iiasa.ac.at/web-apps/ene/geadb,IIASA ENE-MCA Policy Analysis Tool,www.iiasa.ac.at/web-apps/ene/GeaMCA,IIASA Energy Access Tool (ENACT),www.iiasa.ac.at/web-apps/ene/ENACT,GEA (2012),Book,,"GEA 2012. Global Energy Assessment - Toward a Sustainable Future, Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria.
+","TY  - BOOK
+AU  - Gea
+CY  - Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria
+PY  - 2012
+SN  - 9781 10700 5198 hardback 9780 52118 2935 paperback
+ST  - Global Energy Assessment - Toward a Sustainable Future
+TI  - Global Energy Assessment - Toward a Sustainable Future
+UR  - www.globalenergyassessment.org
+ID  - 47
+ER  - 
+",Riahi et al. (2012),Book chapter,,"RIAHI, K., DENTENER, F., GIELEN, D., GRUBLER, A., JEWELL, J., KLIMONT, Z., KREY, V., MCCOLLUM, D., PACHAURI, S., RAO, S., VAN RUIJVEN, B., VAN VUUREN, D. P. & WILSON, C. 2012. Chapter 17 - Energy Pathways for Sustainable Development. Global Energy Assessment - Toward a Sustainable Future. Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria.","TY  - CHAP
+AU  - Riahi, Keywan
+AU  - Dentener, Frank
+AU  - Gielen, Dolf
+AU  - Grubler, Arnulf
+AU  - Jewell, Jessica
+AU  - Klimont, Zbigniew
+AU  - Krey, Volker
+AU  - McCollum, David
+AU  - Pachauri, Shonali
+AU  - Rao, Shilpa
+AU  - van Ruijven, Bas
+AU  - van Vuuren, Detlef P.
+AU  - Wilson, Charlie
+CY  - Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria
+PY  - 2012
+SN  - 9781 10700 5198 hardback 9780 52118 2935 paperback
+SP  - 1203-1306
+ST  - Chapter 17 - Energy Pathways for Sustainable Development
+T2  - Global Energy Assessment - Toward a Sustainable Future
+TI  - Chapter 17 - Energy Pathways for Sustainable Development
+UR  - www.globalenergyassessment.org
+ID  - 38
+ER  - 
+",Pachauri et al. (2012),Book Chapter,,"PACHAURI, S., BREW-HAMMOND, A., BARNES, D. F., BOUILLE, D. H., GITONGA, S., MODI, V., PRASAD, G., RATH, A. & ZERRIFFI, H. 2012. Chapter 19 - Energy Access for Development. Global Energy Assessment - Toward a Sustainable Future. Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria.","TY  - CHAP
+AU  - Pachauri, Shonali
+AU  - Brew-Hammond, Abeeku
+AU  - Barnes, Douglas F.
+AU  - Bouille, Daniel H.
+AU  - Gitonga, Stephen
+AU  - Modi, Vijay
+AU  - Prasad, Gisela
+AU  - Rath, Amitav
+AU  - Zerriffi, Hisham
+CY  - Cambridge University Press, Cambridge, UK and New York, NY, USA and the International Institute for Applied Systems Analysis, Laxenburg, Austria
+PY  - 2012
+SN  - 9781 10700 5198 hardback 9780 52118 2935 paperback
+SP  - 1401-1458
+ST  - Chapter 19 - Energy Access for Development
+T2  - Global Energy Assessment - Toward a Sustainable Future
+TI  - Chapter 19 - Energy Access for Development
+UR  - www.globalenergyassessment.org
+ID  - 40
+ER  - 
+",McCollum et al. (2011),journal article,10.1038/nclimate1297,"MCCOLLUM, D. L., KREY, V. & RIAHI, K. 2011. An integrated approach to energy sustainability. Nature Climate Change, 1, 428-429.","TY  - JOUR
+AU  - McCollum, D. L.
+AU  - Krey, V.
+AU  - Riahi, K.
+DB  - Scopus
+DO  - 10.1038/nclimate1297
+IS  - 9
+M3  - Note
+N1  - Cited By :52
+Export Date: 27 September 2018
+PY  - 2011
+SP  - 428-429
+ST  - An integrated approach to energy sustainability
+T2  - Nature Climate Change
+TI  - An integrated approach to energy sustainability
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84863399602&doi=10.1038%2fnclimate1297&partnerID=40&md5=e7b819ad05b240761d8446e27cc9668a
+VL  - 1
+ID  - 48
+ER  - 
+",McCollum et al. (2013),journal article,10.1007/s10584-013-0710-y,"MCCOLLUM, D. L., KREY, V., RIAHI, K., KOLP, P., GRUBLER, A., MAKOWSKI, M. & NAKICENOVIC, N. 2013. Climate policies can help resolve energy security and air pollution challenges. Climatic Change, 119, 479-494.","TY  - JOUR
+AU  - McCollum, D. L.
+AU  - Krey, V.
+AU  - Riahi, K.
+AU  - Kolp, P.
+AU  - Grubler, A.
+AU  - Makowski, M.
+AU  - Nakicenovic, N.
+DB  - Scopus
+DO  - 10.1007/s10584-013-0710-y
+IS  - 2
+M3  - Article
+N1  - Cited By :71
+Export Date: 27 September 2018
+PY  - 2013
+SP  - 479-494
+ST  - Climate policies can help resolve energy security and air pollution challenges
+T2  - Climatic Change
+TI  - Climate policies can help resolve energy security and air pollution challenges
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84879150744&doi=10.1007%2fs10584-013-0710-y&partnerID=40&md5=20b12765c7c2bb6d8f5ea2c6433a12f4
+VL  - 119
+ID  - 49
+ER  - 
+",McCollum et al. (2012),journal article,"TY  - JOUR
+AU  - McCollum, D. L.
+AU  - Krey, V.
+AU  - Riahi, K.
+DB  - Scopus
+DO  - 10.1111/j.1477-8947.2012.01459.x
+IS  - 4
+M3  - Article
+N1  - Cited By :5
+Export Date: 1 October 2018
+PY  - 2012
+SP  - 215-230
+ST  - Beyond rio: Sustainable energy scenarios for the 21st century
+T2  - Natural Resources Forum
+TI  - Beyond rio: Sustainable energy scenarios for the 21st century
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84870357154&doi=10.1111%2fj.1477-8947.2012.01459.x&partnerID=40&md5=1466865cebcbe422d6045bb9fd1c84c6
+VL  - 36
+ID  - 50
+ER  - 
+","MCCOLLUM, D. L., KREY, V. & RIAHI, K. 2012. Beyond rio: Sustainable energy scenarios for the 21st century. Natural Resources Forum, 36, 215-230.",10.1111/j.1477-8947.2012.01459.x,Rogelj et al. (2013),journal article,10.1038/nclimate1806,"ROGELJ, J., MCCOLLUM, D. L. & RIAHI, K. 2013. The UN's 'Sustainable Energy for All' initiative is compatible with a warming limit of 2C. Nature Climate Change, 3, 545-551.","TY  - JOUR
+AU  - Rogelj, J.
+AU  - McCollum, D. L.
+AU  - Riahi, K.
+DB  - Scopus
+DO  - 10.1038/nclimate1806
+IS  - 6
+M3  - Review
+N1  - Cited By :30
+Export Date: 1 October 2018
+PY  - 2013
+SP  - 545-551
+ST  - The UN's 'Sustainable Energy for All' initiative is compatible with a warming limit of 2C
+T2  - Nature Climate Change
+TI  - The UN's 'Sustainable Energy for All' initiative is compatible with a warming limit of 2C
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84878547602&doi=10.1038%2fnclimate1806&partnerID=40&md5=2fa7811a648cfcf75e170d90fab55f33
+VL  - 3
+ID  - 51
+ER  - 
+",Rao et al. (2013),journal article,10.1016/j.gloenvcha.2013.05.003,"RAO, S., PACHAURI, S., DENTENER, F., KINNEY, P., KLIMONT, Z., RIAHI, K. & SCHOEPP, W. 2013. Better air for better health: Forging synergies in policies for energy access, climate change and air pollution. Global Environmental Change, 23, 1122-1130.","TY  - JOUR
+AU  - Rao, S.
+AU  - Pachauri, S.
+AU  - Dentener, F.
+AU  - Kinney, P.
+AU  - Klimont, Z.
+AU  - Riahi, K.
+AU  - Schoepp, W.
+DB  - Scopus
+DO  - 10.1016/j.gloenvcha.2013.05.003
+IS  - 5
+M3  - Article
+N1  - Cited By :42
+Export Date: 1 October 2018
+PY  - 2013
+SP  - 1122-1130
+ST  - Better air for better health: Forging synergies in policies for energy access, climate change and air pollution
+T2  - Global Environmental Change
+TI  - Better air for better health: Forging synergies in policies for energy access, climate change and air pollution
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84886728931&doi=10.1016%2fj.gloenvcha.2013.05.003&partnerID=40&md5=9580c39a52417161f3662e9987436e03
+VL  - 23
+ID  - 52
+ER  - 
+",Riahi et al. (2012),policy brief,,"Riahi K, McCollum DL, & Krey V (2012). The Next Energy Transition: Transformative Pathways, Choices and Opportunities. IIASA, Laxenburg, Austria",,,,"Two global IAM models were used for the GEA. 
+The two participating intitutions and the respective models:
+           •        Institution: Netherlands Environmental Assessment Agency (PBL), Netherlands
+                     Model: IMAGE
+           •        Institution: International Institute for Applied Systems Analysis (IIASA), Austria 
+                     Model: MESSAGE",MESSAGE,3.0,IMAGE,,2012,Global Energy Assessment,,,,,,World,North,South Asia,Asia,Latin America and the Caribbean,Middle East and Africa,OECD90,Reforming Economies,Sub-Saharan Africa,Centrally planned Asia and China,Central and Eastern Europe,Former Soviet Union,Latin America and the Caribbean,Middle East and North Africa,North America,Pacific OECD,Other Pacific Asia,South Asia,Western Europe,2010,2100

@@ -1,0 +1,34 @@
+IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5,IMAGE 1.5
+project,guiding questions,guiding questions,results,results,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,scenarios,data sources,data sources,publications,publications,publications,publications,publications,models,models,models,year,project,keywords,keywords,keywords,regional coverage,regional coverage,regional coverage,regional coverage,regional coverage,regional coverage,time horizon,
+,preamble,question,preamble,insight,preamble,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,scenario,source,source,reference,reference,reference,reference,reference,preamble,model,model,,,keyword,keyword,keyword,region,region,region,region,region,region,start,end
+,,,,,,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,description,name,link,citation,type,doi,full,ris,,name,version,,,,,,,,,,,,,
+,,1.0,,1.0,,1.0,1.0,2.0,2.0,3.0,3.0,4.0,4.0,5.0,5.0,6.0,6.0,7.0,7.0,8.0,8.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,1.0,1.0,,,1.0,2.0,4.0,1.0,2.0,3.0,4.0,5.0,6.0,,
+,CDR strategies face several difficulties such as reliance on underground CO2 storage and competition for land with food production and biodiversity protection. The question arises whether alternative deep mitigation pathways exist?,"How essential are bioenergy with carbon capture and storage, and other negative-emission technologies for the 1.5 degree target?","The study illustrates how a combination of alternative 1.5°C pathways can significantly reduce the need for CDR. They are based on the inclusion of options which are not normally considered in integrated assessment analyses, such as lifestyle change, significant reductions of greenhouse gas emissions other than CO2, swift electrification of energy demand and low population growth. While each of these alternatives will still require rapid societal changes and faces its own specific barriers, several also show important synergies with other sustainability goals.","While this study shows that alternative options can greatly reduce the volume of CDR to achieve the 1.5 °C goal, nearly all scenarios still rely on BECCS and/or reforestation (even the hypothetical combination of all alternative options still captured 400 GtCO2 by reforestation). Therefore, investment in the development of CDR options remains an important strategy if the international community intends to implement the Paris target.","The study explores alternative pathways leading to a radiative forcing level of 1.9 W m−2 in 2100. The scenarios are all based on the Shared Socioeconomic Pathway 2 (SSP2) scenario. In the SSP2 scenario, which forms part of the overall SSP set, middle-of-the-road assumptions have been made for all key model assumptions. The alternative scenarios are developed by implementing narrative-based changes to the input assumptions, mostly in the 2020–2050 period.",AGInt,High agricultural yields and application of intensified animal husbandry globally.,Def,Climate policy is implemented by a uniform carbon tax in all regions and sectors from 2020 onwards; the radiative forcing level is 1.9 W/m2 in 2100.16,Eff,Rapid application of best-available technologies for energy and material efficiency in all relevant sectors.,LiStCh,"Consumers change their habits towards a lifestyle which leads to lower GHG emissions. This includes a less meat-intensive diet (conforming to health recommendations), less CO2-intensive transport modes (following the current modal split in Japan), less intensive use of heating and cooling (change of 1oC in heating and cooling reference levels) and a reduction in the use of several domestic appliances.",LoNCO2,Implementation of best-available technologies for reducing non-CO2 emissions and full adoption of cultured meat in 2050.,Pop,Scenario based on SSP1 projecting low population growth. This leads globally to a population size 8.4 billion in 2050 (9.2 billion in SSP2) and 6.9 billion in 2100 (9 billion in SSP2).,RenElec,"Higher electrification rates in all end-use sectors, in combination with optimistic assumptions on the integration of variable renewables and on costs of transmission, distribution, and storage.",TOT,The combination of all the options described above.,SR1.5 database,https://data.ene.iiasa.ac.at/iamc-1.5c-explorer/,Van Vuuren et al. (2018),journal article,10.1038/s41558-018-0119-8,"VAN VUUREN, D. P., STEHFEST, E., GERNAAT, D. E. H. J., VAN DEN BERG, M., BIJL, D. L., DE BOER, H. S., DAIOGLOU, V., DOELMAN, J. C., EDELENBOSCH, O. Y., HARMSEN, M., HOF, A. F. & VAN SLUISVELD, M. A. E. 2018. Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies. Nature Climate Change, 8, 391-397.","TY  - JOUR
+AU  - Van Vuuren, D. P.
+AU  - Stehfest, E.
+AU  - Gernaat, D. E. H. J.
+AU  - Van Den Berg, M.
+AU  - Bijl, D. L.
+AU  - De Boer, H. S.
+AU  - Daioglou, V.
+AU  - Doelman, J. C.
+AU  - Edelenbosch, O. Y.
+AU  - Harmsen, M.
+AU  - Hof, A. F.
+AU  - Van Sluisveld, M. A. E.
+DB  - Scopus
+DO  - 10.1038/s41558-018-0119-8
+IS  - 5
+M3  - Article
+N1  - Cited By :18
+Export Date: 26 November 2018
+PY  - 2018
+SP  - 391-397
+ST  - Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies
+T2  - Nature Climate Change
+TI  - Alternative pathways to the 1.5 °c target reduce the need for negative emission technologies
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85045256865&doi=10.1038%2fs41558-018-0119-8&partnerID=40&md5=dbce8db69f8d6b8c34cd5f62226eedca
+VL  - 8
+ID  - 58
+ER  - 
+",A single model scenario analysis preformed using IMAGE,IMAGE,3.0.1,2018,,Shared Socioeconomic Pathways,Paris Agreement,CDR,World,Asia,Latin America,Middle East and Africa,OECD90+EU,Reforming Economies,2010,2100

@@ -1,0 +1,5 @@
+{{no2}}Frequency,{{UK DVB-T|ch=32}},{{UK DVB-T|ch=33}},{{UK DVB-T|ch=48}},{{UK DVB-T|ch=52}},{{UK DVB-T|ch=54}},{{UK DVB-T|ch=58}}
+{{no2}}UHF,32,33,48,52,54,58
+{{no2}}kW,100,100,100,100,100,100
+{{no2}}Operator,BBC A,Arqiva A,SDN,Arqiva B,Digital 3&4,BBC B
+{{no2}}System,DVB-T,DVB-T,DVB-T,DVB-T,DVB-T,DVB-T2

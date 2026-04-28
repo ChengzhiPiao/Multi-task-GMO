@@ -1,0 +1,453 @@
+Rank,Rank,1,1,1,2,2,2,3,3,3,4,4,4,5,5,5,6,6,6,7,7,7,8,8,8,9,9,9,10,10,10,11,11,11,12,12,12,13,13,13,14,14,14,15,15,15,16,16,16,17,17,17,18,18,18,19,19,19,20,20,20,21,21,21,22,22,22,23,23,23,24,24,24,25,25,25,26,26,26,27,27,27,28,28,28,29,29,29,30,30,30,31,31,31,32,32,32,33,33,33,34,34,34,35,35,35,36,36,36,37,37,37,38,38,38,39,39,39,40,40,40,41,41,41,42,42,42,43,43,43,44,44,44,45,45,45,46,46,46,47,47,47,48,48,48,49,49,49,50,50,50,50,50,50,52,52,52,53,53,53,54,54,54,55,55,55,56,56,56,57,57,57,58,58,58,59,59,59,59,59,59,61,61,61,62,62,62,63,63,63,64,64,64,65,65,65,66,66,66,67,67,67,68,68,68,69,69,69,70,70,70,71,71,71,72,72,72,73,73,73,74,74,74,75,75,75,76,76,76,77,77,77,77,77,77,79,79,79,80,80,80,81,81,81,82,82,82,83,83,83,84,84,84,85,85,85,86,86,86,86,86,86,88,88,88,89,89,89,90,90,90,90,90,90,92,92,92,93,93,93,94,94,94,95,95,95,95,95,95,97,97,97,98,98,98,99,99,99,100,100,100,101,101,101,101,101,101,103,103,103,104,104,104,105,105,105,106,106,106,107,107,107,107,107,107,109,109,109,110,110,110,111,111,111,111,111,111,111,111,111,111,111,111,111,111,111,116,116,116,117,117,117,117,117,117,117,117,117,120,120,120,121,121,121,122,122,122,122,122,122,122,122,122,125,125,125,126,126,126,126,126,126,126,126,126,126,126,126,126,126,126,131,131,131,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,132,138,138,138,139,139,139,139,139,139,139,139,139,142,142,142,142,142,142,144,144,144,145,145,145
+Nation,Nation,{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|GBR}},{{flag|GBR}},{{flag|GBR}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|ESP}},{{flag|ESP}},{{flag|ESP}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|AZE}},{{flag|AZE}},{{flag|AZE}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|JPN}},{{flag|JPN}},{{flag|JPN}},{{flag|SVK}},{{flag|SVK}},{{flag|SVK}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|KOR}},{{flag|KOR}},{{flag|KOR}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|DEN}},{{flag|DEN}},{{flag|DEN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|TUR}},{{flag|TUR}},{{flag|TUR}},{{flag|EST}},{{flag|EST}},{{flag|EST}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|HUN}},{{flag|HUN}},{{flag|HUN}},{{flag|AUS}},{{flag|AUS}},{{flag|AUS}},{{flag|BLR}},{{flag|BLR}},{{flag|BLR}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|FIN}},{{flag|FIN}},{{flag|FIN}},{{flag|FIN}},{{flag|FIN}},{{flag|FIN}},{{flag|GBR}},{{flag|GBR}},{{flag|GBR}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|JPN}},{{flag|JPN}},{{flag|JPN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CZE}},{{flag|CZE}},{{flag|CZE}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|ISR}},{{flag|ISR}},{{flag|ISR}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|AUT}},{{flag|AUT}},{{flag|AUT}},{{flag|POL}},{{flag|POL}},{{flag|POL}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|MEX}},{{flag|MEX}},{{flag|MEX}},{{flag|POL}},{{flag|POL}},{{flag|POL}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|KOR}},{{flag|KOR}},{{flag|KOR}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|KAZ}},{{flag|KAZ}},{{flag|KAZ}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|KAZ}},{{flag|KAZ}},{{flag|KAZ}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|HUN}},{{flag|HUN}},{{flag|HUN}},{{flag|TUR}},{{flag|TUR}},{{flag|TUR}},{{flag|ARM}},{{flag|ARM}},{{flag|ARM}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|FIN}},{{flag|FIN}},{{flag|FIN}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|GRE}},{{flag|GRE}},{{flag|GRE}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|GEO}},{{flag|GEO}},{{flag|GEO}},{{flag|GBR}},{{flag|GBR}},{{flag|GBR}},{{flag|SUI}},{{flag|SUI}},{{flag|SUI}},{{flag|CZE}},{{flag|CZE}},{{flag|CZE}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|BLR}},{{flag|BLR}},{{flag|BLR}},{{flag|LAT}},{{flag|LAT}},{{flag|LAT}},{{flag|AUT}},{{flag|AUT}},{{flag|AUT}},{{flag|JPN}},{{flag|JPN}},{{flag|JPN}},{{flag|POL}},{{flag|POL}},{{flag|POL}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|GEO}},{{flag|GEO}},{{flag|GEO}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|POL}},{{flag|POL}},{{flag|POL}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|EST}},{{flag|EST}},{{flag|EST}},{{flag|ESP}},{{flag|ESP}},{{flag|ESP}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|KAZ}},{{flag|KAZ}},{{flag|KAZ}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|CHN}},{{flag|CHN}},{{flag|CHN}},{{flag|BLR}},{{flag|BLR}},{{flag|BLR}},{{flag|USA}},{{flag|USA}},{{flag|USA}},{{flag|GBR}},{{flag|GBR}},{{flag|GBR}},{{flag|POL}},{{flag|POL}},{{flag|POL}},{{flag|ISR}},{{flag|ISR}},{{flag|ISR}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|ITA}},{{flag|ITA}},{{flag|ITA}},{{flag|CZE}},{{flag|CZE}},{{flag|CZE}},{{flag|CAN}},{{flag|CAN}},{{flag|CAN}},{{flag|CZE}},{{flag|CZE}},{{flag|CZE}},{{flag|RUS}},{{flag|RUS}},{{flag|RUS}},{{flag|UKR}},{{flag|UKR}},{{flag|UKR}},{{flag|FRA}},{{flag|FRA}},{{flag|FRA}},{{flag|GER}},{{flag|GER}},{{flag|GER}},{{flag|KOR}},{{flag|KOR}},{{flag|KOR}},{{flag|EST}},{{flag|EST}},{{flag|EST}}
+Couple,Couple,"Kaitlyn Weaver
+/ Andrew Poje","Kaitlyn Weaver
+/ Andrew Poje","Kaitlyn Weaver
+/ Andrew Poje","Madison Chock
+/ Evan Bates","Madison Chock
+/ Evan Bates","Madison Chock
+/ Evan Bates","Meryl Davis
+/ Charlie White","Meryl Davis
+/ Charlie White","Meryl Davis
+/ Charlie White","Tessa Virtue
+/ Scott Moir","Tessa Virtue
+/ Scott Moir","Tessa Virtue
+/ Scott Moir","Gabriella Papadakis
+/ Guillaume Cizeron","Gabriella Papadakis
+/ Guillaume Cizeron","Gabriella Papadakis
+/ Guillaume Cizeron","Anna Cappellini
+/ Luca Lanotte","Anna Cappellini
+/ Luca Lanotte","Anna Cappellini
+/ Luca Lanotte","Maia Shibutani
+/ Alex Shibutani","Maia Shibutani
+/ Alex Shibutani","Maia Shibutani
+/ Alex Shibutani","Ekaterina Bobrova
+/ Dmitri Soloviev","Ekaterina Bobrova
+/ Dmitri Soloviev","Ekaterina Bobrova
+/ Dmitri Soloviev","Piper Gilles
+/ Paul Poirier","Piper Gilles
+/ Paul Poirier","Piper Gilles
+/ Paul Poirier","Madison Hubbell
+/ Zachary Donohue","Madison Hubbell
+/ Zachary Donohue","Madison Hubbell
+/ Zachary Donohue","Penny Coomes
+/ Nicholas Buckland","Penny Coomes
+/ Nicholas Buckland","Penny Coomes
+/ Nicholas Buckland","Nelli Zhiganshina
+/ Alexander Gazsi","Nelli Zhiganshina
+/ Alexander Gazsi","Nelli Zhiganshina
+/ Alexander Gazsi","Charlene Guignard
+/ Marco Fabbri","Charlene Guignard
+/ Marco Fabbri","Charlene Guignard
+/ Marco Fabbri","Ksenia Monko
+/ Kirill Khaliavin","Ksenia Monko
+/ Kirill Khaliavin","Ksenia Monko
+/ Kirill Khaliavin","Alexandra Paul
+/ Mitchell Islam","Alexandra Paul
+/ Mitchell Islam","Alexandra Paul
+/ Mitchell Islam","Kaitlin Hawayek
+/ Jean-Luc Baker","Kaitlin Hawayek
+/ Jean-Luc Baker","Kaitlin Hawayek
+/ Jean-Luc Baker","Alexandra Stepanova
+/ Ivan Bukin","Alexandra Stepanova
+/ Ivan Bukin","Alexandra Stepanova
+/ Ivan Bukin","Nicole Orford
+/ Thomas Williams","Nicole Orford
+/ Thomas Williams","Nicole Orford
+/ Thomas Williams","Sara Hurtado
+/ Adria Diaz","Sara Hurtado
+/ Adria Diaz","Sara Hurtado
+/ Adria Diaz","Alexandra Aldridge
+/ Daniel Eaton","Alexandra Aldridge
+/ Daniel Eaton","Alexandra Aldridge
+/ Daniel Eaton","Julia Zlobina
+/ Alexei Sitnikov","Julia Zlobina
+/ Alexei Sitnikov","Julia Zlobina
+/ Alexei Sitnikov","Anna Yanovskaya
+/ Sergey Mozgov","Anna Yanovskaya
+/ Sergey Mozgov","Anna Yanovskaya
+/ Sergey Mozgov","Alexandra Nazarova
+/ Maxim Nikitin","Alexandra Nazarova
+/ Maxim Nikitin","Alexandra Nazarova
+/ Maxim Nikitin","Cathy Reed
+/ Chris Reed","Cathy Reed
+/ Chris Reed","Cathy Reed
+/ Chris Reed","Federica Testa
+/ Lukáš Csölley","Federica Testa
+/ Lukáš Csölley","Federica Testa
+/ Lukáš Csölley","Lorraine McNamara
+/ Quinn Carpenter","Lorraine McNamara
+/ Quinn Carpenter","Lorraine McNamara
+/ Quinn Carpenter","Pernelle Carron
+/ Lloyd Jones","Pernelle Carron
+/ Lloyd Jones","Pernelle Carron
+/ Lloyd Jones","Rebeka Kim
+/ Kirill Minov","Rebeka Kim
+/ Kirill Minov","Rebeka Kim
+/ Kirill Minov","Madeline Edwards
+/ Zhao Kai Pang","Madeline Edwards
+/ Zhao Kai Pang","Madeline Edwards
+/ Zhao Kai Pang","Shiyue Wang
+/ Xinyu Liu","Shiyue Wang
+/ Xinyu Liu","Shiyue Wang
+/ Xinyu Liu","Laurence Fournier Beaudry
+/ Nikolaj Sørensen","Laurence Fournier Beaudry
+/ Nikolaj Sørensen","Laurence Fournier Beaudry
+/ Nikolaj Sørensen","Rachel Parsons
+/ Michael Parsons","Rachel Parsons
+/ Michael Parsons","Rachel Parsons
+/ Michael Parsons","Betina Popova
+/ Yuri Vlasenko","Betina Popova
+/ Yuri Vlasenko","Betina Popova
+/ Yuri Vlasenko","Elena Ilinykh
+/ Ruslan Zhiganshin","Elena Ilinykh
+/ Ruslan Zhiganshin","Elena Ilinykh
+/ Ruslan Zhiganshin","Tanja Kolbe
+/ Stefano Caruso","Tanja Kolbe
+/ Stefano Caruso","Tanja Kolbe
+/ Stefano Caruso","Mackenzie Bent
+/ Garrett MacKeen","Mackenzie Bent
+/ Garrett MacKeen","Mackenzie Bent
+/ Garrett MacKeen","Evgenia Kosigina
+/ Nikolai Moroshkin","Evgenia Kosigina
+/ Nikolai Moroshkin","Evgenia Kosigina
+/ Nikolai Moroshkin","Alisa Agafonova
+/ Alper Uçar","Alisa Agafonova
+/ Alper Uçar","Alisa Agafonova
+/ Alper Uçar","Irina Shtork
+/ Taavi Rand","Irina Shtork
+/ Taavi Rand","Irina Shtork
+/ Taavi Rand","Anastasia Cannuscio
+/ Colin McManus","Anastasia Cannuscio
+/ Colin McManus","Anastasia Cannuscio
+/ Colin McManus","Siobhan Heekin-Canedy
+/ Dmitri Dun","Siobhan Heekin-Canedy
+/ Dmitri Dun","Siobhan Heekin-Canedy
+/ Dmitri Dun","Carolina Moscheni
+/ Ádám Lukács","Carolina Moscheni
+/ Ádám Lukács","Carolina Moscheni
+/ Ádám Lukács","Danielle O'Brien
+/ Gregory Merriman","Danielle O'Brien
+/ Gregory Merriman","Danielle O'Brien
+/ Gregory Merriman","Viktoria Kavaliova
+/ Yurii Bieliaiev","Viktoria Kavaliova
+/ Yurii Bieliaiev","Viktoria Kavaliova
+/ Yurii Bieliaiev","Alla Loboda
+/ Pavel Drozd","Alla Loboda
+/ Pavel Drozd","Alla Loboda
+/ Pavel Drozd","Sofia Evdokimova
+/ Egor Bazin","Sofia Evdokimova
+/ Egor Bazin","Sofia Evdokimova
+/ Egor Bazin","Olesia Karmi
+/ Max Lindholm","Olesia Karmi
+/ Max Lindholm","Olesia Karmi
+/ Max Lindholm","Henna Lindholm
+/ Ossi Kanervo","Henna Lindholm
+/ Ossi Kanervo","Henna Lindholm
+/ Ossi Kanervo","Olivia Smart
+/ Joseph Buckland","Olivia Smart
+/ Joseph Buckland","Olivia Smart
+/ Joseph Buckland","Yiyi Zhang
+/ Nan Wu","Yiyi Zhang
+/ Nan Wu","Yiyi Zhang
+/ Nan Wu","Emi Hirai
+/ Marien De La Asuncion","Emi Hirai
+/ Marien De La Asuncion","Emi Hirai
+/ Marien De La Asuncion","Ekaterina Pushkash
+/ Jonathan Guerreiro","Ekaterina Pushkash
+/ Jonathan Guerreiro","Ekaterina Pushkash
+/ Jonathan Guerreiro","Elisabeth Paradis
+/ Francois-Xavier Ouellette","Elisabeth Paradis
+/ Francois-Xavier Ouellette","Elisabeth Paradis
+/ Francois-Xavier Ouellette","Daria Morozova
+/ Mikhail Zhirnov","Daria Morozova
+/ Mikhail Zhirnov","Daria Morozova
+/ Mikhail Zhirnov","Cortney Mansour
+/ Michal Ceska","Cortney Mansour
+/ Michal Ceska","Cortney Mansour
+/ Michal Ceska","Angelique Abachkina
+/ Louis Thauron","Angelique Abachkina
+/ Louis Thauron","Angelique Abachkina
+/ Louis Thauron","Allison Reed
+/ Vasili Rogov","Allison Reed
+/ Vasili Rogov","Allison Reed
+/ Vasili Rogov","Xiaoyang Yu
+/ Chen Wang","Xiaoyang Yu
+/ Chen Wang","Xiaoyang Yu
+/ Chen Wang","Valeria Zenkova
+/ Valerie Sinitsin","Valeria Zenkova
+/ Valerie Sinitsin","Valeria Zenkova
+/ Valerie Sinitsin","Brianna Delmaestro
+/ Timothy Lum","Brianna Delmaestro
+/ Timothy Lum","Brianna Delmaestro
+/ Timothy Lum","Barbora Silná
+/ Juri Kurakin","Barbora Silná
+/ Juri Kurakin","Barbora Silná
+/ Juri Kurakin","Justyna Plutowska
+/ Peter Gerber","Justyna Plutowska
+/ Peter Gerber","Justyna Plutowska
+/ Peter Gerber","Holly Moore
+/ Daniel Klaber","Holly Moore
+/ Daniel Klaber","Holly Moore
+/ Daniel Klaber","Pilar Maekawa Moreno
+/ Leonardo Maekawa Moreno","Pilar Maekawa Moreno
+/ Leonardo Maekawa Moreno","Pilar Maekawa Moreno
+/ Leonardo Maekawa Moreno","Natalia Kaliszek
+/ Maksim Spodirev","Natalia Kaliszek
+/ Maksim Spodirev","Natalia Kaliszek
+/ Maksim Spodirev","Valeria Gaistruk
+/ Alexei Olejnik","Valeria Gaistruk
+/ Alexei Olejnik","Valeria Gaistruk
+/ Alexei Olejnik","Shari Koch
+/ Christian Nüchtern","Shari Koch
+/ Christian Nüchtern","Shari Koch
+/ Christian Nüchtern","Yue Zhao
+/ Xun Zheng","Yue Zhao
+/ Xun Zheng","Yue Zhao
+/ Xun Zheng","Daria Korotitskaia
+/ Maksim Spodirev","Daria Korotitskaia
+/ Maksim Spodirev","Daria Korotitskaia
+/ Maksim Spodirev","Victoria Sinitsina
+/ Nikita Katsalapov","Victoria Sinitsina
+/ Nikita Katsalapov","Victoria Sinitsina
+/ Nikita Katsalapov","Yura Min
+/ Timothy Koleto","Yura Min
+/ Timothy Koleto","Yura Min
+/ Timothy Koleto","Misato Komatsubara
+/ Andrea Fabbri","Misato Komatsubara
+/ Andrea Fabbri","Misato Komatsubara
+/ Andrea Fabbri","Ria Schiffner
+/ Julian Salatzki","Ria Schiffner
+/ Julian Salatzki","Ria Schiffner
+/ Julian Salatzki","Ksenia Korobkova
+/ Daryn Zhunussov","Ksenia Korobkova
+/ Daryn Zhunussov","Ksenia Korobkova
+/ Daryn Zhunussov","Danielle Wu
+/ Spencer Soo","Danielle Wu
+/ Spencer Soo","Danielle Wu
+/ Spencer Soo","Sofia Sforza
+/ Leo Luca Sforza","Sofia Sforza
+/ Leo Luca Sforza","Sofia Sforza
+/ Leo Luca Sforza","Karina Uzurova
+/ Ilias Ali","Karina Uzurova
+/ Ilias Ali","Karina Uzurova
+/ Ilias Ali","Elliana Pogrebinsky
+/ Alex Benoit","Elliana Pogrebinsky
+/ Alex Benoit","Elliana Pogrebinsky
+/ Alex Benoit","Katharina Müller
+/ Tim Dieck","Katharina Müller
+/ Tim Dieck","Katharina Müller
+/ Tim Dieck","Sarah Marine Rouffanche
+/ Geoffrey Brissaud","Sarah Marine Rouffanche
+/ Geoffrey Brissaud","Sarah Marine Rouffanche
+/ Geoffrey Brissaud","Zsuzsanna Nagy
+/ Mate Fejes","Zsuzsanna Nagy
+/ Mate Fejes","Zsuzsanna Nagy
+/ Mate Fejes","Cagla Demirsal
+/ Berk Akalin","Cagla Demirsal
+/ Berk Akalin","Cagla Demirsal
+/ Berk Akalin","Tina Garabedian
+/ Alexandre Laliberte","Tina Garabedian
+/ Alexandre Laliberte","Tina Garabedian
+/ Alexandre Laliberte","Eva Khachaturian
+/ Andrei Bagin","Eva Khachaturian
+/ Andrei Bagin","Eva Khachaturian
+/ Andrei Bagin","Melinda Meng
+/ Andrew Meng","Melinda Meng
+/ Andrew Meng","Melinda Meng
+/ Andrew Meng","Christina Carreira
+/ Anthony Ponomarenko","Christina Carreira
+/ Anthony Ponomarenko","Christina Carreira
+/ Anthony Ponomarenko","Cecilia Törn
+/ Jussiville Partanen","Cecilia Törn
+/ Jussiville Partanen","Cecilia Törn
+/ Jussiville Partanen","Chloe Lewis
+/ Logan Bye","Chloe Lewis
+/ Logan Bye","Chloe Lewis
+/ Logan Bye","Carina Glastris
+/ Nicholas Lettner","Carina Glastris
+/ Nicholas Lettner","Carina Glastris
+/ Nicholas Lettner","Julia Biechler
+/ Damian Dodge","Julia Biechler
+/ Damian Dodge","Julia Biechler
+/ Damian Dodge","Marieve Cyr
+/ Benjamin Brisebois Gaudreau","Marieve Cyr
+/ Benjamin Brisebois Gaudreau","Marieve Cyr
+/ Benjamin Brisebois Gaudreau","Anastasia Shpilevaya
+/ Grigory Smirnov","Anastasia Shpilevaya
+/ Grigory Smirnov","Anastasia Shpilevaya
+/ Grigory Smirnov","Valeria Starygina
+/ Ivan Volobuiev","Valeria Starygina
+/ Ivan Volobuiev","Valeria Starygina
+/ Ivan Volobuiev","Andreanne Poulin
+/ Marc-Andre Servant","Andreanne Poulin
+/ Marc-Andre Servant","Andreanne Poulin
+/ Marc-Andre Servant","Audrey Croteau-Villeneuve
+/ Jeff Hough","Audrey Croteau-Villeneuve
+/ Jeff Hough","Audrey Croteau-Villeneuve
+/ Jeff Hough","Sara Ghislandi
+/ Giona Terzo Ortenzi","Sara Ghislandi
+/ Giona Terzo Ortenzi","Sara Ghislandi
+/ Giona Terzo Ortenzi","Angelina Telegina
+/ Otar Japaridze","Angelina Telegina
+/ Otar Japaridze","Angelina Telegina
+/ Otar Japaridze","Charlotte Aiken
+/ Josh Whidborne","Charlotte Aiken
+/ Josh Whidborne","Charlotte Aiken
+/ Josh Whidborne","Ramona Elsener
+/ Florian Roost","Ramona Elsener
+/ Florian Roost","Ramona Elsener
+/ Florian Roost","Nicole Kuzmich
+/ Alexandr Sinicyn","Nicole Kuzmich
+/ Alexandr Sinicyn","Nicole Kuzmich
+/ Alexandr Sinicyn","Lolita Yermak
+/ Alexei Shumski","Lolita Yermak
+/ Alexei Shumski","Lolita Yermak
+/ Alexei Shumski","Laureline Aubry
+/ Kevin Bellingard","Laureline Aubry
+/ Kevin Bellingard","Laureline Aubry
+/ Kevin Bellingard","Eugenia Tkachenka
+/ Yuri Hulitski","Eugenia Tkachenka
+/ Yuri Hulitski","Eugenia Tkachenka
+/ Yuri Hulitski","Olga Jakushina
+/ Andrey Nevskiy","Olga Jakushina
+/ Andrey Nevskiy","Olga Jakushina
+/ Andrey Nevskiy","Christine Smith
+/ Simon Eisenbauer","Christine Smith
+/ Simon Eisenbauer","Christine Smith
+/ Simon Eisenbauer","Bryna Oi
+/ Taiyo Mizutani","Bryna Oi
+/ Taiyo Mizutani","Bryna Oi
+/ Taiyo Mizutani","Beatrice Tomczak
+/ Damian Binkowski","Beatrice Tomczak
+/ Damian Binkowski","Beatrice Tomczak
+/ Damian Binkowski","Federica Bernardi
+/ Saverio Giacomelli","Federica Bernardi
+/ Saverio Giacomelli","Federica Bernardi
+/ Saverio Giacomelli","Tatiana Kozmava
+/ Aleksandr Zolotarev","Tatiana Kozmava
+/ Aleksandr Zolotarev","Tatiana Kozmava
+/ Aleksandr Zolotarev","Yue Zhao
+/ Chang Liu","Yue Zhao
+/ Chang Liu","Yue Zhao
+/ Chang Liu","Lorenza Alessandrini
+/ Pierre Souquet","Lorenza Alessandrini
+/ Pierre Souquet","Lorenza Alessandrini
+/ Pierre Souquet","Nadezhda Frolenkova
+/ Vitali Nikiforov","Nadezhda Frolenkova
+/ Vitali Nikiforov","Nadezhda Frolenkova
+/ Vitali Nikiforov","Anastasia Galyeta
+/ Avidan Brown","Anastasia Galyeta
+/ Avidan Brown","Anastasia Galyeta
+/ Avidan Brown","Anna Postrybailo
+/ Edwin Siwkowski","Anna Postrybailo
+/ Edwin Siwkowski","Anna Postrybailo
+/ Edwin Siwkowski","Peroline Ojardias
+/ Michael Bramante","Peroline Ojardias
+/ Michael Bramante","Peroline Ojardias
+/ Michael Bramante","Johanna Allik
+/ Paul Michael Bellantuono","Johanna Allik
+/ Paul Michael Bellantuono","Johanna Allik
+/ Paul Michael Bellantuono","Celia Robledo
+/ Luis Fenero","Celia Robledo
+/ Luis Fenero","Celia Robledo
+/ Luis Fenero","Lauren Collins
+/ Shane Firus","Lauren Collins
+/ Shane Firus","Lauren Collins
+/ Shane Firus","Carolane Soucisse
+/ Simon Tanguay","Carolane Soucisse
+/ Simon Tanguay","Carolane Soucisse
+/ Simon Tanguay","Katie Desveaux
+/ Dmitre Razgulajevs","Katie Desveaux
+/ Dmitre Razgulajevs","Katie Desveaux
+/ Dmitre Razgulajevs","Kristina Gorshkova
+/ Vitali Butikov","Kristina Gorshkova
+/ Vitali Butikov","Kristina Gorshkova
+/ Vitali Butikov","Rebecca Dawn Lucas
+/ Temirlan Yerzhanov","Rebecca Dawn Lucas
+/ Temirlan Yerzhanov","Rebecca Dawn Lucas
+/ Temirlan Yerzhanov","Emily Day
+/ Kevin Leahy","Emily Day
+/ Kevin Leahy","Emily Day
+/ Kevin Leahy","Xibei Li
+/ Guangyao Xiang","Xibei Li
+/ Guangyao Xiang","Xibei Li
+/ Guangyao Xiang","Lesia Volodenkova
+/ Vitali Vakunov","Lesia Volodenkova
+/ Vitali Vakunov","Lesia Volodenkova
+/ Vitali Vakunov","Tory Patsis
+/ Joseph Johnson","Tory Patsis
+/ Joseph Johnson","Tory Patsis
+/ Joseph Johnson","Sammi Wren
+/ Alexey Shcheptov","Sammi Wren
+/ Alexey Shcheptov","Sammi Wren
+/ Alexey Shcheptov","Natalia Kaliszek
+/ Yaroslav Kurbakov","Natalia Kaliszek
+/ Yaroslav Kurbakov","Natalia Kaliszek
+/ Yaroslav Kurbakov","Kimberly Berkovich
+/ Ronald Zilberberg","Kimberly Berkovich
+/ Ronald Zilberberg","Kimberly Berkovich
+/ Ronald Zilberberg","Valerie Taillefer
+/ Jason Chan","Valerie Taillefer
+/ Jason Chan","Valerie Taillefer
+/ Jason Chan","Anastasia Chiriyatyeva
+/ Sergei Shevchenko","Anastasia Chiriyatyeva
+/ Sergei Shevchenko","Anastasia Chiriyatyeva
+/ Sergei Shevchenko","Maria Golubtsova
+/ Kirill Belobrov","Maria Golubtsova
+/ Kirill Belobrov","Maria Golubtsova
+/ Kirill Belobrov","Hannah Whitley
+/ Elliott Graham","Hannah Whitley
+/ Elliott Graham","Hannah Whitley
+/ Elliott Graham","Julia Wagret
+/ Mathieu Couyras","Julia Wagret
+/ Mathieu Couyras","Julia Wagret
+/ Mathieu Couyras","Loreen Geiler
+/ Sven Miersch","Loreen Geiler
+/ Sven Miersch","Loreen Geiler
+/ Sven Miersch","Valentina Gabusi
+/ Nik Mirzakhani","Valentina Gabusi
+/ Nik Mirzakhani","Valentina Gabusi
+/ Nik Mirzakhani","Katerina Konickova
+/ Matej Lang","Katerina Konickova
+/ Matej Lang","Katerina Konickova
+/ Matej Lang","Victoria Hasegawa
+/ Connor Hasegawa","Victoria Hasegawa
+/ Connor Hasegawa","Victoria Hasegawa
+/ Connor Hasegawa","Jana Cejkova
+/ Alexandr Sinicyn","Jana Cejkova
+/ Alexandr Sinicyn","Jana Cejkova
+/ Alexandr Sinicyn","Maria Simonova
+/ Dmitriy Dragun","Maria Simonova
+/ Dmitriy Dragun","Maria Simonova
+/ Dmitriy Dragun","Lolita Yermak
+/ Alexei Khimich","Lolita Yermak
+/ Alexei Khimich","Lolita Yermak
+/ Alexei Khimich","Magalie Leininger
+/ Maxime Caurel","Magalie Leininger
+/ Maxime Caurel","Magalie Leininger
+/ Maxime Caurel","Lisa Enderlein
+/ Hendrik Hilpert","Lisa Enderlein
+/ Hendrik Hilpert","Lisa Enderlein
+/ Hendrik Hilpert","Ho Jung Lee
+/ Richard Kang In Kam","Ho Jung Lee
+/ Richard Kang In Kam","Ho Jung Lee
+/ Richard Kang In Kam","Marina Elias
+/ Denis Koreline","Marina Elias
+/ Denis Koreline","Marina Elias
+/ Denis Koreline"
+Points,Points,4837,4837,4837,4432,4432,4432,4330,4330,4330,3990,3990,3990,3802,3802,3802,3797,3797,3797,3687,3687,3687,3495,3495,3495,3293,3293,3293,3261,3261,3261,2955,2955,2955,2887,2887,2887,2807,2807,2807,2577,2577,2577,2416,2416,2416,2395,2395,2395,2352,2352,2352,2269,2269,2269,2203,2203,2203,2174,2174,2174,2163,2163,2163,2150,2150,2150,2062,2062,2062,1927,1927,1927,1843,1843,1843,1777,1777,1777,1750,1750,1750,1650,1650,1650,1608,1608,1608,1537,1537,1537,1499,1499,1499,1482,1482,1482,1479,1479,1479,1470,1470,1470,1462,1462,1462,1455,1455,1455,1364,1364,1364,1308,1308,1308,1186,1186,1186,1147,1147,1147,1104,1104,1104,1005,1005,1005,996,996,996,975,975,975,971,971,971,943,943,943,923,923,923,918,918,918,910,910,910,886,886,886,886,886,886,875,875,875,867,867,867,863,863,863,822,822,822,805,805,805,778,778,778,757,757,757,756,756,756,756,756,756,748,748,748,741,741,741,736,736,736,728,728,728,719,719,719,683,683,683,677,677,677,516,516,516,510,510,510,505,505,505,489,489,489,453,453,453,452,452,452,446,446,446,432,432,432,429,429,429,425,425,425,425,425,425,410,410,410,382,382,382,378,378,378,373,373,373,369,369,369,364,364,364,357,357,357,346,346,346,346,346,346,328,328,328,313,313,313,312,312,312,312,312,312,311,311,311,300,300,300,284,284,284,281,281,281,281,281,281,261,261,261,257,257,257,240,240,240,216,216,216,203,203,203,203,203,203,201,201,201,198,198,198,194,194,194,185,185,185,182,182,182,182,182,182,178,178,178,172,172,172,164,164,164,164,164,164,164,164,164,164,164,164,164,164,164,152,152,152,148,148,148,148,148,148,148,148,148,133,133,133,127,127,127,120,120,120,120,120,120,120,120,120,115,115,115,108,108,108,108,108,108,108,108,108,108,108,108,108,108,108,104,104,104,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,97,93,93,93,84,84,84,84,84,84,84,84,84,76,76,76,76,76,76,75,75,75,68,68,68
+Season,Season,2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%),2014/2015 season (100%),2013/2014 season (100%),2012/2013 season (70%)
+"ISU
+Championships
+or Olympics",Best,972,1080,551,1080,787,476,0,1200,840,0,1080,756,1200,339,315,875,1200,613,787,709,428,0,787,680,709,756,386,465,840,0,0,680,386,446,446,347,496,402,253,574,0,0,496,465,0,551,500,186,680,0,350,0,551,347,551,339,134,0,680,284,0,496,312,500,450,0,405,328,122,0,200,312,402,264,109,450,365,151,0,275,264,362,295,48,295,405,110,446,362,0,418,140,0,365,239,0,174,266,0,638,0,0,0,293,281,328,157,230,0,215,207,264,162,166,237,214,205,0,0,0,0,0,213,215,127,0,0,446,281,0,114,0,0,0,0,194,0,0,126,0,88,0,113,0,0,194,0,0,402,58,402,293,205,0,0,0,0,0,0,0,0,0,156,141,0,239,83,0,173,0,0,0,0,253,0,0,256,0,0,0,140,0,0,0,173,0,0,0,0,293,237,166,266,0,0,127,0,0,0,0,167,325,0,0,0,0,0,0,0,0,0,325,0,0,0,0,0,103,53,0,264,0,0,0,0,83,0,0,264,0,0,141,0,0,157,0,0,114,0,0,0,0,121,0,93,89,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,98,0,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0,185,0,0,0,0,0,0,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,68,0,0
+"(Junior) Grand
+Prix and Final",Best,800,525,227,720,324,204,0,800,560,0,720,504,648,262,221,324,472,408,583,324,227,0,583,368,525,262,204,324,324,204,324,213,165,292,292,183,262,213,183,360,262,165,262,262,0,324,315,158,324,191,245,191,191,204,292,0,0,236,262,199,0,191,183,350,350,178,203,230,115,236,262,183,213,0,0,225,284,127,0,292,149,213,182,68,250,225,142,236,0,0,0,0,0,225,225,142,284,255,0,472,0,0,0,213,0,255,250,142,0,182,158,0,0,0,0,0,0,262,0,149,0,191,0,203,148,0,0,0,0,0,164,76,315,203,0,182,203,115,0,0,0,0,0,0,0,133,0,213,213,0,191,0,0,0,0,149,292,0,0,250,203,142,0,97,0,133,120,0,0,0,0,0,236,134,0,0,175,225,164,0,0,0,0,0,0,0,203,203,84,0,0,0,0,0,0,164,120,0,0,0,158,191,0,0,0,148,127,292,0,0,0,0,0,0,0,0,0,120,68,0,0,0,148,164,0,0,0,0,0,0,93,164,0,0,133,0,0,148,0,0,0,0,0,0,0,115,133,0,0,182,0,0,133,120,104,182,0,0,0,0,0,164,164,0,0,148,0,164,0,0,0,0,93,203,0,0,0,0,0,0,0,142,148,0,0,148,133,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,108,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,76,148,0,0,0,148,0,0,133,0,0,0,0,120,0,0,120,0,0,120,0,0,0,0,0,0,108,0,108,0,0,0,108,0,108,0,0,108,0,0,0,0,104,97,0,0,97,0,0,97,0,0,0,97,0,97,0,0,97,0,0,0,0,93,0,0,84,0,0,84,0,0,84,0,0,76,0,0,76,0,0,0,0,0,0
+"(Junior) Grand
+Prix and Final",2nd Best,400,360,227,400,324,0,0,400,280,0,400,280,400,213,175,0,360,252,360,324,204,0,400,252,360,236,165,324,292,183,262,0,149,262,236,183,236,0,0,292,236,0,236,0,0,236,250,115,262,0,175,0,0,134,191,0,0,213,0,175,0,0,165,250,250,158,182,225,115,0,236,0,0,0,0,203,250,104,0,236,134,191,164,0,230,203,142,0,0,0,0,0,0,203,225,104,250,250,0,360,0,0,0,0,0,250,133,127,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0,164,148,0,0,0,0,0,148,0,250,203,0,182,182,93,0,0,0,0,0,0,0,133,0,0,0,0,0,0,0,0,0,0,213,0,0,207,203,127,0,0,0,133,97,0,0,0,0,0,0,134,0,0,161,203,164,0,0,0,0,0,0,0,148,182,0,0,0,0,0,0,0,164,108,0,0,0,127,0,0,0,0,120,115,213,0,0,0,0,0,0,0,0,0,108,0,0,0,0,120,0,0,0,0,0,0,0,68,120,0,0,120,0,0,120,0,0,0,0,0,0,0,76,133,0,0,182,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,97,0,148,0,0,0,0,0,108,0,0,0,0,0,0,0,142,133,0,0,0,0,0,0,0,0,0,0,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Selected
+International
+Competition",Best,300,225,175,270,225,175,0,250,0,0,250,0,300,250,0,0,0,158,300,0,0,0,250,175,270,0,175,300,250,142,250,250,175,270,225,175,270,250,175,250,225,175,219,203,158,219,0,0,300,0,0,270,203,0,243,225,158,300,0,0,0,250,158,0,0,0,270,0,0,182,0,158,300,182,127,0,0,0,0,225,175,243,0,0,0,0,0,250,0,0,270,225,0,0,0,0,0,0,0,0,0,0,0,203,142,0,0,0,225,0,0,225,225,127,182,225,158,243,250,0,0,203,175,0,0,0,0,0,142,270,0,0,0,0,0,0,0,0,203,164,0,219,203,0,225,0,0,0,0,0,0,0,0,0,250,158,198,164,0,0,0,0,225,0,0,0,0,0,225,182,0,0,0,0,0,164,0,0,0,0,250,0,115,0,250,115,0,0,0,198,0,0,250,0,0,0,0,0,0,225,0,0,0,0,0,0,0,0,0,0,164,0,0,250,0,0,0,0,0,0,182,0,0,0,0,182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,182,0,0,0,0,0,0,0,0,0,0,0,219,0,0,0,0,0,0,0,158,0,0,0,0,0,0,0,0,0,0,182,0,0,0,142,0,0,142,0,0,0,203,0,0,203,0,0,0,0,0,198,0,0,0,0,0,0,0,0,182,0,0,182,0,0,178,0,0,0,0,0,164,0,0,0,164,0,0,164,0,164,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Selected
+International
+Competition",2nd Best,0,0,0,0,0,127,0,0,0,0,0,0,0,182,0,0,0,0,300,0,0,0,0,0,0,0,0,0,0,0,250,164,0,243,164,142,270,225,142,0,203,127,0,0,115,0,0,0,0,0,0,178,0,0,198,164,0,0,0,0,0,250,158,0,0,0,219,0,0,0,0,158,300,182,115,0,0,0,0,0,0,0,0,0,0,0,0,243,0,0,243,203,0,0,0,0,0,0,0,0,0,0,0,203,127,0,0,0,219,0,0,225,203,115,164,164,142,243,0,0,0,164,158,0,0,0,0,0,127,203,0,0,0,0,0,0,0,0,178,164,0,219,164,0,225,0,0,0,0,0,0,0,0,0,203,115,0,0,0,0,0,0,203,0,0,0,0,0,198,0,0,0,0,0,0,0,0,0,0,0,243,0,0,0,203,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,203,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

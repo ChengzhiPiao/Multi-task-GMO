@@ -1,0 +1,7 @@
+Model,Stepping,CPU,CPU,CPU,CPU,CPU,CPU,GPU,GPU,GPU,GPU,"Memory
+support",TDP,Released,Part number
+Model,Stepping,Cores,Frequency,Turbo,L2 Cache,Multi1,Vcore,Model,Config2,Frequency,Turbo,"Memory
+support",TDP,Released,Part number
+E1 Micro-6200T,,2,1.0&nbsp;GHz,1.4&nbsp;GHz,1&nbsp;MB,,0.50 - 1.40&nbsp;V,R2,128:8:4,,300&nbsp;MHz,DDR3L-1066,3.95&nbsp;W,Q2 2014,EM620TIWJ23JB
+A4 Micro-6400T,,4,1.0&nbsp;GHz,1.6&nbsp;GHz,2&nbsp;MB,,0.50 - 1.40&nbsp;V,R3,128:8:4,,350&nbsp;MHz,DDR3L-1333,4.5&nbsp;W,Q2 2014,AM640TIVJ44JB
+A10 Micro-6700T,,4,1.2&nbsp;GHz,2.2&nbsp;GHz,2&nbsp;MB,,0.50 - 1.40&nbsp;V,R6,128:8:4,,500&nbsp;MHz,DDR3L-1333,4.5&nbsp;W,Q2 2014,AM670TIVJ44JB

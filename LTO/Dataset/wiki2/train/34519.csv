@@ -1,0 +1,4 @@
+Bitruncated 7-cube,Type,Schläfli symbol,Coxeter-Dynkin diagrams,6-faces,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Bitruncated 7-cube,uniform 7-polytope,"2t{4,35}","{{CDD|node|4|node_1|3|node_1|3|node|3|node|3|node|3|node}}
+{{CDD|nodes_11|split2|node_1|3|node|3|node|3|node|3|node}}",,,,,,9408,2688,"{ }v{3,3,3}","B7, [35,4]
+D7, [34,1,1]",convex

@@ -1,0 +1,5 @@
+Column,Column,FormType,SurveyUtil,Table,Table
+electricity,water,default,default,default,default
+displayChoicesList,displayChoicesList,FormType.formType,SurveyUtil.formId,defaultViewType,displayName
+object,object,string,string,string,object
+"[{""choice_list_name"":""yesno"",""data_value"":""yes"",""display"":{""title"":{""text"":""yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""no"",""display"":{""title"":{""text"":""no""}},""_row_num"":3}]","[{""choice_list_name"":""yesno"",""data_value"":""yes"",""display"":{""title"":{""text"":""yes""}},""_row_num"":2},{""choice_list_name"":""yesno"",""data_value"":""no"",""display"":{""title"":{""text"":""no""}},""_row_num"":3}]",SURVEY,household,SPREADSHEET,"{""text"":""Household Survey""}"

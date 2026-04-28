@@ -1,0 +1,5 @@
+Text res.,80×25,40×25,80×25,80×25,80×43,80×25,80×50,80×60,132×25,132×43,132×50,132×60
+Char. size,9×14,8×8,8×8,8×14,8×8,9×16,9×8,,,,,
+Graphics res.,720×350,320×200,640×200,640×350,640×350,720×400,720×400,,,,,
+Colors,B&W Text,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors,16 colors
+Adapters,"MDA, Hercules","CGA, EGA","CGA, EGA",EGA,EGA,VGA,VGA,VESA-compatible Super VGA,VESA-compatible Super VGA,VESA-compatible Super VGA,VESA-compatible Super VGA,VESA-compatible Super VGA

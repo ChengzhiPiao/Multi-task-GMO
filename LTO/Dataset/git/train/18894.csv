@@ -1,0 +1,2 @@
+access_l10n_fr_report_user,l10n_fr_report account user,model_l10n_fr_report,account.group_account_user,1,1,1,1
+access_l10n_fr_line_user,l10n_fr.l10n_fr_line_account user,model_l10n_fr_line,account.group_account_user,1,1,1,1

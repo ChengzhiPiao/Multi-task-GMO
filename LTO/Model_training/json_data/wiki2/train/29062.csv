@@ -1,0 +1,40 @@
+,D14,D15,"D34
+Ran","D35
+Ran",Majority →,"R35
+Ran","R34
+Ran",R15,R14,
+,D13,D16,"D33
+Ran","D36
+Ran",Majority →,"R36
+Ran","R33
+Ran",R16,R13,
+,D12,D17,"D32
+Ran","D37
+Ran",Majority →,"R37
+Ran","R32
+Ran",R17,R12,
+,D11,D18,"D31
+Ran","D38
+Ran",Majority →,"R38
+Ran","R31
+Ran",R18,R11,
+,D10,D19,"D30
+Ran","D39
+Unknown",Majority →,"R39
+Ran","R30
+Ran",R19,R10,
+,D9,D20,D29,"D40
+Retired",Majority →,"R40
+Ran","R29
+Ran",R20,R9,
+D1,D8,D21,D28,P1,Majority →,"R41
+Unknown",R28,R21,R8,R1
+D2,D7,D22,D27,P2,Majority →,"R42
+Unknown",R27,R22,R7,R2
+D3,D6,D23,D26,"R46
+Retired",Majority →,"R43
+Retired",R26,R23,R6,R3
+D4,D5,D24,D25,"R45
+Retired","R44
+Retired","R44
+Retired",R25,R24,R5,R4

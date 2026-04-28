@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Bahia}} Fluminense de Feira,6,3,3,0,8,4,+4,12
+2,{{flagicon|Pernambuco}} Salgueiro,6,2,4,0,8,6,+2,10
+3,{{flagicon|Sergipe}} Sergipe,6,1,2,3,11,10,+1,5
+4,{{flagicon|Alagoas}} Coruripe,6,1,1,4,2,9,−7,4

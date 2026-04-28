@@ -1,0 +1,2 @@
+Number of stops,Configuration,Track length,Rise,Maximum gradient,Track gauge,Number of cars,Capacity,Maximum speed,Travel time
+2,Single track with passing loop,{{convert|515|m|0}},{{convert|180|m}},54%,{{RailGauge|1000mm|allk=on}},2,40 passengers per car,{{convert|1.6|m/s|1}},6 minutes

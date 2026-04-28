@@ -1,0 +1,5 @@
+Pin #,&nbsp;—,,,,,,,,,,,,,,,
+Pin #,&nbsp;—,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Mating,&nbsp;—,3rd,3rd,2nd,1st,2nd,2nd,2nd,3rd,3rd,2nd,3rd,1st,2nd,3rd,3rd
+Function,Coding notch,3.3&nbsp;V Power,3.3&nbsp;V Power,"Enter/exit Power Disable (PWDIS) mode
+(3.3&nbsp;V Power, Pre-charge prior to SATA 3.3)",Ground,Ground,Ground,"5&nbsp;V Power, Pre-charge",5&nbsp;V Power,5&nbsp;V Power,Ground,Staggered spinup/activity,Ground,"12&nbsp;V Power, Pre-charge",12&nbsp;V Power,12&nbsp;V Power

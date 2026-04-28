@@ -1,0 +1,8 @@
+access_hr_holidays_user,access_hr_holidays_employee,access_hr_holydays_status_employee,access_hr_holydays_status_manager,access_hr_holidays_remain_user,access_resource_calendar_leaves_user,access_calendar_event_hr_user,access_calendar_event_type_manager,access_calendar_attendee_hr_user
+hr.holidays.user,hr.holidays.employee,hr.holidays.status employee,hr.holidays.status manager,hr.holidays.ramain.user,resource_calendar_leaves_user,calendar.event.hr.user,calendar.event.type.manager,calendar.attendee.hr.user
+model_hr_holidays,model_hr_holidays,model_hr_holidays_status,model_hr_holidays_status,model_hr_holidays_remaining_leaves_user,resource.model_resource_calendar_leaves,calendar.model_calendar_event,calendar.model_calendar_event_type,calendar.model_calendar_attendee
+base.group_hr_user,base.group_user,base.group_user,base.group_hr_manager,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_manager,base.group_hr_user
+1,1,1,1,1,1,1,1,1
+1,1,0,1,1,1,1,1,1
+1,1,0,1,1,1,1,1,1
+1,1,0,1,1,1,1,1,1

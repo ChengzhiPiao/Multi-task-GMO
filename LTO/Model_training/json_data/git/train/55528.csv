@@ -1,0 +1,6 @@
+ACTOR_TYPE:1,ACTOR_TYPE:2,ACTOR_TYPE:3,ACTOR_TYPE:4,ACTOR_TYPE:5,ACTOR_TYPE:6,ACTOR_TYPE:7,ACTOR_TYPE:8,ACTOR_TYPE:9,ACTOR_TYPE:10,ACTOR_TYPE:11,ACTOR_TYPE:12,ACTOR_TYPE:13,ACTOR_TYPE:14,ACTOR_TYPE:15,ACTOR_TYPE:16
+Individual,Architect/Designer,Builder,Entertainment Professional,Sports Professional,Surveyor,Photographer,Artist ,Group,Organization,Family,Architecture/Design Firm or Partnership,Construction Company,Surveying Firm,Engineer,Engineering Firm
+,,,,,,,,,,,,,,,
+ACTOR_TYPE_AUTHORITY_DOCUMENT.csv,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE:1,ACTOR_TYPE_AUTHORITY_DOCUMENT.csv,ACTOR_TYPE:9,ACTOR_TYPE:9,ACTOR_TYPE:9,ACTOR_TYPE:9,ACTOR_TYPE:9,ACTOR_TYPE:1,ACTOR_TYPE:9
+Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index,Index
+GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI,GCI

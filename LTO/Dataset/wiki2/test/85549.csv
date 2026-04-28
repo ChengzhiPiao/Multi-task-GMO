@@ -1,0 +1,8 @@
+Year,Team,Games,Games,Receiving,Receiving,Receiving,Receiving,Receiving,Kickoff return,Kickoff return,Kickoff return,Kickoff return,Kickoff return,Punt return,Punt return,Punt return,Punt return,Punt return,Fumbles,Fumbles
+Year,Team,GP,GS,Rec,Yds,Avg,Lng,TD,Ret,Yds,Avg,Lng,TD,Ret,Yds,Avg,Lng,TD,Fum,Lost
+2013,NE,2,1,3,77,25.7,53,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,NE,3,1,11,137,12.5,51,3,9,213,23.7,30,0,0,0,0,0,0,1,0
+2015,NE,2,2,7,57,8.1,16,0,0,0,0,0,0,4,54,13.5,28,0,0,0
+2016,NE,3,0,10,90,9.0,20,1,0,0,0,0,0,0,0,0,0,0,0,0
+2017,NE,3,2,26,348,13.4,50,2,0,0,0,0,0,5,52,10.4,20,0,0,0
+Total,Total,13,6,57,709,12.4,53,6,9,213,23.7,30,0,9,106,11.8,28,0,1,0

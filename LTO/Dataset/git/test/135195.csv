@@ -1,0 +1,9 @@
+activemq.queue.avg_enqueue_time,activemq.queue.consumer_count,activemq.queue.producer_count,activemq.queue.max_enqueue_time,activemq.queue.min_enqueue_time,activemq.queue.memory_pct,activemq.queue.size,activemq.queue.dequeue_count,activemq.queue.dispatch_count,activemq.queue.enqueue_count,activemq.queue.expired_count,activemq.queue.in_flight_count,activemq.broker.store_pct,activemq.broker.temp_pct,activemq.broker.memory_pct
+gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge
+10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+millisecond,,,millisecond,millisecond,percent,message,message,message,message,message,message,percent,percent,percent
+,,,,,,,,,,,,,,
+On average  the amount of time (ms) that messages remained enqueued.,The number of consumers connected,The number of producers connected,The max the amount of time (ms) that messages remained enqueued.,The min the amount of time (ms) that messages remained enqueued.,The percentage of memory currently in use,The amount of messages that remained queued.,The amount of messages that remained dequeued.,The amount of messages that have been dispatched.,The amount of messages that have been enqueued.,The amount of messages that have been expired.,The amount of messages that have been in flight.,The percentage of store in use.,The percentage of temporary in use.,The percentage of memory in use.
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq,activemq
+avg enq time,cnsmr count,prdcr count,max enq time,min enq time,mem pct,enq size,deq size,dsptch cnt,enq cnt,exp cnt,enq cnt,str pct,temp pct,mem pct

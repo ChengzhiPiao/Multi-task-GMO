@@ -1,0 +1,5 @@
+Direction,Southbound,Southbound,Southbound,Southbound,Southbound
+From,Brisbane,Sydney,Tauranga,Napier,Lyttleton
+To,Sydney,Tauranga,Napier,Lyttleton,Port Chalmers
+Journey Duration,4,5,2,1,2
+Total Elapsed Days,4,9,11,12,14

@@ -1,0 +1,2 @@
+access_xx_product_supplierinfo_tags_user,xx.product.supplierinfo.tags.user,model_xx_product_supplierinfo_tags,base.group_user,1,0,0,0
+access_xx_product_supplierinfo_tags_stock_user,xx.product.supplierinfo.tags.stock.user,model_xx_product_supplierinfo_tags,stock.group_stock_user,1,1,1,1

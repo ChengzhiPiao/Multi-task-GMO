@@ -1,0 +1,8 @@
+,,Labial,Labial,Alveolar,Palatal,Velar,Velar,Glottal
+,,nor.,lab.,Alveolar,Palatal,nor.,lab.,Glottal
+Stop,voiceless,p,pʷ,t,c,k,kʷ,(ʔ)
+Stop,voiced,b,bʷ,d,ɟ,ɡ,ɡʷ,
+Nasal,Nasal,m,mʷ,n,ɲ,ŋ,,
+Fricative,Fricative,v,vʷ,,,ɣ,,
+Rhotic,Rhotic,,,"r, r̃, (rh)",,,,
+Approximant,Approximant,,,,j,,w,

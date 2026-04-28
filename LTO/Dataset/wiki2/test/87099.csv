@@ -1,0 +1,6 @@
+Place,1,2,3,4,5,6,7,8
+Nation,{{flag|Russia}},{{flag|Germany}},{{flag|France}},{{flag|Belarus}},{{flag|Ukraine}},{{flag|Norway}},{{flag|Italy}},{{flag|Sweden}}
+{{goca}},4,2,1,1,0,0,0,0
+{{sica}},4,1,1,0,1,1,0,0
+{{brca}},0,0,1,2,2,0,2,1
+Total,8,3,3,3,3,1,2,1

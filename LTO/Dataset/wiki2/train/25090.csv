@@ -1,0 +1,3 @@
+Year,Team,{{tooltip|GP|Games played}},{{tooltip|GS|Games started}},Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing
+Year,Team,{{tooltip|GP|Games played}},{{tooltip|GS|Games started}},{{tooltip|Cmp|Passes completed}},{{tooltip|Att|Passes attempted}},{{tooltip|Pct|Completion percentage}},{{tooltip|Yds|Passing yards}},{{tooltip|Y/A|Yards per passing attempt}},{{tooltip|TD|Passing touchdowns}},{{tooltip|Int|Interceptions}},{{tooltip|Rtg|Passer rating}},{{tooltip|Att|Rushing attempts}},{{tooltip|Yds|Rushing yards}},{{tooltip|Avg|Yards per rushing attempt}},{{tooltip|TD|Rushing touchdowns}}
+2015,TEN,1,0,10,14,71.4,99,7.1,1,0,114.9,0,0,0.0,0

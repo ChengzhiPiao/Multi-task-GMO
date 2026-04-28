@@ -1,0 +1,2 @@
+GND,TX1+,TX1−,V{{sub|BUS}},CC1,D+,D−,SBU1,V{{sub|BUS}},RX2−,RX2+,GND
+GND,RX1+,RX1−,V{{sub|BUS}},SBU2,D−,D+,CC2,V{{sub|BUS}},TX2−,TX2+,GND

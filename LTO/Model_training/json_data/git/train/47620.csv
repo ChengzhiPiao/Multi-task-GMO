@@ -1,0 +1,5 @@
+183.1445,183.1445,183.2111,183.2111,183.5333,183.5333,184.2006,184.4333,184.8889
+183.6111,183.6111,183.8333,183.8333,,,,,
+Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,Hand,FailOnTouchObstacleLong-1
+FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong-1,FailOnTouchObstacleMed-1,Target
+LeftGate,RightGate,LeftGate,RightGate,LeftGate,RightGate,PickedUp,LeftGate,Pushed

@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|L|Lost}},{{Tooltip|MW|Matches won}},{{Tooltip|ML|Matches lost}},{{Tooltip|GW|Games won}},{{Tooltip|GL|Games lost}},{{Tooltip|PW|Points won}},{{Tooltip|PL|Points lost}},{{Tooltip|Pts|Points}},Qualification
+1,{{bd|BEL}},2,2,0,6,4,15,8,438,395,4,Play Off F1
+2,{{bd|SVK}},2,1,1,5,5,11,13,425,456,2,Play Off F2
+3,{{nowrap|{{bd|CZE}} [9/16]}},2,1,1,4,6,9,14,426,438,0,Play Off F3

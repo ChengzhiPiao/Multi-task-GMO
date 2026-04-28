@@ -1,0 +1,8 @@
+444096,433419,435063,447605,470391,470399,471116,442305,447601,465314
+Wakaama,Wakaama,Wakaama,Wakaama,Wakaama,Wakaama,Wakaama,Wakaama,Wakaama,Wakaama
+Core,Core,Core,Core,Core,Core,Core,Core,Core,Core
+wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox,wakaama-inbox
+UNCONFIRMED,NEW,NEW,NEW,NEW,NEW,NEW,RESOLVED,RESOLVED,RESOLVED
+ ---, ---, ---, ---, ---, ---, ---,FIXED,FIXED,FIXED
+Reading a whole object should return an array of object instances,Initial Contribution,[examples] Provide a sample for Raspberry Pi,[content-type] wakaama don't use CoAP content-type/media-type information,use <inttypes.h> macros for printf like function.,remove implicit cast in er-coap-13.c,Lwm2mClient connection issue (IPv4/Ipv6),[move] transfer Wakaama project to top-level IoT project,[tlv] integer tlv encoding,Client throws a segmentation fault when a read is done on Object 2 (Access Control) resources
+2014-09-15 08:03:53,2014-04-24 09:55:49,2014-05-16 09:10:34,2014-10-16 12:48:11,2015-06-17 10:58:23,2015-06-17 11:46:08,2015-06-26 06:39:54,2014-08-28 14:49:02,2015-03-16 09:23:32,2015-04-24 10:21:27

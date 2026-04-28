@@ -1,0 +1,9 @@
+Product Name,Age Analysis,Benford's law,Calculated field,Drill-down (Table),Drill-down (Pivot),Matching,Matching (Fuzzy),Sample (Random),Sample (Monetary unit),Sequence Check (Gap),Sort field,Sort multiple fields,Statistics,Stratification,Total row
+Analyzer - Arbutus Software,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Audit Command Language (ACL),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Easy2Analyse (QDAC.net),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+ESKORT Computer Audit (SESAM),{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+InfoZoom,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Interactive Data Extraction and Analysis (IDEA),{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+TeamMate Analytics / TopCAATs,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+SoftCAAT/ eCAAT,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}

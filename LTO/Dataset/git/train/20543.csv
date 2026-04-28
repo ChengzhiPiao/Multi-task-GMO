@@ -1,0 +1,6 @@
+access_link_tracker_user,link.tracker,model_link_tracker,base.group_user,1,0,0,0
+access_link_tracker_public,link.tracker,model_link_tracker,base.group_public,1,0,0,0
+access_link_tracker_code_user,link.tracker.code,model_link_tracker_code,base.group_user,1,0,0,0
+access_link_tracker_code_public,link.tracker.code,model_link_tracker_code,base.group_public,1,0,0,0
+access_link_tracker_click_user,link.tracker.click,model_link_tracker_click,base.group_user,1,0,0,0
+access_link_tracker_click_public,link.tracker.click,model_link_tracker_click,base.group_public,1,0,0,0

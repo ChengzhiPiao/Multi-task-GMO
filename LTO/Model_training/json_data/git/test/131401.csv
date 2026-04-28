@@ -1,0 +1,5 @@
+access_susep_arquivos,access_susep_arquivos,model_susep_arquivos,base.group_user,1,1,1,1
+access_susep_quadro,access_susep_quadro,model_susep_quadro,base.group_user,1,1,1,1
+access_susep_planilha,access_susep_planilha,model_susep_planilha,base.group_user,1,1,1,1
+access_susep_mapeamento,access_susep_mapeamento,model_susep_mapeamento,base.group_user,1,1,1,1
+access_susep_planilha_campos,access_susep_planilha_campos,model_susep_planilha_campos,base.group_user,1,1,1,1

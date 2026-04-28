@@ -1,0 +1,5 @@
+Bicantitruncated 6-orthoplex,Type,Schläfli symbol,Coxeter-Dynkin diagrams,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Bicantitruncated 6-orthoplex,uniform 6-polytope,"t1,2,3{3,3,3,3,4}
+2tr{3,3,3,3,4}","{{CDD|node|3|node_1|3|node_1|3|node_1|3|node|4|node}}
+{{CDD|node|3|node_1|3|node_1|3|node_1|split1|nodes}}",,,,,10080,2880,,"B6, [3,3,3,3,4]
+D6, [33,1,1]",convex

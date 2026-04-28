@@ -1,0 +1,8 @@
+base.access_invoice_type_user,account.access_invoice_type_account_user,base.access_invoice_type_sale_salesman,project.access_invoice_type_project_user,project.access_invoice_type_project_manager,base.access_invoice_type_portal,base.access_invoice_type_public,access_project_work_type_manager,access_project_work_type_user,access_project_work_type_team_manager
+invoice_type_user,invoice_type_account_user,invoice_type_sale_salesman,invoice_type_project_user,invoice_type_project_manager,invoice_type_portal,invoice_type_public,access.project.work.type.manager,access.project.work.type.user,access.project.work.type.team_manager
+project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_invoice_type,project_work_type.model_project_work_type,project_work_type.model_project_work_type,project_work_type.model_invoice_type
+base.group_user,account.group_account_user,base.group_sale_salesman,project.group_project_user,project.group_project_manager,base.group_portal,base.group_public,project.group_project_manager,project.group_project_user,project.group_project_team_manager
+1,1,1,1,1,1,1,1,1,1
+0,1,1,0,1,0,0,1,0,1
+0,1,1,0,1,0,0,1,0,1
+0,1,0,0,1,0,0,1,0,1

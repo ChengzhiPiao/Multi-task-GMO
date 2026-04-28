@@ -1,0 +1,4 @@
+DecisionTreeClassifier,,anchors precision,,,,,,,anchors coverage,,,,,,,anchors prec*coverage,,,,,,,anchors size,,,,,,,time to compute anchors,,,,,,,dataset name,generate_blobs
+1,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,,kmeans: ,decile: ,quartile: ,entropy: ,MDLP: ,,dataset size,1000
+1,,,1,1,1,1,1,,,0.41,0.37,0.38,0.51,0.51,,,0.58,0.54,0.55,0.67,0.67,,,1,1,1,1,1,,,9.11,10.42,4.47,2.76,2.81,,dataset nb feature,2
+0.95,,,,,,,,,Normalized coverage,0.80,0.73,0.75,1.00,1.00,,Normalized F1,0.89,0.84,0.85,1.00,1.00,,,,,,,,,,,,,,,,Number of instances running,100

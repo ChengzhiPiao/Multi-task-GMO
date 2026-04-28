@@ -1,0 +1,5 @@
+934.6556,934.6889,934.7556,934.8778,934.9111,935.0111,935.0556,935.1111,935.3223,935.6,935.6334,935.7553,935.8223,935.9667,935.9778
+934.8112,934.8667,,935.0667,935.2111,,935.4778,935.9667,,,,,,,
+Hand,HandToWrist,WristToElbow,Hand,HandToWrist,WristToElbow,Hand,HandToWrist,WristToElbow,Hand,Hand,Hand,Hand,HandToWrist,FailOnTouchObstacleMed-1
+FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed,FailOnTouchObstacleMed,Target
+LeftGate,LeftGate,LeftGate,RightGate,RightGate,RightGate,LeftGate,LeftGate,LeftGate,Pushed,RightGate,PickedUp,LeftGate,LeftGate,Pushed

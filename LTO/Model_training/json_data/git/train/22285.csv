@@ -1,0 +1,8 @@
+access_sale_order,access_sale_order_line,access_account_invoice,access_account_invoice_tax,access_account_invoice_line,access_account_journal,access_product_list,access_res_partner,access_account_tax,access_res_partner_category
+sale.order,sale.order.line,account.invoice,account.invoice.tax,account.invoice.line,account.journal,product.pricelist,res.partner,account.tax,res.partner.category
+sale.model_sale_order,sale.model_sale_order_line,account.model_account_invoice,account.model_account_invoice_tax,account.model_account_invoice_line,account.model_account_journal,product.model_product_pricelist,base.model_res_partner,account.model_account_tax,base.model_res_partner_category
+base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal,base.group_portal
+1,1,1,1,1,1,1,1,1,1
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0

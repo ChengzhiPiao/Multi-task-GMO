@@ -1,0 +1,8 @@
+access_slide_slide_public,access_slide_slide_portal,access_slide_slide_user,access_slide_tag_public,access_slide_tag_portal,access_slide_tag_user,access_slide_channel_public,access_slide_channel_portal,access_slide_channel_user,access_slide_category_public,access_slide_category_portal,access_slide_category_user,access_slide_embed_all,access_slide_embed_user
+slide.slide.public,slide.slide.portal,slide.slide.user,slide.tag.public,slide.tag.portal,slide.tag.user,slide.channel.public,slide.channel.portal,slide.channel.user,slide.category.public,slide.category.portal,slide.category.user,slide.embed.all,slide.embed.user
+model_slide_slide,model_slide_slide,model_slide_slide,model_slide_tag,model_slide_tag,model_slide_tag,model_slide_channel,model_slide_channel,model_slide_channel,model_slide_category,model_slide_category,model_slide_category,model_slide_embed,model_slide_embed
+base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user,,base.group_user
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,0,1,0,0,1,0,0,1,0,0,1,0,1
+0,0,1,0,0,1,0,0,1,0,0,1,0,1
+0,0,1,0,0,1,0,0,1,0,0,1,0,1

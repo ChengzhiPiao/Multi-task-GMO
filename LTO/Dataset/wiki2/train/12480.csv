@@ -1,0 +1,5 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1,{{fb|AUS}},9,6,3,3,0,15,6,+9
+2,{{fb|IRQ|1963}},8,6,3,2,1,11,6,+5
+3,{{fb|IDN}},4,6,1,2,3,6,13,&minus;7
+4,{{fb|NZL}},3,6,0,3,3,5,12,&minus;7

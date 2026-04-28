@@ -1,0 +1,2 @@
+access_github_event,access_github_event,model_github_event,base.group_user,1,0,0,0
+access_github_event_admin,access_github_event_admin,model_github_event,base.group_system,1,1,1,0

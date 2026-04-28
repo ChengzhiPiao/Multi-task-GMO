@@ -1,0 +1,4 @@
+1,Execute,Given  User is in Zero Bank Home Page,Access to Zero Bank Portal:User is in Zero Bank Home Page,,,
+2,Execute,When  User Opts for Signin,Access to Zero Bank Portal:User Opts for Signin,,,
+3,Execute,And  User Enters Credentials and Signin,Access to Zero Bank Portal:User Enters Credentials and Signin,,,
+4,Execute,Then  Error Msg is Displayed,Access to Zero Bank Portal:Error Msg is Displayed,,,

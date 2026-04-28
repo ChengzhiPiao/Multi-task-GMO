@@ -1,0 +1,7 @@
+form_type,filer_committee_id_number,transaction_id,controller_last_name,controller_first_name,controller_middle_name,controller_prefix,controller_suffix,controller_street_1,controller_street_2,controller_city,controller_state,controller_zip,controller_employer,controller_occupation,amended_cd
+1.0,2.0,3.0,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,
+FORM TYPE,FILER COMMITTEE ID NUMBER,TRANSACTION ID NUMBER,CONTROLLER LAST NAME (Share/Exer Control),CONTROLLER FIRST NAME,CONTROLLER MIDDLE NAME,CONTROLLER PREFIX,CONTROLLER SUFFIX,CONTROLLER STREET 1,CONTROLLER STREET 2,CONTROLLER CITY,CONTROLLER STATE,CONTROLLER ZIP,CONTROLLER EMPLOYER,CONTROLLER OCCUPATION,
+1.0,2.0,12.0,3.0,,,,,4.0,5.0,6.0,7.0,8.0,9.0,10.0,
+FORM TYPE,FILER FEC CMTE ID,TRAN ID,IND/NAME  (Share/Exer Control),,,,,STREET 1,STREET 2,CITY,STATE,ZIP,EMPLOYER,OCCUPATION,
+1.0,2.0,12.0,3.0,,,,,4.0,5.0,6.0,7.0,8.0,9.0,10.0,11.0
+FORM TYPE,FILER FEC CMTE ID,TRAN ID,IND/NAME  (Share/Exer Control),,,,,STREET 1,STREET 2,CITY,STATE,ZIP,EMPLOYER,OCCUPATION,AMENDED CD

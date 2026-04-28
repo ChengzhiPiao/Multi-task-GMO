@@ -1,0 +1,6 @@
+{{nowrap|Stop No.}},[2776] Perth Underground platforms,99601,99602,[2776] Main platforms,99003,99004,99005,99006,99007,99008,99009
+Platform,[2776] Perth Underground platforms,{{TP platform|Joondalup|1}},{{TP platform|Mandurah|2}},[2776] Main platforms,{{TP platform|Australind|3}},{{TP platform|Thornlie|4}},{{TP platform|Armadale|5}},"{{TP platform|Armadale|6}}
+(West)",{{TP platform|silver|7|B}},{{TP platform|Fremantle|8}},{{TP platform|Midland|9}}
+Line,[2776] Perth Underground platforms,{{font color|white|Joondalup}},{{font color|white|Mandurah}},[2776] Main platforms,{{font color|#E0730E|Australind}},{{font color|black|Thornlie}},{{font color|black|Armadale}},{{font color|black|Armadale}},,{{font color|white|Fremantle}},{{font color|white|Midland}}
+Stopping Pattern,[2776] Perth Underground platforms,"All, C, P, W","All, C, K, W",[2776] Main platforms,All stations,T,"All, B, C",C,,"All, A, B, D, K, L, M, +S","All, A, B, P"
+Notes,[2776] Perth Underground platforms,Pattern C during peak hours on weekdays only. Pattern P terminates at platform 9.,Pattern C during on weekdays only.,[2776] Main platforms,Transwa regional service to Bunbury.,,,Peak hours on weekdays only.,"Works area, inaccessible from the East concourse.",,

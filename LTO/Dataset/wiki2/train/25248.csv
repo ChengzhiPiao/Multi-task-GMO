@@ -1,0 +1,5 @@
+Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+{{rhm|ESP}},3,3,0,0,17,2,+15,9
+{{rhm|FRA}},3,1,1,1,4,8,&minus;4,4
+{{rhm|ENG}},3,1,0,2,6,6,0,3
+{{rhm|NED}},3,0,1,2,3,14,&minus;9,1

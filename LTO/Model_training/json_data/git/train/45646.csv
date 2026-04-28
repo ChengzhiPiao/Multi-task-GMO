@@ -1,0 +1,2 @@
+org/assertj/core/error/ShouldHavePropertyOrField.shouldHavePropertyOrField,(Ljava/lang/Object;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHavePropertyOrField.ShouldHavePropertyOrField,(Ljava/lang/Object;Ljava/lang/String;)V,20,1

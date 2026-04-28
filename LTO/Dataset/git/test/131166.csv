@@ -1,0 +1,2 @@
+access_bukpot_pph_f113301_out,Bukti Potong PPh (f.1.1.33.01) Out - All User,model_l10n_id_bukti_potong_pph_f113301_out,base.group_user,1,0,0,0
+access_bukpot_pph_f113301_out_taxform_user,Bukti Potong PPh (f.1.1.33.01) Out - Taxform User,model_l10n_id_bukti_potong_pph_f113301_out,l10n_id_taxform.user_group_taxform,1,1,1,1

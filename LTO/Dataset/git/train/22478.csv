@@ -1,0 +1,8 @@
+access_website_public,access_website,access_website_menu,access_website_menu_designer,access_website,access_website_converter_test,access_website_converter_test_sub,access_website_ir_ui_view,access_seo_public,access_seo_public,access_seo_designer
+website,website,access_website_menu,Web Menu Manager,web menu manager,access_website_converter_test,access_website_converter_test_sub,access_website_ir_ui_view,access_seo_public,access_seo_manager,access_seo_designer
+website.model_website,website.model_website,model_website_menu,model_website_menu,website.model_website,model_website_converter_test,model_website_converter_test_sub,model_ir_ui_view,model_website_seo_metadata,model_website_seo_metadata,model_website_seo_metadata
+,base.group_website_designer,,base.group_website_designer,base.group_website_designer,,,base.group_website_designer,,base.group_website_designer,base.group_website_designer
+1,1,1,1,1,1,1,1,1,1,1
+0,1,0,1,1,1,1,1,0,1,1
+0,1,0,1,1,1,1,1,0,1,1
+0,1,0,1,1,1,1,1,0,1,1

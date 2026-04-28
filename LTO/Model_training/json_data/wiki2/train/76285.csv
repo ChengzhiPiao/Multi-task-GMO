@@ -1,0 +1,7 @@
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+,,,,,,,,,,
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+,,,,,,,,,,
+&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;,&nbsp;
+number of states,number of observations,probability of transition from state to state,"-dimensional vector, composed of ; must sum to","dimension of categorical observations, e.g. size of word vocabulary",probability for state of observing the th item,"-dimensional vector, composed of ; must sum to",state of observation at time,observation at time,,

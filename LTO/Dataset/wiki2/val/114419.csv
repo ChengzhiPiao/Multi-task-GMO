@@ -1,0 +1,8 @@
+#,Seed,Athlete,1,2,3,4,5,6,7,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,5,{{nowrap|{{flagIOC2athlete|[[Yoon Ji-su]]|KOR|2017 Summer Universiade}}}},,D4,D4,D4,V,V,V,3,6,0.500,27,21,6,4,27
+2,14,{{nowrap|{{flagIOC2athlete|[[Charleine Taillandier]]|FRA|2017 Summer Universiade}}}},V,,D3,V,V,V,V,5,6,0.833,28,17,11,3,11
+3,22,{{nowrap|{{flagIOC2athlete|[[Rebecca Gargano]]|ITA|2017 Summer Universiade}}}},V,V,,D0,V,V,V,5,6,0.833,25,13,12,2,10
+4,32,{{nowrap|{{flagIOC2athlete|[[Olga Nikitina]]|RUS|2017 Summer Universiade}}}},V,D2,V,,V,V,V,5,6,0.833,27,11,16,1,5
+5,41,{{nowrap|{{flagIOC2athlete|[[Bandhita Srinualad]]|THA|2017 Summer Universiade}}}},D1,D2,D0,D0,,D3,V,1,6,0.167,11,25,–14,6,52
+6,50,{{nowrap|{{flagIOC2athlete|[[Karina Trois]]|BRA|2017 Summer Universiade}}}},D2,D4,D1,D0,V,,V,2,6,0.333,17,24,–7,5,43
+7,58,{{nowrap|{{flagIOC2athlete|[[Sowmiya Sundara Raj]]|IND|2017 Summer Universiade}}}},D3,D0,D0,D2,D0,D1,,0,6,0.000,6,30,–24,7,60

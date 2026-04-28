@@ -1,0 +1,10 @@
+Number,Number,1,2,3,4,5,6,7,8,9,10,11,13,17,19,20,22,31,33,34,39,42,44,60,70,87,93,
+Nation,Nation,{{flagicon|RUS}},{{flagicon|UKR}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|GHA}},{{flagicon|GER}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|BIH}},{{flagicon|BRA}},{{flagicon|BRA}},{{flagicon|RUS}},{{flagicon|UKR}},{{flagicon|CRO}},{{flagicon|RUS}},{{flagicon|UZB}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|NGR}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},{{flagicon|RUS}},
+Position,Position,GK,DF,DF,DF,MF,FW,DF,MF,FW,MF,FW,MF,MF,MF,DF,MF,FW,DF,MF,MF,GK,MF,MF,MF,MF,FW,
+Name,Name,David Yurchenko,Oleksandr Filin,Pavel Alikin,Aleksei Nikitin,Emmanuel Frimpong,Marvin Pourié,Yevgeni Osipov,Semyon Fomin,Haris Handžić,Marcinho,Diego Carlos,Azamat Zaseyev,Oleksandr Zinchenko,Ivan Paurević,Denis Tumasyan,Vagiz Galiulin,Dmitri Sysuyev,Aleksandr Sukhov,Aleksandr Katsalapov,Dmitry Stotsky,Sergei Narubin,Sylvester Igboun,Vladimir Zubarev,Nikolai Safronidi,Igor Bezdenezhnykh,Vyacheslav Krotov,TOTALS
+Russian Premier League,{{yel}},2,0,2,2,3,1,1,3,4,4,3,4,3,4,1,1,2,1,3,2,1,6,2,1,1,1,58
+Russian Premier League,{{sent off}},0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+Russian Cup,{{yel}},0,1,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,6
+Russian Cup,{{sent off}},0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Total,{{yel}},2,1,2,2,3,1,1,3,4,5,3,4,3,5,1,2,2,1,3,2,1,6,2,2,1,1,64
+Total,{{sent off}},0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3

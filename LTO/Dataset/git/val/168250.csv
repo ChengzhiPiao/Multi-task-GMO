@@ -1,0 +1,8 @@
+access_hr_resume_line,access_hr_resume_line_employee,access_hr_resume_line_type,access_hr_resume_line_type_employee,access_hr_skill_type,access_hr_skill_type_employee,access_hr_skill_level,access_hr_skill_level_employee,access_hr_skill,access_hr_skill_employee,access_hr_employee_skill,access_hr_employee_skill_employee
+hr.resume.line,hr.resume.line.employee,hr.resume.line.type,hr.resume.line.type.employee,hr.skill.type,hr.skill.type.employee,hr.skill.level,hr.skill.level.employee,hr.skill,hr.skill.employee,hr.employee.skill,hr.employee.skill
+model_hr_resume_line,model_hr_resume_line,model_hr_resume_line_type,model_hr_resume_line_type,model_hr_skill_type,model_hr_skill_type,model_hr_skill_level,model_hr_skill_level,model_hr_skill,model_hr_skill,model_hr_employee_skill,model_hr_employee_skill
+hr.group_hr_user,base.group_user,hr.group_hr_user,base.group_user,hr.group_hr_user,base.group_user,hr.group_hr_user,base.group_user,hr.group_hr_user,base.group_user,hr.group_hr_user,base.group_user
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,0,1,0,1,0,1,0,1,1
+1,1,1,0,1,0,1,0,1,0,1,1
+1,1,1,0,1,0,1,0,1,0,1,1

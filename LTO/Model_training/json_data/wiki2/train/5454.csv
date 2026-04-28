@@ -1,0 +1,7 @@
+Region,Abruzzo-Molise,Apulia,Basilicata,Calabria,Campania,Emilia-Romagna,Lazio,Liguria,Lombardy,Marche,Piedmont,Sardinia,Sicily,Trentino,Tuscany,Umbria,Veneto,Venezia Giulia
+First party,,,,,,,,,,,,,,,,,,
+First party,BN,BN,BN,BN,PLD,PSI,PPI,PSI,PSI,PPI,PSI,BN,BN,PPI,PSI,PSI,PPI,BN
+Second party,,,,,,,,,,,,,,,,,,
+Second party,PLD,PSI,PLD,PLD,BN,BN,BN,BN,BN,PSI,BN,PPI,PSDI,BN,PPI,PPI,PSI,PPI
+Third party,,,,,,,,,,,,,,,,,,
+Third party,PSI,PPI,PPI,PSDI,PSI,PPI,PSI,PPI,PPI,BN,PPI,PSI,PLD,SeT,BN,BN,BN,SeT

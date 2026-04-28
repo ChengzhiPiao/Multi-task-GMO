@@ -1,0 +1,7 @@
+Team,{{Tooltip|Pld|Matches played}},{{Tooltip|W|Won – 2 points}},{{Tooltip|L|Lost – 0 points}},{{Tooltip|T|Tied – 1 point}},{{Tooltip|NR|No result – 1 point}},{{Tooltip|Pts|Points}},{{Tooltip|NRR|Net run rate}}
+{{crw|IRE}},5,5,0,0,0,10,+1.718
+{{crw|WIN}},5,4,1,0,0,8,+1.198
+{{crw|NED}},5,3,2,0,0,6,+2.127
+{{crw|PAK}},5,2,3,0,0,4,+0.155
+{{crw|SCO}},5,1,4,0,0,2,–2.042
+{{crw|JPN}},5,0,5,0,0,0,–3.637

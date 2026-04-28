@@ -1,0 +1,8 @@
+keyMarco,keyContinue1,keyContinue2,keyContinue3,keyContinue4,keyContinue5,keyFunny,keyJoke,keyDeny,dialog_logic,keyMarco,keyConfirm,keyJoke,message_logic,keyContinue1,keyContinue2,keyContinue3,keyContinue4,keyContinue5,keyFunny
+question,message,message,message,message,message,message,question,message,reply 1,yes,yes,yes,alternative1,keyContinue2,keyContinue3,keyContinue4,keyContinue5,keyFunny,keyJoke
+WavingDavid.py,,,,,,,,,next_key 1,keyContinue1,keyDeny,keyContinue1,alternative2,,,,,keyJoke,
+angry.led,,,,,surprise.led,happy.led,,led/sad.led,reply 2,no,no,no,alternative3,,,,,,
+"Hi, Marco, are you ok?","OK, now I will tell you a story.",A guy goes to a funfare and there is this mysterious tower. On the sign it says: climb your way up to success!,After climbing tens of stairs he finally reaches a platform. It is kind of dark so he starts feeling his way about.,All of a sudden a big black fellow appears in front of him! He says:,"Hi, I'm Cess","O, I'm so funny!",Would you like to hear it again?,"OK, then not today!",next_key 2,keyDeny,keyAccept,keyDeny,,,,,,,
+"Marco, will you listen to me?",,,,,,Hahaha!,,That is a pity. I will ask you again tomorrow!,reply 3,did not understand,did not understand,did not understand,,,,,,,
+Please pay attention Marco!,,,,,,,,"It is a pity, it would have been nice.",next_key 3,keyDeny,keyDeny,keyDeny,,,,,,,
+,,,,,,,,How unfortunate. I was looking forward to it!,,,,,,,,,,,

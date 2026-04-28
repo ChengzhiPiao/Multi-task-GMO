@@ -1,0 +1,4 @@
+ald,ald,ald,ald,ald,ald,ald,ald,ald,ald,ald,ald,ald
+name_company,sector,technology,production_unit,year,production,emission_factor,country_of_domicile,plant_location,number_of_assets,is_ultimate_owner,is_ultimate_listed_owner,ald_timestamp
+character,character,character,character,integer,double,double,character,character,integer,logical,logical,character
+The name of the company owning the asset,Sector to which the asset belongs,Technology implemented by the asset,The units that production is measured in,Year at which the production value is predicted,Company level production of the technology,Company level emission factor of the technology,Country where company is registered,Country where asset is located,Number of assets of a given technology owned by the company,Flag if company is the ultimate parent in our database,Flag if company is the listed ultimate parent,Date at which asset data was pulled from database

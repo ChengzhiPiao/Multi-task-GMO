@@ -1,0 +1,6 @@
+Athlete,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},Points,Points,Points
+Athlete,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Games for}},{{Tooltip|GA|Games against}},{{Tooltip|Diff|Games Difference}}
+{{flagIOC2athlete|[[Serap Özçelik ]]|TUR|2015 European Games}},3,3,0,0,12,0,+12
+{{flagIOC2athlete|[[Bettina Plank]]|AUT|2015 European Games}},3,2,0,1,2,3,-1
+{{flagIOC2athlete|[[Monika Beruleč]]|CRO|2015 European Games}},3,1,0,2,3,4,-1
+{{flagIOC2athlete|[[Nurana Aliyeva]]|AZE|2015 European Games}},3,0,0,3,0,10,-10

@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|L|Lost}},{{Tooltip|MW|Matches won}},{{Tooltip|ML|Matches lost}},{{Tooltip|GW|Games won}},{{Tooltip|GL|Games lost}},{{Tooltip|PW|Points won}},{{Tooltip|PL|Points lost}},{{Tooltip|Pts|Points}},Qualification
+1,{{bd|ENG}},2,2,0,7,3,17,6,435,357,4,Play Off A1
+2,{{bd|AUS}},2,1,1,5,5,10,13,383,405,2,Play Off A2
+3,{{bd|SCO}},2,0,2,3,7,8,16,398,454,0,Play Off A3

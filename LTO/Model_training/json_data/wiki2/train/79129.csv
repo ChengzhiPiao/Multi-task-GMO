@@ -1,0 +1,9 @@
+,,Labial,Alveolar,Palatal,Retroflex,Velar,Uvular,Glottal
+Stops,Voiceless,{{IPA|/p/}},{{IPA|/t/}},{{IPA|/tʃ/}},,{{IPA|/k/}},{{IPA|/q/}},{{IPAslink|ʔ}} *
+Stops,Voiced,,,{{IPA|/dʒ/}},,,,
+Nasals,Nasals,{{IPA|/m/}},{{IPA|/n/}},{{IPA|/ɲ/}},,{{IPA|/ŋ/}},,
+Fricatives,Voiceless,{{IPA|/f/}},,,,/x/,{{IPA|/χ/}},{{IPA|/h/}}
+Fricatives,voiced,{{IPA|/v/}},,,{{IPA|/ʐ/}},{{IPA|/ɣ/}},{{IPA|/ʁ/}},
+Lateral,voiceless,,{{IPA|/ɬ/}},,,,,
+Lateral,voiced,,{{IPA|/l/}},,,,,
+approximant,approximant,,,{{IPA|/j/}},,,,

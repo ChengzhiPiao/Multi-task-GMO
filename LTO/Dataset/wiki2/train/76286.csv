@@ -1,0 +1,11 @@
+"(SM-65B)
+Date",{{nowrap|1958-07-19}},1958-08-02,1958-08-29,1958-09-14,1958-09-18,1958-11-18,1958-11-29,1958-12-18,1959-01-16,1959-02-04
+"Time
+(GMT)",{{nowrap|17:36}},22:16,04:30,05:24,21:27,04:00,02:27,22:02,04:00,08:01
+Pad,{{nowrap|LC-11}},LC-13,LC-11,LC-14,LC-13,LC-11,LC-14,LC-11,LC-14,LC-11
+Serial,3B,4B,5B,8B,6B,9B,12B,10B,13B,11B
+Apogee,{{convert|10|km|abbr=on}},{{convert|900|km|abbr=on}},{{convert|900|km|abbr=on}},{{convert|900|km|abbr=on}},{{convert|100|km|abbr=on}},{{convert|800|km|abbr=on}},{{convert|900|km|abbr=on}},N/A,{{convert|100|km|abbr=on}},{{convert|900|km|abbr=on}}
+Outcome,Failure,Success,Success,Success,Failure,Failure,Success,Success,Failure,Success
+Remarks,,,,,,,First full-range test flight,"Placed SCORE satellite
+into {{convert|185|km|abbr=on}} x
+{{convert|1484|km|abbr=on}} x 32.3° orbit",,

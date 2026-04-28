@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+Database,Database,Database,Database,Database,Database,Database,Database,Database
+Initiate the DB transaction,Execute the Query in [<Input>],Assert the value [<Input>] exist in the column [<Condition>] ,Execute the Query in [<Input>],Save DB value in Test Data Sheet,Execute the Query in [<Input>],Store it in the variable from the DB column [<Condition>] ,Store it in the variable from the DB column [<Condition>] ,Query and save the result in variable(s) 
+initDBConnection,executeSelectQuery,assertDBResult,executeSelectQuery,storeDBValueinDataSheet,executeSelectQuery,storeResultInDataSheet,storeResultInDataSheet,storeResultInVariable
+,"@select * from public.""Employee""",@Shantha,"@select ""Name"", ""Age"" from public.""Employee"" where ""id"" = 123456;",Database:id,"@select ""Name"" from public.""Employee"" where ""Age"" = 26;","@select ""id"", ""Age"" , ""Name"" from public.""Employee"" where ""Age"" = 26","@select ""id"", ""Age"" , ""Name"" from public.""Employee"" where ""Age"" = ","@select ""Name"" from public.""Employee"" where ""Age"" = 25"
+,,Name,,"Name,1",,DataBase,DataBase,%Var%
+,,,,,,,,

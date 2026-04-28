@@ -1,0 +1,2 @@
+access_hr_tax_dedution_user,hr.tax_deduction.user,model_hr_tax_deduction,base.group_user,1,0,0,0
+access_hr_tax_deduction_officer,hr.tax_deduction.officer,model_hr_tax_deduction,hr.group_hr_user,1,1,1,1

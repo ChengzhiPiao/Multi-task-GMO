@@ -1,0 +1,3 @@
+GC,Games coached,T,Ties = 1 point
+W,Wins = 2 points,PTS,Points
+L,Losses = 0 points,Win%,Winning percentage

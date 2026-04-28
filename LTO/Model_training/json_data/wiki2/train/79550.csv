@@ -1,0 +1,13 @@
+State,State,Alabama,Arkansas,California,Colorado,Connecticut,Delaware,Florida,Georgia,Idaho,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,New Jersey,New York,North Carolina,North Dakota,Ohio,Oklahoma,Oregon,Pennsylvania,Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,West Virginia,Wisconsin,Wyoming,Total
+Type,Type,District,District,District,"District
++at-large","District
++at-large",At-large,District,District,At-large,District,District,District,District,District,District,District,District,District,District,District,District,District,At-large,District,At-large,District,District,District,District,District,District,District,District,District,District,District,At-large,District,District,At-large,District,District,At-large,District,District,At-large,Total
+"Total
+seats","Total
+seats",9,7,8,3,5,1,3,11,1,25,13,11,8,11,7,4,6,14,12,9,8,16,1,6,1,2,10,37,10,2,21,5,2,32,2,7,2,10,16,1,2,10,3,5,11,1,391
+Republican,Seats,0,0,8,3,5,1,0,0,1,20,9,10,8,4,0,4,3,11,12,8,0,4,1,5,0,2,6,26,0,2,16,1,2,25,1,0,2,2,0,1,2,1,3,5,9,1,"224
+57.3%"
+Republican,Change,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 4,{{decrease}} 2,{{decrease}} 1,{{steady}},{{increase}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{decrease}} 5,{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{decrease}} 3,{{steady}},{{decrease}} 1,{{steady}},{{decrease}} 4,{{increase}} 1,{{steady}},{{decrease}} 6,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{decrease}} 26
+Democratic,Seats,9,7,0,0,0,0,3,11,0,5,4,1,0,7,7,0,3,3,0,1,8,12,0,1,1,0,4,11,10,0,5,4,0,7,1,7,0,8,16,0,0,9,0,0,2,0,"167
+42.7%"
+Democratic,Change,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 4,{{increase}} 2,{{increase}} 1,{{steady}},{{decrease}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 1,{{steady}},{{increase}} 5,{{steady}},{{increase}} 1,{{steady}},{{steady}},{{increase}} 3,{{steady}},{{increase}} 1,{{steady}},{{increase}} 4,{{increase}} 4,{{steady}},{{increase}} 6,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 1,{{steady}},{{increase}} 31

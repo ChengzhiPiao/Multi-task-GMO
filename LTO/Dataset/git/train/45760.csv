@@ -1,0 +1,1 @@
+boolean#469	0.0	0.7265350074338672	0.43592100446032034	isRegistered(value) && !(value instanceof Number || value instanceof Boolean || value instanceof Character)	_,,,,,,,,,,,,,,,,,Boolean#439	0.0	0.0	0.0	!(value == null)	_,,,,,,,,,,

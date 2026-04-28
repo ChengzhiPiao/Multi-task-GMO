@@ -1,0 +1,7 @@
+MONTH,DAY,WEEKDAY,AIRLINE,ORG_AIR,DEST_AIR,SCHED_DEP,DEP_DELAY,AIR_TIME,DIST,SCHED_ARR,ARR_DELAY,DIVERTED,CANCELLED
+int64,int64,int64,object,object,object,int64,float64,float64,int64,int64,float64,int64,int64
+Month (1-12),Day of the month,Weekday 1 (Monday) - 7 (Sunday),One of 14 major air carriers,Origin aiport code,Destination airport code,Scheduled department time,Minutes delayed past scheduled departure time,Minutes in air,Flight distance in miles,Scheduled arrival time,Minutes delayed past scheduled arrival time,Is the flight diverted (0/1),Is the flight cancelled? (0/1)
+0,0,0,0,0,0,0,833,1018,0,0,1018,0,0
+6.22,15.7,3.93,,,,1387.98,10.92,115.93,872.9,1549.4,5.81,0.0,0.02
+,,,DL,ATL,LAX,,,,,,,,
+11,31,7,14,10,271,1162,389,453,850,1295,420,2,2

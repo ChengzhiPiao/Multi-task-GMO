@@ -1,0 +1,509 @@
+"OPERATOR: The following content
+is provided under a",Creative Commons license.,"Your support will help MIT
+OpenCourseWare continue to","offer high quality educational
+resources for free.","To make a donation or view
+additional materials from","hundreds of MIT courses, visit
+MIT OpenCourseWare at",ocw.mit.edu.,PROFESSOR: So let's start.,"I have written a number
+on the board here.","Anyone want to speculate what
+that number represents?","Well, you may recall at the end
+of the last lecture, we","were simulating pi, and I
+started up running it with a",billion darts.,"And when it finally terminated,
+this was the","estimate of pi it gave
+me with a billion.","Not bad, not quite perfect,
+but still pretty good.","In fact when I later ran it with
+10 billion darts, which","took a rather long time to run,
+didn't do much better.","So it's converging very slowly
+now near the end.","When we use an algorithm like
+that one to perform a Monte","Carlo simulation, we're
+trusting, as I said, that fate","will give us an unbiased sample,
+a sample that would be","representative of true
+random throws.","And, indeed in this case,
+that's a pretty good",assumption.,"The random number generator is
+not truly random, it's what's","called pseudo-random, in that if
+you start it with the same","initial conditions, it will
+give you the same results.","But it's close enough for, at
+least for government work, and",other useful projects.,"We do have to think about the
+question, how many samples",should we run?,Was a billion darts enough?,"Now since we sort of all started
+knowing what pi was,","we could look at it and say,
+yeah, pretty good.","But suppose we had no clue about
+the actual value of pi.","We still have to
+think about the",question of how many samples?,"And also, how accurate do we
+believe our result is, given",the number of samples?,"As you might guess, these two
+questions are closely related.","That, if we know in advance how
+much accuracy we want, we","can sometimes use that
+to calculate how",many samples we need.,"But there's still always
+the issue.","It's never possible
+to achieve perfect",accuracy through sampling.,"Unless you sample the
+entire population.","No matter how many samples you
+take, you can never be sure","that the sample set is typical
+until you've checked every",last element.,"So if I went around MIT and
+sampled 100 students to try","and, for example, guess the
+fraction of students at MIT",who are of Chinese descent.,"Maybe 100 students would be
+enough, but maybe I would get","unlucky and draw
+the wrong 100.","In the sense of, by accident,
+100 Chinese descent, or 100","non-Chinese descent,
+which would give",me the wrong answer.,"And there would be no way I
+could be sure that I had not","drawn a biased sample, unless
+I really did have the whole",population to look at.,"So we can never know that
+our estimate is correct.","Now maybe I took a billion
+darts, and for some reason got","really unlucky and they
+all ended up inside",or outside the circle.,"But what we can know, is how
+likely it is that our answer","is correct, given
+the assumptions.","And that's the topic we'll spend
+the next few lectures","on, at least one
+of the topics.","It's saying, how can we know
+how likely it is that our",answer is good.,"But it's always given some set
+of assumptions, and we have to","worry a lot about those
+assumptions.","Now in the case of our pi
+example, our assumption was","that the random number generator
+was indeed giving us","random numbers in the
+interval 0 to 1.","So that was our underlying
+assumption.","Then using that, we looked at a
+plot, and we saw that after","time the answer wasn't
+changing very much.","And we use that to say, OK, it
+looks like we're actually",converging on an answer.,"And then I ran it again, with
+another trial, and it","converged again at
+the same place.","And the fact that that happened
+several times led me","to at least have some reason to
+believe that I was actually","finding a good approximation
+of pi.",That's a good thing to do.,It's a necessary thing to do.,But it is not sufficient.,"Because errors can creep
+into many places.","So that kind of technique,
+and in fact, almost all","statistical techniques, are good
+at establishing, in some","sense, the reproduce-ability of
+the result, and that it is","statistically valid, and that
+there's no error, for example,","in the way I'm generating
+the numbers.",Or I didn't get very unlucky.,"However, they're other places
+other than bad luck where",errors can creep in.,"So let's look at an
+example here.","I've taken the algorithm we
+looked at last time for","finding pi, and I've
+made a change.","You'll remember that we were
+before using 4 as our","multiplier, and here what I've
+done is, just gone in and",replaced 4 by 2.,"Assuming that I made a
+programming error.","Now let's see what happens
+when we run it.","Well, a bad thing
+has happened.","Sure enough, we ran it and
+it converged, started to","converge, and if I ran 100
+trials each one would converge",at roughly the same place.,"Any statistical test I would
+do, would say that my","statistics are sound, I've
+chosen enough samples, and for","some accuracy, it's
+converting.","Everything is perfect,
+except for what?",It's the wrong answer.,"The moral here, is that just
+because an answer is","statistically valid, does not
+mean it's the right answer.","And that's really important to
+understand, because you see","this, and we'll see more
+examples later, not today, but","after Thanksgiving, comes
+up all the time in the","newspapers, in scientific
+articles, where people do a","million tests, do all the
+statistics right, say here's","the answer, and it turns out
+to be completely wrong.","And that's because it was some
+underlying assumption that","went into the decision,
+that was not true.","So here, the assumption is,
+that I've done my algebra","right for computing pi based
+upon where the darts land.","And it turns out, if I put 2
+here, my algebra is wrong.",Now how could I discover this?,"Since I've already told you
+no statistical test is",going to help me.,"What's the obvious thing I
+should be doing when I get",this answer?,Somebody?,Yeah?,STUDENT: [INAUDIBLE],PROFESSOR: Exactly.,Checking against reality.,"I started with the notion that
+pi had some relation to the",area of a circle.,"So I could use this value
+of pi, draw a",circle with a radius.,"Do my best to measure
+the area.","I wouldn't need to get a very
+good, accurate measurement,","and I would say, whoa, this
+isn't even close.","And that would tell me
+I have a problem.","So the moral here is,
+to check results",against physical reality.,"So for example, the current
+problem set, you're doing a","simulation about what
+happens to viruses",when drugs are applied.,"If you were doing this for a
+pharmaceutical company, in","addition to the simulation,
+you'd want to run some real",experiments.,"And make sure that
+things matched.","OK, what this suggests, is that
+we often use simulation,","and other computational
+techniques, to try and model","the real world, or the
+physical world, in",which we all live.,"And we can use data
+to do that.","I now want to go through another
+set of examples, and","we're going to look at the
+interplay of three things:","what happens when you have data,
+say from measurements,","and models that at least claim
+to explain the data.","And then, consequences that
+follow from the models.","This is often the way science
+works, its the way engineering","works, we have some
+measurements, we have a theory","that explains the measurements,
+and then we","write software to explore the
+consequences of that theory.","Including, is it plausible
+that it's really true?","So I want to start, as
+an example, with a",classic chosen from 8.01.,"So I presume, everyone
+here has taken 8.01?",Or in 8.01?,"Anyone here who's not had
+an experience with 801?","All right, well.","I hope you know about springs,
+because we're going to talk",about springs.,"So if you think about it, I'm
+now just talking not about","springs that have water in them,
+but springs that you","compress, you know, and expand,
+and things like that.","And there's typically something
+called the spring","constant that tells us how stiff
+the spring is, how much","energy it takes to compress
+this spring.","Or equivalently, how much pop
+the spring has when you're no",longer holding it down.,"Some springs are easy to
+stretch, they have a small",spring constant.,"Some strings, for example,
+the ones that hold up an","automobile, suspension,
+are much harder",to stretch and compress.,"There's a theory about them
+called Hooke's Law.",And it's quite simple.,"Force, the amount of force
+exerted by a spring, is equal","to minus some constant times
+the distance you have",compressed the spring.,"It's minus, because the force
+is exerted in an opposite","direction, trying
+to spring up.","So for example, we could
+look at it this way.","We've got a spring, excuse
+my art here.","And we put some weight on the
+spring, which has therefore",compressed it a little bit.,"And the spring is exerting
+some upward force.","And the amount of force it's
+exerting is proportional to",the distance x.,"So, if we believe Hooke's Law,
+and I give you a spring, how","can we find out what
+this constant is?","Well, we can do it by putting a
+weight on top of the spring.","It will compress the spring a
+certain amount, and then the",spring will stop moving.,"Now gravity would normally have
+had this weight go all","the way down to the bottom,
+if there was no spring.","So clearly the spring is
+exerting some force in the","upward direction, to keep that
+mass from going down to the","table, right?","So we know what that
+force is there.","If we compress the spring to a
+bunch of different distances,","by putting, say, different size
+weights on it, we can","then solve for the spring
+constant, just the way,","before, we solved for pi.","So it just so happens, not quite
+by accident, that I've",got some data from a spring.,So let's look at it.,"So here's some data taken
+from measuring a spring.","This is distance and force,
+force computed from the mass,","basically, right?","Because we know that these
+have to be in balance.","And I'm not going to ask you to
+in your head estimate the","constant from these, but what
+you'll see is, the format is,","there's a distance, and then a
+colon, and then the force.",Yeah?,STUDENT: [INAUDIBLE],"PROFESSOR: Ok, right,
+yes, thank you.","All right, want to repeat that
+more loudly for everyone?",STUDENT: [INAUDIBLE],"PROFESSOR: Right, right, because
+the x in the equation","-- right, here we're getting
+an equilibrium.","OK, so let's look at what
+happens when we try and",examine this.,We'll look at spring dot pi.,So it's pretty simple.,"First thing is, I've got a
+function that reads in the",data and parses it.,"You've all done more complicated
+parsing of data",files than this.,"So I won't belabor
+the details.","I called it get data rather than
+get spring data, because","I'm going to use the same
+thing for a lot of",other kinds of data.,"And the only thing I want you
+to notice, is that it's",returning a pair of arrays.,"OK, not lists.","The usual thing is, I'm building
+them up using lists,","because lists have append and
+arrays don't, and then I'm","converting them to arrays so
+I can do matrix kinds of",operations on them.,"So I'll get the distances
+and the forces.","And then I'm just going to plot
+them, and we'll see what",they look like.,So let's do that.,There they are.,"Now, if you believe Hooke's Law,
+you could look at this","data, and maybe you
+wouldn't like it.","Because Hooke's Law implies
+that, in fact, these points","should lie in a straight
+line, right?","If I just plug in values here,
+what am I going to get?","A straight line, right?","I'm just multiplying
+k times x.","But I don't have a straight
+line, I have a little scatter","of points, kind of it looks
+like a straight","line, but it's not.","And why do you think
+that's true?",What's going on here?,"What could cause this line
+not to be straight?","Have any you ever done
+a physics experiment?","And when you did it, did your
+results actually match the","theory that your high
+school teacher, say,",explained to you.,"No, and why not.","Yeah, you have various kinds of
+experimental or measurement","error, right?","Because, when you're doing these
+experiments, at least","I'm not perfect, and I suspect
+at least most of you are not","perfect, you get mistakes.","A little bit of error creeps
+in inevitably.","And so, when we acquired this
+data, sure enough there was",measurement error.,"And so the points are
+scattered around.","This is something
+to be expected.","Real data almost never matches
+the theory precisely.","Because there usually is some
+sort of experimental error",that creeps into things.,"So what should we
+do about that?","Well, what usually people do,
+when they think about this, is","they would look at this data
+and say, well, let me fit a",line to this.,"Somehow, say, what would
+be the line that best",approximates these points?,"And then the slope of
+that line would give",me the spring constant.,"So that raises the next
+question, what do I mean by","finding a line that best
+fits these points?","How do we, fit, in this case,
+a line, to the data?","First of all, I should ask the
+question, why did I say let's",fit a line?,"Maybe I should have said, let's
+fit a parabola, or let's",fit a circle?,"Why should I had said
+let's fit a line.",Yeah?,STUDENT: [INAUDIBLE],"PROFESSOR: Well, how
+do I know that the",plot is a linear function?,Pardon?,"Well, so, two things.","One is, I had a theory.","You know, I had up there a
+model, and my model suggested","that I expected it
+to be linear.","And so if I'm testing my model,
+I should and fit a","line, my theory, if you will.","But also when I look at it, it
+looks kind of like a line.","So you know, if I looked at it,
+and it didn't look like a","line, I might have said, well,
+my model must be badly broken.","So let's try and see
+if we can fit it.","Whenever we try and fit
+something, we need some sort","of an objective function
+that captures the",goodness of a fit.,"I'm trying to find, this is an
+optimization problem of the","sort that we've looked
+at before.","I'm trying to find a
+line that optimizes",some objective function.,"So a very simple objective
+function here, is called the",least squares fit.,"I want to find the line that
+minimizes the sum of","observation sub i, the i'th data
+point I have, minus what","the line, the model, predicts
+that point should have been,",and then I'll square it.,"So I want to minimize
+this value.","I want to find the line
+that gives me the",smallest value for this.,"Why do you think I'm squaring
+the difference?","What would happen if I didn't
+square the difference?",Yeah?,"Positive and negative errors
+might cancel each other out.","And in judging the quality of
+the fit, I don't really care","deeply -- you're going to get
+very fat the way you're",collecting candy here --,"I don't care deeply whether the
+error is, which side, it","is, just that it's wrong.","And so by squaring it, it's
+kind of like taking the","absolute value of the error,
+among other things.","All right, so if we look
+at our example here,",what would this be?,"I want to minimize, want to find
+a line that minimizes it.",So how do I do that?,"I could easily do it
+using successive","approximation, right?","I could choose a line, basically
+what I am, is I'm","choosing a slope, here, right?","And, I could, just like Newton
+Raphson, do successive","approximation for awhile,
+and get the best fit.","That's one way to do
+the optimization.","It turns out that for this
+particular optimization","there's something
+more efficient.","You can actually, there is a
+closed form way of attacking","this, and I could explain
+that, but in fact, I'll",explain something even better.,It's built into Pylab.,"So Pylab has a function built-in
+called polyfit.","Which, given a set of points,
+finds the polynomial that","gives you the best
+least squares",approximation to those points.,"It's called polynomial because
+it isn't necessarily going to","be first order, that
+is to say, a line.","It can find polynomials
+of arbitrary degree.","So let's look at the example
+here, we'll see how it works.",So let me uncomment it.,"So I'm going to get k and b
+equals Pylab dot polyfit here.","What it's going to do is, think
+about a polynomial.","I give you a polynomial of
+degree one, you have all","learned that it's a x plus b,
+b is the constant, and x is",the single variable.,"And so I multiply a by x and I
+add b to it, and as I vary x I",get new values.,"And so polyfit, in this case,
+will take the set of points","defined by these two arrays and
+return me a value for a",and a value for b.,"Now here I've assigned a to k,
+but don't worry about that.","And then, I'm gonna now generate
+the predictions that","I would get from this k
+and b, and plot those.",So let's look at it.,"So here it said the k is 31.475,
+etc., and it's plotted",the line that it's found.,Or I've plotted the line.,"You'll note, a lot of the points
+don't lie on the line,","in fact, most of the points
+don't lie on the line.","But it's asserting that
+this is the best it",can do with the line.,"And there's some points, for
+example, up here, that are","kind of outliers, that are
+pretty far from the line.","But it has minimized the error,
+if you will, for all of",the points it has.,"That's quite different from,
+say, finding the line that","touches the most
+points, right?","It's minimizing the
+sum of the errors.","Now, given that I was just
+looking for a constant to","start with, why did I bother
+even plotting the data?","I happen to have known before
+I did this that polyfit","existed, and what I was really
+looking for was this line.","So maybe I should have just
+done the polyfit and said",here's k and I'm done.,"Would that have been
+a good idea?",Yeah?,"STUDENT: You can't know without
+seeing the actual data","how well it's actually
+fitting it.",PROFESSOR: Right.,Exactly right.,"That says, well how would I know
+that it was fitting it","badly or well, and in fact,
+how would I know that my","notion of the model is sound,
+or that my experiment isn't",completely broken?,"So always, I think, always
+look at the real data.","Don't just, I've seen too many
+papers where people show me","the curve that fits the data,
+and don't show me the data,","and it always makes
+me very nervous.","So always look at the data,
+as well as however you're",choosing to fit it.,"As an example of that, let's
+look at another set of inputs.",This is not a spring.,"It's the same get data function
+as before, ignore",that thing at the top.,"I'm going to analyze it
+and we'll look at it.","So here I'm plotting the speed
+of something over time.","So I plotted it, and I've done
+a least squares fit using","polyfit just as before to get a
+line, and I put the line vs.","the data, and here I'm
+a little suspicious.","Right, I fit a line, but when
+I look at it, I don't think","it's a real good fit
+for the data.","Somehow modeling this data as a
+line is probably not right.","A linear model is not
+good for this data.","This data is derived
+from something, a",more complex process.,"So take a look at it, and tell
+me what order were calling of","polynomial do you think
+might fit this data?","What shape does this
+look like to you?",Pardon?,STUDENT: Quadratic.,"PROFESSOR: Quadratic, because
+the shape is a what?",It's a parabola.,"Well, I don't know if I
+dare try this one all",the way to the back.,"Ooh, at least I didn't
+hurt anybody.","All right, fortunately it's just
+as easy to fit a ravel",parabola as a line.,So let's look down here.,"I've done the same thing, but
+instead of passing it one, as","I did up here as the argument,
+I'm passing it two.","Saying, instead of fitting a
+polynomial of degree one, fit",a polynomial of degree two.,"And now let's see what
+it looks like.","Well, my eyes tell me this
+is a much better",fit than the line.,"So again, that's why I wanted
+to see the scatter plot, so","that I could at least look at
+it with my eyes, and say,","yeah, this looks like
+a better fit.","All right, any question about
+what's going on here?","What we've been looking at is
+something called linear",regression.,"It's called linear because the
+relationship of the dependent","variable y to the independent
+variables is assumed to be a","linear function of
+the parameters.","It's not because it has to
+be a linear function of","the value of x, OK?","Because as you can see, we're
+not getting a line, we're",getting a parabola.,"Don't worry about the details,
+the point I want to make is,","people sometimes see the word
+linear regression and think it","can only be used
+to find lines.",It's not so.,"So when, for example, we did the
+quadratic, what we had is","y equals a x squared
+plus b x plus c.","The graph vs. x will not be a
+straight line, right, because",I'm squaring x.,"But it is, just about, in this
+case, the single variable x.","Now, when I looked at this, I
+said, all right, it's clear","that the yellow curve is a
+better fit than the red.",It's a red line.,"But that was a pretty
+informal statement.","I can actually look at this
+much more formally.","And we're going to look at
+something that's the",statisticians call r squared.,"Which in the case of a linear
+regression is the coefficient",of determination.,"Now, this is a big fancy word
+for something that's actually",pretty simple.,"So what r squared its going
+to be, and this is on your","handout, is 1 minus e e over d
+v. So e e is going to be the",errors in the estimation.,"So I've got some estimated
+values, some predicted values,","if you will, given to me by the
+model, either the line or",the parabola in this case.,"And I've got some real values,
+corresponding to each of those","points, and I can look at the
+difference between the 2 And","that will tell me how much
+difference there is between","the estimated data and the,
+well, between the predicted","data and the measured
+data, in this case.","And then I want to divide that
+by the variance in the",measured data.,The data variance.,"How broadly scattered the
+measured points are.","And I'll do that by comparing
+the mean of the measured data,",to the measured data.,"So I get the average value of
+the measured data, and I look","at how different the points
+I measure are.","So I just want to give to you,
+informally, because I really","don't care if you understand
+all the math.","What I do want you to
+understand, when someone tells","you, here's the r squared value,
+is, informally what it",really is saying.,"It's attempting to capture the
+proportion of the response","variation explained by the
+variables in the model.","In this case, x.","So you'll have some amount of
+variation that is explained by","changing the values
+of the variables.","So if, actually, I'm going to
+give an example and then come",back to it more informally.,"So if, for example, r squared
+were to equal 0.9, that would","mean that approximately 90
+percent of the variation in","the variables can be explained
+by the model.","OK, so we have some amount of
+variation in the measured","data, and if r squared is 0.9,
+it says that 90 percent can be","explained by the models, and the
+other 10 percent cannot.","Now, that other 10 percent could
+be experimental error,","or it could be that, in
+fact, you need more",variables in the model.,"That there are what are called
+lurking variables.",I love this term.,"A lurking variable is something
+that actually","effects the result, but is not
+reflected in the model.","As we'll see a little bit
+later, this is a very","important thing to worry about,
+when you're looking at","experimental data and you're
+building models.","So we see this, for example,
+in the medical literature,","that they will do some
+experiment, and they'll say","that this drug explains
+x, or has this affect.","And the variables they are
+looking at are, say, the","disease the patient has, and
+the age of the patient.","Well, maybe the gender of the
+patient is also important, but","it doesn't happen to
+be in the model.","Now, if when they did a fit,
+it came out with 0.9, that","says at worst case, the
+variables we didn't consider","could cause a 10
+percent error.","But, that could be big, that
+could matter a lot.","And so as you get farther from
+1, you ought to get very","worried about whether
+you actually have",all the right variables.,"Now you might have the right
+variables, and just experiment","was not conducted well, But it's
+usually the case that the","problem is not that, but that
+there are lurking variables.","And we'll see examples
+of that.","So, easier to read than the
+math, at least by me, easier","to read than the math, is the
+implementation of r square.","So it's measured and estimated
+values, I get the diffs, the","differences, between the
+estimated and the measured.","These are both arrays, so I
+subtract 1 array from the","other, and then I square it.","Remember, this'll do an
+element-wise subtraction, and",then square each element.,"Then I can get the mean, by
+dividing the sum of the array",measured by the length of it.,"I can get the variance, which is
+the measured mean minus the","measured value, again squared.","And then I'll return
+1 minus this.",All right?,"So, just to make sure we sort
+of understand the code, and","the theory here as well, what
+would we get if we had",absolutely perfect prediction?,"So if every measured point
+actually fit on the curb","predicted by our model, what
+would r square return?","So in this case, measured and
+estimated would be identical.",What gets return by this?,"Yeah, 1.",Exactly right.,"Because when I compute it, it
+will turn out that these two","numbers will be the, I'll get
+0, 1 minus 0 is 0, right?","Because the differences
+will be zero.",OK?,"So I can use this, now, to
+actually get a notion of how",good my fit is.,"So let's look at speed dot pi
+again here, and now I'm going","to uncomment these two things,
+where I'm going to, after I","compute the fit, I'm going
+to then measure it.","And you'll see here that the r
+squared error for the linear","fit is 0.896, and for the
+quadratic fit is 0.973.","So indeed, we get a much
+better fit here.","So not only does our eye tell
+us we have a better fit, our","more formal statistical measure
+tells us we have a","better fit, and it tells
+us how good it is.","It's not a perfect fit,
+but it's a pretty","good fit, for sure.","Now, interestingly enough, it
+isn't surprising that the","quadratic fit is better
+than the linear fit.","In fact, the mathematics of
+this should tell us it can",never be worse.,"How do I know it can
+never be worse?","That's just, never is a
+really strong word.",How do I know that?,"Because, when I do the quadratic
+fit, if I had","perfectly linear data, then this
+coefficient, whoops, not","that coefficient, wrong, this
+coefficient, could be 0.","So if I ask it to do a quadratic
+fit to linear data,","and the a is truly perfectly
+linear, this coefficient will","be 0, and my model will turn
+out to be the same as the",linear model.,"So I will always get at
+least as good a fit.","Now, does this mean that it's
+always better to use a higher",order polynomial?,"The answer is no, and
+let's look at why.","So here what I've done is, I've
+taken seven points, and","I've generated, if you look at
+this line here, the y-values,","for x in x vals, points
+dot append x",plus some random number.,"So basically I've got something
+linear in x, but I'm","perturbing, if you will, my
+data by some random value.","Something between 0 and 1 is
+getting added to things.","And I'm doing this so my
+points won't lie on a",perfectly straight line.,"And then we'll try and
+fit a line to it.","And also, just for fun, we'll
+try and fit a fifth order",polynomial to it.,And let's see what we get.,"Well, there's my line, and
+there's my fifth order",polynomial.,"Neither is quite perfect, but
+which do you think looks like",a closer fit?,With your eye.,"Well, I would say the red line,
+the red curve, if you","will, is a better fit, and sure
+enough if we look at the","statistics, we'll see it's 0.99,
+as opposed to 0.978.",So it's clearly a closer fit.,"But that raises the very
+important question: does","closer equal better, or tighter,
+which is another word",for closer?,And the answer is no.,"It's a tighter fit, but it's not
+necessarily better, in the",sense of more useful.,"Because one of the things I
+want to do when I build a","model like this, is
+have something",with predictive power.,"I don't really necessarily need
+a model to tell me where","the points I've measured lie,
+because I have them.","The whole purpose of the model
+is to give me some way to","predict where unmeasured points
+would lie, where future",points would lie.,"OK, I understand how the spring
+works, and I can guess","where it would be if things
+I haven't had the time to","measure, or the ability
+to measure.",So let's look at that.,"Let's see, where'd
+that figure go.",It's lurking somewhere.,"All right, we'll just
+kill this for now.","So let's generate some more
+points, and I'm going to use",exactly the same algorithm.,"But I'm going to generate
+twice as many points.","But I'm only fitting it
+to the first half.","So if I run this one,
+figure one is what",we looked at before.,"The red line is fitting
+them a little better.",But here's figure two.,"What happens when I extrapolate
+the curve to the",new points?,"Well, you can see, it's
+a terrible fit.","And you would expect that,
+because my data was basically","linear, and I fit in non-linear
+curve to it.","And if you look at it you can
+see that, OK, look at this, to","get from here to here, it
+thought I had to take off",pretty sharply.,"And so sure enough, as I get
+new points, the prediction","will postulate that it's still
+going up, much more steeply",than it really does.,"So you can see it's a
+terrible prediction.","And that's because what I've
+done is, I over-fit the data.","I've taken a very high degree
+polynomial, which has given me","a good close fit, and I can
+always get a fit, by the way.","If I choose a high enough degree
+polynomial, I can fit",lots and lots of data sets.,"But I have reason to
+be very suspicious.","The fact that I took a fifth
+order polynomial to get six","points should make
+me very nervous.","And it's a very important
+moral.",Beware of over-fitting.,"If you have a very complex
+model, there's a good chance",that it's over-fit.,"The larger moral is, beware of
+statistics without any theory.","You're just cranking away, you
+get a great r squared, you say",it's a beautiful fit.,"But there was no real
+theory there.",You can always find a fit.,"As Disraeli is alleged to have
+said, there are three kinds of","lies: lies, damned lies,
+and statistics.","And we'll spend some more time
+when we get back from","Thanksgiving looking at how
+to lie with statistics.","Have a great holiday,
+everybody."
+00:00:00.000,00:00:01.990,00:00:03.840,00:00:06.840,00:00:10.530,00:00:13.390,00:00:17.490,00:00:19.930,00:00:22.810,00:00:25.920,00:00:32.130,00:00:34.620,00:00:39.480,00:00:41.840,00:00:45.400,00:00:50.310,00:00:57.360,00:01:00.790,00:01:04.660,00:01:10.810,00:01:14.480,00:01:18.890,00:01:22.610,00:01:27.540,00:01:30.220,00:01:31.500,00:01:34.990,00:01:38.510,00:01:42.360,00:01:47.090,00:01:51.980,00:01:55.820,00:01:57.690,00:02:00.730,00:02:04.280,00:02:07.460,00:02:14.440,00:02:16.100,00:02:28.370,00:02:38.020,00:02:40.660,00:02:45.790,00:02:52.170,00:02:54.820,00:03:03.900,00:03:10.050,00:03:13.910,00:03:16.200,00:03:20.110,00:03:25.100,00:03:30.260,00:03:32.220,00:03:38.610,00:03:43.110,00:03:46.940,00:03:52.470,00:03:55.420,00:03:59.680,00:04:01.820,00:04:04.090,00:04:08.200,00:04:18.880,00:04:22.770,00:04:28.560,00:04:32.270,00:04:35.330,00:04:38.440,00:04:42.590,00:04:46.030,00:04:48.400,00:04:50.510,00:04:54.520,00:04:56.090,00:05:01.290,00:05:04.860,00:05:10.870,00:05:14.810,00:05:18.860,00:05:23.980,00:05:28.700,00:05:33.310,00:05:36.290,00:05:40.010,00:05:44.320,00:05:49.040,00:05:52.710,00:05:56.640,00:06:04.920,00:06:07.260,00:06:09.040,00:06:11.880,00:06:16.300,00:06:20.120,00:06:26.160,00:06:30.540,00:06:35.480,00:06:40.250,00:06:43.480,00:06:48.410,00:06:51.270,00:06:53.940,00:06:59.900,00:07:08.450,00:07:13.310,00:07:17.110,00:07:20.710,00:07:25.190,00:07:35.420,00:07:42.480,00:07:48.560,00:07:53.850,00:07:56.800,00:08:00.450,00:08:03.770,00:08:05.960,00:08:10.280,00:08:13.360,00:08:18.540,00:08:45.810,00:08:49.700,00:08:53.180,00:08:56.460,00:09:00.660,00:09:04.370,00:09:08.420,00:09:12.310,00:09:17.120,00:09:20.750,00:09:27.440,00:09:32.990,00:09:35.850,00:09:38.700,00:09:40.060,00:09:42.710,00:09:44.830,00:09:45.930,00:09:50.420,00:09:50.800,00:09:54.830,00:09:57.890,00:10:01.160,00:10:03.690,00:10:08.030,00:10:11.850,00:10:13.980,00:10:17.120,00:10:20.890,00:10:25.480,00:10:37.240,00:10:50.040,00:10:53.750,00:10:56.340,00:11:00.020,00:11:03.660,00:11:06.660,00:11:08.530,00:11:17.390,00:11:29.720,00:11:35.930,00:11:38.320,00:11:42.190,00:11:46.690,00:11:51.190,00:11:55.230,00:12:02.770,00:12:15.220,00:12:26.870,00:12:30.570,00:12:35.870,00:12:38.360,00:12:43.770,00:12:48.270,00:12:53.030,00:12:57.650,00:13:01.780,00:13:02.860,00:13:08.390,00:13:11.020,00:13:13.290,00:13:15.120,00:13:18.780,00:13:21.680,00:13:25.920,00:13:28.760,00:13:42.090,00:13:45.750,00:13:49.570,00:13:53.990,00:13:56.720,00:13:58.070,00:14:01.230,00:14:04.470,00:14:08.370,00:14:20.320,00:14:28.070,00:14:32.870,00:14:38.560,00:14:44.170,00:14:47.640,00:14:50.580,00:14:55.350,00:15:01.160,00:15:05.840,00:15:08.630,00:15:13.440,00:15:18.080,00:15:26.590,00:15:34.670,00:15:38.790,00:15:45.090,00:15:50.100,00:15:53.380,00:15:56.290,00:16:00.490,00:16:03.330,00:16:08.660,00:16:14.310,00:16:17.760,00:16:23.180,00:16:29.570,00:16:35.780,00:16:39.350,00:16:47.280,00:16:50.540,00:16:52.290,00:16:57.310,00:17:01.300,00:17:02.720,00:17:07.130,00:17:10.630,00:17:16.440,00:17:22.700,00:17:22.950,00:17:29.940,00:17:37.780,00:17:41.010,00:17:42.850,00:17:48.680,00:17:53.280,00:17:57.140,00:17:59.790,00:18:05.300,00:18:07.520,00:18:10.590,00:18:12.700,00:18:15.400,00:18:16.930,00:18:19.820,00:18:22.640,00:18:24.610,00:18:26.640,00:18:29.630,00:18:36.190,00:18:38.650,00:18:41.350,00:18:44.470,00:18:48.310,00:18:50.910,00:18:54.210,00:18:57.010,00:18:58.970,00:19:10.640,00:19:14.560,00:19:19.990,00:19:25.370,00:19:29.330,00:19:33.950,00:19:44.690,00:19:46.020,00:19:49.620,00:19:51.885,00:19:54.740,00:19:57.360,00:19:59.250,00:20:03.300,00:20:12.130,00:20:17.310,00:20:21.320,00:20:23.300,00:20:27.080,00:20:30.590,00:20:35.230,00:20:39.690,00:20:44.580,00:20:47.390,00:20:50.200,00:20:54.330,00:20:57.830,00:21:00.940,00:21:04.080,00:21:06.720,00:21:13.100,00:21:16.960,00:21:24.250,00:21:28.370,00:21:32.050,00:21:36.685,00:21:37.730,00:21:43.240,00:21:47.580,00:21:51.540,00:21:57.570,00:22:05.210,00:22:09.460,00:22:26.260,00:22:29.460,00:22:31.020,00:22:34.380,00:22:38.580,00:22:45.530,00:22:45.850,00:22:49.546,00:22:51.580,00:22:57.230,00:23:01.010,00:23:04.860,00:23:08.260,00:23:13.720,00:23:17.840,00:23:20.670,00:23:23.150,00:23:26.410,00:23:29.800,00:23:34.820,00:23:38.960,00:23:43.730,00:23:53.770,00:23:56.120,00:23:59.680,00:24:01.910,00:24:06.070,00:24:10.310,00:24:15.150,00:24:24.390,00:24:37.610,00:24:47.410,00:24:54.390,00:24:59.740,00:25:03.160,00:25:07.490,00:25:10.210,00:25:12.610,00:25:17.310,00:25:18.950,00:25:24.670,00:25:28.760,00:25:31.770,00:25:34.410,00:25:37.530,00:25:39.860,00:25:43.070,00:25:47.150,00:25:54.690,00:26:02.290,00:26:07.250,00:26:10.470,00:26:13.930,00:26:17.480,00:26:20.230,00:26:23.680,00:26:27.690,00:26:34.880,00:26:37.810,00:26:41.940,00:26:44.790,00:26:48.070,00:26:52.380,00:26:55.080,00:27:04.350,00:27:14.900,00:27:19.670,00:27:21.660,00:27:28.790,00:27:33.040,00:27:36.520,00:27:42.030,00:27:48.790,00:27:59.410,00:28:07.480,00:28:14.780,00:28:18.640,00:28:26.940,00:28:29.290,00:28:34.330,00:28:36.130,00:28:47.090,00:28:52.870,00:28:57.230,00:29:05.290,00:29:11.930,00:29:19.570,00:29:32.050,00:29:39.970,00:29:43.300,00:29:45.590,00:29:48.320,00:29:53.380,00:29:56.100,00:29:58.830,00:30:02.890,00:30:07.790,00:30:11.560,00:30:15.620,00:30:18.670,00:30:22.640,00:30:29.790,00:30:32.950,00:30:40.930,00:30:43.490,00:30:49.230,00:30:51.450,00:30:55.710,00:31:01.500,00:31:01.810,00:31:06.292,00:31:10.276,00:31:11.910,00:31:12.790,00:31:15.090,00:31:19.150,00:31:23.220,00:31:25.410,00:31:31.720,00:31:34.460,00:31:38.180,00:31:40.770,00:31:44.880,00:31:46.980,00:31:53.140,00:32:05.090,00:32:08.350,00:32:13.720,00:32:26.980,00:32:33.340,00:32:39.640,00:32:44.620,00:32:51.100,00:32:55.930,00:32:59.180,00:33:14.840,00:33:17.920,00:33:20.210,00:33:23.470,00:33:27.120,00:33:29.650,00:33:34.290,00:33:35.850,00:33:36.100,00:33:40.140,00:33:41.830,00:33:43.660,00:33:45.680,00:33:50.400,00:33:54.470,00:33:59.540,00:34:06.470,00:34:11.760,00:34:15.090,00:34:18.630,00:34:21.510,00:34:32.800,00:34:39.000,00:34:44.830,00:34:49.910,00:34:53.130,00:34:58.120,00:35:07.470,00:35:13.400,00:35:23.640,00:35:30.370,00:35:39.380,00:35:43.390,00:35:47.350,00:35:50.460,00:35:53.950,00:35:56.360,00:36:00.100,00:36:03.500,00:36:06.750,00:36:11.780,00:36:16.580,00:36:26.210,00:36:30.590,00:36:34.810,00:36:43.780,00:36:49.910,00:36:55.530,00:36:59.130,00:37:03.740,00:37:11.550,00:37:14.340,00:37:18.410,00:37:26.750,00:37:34.480,00:37:38.640,00:37:41.510,00:37:44.630,00:37:58.660,00:38:02.200,00:38:06.630,00:38:11.810,00:38:14.070,00:38:18.710,00:38:25.040,00:38:29.340,00:38:35.720,00:38:42.840,00:38:49.160,00:38:51.390,00:38:59.230,00:39:03.620,00:39:10.530,00:39:13.190,00:39:16.020,00:39:21.690,00:39:26.330,00:39:28.780,00:39:32.300,00:39:37.310,00:39:39.490,00:39:47.150,00:39:51.850,00:39:56.030,00:40:04.110,00:40:08.320,00:40:11.170,00:40:12.960,00:40:21.140,00:40:26.470,00:40:34.380,00:40:36.660,00:40:42.610,00:40:49.290,00:40:54.640,00:40:57.840,00:41:00.550,00:41:05.440,00:41:09.530,00:41:12.770,00:41:18.860,00:41:26.260,00:41:29.320,00:41:32.530,00:41:36.370,00:41:41.530,00:41:46.870,00:41:49.250,00:41:55.710,00:42:00.700,00:42:04.860,00:42:09.400,00:42:12.980,00:42:19.080,00:42:23.880,00:42:29.760,00:42:33.460,00:42:35.590,00:42:37.730,00:42:42.410,00:42:46.930,00:42:49.370,00:42:52.400,00:43:07.940,00:43:12.510,00:43:15.820,00:43:19.080,00:43:20.970,00:43:24.000,00:43:26.830,00:43:32.560,00:43:38.850,00:43:42.590,00:43:46.060,00:43:53.590,00:43:55.360,00:43:59.710,00:44:04.320,00:44:08.210,00:44:11.930,00:44:19.200,00:44:24.980,00:44:30.940,00:44:32.940,00:44:38.720,00:44:43.480,00:44:50.600,00:44:55.900,00:44:59.340,00:45:04.900,00:45:08.480,00:45:13.130,00:45:17.790,00:45:30.970,00:45:34.420,00:45:42.730,00:45:47.990,00:45:51.550,00:45:55.210,00:45:57.690,00:46:02.490,00:46:07.140,00:46:13.930,00:46:20.770,00:46:24.950,00:46:28.620,00:46:31.820,00:46:35.640,00:46:38.720,00:46:42.980,00:46:47.660,00:46:56.670,00:47:01.800,00:47:06.120,00:47:09.380,00:47:12.880,00:47:19.950,00:47:25.240,00:47:27.990,00:47:38.710,00:47:48.400,00:47:54.470,00:47:57.070,00:48:00.520,00:48:04.230,00:48:08.620,00:48:11.930,00:48:14.320,00:48:19.430,00:48:24.340,00:48:28.580,00:48:30.840,00:48:40.500,00:48:44.170,00:48:45.570,00:48:50.160,00:48:53.890,00:49:00.650,00:49:04.960,00:49:09.910,00:49:16.830,00:49:21.890,00:49:30.140,00:49:36.850,00:49:40.980,00:49:44.830,00:49:49.140,00:49:52.780,00:49:55.400,00:49:56.930,00:50:00.030,00:50:05.120,00:50:08.510,00:50:12.160,00:50:17.260,00:50:19.330,00:50:23.390,00:50:26.620,00:50:31.410,00:50:38.080,00:50:41.350,00:50:47.720,00:50:54.950,00:51:00.810,00:51:05.100,00:51:09.670,00:51:14.600,00:51:24.990,00:51:26.910,00:51:29.900,00:51:33.460,00:51:37.370,00:51:39.500,00:51:43.780,00:51:46.820,00:51:52.440,00:51:56.780,00:51:59.790,00:52:02.540,00:52:06.270,00:52:11.240,00:52:14.300,00:52:18.350,00:52:28.510,00:52:32.430,00:52:36.860,00:52:40.020,00:52:43.810,00:52:47.050,00:52:49.950,00:52:57.720,00:52:59.980,00:53:01.920,00:53:08.790,00:53:12.810,00:53:18.790,00:53:21.670,00:53:23.850,00:53:26.140,00:53:29.280,00:53:32.340,00:53:38.120,00:53:41.570,00:53:44.480
+00:00:01.990,00:00:03.840,00:00:06.840,00:00:10.530,00:00:13.390,00:00:17.490,00:00:19.930,00:00:22.810,00:00:25.920,00:00:32.130,00:00:34.620,00:00:39.480,00:00:41.840,00:00:45.400,00:00:50.310,00:00:57.360,00:01:00.790,00:01:04.660,00:01:10.810,00:01:14.480,00:01:18.890,00:01:22.610,00:01:27.540,00:01:30.220,00:01:31.500,00:01:34.990,00:01:38.510,00:01:42.360,00:01:47.090,00:01:51.980,00:01:55.820,00:01:57.690,00:02:00.730,00:02:04.280,00:02:07.460,00:02:14.440,00:02:16.100,00:02:28.370,00:02:38.020,00:02:40.660,00:02:45.790,00:02:52.170,00:02:54.820,00:03:03.900,00:03:10.050,00:03:13.910,00:03:16.200,00:03:20.110,00:03:25.100,00:03:30.260,00:03:32.220,00:03:38.610,00:03:43.110,00:03:46.940,00:03:52.470,00:03:55.420,00:03:59.680,00:04:01.820,00:04:04.090,00:04:08.200,00:04:18.880,00:04:22.770,00:04:28.560,00:04:32.270,00:04:35.330,00:04:38.440,00:04:42.590,00:04:46.030,00:04:48.400,00:04:50.510,00:04:54.520,00:04:56.090,00:05:01.290,00:05:04.860,00:05:10.870,00:05:14.810,00:05:18.860,00:05:23.980,00:05:28.700,00:05:33.310,00:05:36.290,00:05:40.010,00:05:44.320,00:05:49.040,00:05:52.710,00:05:56.640,00:06:04.920,00:06:07.260,00:06:09.040,00:06:11.880,00:06:16.300,00:06:20.120,00:06:26.160,00:06:30.540,00:06:35.480,00:06:40.250,00:06:43.480,00:06:48.410,00:06:51.270,00:06:53.940,00:06:59.900,00:07:08.450,00:07:13.310,00:07:17.110,00:07:20.710,00:07:25.190,00:07:35.420,00:07:42.480,00:07:48.560,00:07:53.850,00:07:56.800,00:08:00.450,00:08:03.770,00:08:05.960,00:08:10.280,00:08:13.360,00:08:18.540,00:08:45.810,00:08:49.700,00:08:53.180,00:08:56.460,00:09:00.660,00:09:04.370,00:09:08.420,00:09:12.310,00:09:17.120,00:09:20.750,00:09:27.440,00:09:32.990,00:09:35.850,00:09:38.700,00:09:40.060,00:09:42.710,00:09:44.830,00:09:45.930,00:09:50.420,00:09:50.800,00:09:54.830,00:09:57.890,00:10:01.160,00:10:03.690,00:10:08.030,00:10:11.850,00:10:13.980,00:10:17.120,00:10:20.890,00:10:25.480,00:10:37.240,00:10:50.040,00:10:53.750,00:10:56.340,00:11:00.020,00:11:03.660,00:11:06.660,00:11:08.530,00:11:17.390,00:11:29.720,00:11:35.930,00:11:38.320,00:11:42.190,00:11:46.690,00:11:51.190,00:11:55.230,00:12:02.770,00:12:15.220,00:12:26.870,00:12:30.570,00:12:35.870,00:12:38.360,00:12:43.770,00:12:48.270,00:12:53.030,00:12:57.650,00:13:01.780,00:13:02.860,00:13:08.390,00:13:11.020,00:13:13.290,00:13:15.120,00:13:18.780,00:13:21.680,00:13:25.920,00:13:28.760,00:13:42.090,00:13:45.750,00:13:49.570,00:13:53.990,00:13:56.720,00:13:58.070,00:14:01.230,00:14:04.470,00:14:08.370,00:14:20.320,00:14:28.070,00:14:32.870,00:14:38.560,00:14:44.170,00:14:47.640,00:14:50.580,00:14:55.350,00:15:01.160,00:15:05.840,00:15:08.630,00:15:13.440,00:15:18.080,00:15:26.590,00:15:34.670,00:15:38.790,00:15:45.090,00:15:50.100,00:15:53.380,00:15:56.290,00:16:00.490,00:16:03.330,00:16:08.660,00:16:14.310,00:16:17.760,00:16:23.180,00:16:29.570,00:16:35.780,00:16:39.350,00:16:47.280,00:16:50.540,00:16:52.290,00:16:57.310,00:17:01.300,00:17:02.720,00:17:07.130,00:17:10.630,00:17:16.440,00:17:22.700,00:17:22.950,00:17:29.940,00:17:37.780,00:17:41.010,00:17:42.850,00:17:48.680,00:17:53.280,00:17:57.140,00:17:59.790,00:18:05.300,00:18:07.520,00:18:10.590,00:18:12.700,00:18:15.400,00:18:16.930,00:18:19.820,00:18:22.640,00:18:24.610,00:18:26.640,00:18:29.630,00:18:36.190,00:18:38.650,00:18:41.350,00:18:44.470,00:18:48.310,00:18:50.910,00:18:54.210,00:18:57.010,00:18:58.970,00:19:10.640,00:19:14.560,00:19:19.990,00:19:25.370,00:19:29.330,00:19:33.950,00:19:44.690,00:19:46.020,00:19:49.620,00:19:51.885,00:19:54.740,00:19:57.360,00:19:59.250,00:20:03.300,00:20:12.130,00:20:17.310,00:20:21.320,00:20:23.300,00:20:27.080,00:20:30.590,00:20:35.230,00:20:39.690,00:20:44.580,00:20:47.390,00:20:50.200,00:20:54.330,00:20:57.830,00:21:00.940,00:21:04.080,00:21:06.720,00:21:13.100,00:21:16.960,00:21:24.250,00:21:28.370,00:21:32.050,00:21:36.685,00:21:37.730,00:21:43.240,00:21:47.580,00:21:51.540,00:21:57.570,00:22:05.210,00:22:09.460,00:22:26.260,00:22:29.460,00:22:31.020,00:22:34.380,00:22:38.580,00:22:45.530,00:22:45.850,00:22:49.546,00:22:51.580,00:22:57.230,00:23:01.010,00:23:04.860,00:23:08.260,00:23:13.720,00:23:17.840,00:23:20.670,00:23:23.150,00:23:26.410,00:23:29.800,00:23:34.820,00:23:38.960,00:23:43.730,00:23:53.770,00:23:56.120,00:23:59.680,00:24:01.910,00:24:06.070,00:24:10.310,00:24:15.150,00:24:24.390,00:24:37.610,00:24:47.410,00:24:54.390,00:24:59.740,00:25:03.160,00:25:07.490,00:25:10.210,00:25:12.610,00:25:17.310,00:25:18.950,00:25:24.670,00:25:28.760,00:25:31.770,00:25:34.410,00:25:37.530,00:25:39.860,00:25:43.070,00:25:47.150,00:25:54.690,00:26:02.290,00:26:07.250,00:26:10.470,00:26:13.930,00:26:17.480,00:26:20.230,00:26:23.680,00:26:27.690,00:26:34.880,00:26:37.810,00:26:41.940,00:26:44.790,00:26:48.070,00:26:52.380,00:26:55.080,00:27:04.350,00:27:14.900,00:27:19.670,00:27:21.660,00:27:28.790,00:27:33.040,00:27:36.520,00:27:42.030,00:27:48.790,00:27:59.410,00:28:07.480,00:28:14.780,00:28:18.640,00:28:26.940,00:28:29.290,00:28:34.330,00:28:36.130,00:28:47.090,00:28:52.870,00:28:57.230,00:29:05.290,00:29:11.930,00:29:19.570,00:29:32.050,00:29:39.970,00:29:43.300,00:29:45.590,00:29:48.320,00:29:53.380,00:29:56.100,00:29:58.830,00:30:02.890,00:30:07.790,00:30:11.560,00:30:15.620,00:30:18.670,00:30:22.640,00:30:29.790,00:30:32.950,00:30:40.930,00:30:43.490,00:30:49.230,00:30:51.450,00:30:55.710,00:31:01.500,00:31:01.810,00:31:06.292,00:31:10.276,00:31:11.910,00:31:12.790,00:31:15.090,00:31:19.150,00:31:23.220,00:31:25.410,00:31:31.720,00:31:34.460,00:31:38.180,00:31:40.770,00:31:44.880,00:31:46.980,00:31:53.140,00:32:05.090,00:32:08.350,00:32:13.720,00:32:26.980,00:32:33.340,00:32:39.640,00:32:44.620,00:32:51.100,00:32:55.930,00:32:59.180,00:33:14.840,00:33:17.920,00:33:20.210,00:33:23.470,00:33:27.120,00:33:29.650,00:33:34.290,00:33:35.850,00:33:36.100,00:33:40.140,00:33:41.830,00:33:43.660,00:33:45.680,00:33:50.400,00:33:54.470,00:33:59.540,00:34:06.470,00:34:11.760,00:34:15.090,00:34:18.630,00:34:21.510,00:34:32.800,00:34:39.000,00:34:44.830,00:34:49.910,00:34:53.130,00:34:58.120,00:35:07.470,00:35:13.400,00:35:23.640,00:35:30.370,00:35:39.380,00:35:43.390,00:35:47.350,00:35:50.460,00:35:53.950,00:35:56.360,00:36:00.100,00:36:03.500,00:36:06.750,00:36:11.780,00:36:16.580,00:36:26.210,00:36:30.590,00:36:34.810,00:36:43.780,00:36:49.910,00:36:55.530,00:36:59.130,00:37:03.740,00:37:11.550,00:37:14.340,00:37:18.410,00:37:26.750,00:37:34.480,00:37:38.640,00:37:41.510,00:37:44.630,00:37:58.660,00:38:02.200,00:38:06.630,00:38:11.810,00:38:14.070,00:38:18.710,00:38:25.040,00:38:29.340,00:38:35.720,00:38:42.840,00:38:49.160,00:38:51.390,00:38:59.230,00:39:03.620,00:39:10.530,00:39:13.190,00:39:16.020,00:39:21.690,00:39:26.330,00:39:28.780,00:39:32.300,00:39:37.310,00:39:39.490,00:39:47.150,00:39:51.850,00:39:56.030,00:40:04.110,00:40:08.320,00:40:11.170,00:40:12.960,00:40:21.140,00:40:26.470,00:40:34.380,00:40:36.660,00:40:42.610,00:40:49.290,00:40:54.640,00:40:57.840,00:41:00.550,00:41:05.440,00:41:09.530,00:41:12.770,00:41:18.860,00:41:26.260,00:41:29.320,00:41:32.530,00:41:36.370,00:41:41.530,00:41:46.870,00:41:49.250,00:41:55.710,00:42:00.700,00:42:04.860,00:42:09.400,00:42:12.980,00:42:19.080,00:42:23.880,00:42:29.760,00:42:33.460,00:42:35.590,00:42:37.730,00:42:42.410,00:42:46.930,00:42:49.370,00:42:52.400,00:43:07.940,00:43:12.510,00:43:15.820,00:43:19.080,00:43:20.970,00:43:24.000,00:43:26.830,00:43:32.560,00:43:38.850,00:43:42.590,00:43:46.060,00:43:53.590,00:43:55.360,00:43:59.710,00:44:04.320,00:44:08.210,00:44:11.930,00:44:19.200,00:44:24.980,00:44:30.940,00:44:32.940,00:44:38.720,00:44:43.480,00:44:50.600,00:44:55.900,00:44:59.340,00:45:04.900,00:45:08.480,00:45:13.130,00:45:17.790,00:45:30.970,00:45:34.420,00:45:42.730,00:45:47.990,00:45:51.550,00:45:55.210,00:45:57.690,00:46:02.490,00:46:07.140,00:46:13.930,00:46:20.770,00:46:24.950,00:46:28.620,00:46:31.820,00:46:35.640,00:46:38.720,00:46:42.980,00:46:47.660,00:46:56.670,00:47:01.800,00:47:06.120,00:47:09.380,00:47:12.880,00:47:19.950,00:47:25.240,00:47:27.990,00:47:38.710,00:47:48.400,00:47:54.470,00:47:57.070,00:48:00.520,00:48:04.230,00:48:08.620,00:48:11.930,00:48:14.320,00:48:19.430,00:48:24.340,00:48:28.580,00:48:30.840,00:48:40.500,00:48:44.170,00:48:45.570,00:48:50.160,00:48:53.890,00:49:00.650,00:49:04.960,00:49:09.910,00:49:16.830,00:49:21.890,00:49:30.140,00:49:36.850,00:49:40.980,00:49:44.830,00:49:49.140,00:49:52.780,00:49:55.400,00:49:56.930,00:50:00.030,00:50:05.120,00:50:08.510,00:50:12.160,00:50:17.260,00:50:19.330,00:50:23.390,00:50:26.620,00:50:31.410,00:50:38.080,00:50:41.350,00:50:47.720,00:50:54.950,00:51:00.810,00:51:05.100,00:51:09.670,00:51:14.600,00:51:24.990,00:51:26.910,00:51:29.900,00:51:33.460,00:51:37.370,00:51:39.500,00:51:43.780,00:51:46.820,00:51:52.440,00:51:56.780,00:51:59.790,00:52:02.540,00:52:06.270,00:52:11.240,00:52:14.300,00:52:18.350,00:52:28.510,00:52:32.430,00:52:36.860,00:52:40.020,00:52:43.810,00:52:47.050,00:52:49.950,00:52:57.720,00:52:59.980,00:53:01.920,00:53:08.790,00:53:12.810,00:53:18.790,00:53:21.670,00:53:23.850,00:53:26.140,00:53:29.280,00:53:32.340,00:53:38.120,00:53:41.570,00:53:44.480,00:53:46.580

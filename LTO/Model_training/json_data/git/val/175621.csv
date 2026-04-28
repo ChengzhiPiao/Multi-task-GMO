@@ -1,0 +1,5 @@
+412.9778,413.0,413.0,413.0111,413.0111,413.1835,413.2556,413.6444,414.3445,415.2,415.5556,415.8111,415.8111,416.1333,416.1889
+413.4445,413.3556,413.3556,413.2667,413.2444,415.1049,413.2667,415.2,415.5445,,415.5778,,,,
+Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,Hand,FailOnTouchObstacleLong,Hand,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1,Hand,Hand
+FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong
+Pushed,LeftGate,RightGate,LeftGate,RightGate,PickedUp,RightGate,LeftGate,RightGate,Pushed,RightGate,Pushed,Pushed,Pushed,RightGate

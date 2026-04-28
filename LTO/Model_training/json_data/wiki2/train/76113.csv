@@ -1,0 +1,31 @@
+Channel,(Virtual),3.1,6.1,10.1,15.1,24.1,47.1
+Callsign,Callsign,KIMT,KAAL,KTTC,KSMQ,KYIN,KXLT
+Affiliation,Affiliation,CBS,ABC,NBC,PBS,PBS,FOX
+Branding,Branding,KIMT 3,KAAL 6,KTTC 10,KSMQ,Iowa Public Television,FOX 47
+Subchannels,Channel,"3.2
+3.3
+3.4",6.2,"10.2
+10.3
+10.4
+10.5","15.2
+15.3
+15.4","24.2
+24.3
+24.4","47.2
+47.3
+47.4
+47.5"
+Subchannels,Programming,"MyNetworkTV
+ION
+Antenna TV",This TV,"CW+
+Heroes & Icons
+Court TV
+Justice Network","MHz Worldview
+Create
+Minnesota Channel","PBS Kids
+World
+Create","MeTV
+Laff
+Escape
+Quest"
+Owner,Owner,Heartland Media,Hubbard Broadcasting,Quincy Media,"KSMQ Public ServiceMedia, Inc.",Iowa Public Broadcasting Board,SagamoreHill Broadcasting (Operated through SSA by Quincy Media)

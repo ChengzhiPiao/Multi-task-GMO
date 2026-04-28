@@ -1,0 +1,7 @@
+,,Stop,Stop,Nasal,Lateral,Rhotic,Semivowel
+,,Voiceless,Voiced,Nasal,Lateral,Rhotic,Semivowel
+Peripheral,Bilabial,{{IPA|p}},{{IPA|b}},{{IPA|m}},,,{{IPA|w}}
+Peripheral,Velar,{{IPA|k}},{{IPA|ɡ}},{{IPA|ŋ}},,,{{IPA|w}}
+Laminal,Palatal,{{IPA|c}},{{IPA|ɟ}},{{IPA|ɲ}},{{IPA|ʎ}},,{{IPA|j}}
+Apical,Alveolar,{{IPA|t}},{{IPA|d}},{{IPA|n}},{{IPA|l}},{{IPA|r}},
+Apical,Retroflex,,,,,{{IPA|ɻ}},

@@ -1,0 +1,2 @@
+access_product_packaging_material_user,product.packaging.material.user,model_product_packaging_material,base.group_user,1,0,0,0
+access_product_packaging_material_manager,product.packaging.material.manager,model_product_packaging_material,base.group_sale_manager,1,1,1,1

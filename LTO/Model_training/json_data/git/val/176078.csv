@@ -1,0 +1,6 @@
+Key,,repair_droid01__upgrades,repair_droid02__upgrades,repair_droid03__upgrades,repair_droid04__upgrades,repair_droid05__upgrades
+string,,Repair Droid I,Repair Droid II,Repair Droid III,Repair Droid IV,Repair Droid V
+string,,Upgrade_Replacement,Upgrade_Replacement,Upgrade_Replacement,Upgrade_Replacement,Upgrade_Replacement
+metric tons,,1,1,1,1,1
+metric tons * meters*meters,,1,1,1,1,1
+int,,1,2,3,4,5

@@ -1,0 +1,7 @@
+#,Seed,Athlete,1,2,3,4,5,6,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,10,{{nowrap|{{flagIOC2athlete|[[Alely Hernández]]|MEX|2017 Summer Universiade}}}},,V,D3,V,V,V,4,5,0.800,23,8,15,1,11
+2,11,{{nowrap|{{flagIOC2athlete|[[Olivia Wohlgemuth]]|AUT|2017 Summer Universiade}}}},D2,,V,V,V,V,4,5,0.800,22,7,15,2,12
+3,30,{{nowrap|{{flagIOC2athlete|[[Rozène Castanié]]|FRA|2017 Summer Universiade}}}},V,D0,,V,V,D3,3,5,0.600,18,18,0,3,30
+4,31,{{nowrap|{{flagIOC2athlete|[[Cheng Hsin]]|TPE|2017 Summer Universiade}}}},D0,D2,D4,,V,V,2,5,0.400,16,18,–2,4,42
+5,50,{{nowrap|{{flagIOC2athlete|[[Sharayu Patil]]|IND|2017 Summer Universiade}}}},D0,D0,D1,D1,,D1,0,5,0.000,3,25,–22,6,62
+6,51,{{nowrap|{{flagIOC2athlete|[[Angela Li (fencer)|Angela Li]]|CAN|2017 Summer Universiade}}}},D1,D0,V,D2,V,,2,5,0.400,13,19,–6,5,48

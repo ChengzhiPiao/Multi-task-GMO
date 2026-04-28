@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+3,Derby County,46,23,9,14,69,51,+18,78
+4,Leicester City,46,23,8,15,62,55,{{0}}+7,77
+5,Cambridge United,46,19,17,10,65,47,+18,74
+6,Blackburn Rovers,46,21,11,14,70,53,+17,74

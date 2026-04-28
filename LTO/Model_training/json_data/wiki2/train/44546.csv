@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+3,Watford,46,23,8,15,85,58,+27,77
+4,Brighton & Hove Albion,46,19,18,9,69,43,+26,75
+5,Crystal Palace,46,19,15,12,73,62,+11,72
+6,Leicester City,46,19,11,16,71,48,+23,68

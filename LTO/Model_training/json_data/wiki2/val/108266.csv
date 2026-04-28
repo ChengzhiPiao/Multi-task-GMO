@@ -1,0 +1,9 @@
+,,Bilabial,Alveolar,Alveolo-palatal,Retroflex,Palatal,Velar,Uvular
+Stop,Stop,p,t,,,,k,q
+Affricate,voiceless,,,t͡ʃ,ʈʂ,,,
+Affricate,voiced,,,d͡ʒ,,,,
+Fricative,voiceless,,s,ʃ,ʂ,,x,
+Fricative,voiced,,,,ʐ,,,
+Nasal,Nasal,m,n,,,ɲ,,
+Approximant,Approximant,,l,,,j,w,
+Flap,Flap,,ɾ,,,,,

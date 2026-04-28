@@ -1,0 +1,7 @@
+Site,Baikonur,Cape Canaveral,Jiuquan,Kennedy,Kourou,Mahia,Mojave,MARS,PSCA,Plesetsk,Satish Dhawan,Semnan,Taiyuan,Tanegashima,Uchinoura,Vandenberg,Vostochny,Wenchang,Xichang,Yellow Sea,Total
+Country,{{KAZ}},{{USA}},{{CHN}},{{USA}},{{FRA}},{{NZL}},{{USA}},{{USA}},{{USA}},{{RUS}},{{IND}},{{IRN}},{{CHN}},{{JPN}},{{JPN}},{{USA}},{{RUS}},{{CHN}},{{CHN}},{{CHN}},Total
+Launches,9,8,4,3,7,4,0,1,0,3,4,2,2,0,1,3,1,0,7,1,61
+Successes,9,8,3,3,6,4,0,1,0,3,4,0,1,0,1,3,1,0,7,1,56
+Failures,0,0,1,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,5
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Remarks,,,,,,,,,,,,,,,,,,,,,

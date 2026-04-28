@@ -1,0 +1,5 @@
+onos-of-provider-device,org.onosproject.provider.of.device.impl,OpenFlowDeviceProvider.new Object() {...},15,115,0,0,0,6,0,1,0,1
+onos-of-provider-device,org.onosproject.provider.of.device.impl,OpenFlowDeviceValueMapper,76,0,2,0,14,0,5,0,4,0
+onos-of-provider-device,org.onosproject.provider.of.device.impl,OpenFlowDeviceProvider.InternalDeviceProvider,640,298,79,17,127,67,65,14,13,12
+onos-of-provider-device,org.onosproject.provider.of.device.impl,OpenFlowDeviceProvider,301,174,34,5,62,43,31,10,13,7
+onos-of-provider-device,org.onosproject.provider.of.device.impl,PortStatsCollector,76,56,10,0,20,15,8,3,3,3

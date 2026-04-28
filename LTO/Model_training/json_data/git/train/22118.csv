@@ -1,0 +1,8 @@
+payment_acquirer_all,payment_acquirer_user,payment_acquirer_system,payment_transaction_all,payment_transaction_user,payment_transaction_system,payment_method_all,payment_method_user,payment_method_portal,payment_method_system
+payment.acquirer.all,payment.acquirer.user,payment.acquirer.system,payment.transaction.all,payment.transaction.user,payment.transaction.system,payment.method.all,payment.method.user,payment.method.portal,payment.method.system
+model_payment_acquirer,model_payment_acquirer,model_payment_acquirer,model_payment_transaction,model_payment_transaction,model_payment_transaction,model_payment_method,model_payment_method,model_payment_method,model_payment_method
+,base.group_user,base.group_system,,base.group_user,base.group_system,,base.group_user,base.group_portal,base.group_system
+1,1,1,1,1,1,1,1,1,1
+0,1,1,0,1,1,0,1,1,1
+0,1,1,0,1,1,0,1,1,1
+0,0,1,0,0,1,0,1,1,1

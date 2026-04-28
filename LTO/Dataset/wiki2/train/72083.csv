@@ -1,0 +1,5 @@
+Direction,From,To,Journey Duration,Total Elapsed Days
+Northbound,Alexandria,Beirut,2,2
+Northbound,Beirut,Mersin,3,5
+Northbound,Mersin,Algeciras,8,13
+Northbound,Algeciras,Felixstowe,4,17

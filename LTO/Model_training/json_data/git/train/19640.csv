@@ -1,0 +1,3 @@
+access_construction_web_user,construction.web,model_construction_web,base.group_user,1,1,1,1
+access_construction_catalog_user,construction.catalog,model_construction_catalog,base.group_user,1,1,1,1
+access_construction_catalog_uom_user,construction.catalog.uom,model_construction_catalog_uom,base.group_user,1,1,1,1

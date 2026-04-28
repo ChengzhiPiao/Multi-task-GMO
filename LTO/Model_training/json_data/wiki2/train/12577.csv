@@ -1,0 +1,5 @@
+Frequency,900&nbsp;MHz,1800&nbsp;MHz,900&nbsp;MHz,2100&nbsp;MHz,1800&nbsp;MHz
+"Band
+number",8,3,8,1,3
+Protocol,GSM/GPRS/EDGE,GSM/GPRS/EDGE,UMTS/HSPA+,UMTS/HSPA+,LTE
+Class,2G,2G,3G,3G,4G

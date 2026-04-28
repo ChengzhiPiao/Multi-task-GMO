@@ -1,0 +1,4 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,Luverdense,6,4,2,0,10,6,4,14
+2,Operário,6,3,0,3,5,6,–1,9
+3,Poconé,6,0,1,5,5,11,–6,1

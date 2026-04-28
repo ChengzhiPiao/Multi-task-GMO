@@ -1,0 +1,75 @@
+Pos,Pos,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,"13
+DNF","13
+DNF",14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,"27
+DNF","27
+DNF",28,28,"29
+DNF","29
+DNF","30
+DNF","30
+DNF"
+Class,Class,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,DP,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT,GT
+No,No,99,99,01,01,6,6,09,09,76,76,60,60,61,61,77,77,59,59,58,58,2,2,13,13,5,5,10,10,12,12,57,57,70,70,07,07,40,40,87,87,69,69,86,86,65,65,66,66,67,67,43,43,68,68,30,30,21,21,42,42
+Team,Team,GAINSCO/Bob Stallings Racing,GAINSCO/Bob Stallings Racing,Chip Ganassi Racing with Felix Sabates,Chip Ganassi Racing with Felix Sabates,Michael Shank Racing,Michael Shank Racing,Spirit of Daytona Racing,Spirit of Daytona Racing,Krohn Racing,Krohn Racing,Michael Shank Racing,Michael Shank Racing,AIM Autosport,AIM Autosport,Doran Racing,Doran Racing,Brumos Racing,Brumos Racing,Brumos Racing,Brumos Racing,Childress-Howard Motorsports,Childress-Howard Motorsports,Beyer Racing,Beyer Racing,Beyer Racing,Beyer Racing,SunTrust Racing,SunTrust Racing,Penske Racing,Penske Racing,Stevenson Motorsports,Stevenson Motorsports,SpeedSource,SpeedSource,Team Drinkin' Mate,Team Drinkin' Mate,Dempsey Racing,Dempsey Racing,Farnbacher-Loles Racing,Farnbacher-Loles Racing,SpeedSource,SpeedSource,Farnbacher-Loles Racing,Farnbacher-Loles Racing,The Racer's Group,The Racer's Group,The Racer's Group,The Racer's Group,The Racer's Group,The Racer's Group,Team Sahlen,Team Sahlen,The Racer's Group,The Racer's Group,Racers Edge Motorsports,Racers Edge Motorsports,Battery Tender/MCM Racing,Battery Tender/MCM Racing,Team Sahlen,Team Sahlen
+Drivers,Drivers,"{{flagicon|USA}} Jon Fogarty
+{{flagicon|USA}} Alex Gurney","{{flagicon|USA}} Jon Fogarty
+{{flagicon|USA}} Alex Gurney","{{flagicon|USA}} Scott Pruett
+{{flagicon|MEX}} Memo Rojas","{{flagicon|USA}} Scott Pruett
+{{flagicon|MEX}} Memo Rojas","{{flagicon|USA}} John Pew
+{{flagicon|CAN}} Michael Valiante","{{flagicon|USA}} John Pew
+{{flagicon|CAN}} Michael Valiante","{{flagicon|ESP}} Antonio García
+{{flagicon|USA}} Buddy Rice","{{flagicon|ESP}} Antonio García
+{{flagicon|USA}} Buddy Rice","{{flagicon|SWE}} Nic Jönsson
+{{flagicon|BRA}} Ricardo Zonta","{{flagicon|SWE}} Nic Jönsson
+{{flagicon|BRA}} Ricardo Zonta","{{flagicon|BRA}} Oswaldo Negri, Jr.
+{{flagicon|ZAF}} Mark Patterson","{{flagicon|BRA}} Oswaldo Negri, Jr.
+{{flagicon|ZAF}} Mark Patterson","{{flagicon|USA}} Burt Frisselle
+{{flagicon|CAN}} Mark Wilkins","{{flagicon|USA}} Burt Frisselle
+{{flagicon|CAN}} Mark Wilkins","{{flagicon|USA}} Memo Gidley
+{{flagicon|USA}} Brad Jaeger","{{flagicon|USA}} Memo Gidley
+{{flagicon|USA}} Brad Jaeger","{{flagicon|POR}} João Barbosa
+{{flagicon|USA}} J.C. France","{{flagicon|POR}} João Barbosa
+{{flagicon|USA}} J.C. France","{{flagicon|USA}} David Donohue
+{{flagicon|USA}} Darren Law","{{flagicon|USA}} David Donohue
+{{flagicon|USA}} Darren Law","{{flagicon|USA}} Rob Finlay
+{{flagicon|UK}} Andy Wallace","{{flagicon|USA}} Rob Finlay
+{{flagicon|UK}} Andy Wallace","{{flagicon|CAN}} Mike Forest
+{{flagicon|USA}} Ricky Taylor","{{flagicon|CAN}} Mike Forest
+{{flagicon|USA}} Ricky Taylor","{{flagicon|USA}} Jared Beyer
+{{flagicon|USA}} Jordan Taylor","{{flagicon|USA}} Jared Beyer
+{{flagicon|USA}} Jordan Taylor","{{flagicon|ITA}} Max Angelelli
+{{flagicon|USA}} Brian Frisselle","{{flagicon|ITA}} Max Angelelli
+{{flagicon|USA}} Brian Frisselle","{{flagicon|DEU}} Timo Bernhard
+{{flagicon|AUS}} Ryan Briscoe
+{{flagicon|FRA}} Romain Dumas","{{flagicon|DEU}} Timo Bernhard
+{{flagicon|AUS}} Ryan Briscoe
+{{flagicon|FRA}} Romain Dumas","{{flagicon|USA}} Andrew Davis
+{{flagicon|UK}} Robin Liddell","{{flagicon|USA}} Andrew Davis
+{{flagicon|UK}} Robin Liddell","{{flagicon|UK}} Nick Ham
+{{flagicon|CAN}} Sylvain Tremblay","{{flagicon|UK}} Nick Ham
+{{flagicon|CAN}} Sylvain Tremblay","{{flagicon|USA}} Kelly Collins
+{{flagicon|USA}} Paul Edwards","{{flagicon|USA}} Kelly Collins
+{{flagicon|USA}} Paul Edwards","{{flagicon|USA}} Charles Espenlaub
+{{flagicon|USA}} Joe Foster","{{flagicon|USA}} Charles Espenlaub
+{{flagicon|USA}} Joe Foster","{{flagicon|USA}} Leh Keen
+{{flagicon|DEU}} Dirk Werner","{{flagicon|USA}} Leh Keen
+{{flagicon|DEU}} Dirk Werner","{{flagicon|USA}} Emil Assentato
+{{flagicon|USA}} Jeff Segal","{{flagicon|USA}} Emil Assentato
+{{flagicon|USA}} Jeff Segal","{{flagicon|DEU}} Wolf Henzler
+{{flagicon|USA}} Eric Lux","{{flagicon|DEU}} Wolf Henzler
+{{flagicon|USA}} Eric Lux","{{flagicon|USA}} John Potter
+{{flagicon|USA}} Craig Stanton","{{flagicon|USA}} John Potter
+{{flagicon|USA}} Craig Stanton","{{flagicon|USA}} John Potter
+{{flagicon|USA}} Spencer Pumpelly","{{flagicon|USA}} John Potter
+{{flagicon|USA}} Spencer Pumpelly","{{flagicon|USA}} Andy Lally
+{{flagicon|USA}} Justin Marks","{{flagicon|USA}} Andy Lally
+{{flagicon|USA}} Justin Marks","{{flagicon|USA}} Wayne Nonnamaker
+{{flagicon|USA}} Joe Nonnamaker","{{flagicon|USA}} Wayne Nonnamaker
+{{flagicon|USA}} Joe Nonnamaker","{{flagicon|MEX}} Josémanuel Gutierrez
+{{flagicon|USA}} Scott Schroeder","{{flagicon|MEX}} Josémanuel Gutierrez
+{{flagicon|USA}} Scott Schroeder","{{flagicon|USA}} Dane Cameron
+{{flagicon|USA}} Wayne Nonnamaker","{{flagicon|USA}} Dane Cameron
+{{flagicon|USA}} Wayne Nonnamaker","{{flagicon|USA}} Jack Baldwin
+{{flagicon|USA}} Mike Halpin","{{flagicon|USA}} Jack Baldwin
+{{flagicon|USA}} Mike Halpin",{{flagicon|USA}} Will Nonnamaker,{{flagicon|USA}} Will Nonnamaker
+Chassis,Engine,Riley Mk. XX,Pontiac 5.0L V8,Riley Mk. XX,Lexus 5.0L V8,Riley Mk. XX,Ford 5.0L V8,Coyote CC/08,Porsche 5.0L V8,Proto-Auto Lola B08/70,Ford 5.0L V8,Riley Mk. XX,Ford 5.0L V8,Riley Mk. XX,Ford 5.0L V8,Dallara DP01,Ford 5.0L V8,Riley Mk. XI,Porsche 3.99L Flat-6,Riley Mk. XI,Porsche 3.99L Flat-6,Crawford DP08,Chevrolet 5.0L V8,Riley Mk. XI,Chevrolet 5.0L V8,Crawford DP08,Chevrolet 5.0L V8,Dallara DP01,Ford 5.0L V8,Riley Mk. XX,Porsche 3.99L Flat-6,Pontiac GXP.R,Pontiac 6.0L V8,Mazda RX-8 GT,Mazda 2.0L 3-Rotor,Pontiac GXP.R,Pontiac 6.0L V8,Mazda RX-8 GT,Mazda 2.0L 3-Rotor,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Mazda RX-8 GT,Mazda 2.0L 3-Rotor,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Chevrolet Corvette C6,Chevrolet 5.7L V8,Porsche 997 GT3 Cup,Porsche 3.6L Flat-6,Mazda RX-8 GT,Mazda 2.0L 3-Rotor,Pontiac GTO.R,Pontiac 6.0L V8,Chevrolet Corvette C6,Chevrolet 5.7L V8
+Laps,Laps,109,109,109,109,109,109,109,109,109,109,108,108,108,108,108,108,108,108,108,108,107,107,109,109,106,106,106,106,106,106,103,103,102,102,102,102,101,101,101,101,101,101,101,101,100,100,100,100,100,100,100,100,80,80,56,56,25,25,2,2

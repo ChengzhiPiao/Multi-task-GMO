@@ -1,0 +1,7 @@
+SPI mode,0,1,2,3
+"Clock polarity
+(CPOL/CKP)",0,0,1,1
+"Clock phase
+(CPHA)",0,1,0,1
+"Clock edge
+(CKE/NCPHA)",1,0,1,0

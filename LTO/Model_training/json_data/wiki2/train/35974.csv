@@ -1,0 +1,7 @@
+Place,Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,Western New York Flash,16,11,3,2,36,17,+19,36
+2,Philadelphia Independence,17,11,3,3,30,16,+14,36
+3,magicJack,16,8,2,6,26,26,0,25*
+4,Sky Blue FC,17,5,4,8,24,27,-3,19
+5,Boston Breakers,17,4,4,9,17,24,-7,16
+6,Atlanta Beat,17,1,4,12,7,30,-23,7

@@ -1,0 +1,9 @@
+Place,Nation,Games,Games,Games,Games,Games,Points,Points,Points,"Table
+points"
+Place,Nation,played,won,drawn,lost,Bonus,for,against,difference,"Table
+points"
+1,{{ru|ISR}},4,3,0,1,0,77,55,+22,12
+2,{{ru|DNK}},4,2,1,1,1,78,76,+2,11
+3,{{ru|HUN}},4,2,0,2,2,77,65,+12,10
+4,{{ru|AUT}},4,2,0,2,1,65,67,−2,9
+5,{{ru|NOR}},4,0,1,3,1,31,65,−34,3

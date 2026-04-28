@@ -1,0 +1,5 @@
+{{Tooltip|Pos| Final position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| Pts | Points}},{{Tooltip| (B) | Bonus Points}}
+1,Basel,4,3,0,1,9,4,8,2
+2,Bordeaux,4,2,1,1,6,2,6,1
+3,Bastia,4,1,1,2,7,10,4,1
+4,Lausanne-Sport,4,0,2,2,3,9,2,

@@ -1,0 +1,4 @@
+{{No2}}Frequency,{{No2}}UHF,{{No2}}kW,{{No2}}Service
+{{UK DVB-T|ch=55}},55,0.004,Digital 3&4
+{{UK DVB-T|ch=59}},59,0.004,BBC Mux A
+{{UK DVB-T|ch=62|off=neg}},62-,0.004,BBC Mux B

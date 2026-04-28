@@ -1,0 +1,8 @@
+access_auditlog_rule_user,access_auditlog_log_user,access_auditlog_log_line_user,access_auditlog_http_session_user,access_auditlog_http_request_user,access_auditlog_rule_manager,access_auditlog_log_manager,access_auditlog_log_line_manager,access_auditlog_http_session_manager,access_auditlog_http_request_manager
+auditlog_rule_user,auditlog_log_user,auditlog_log_line_user,auditlog_http_session_user,auditlog_http_request_user,auditlog_rule_manager,auditlog_log_manager,auditlog_log_line_manager,auditlog_http_session_manager,auditlog_http_request_manager
+model_auditlog_rule,model_auditlog_log,model_auditlog_log_line,model_auditlog_http_session,model_auditlog_http_request,model_auditlog_rule,model_auditlog_log,model_auditlog_log_line,model_auditlog_http_session,model_auditlog_http_request
+base.group_user,base.group_user,base.group_user,base.group_user,base.group_user,base.group_erp_manager,base.group_erp_manager,base.group_erp_manager,base.group_erp_manager,base.group_erp_manager
+0,0,0,0,0,1,1,1,1,1
+0,0,0,0,0,1,1,1,1,1
+0,0,0,0,0,1,1,1,1,1
+0,0,0,0,0,1,1,1,1,1

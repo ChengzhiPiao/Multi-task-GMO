@@ -1,0 +1,3 @@
+access_mc_aboutconpany_mc_aboutconpany,mc_aboutconpany.user,model_mc_aboutcompany,group_AboutCompany,1,0,0,0
+access_mc_aboutconpany_mc_aboutconpany,mc_aboutconpany.AboutCompany,model_mc_aboutcompany,group_AboutCompany,1,1,1,1
+access_mc_aboutconpany_mc_aboutconpany,mc_aboutconpany.ir_module_module,base.model_ir_module_module,base.group_user,1,1,1,1

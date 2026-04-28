@@ -1,0 +1,8 @@
+Implementation,Botan,Bouncy Castle,cryptlib,Crypto++,Libgcrypt,libsodium,Nettle,OpenSSL,wolfCrypt
+ECDH,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}}
+DH,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}
+DSA,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+RSA,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}}
+ElGamal,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}}
+NTRU,{{No}},{{Yes}},{{No}},{{No}},{{No}},{{No}},{{No}},{{No}},{{Yes}}
+DSS,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{Yes}}

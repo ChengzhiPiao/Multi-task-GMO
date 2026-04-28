@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8
+App,Two,Add,Five,Browser,Equals,Group,Browser
+Open the Application [<Data>],[<Object>] image is clicked,[<Object>] image is clicked,[<Object>] image is clicked,This a dummy function helpful with testing.,[<Object>] image is clicked,[<Object>] image is clicked,print the data [<Data>]
+openApp,imgClick,imgClick,imgClick,filler,imgClick,imgStoreTextAbove,print
+@Calc,,,,,,%var1%,%var1%
+,,,Start Loop,End Loop:@5,,,
+,Calculator,Calculator,Calculator,,Calculator,Calculator,

@@ -1,0 +1,7 @@
+2,10,42,84,123,155,269,380,741,871,994
+Add Two Numbers,Regular Expression Matching,Trapping Rain Water,Largest Rectangle in Histogram,Best Time to Buy and Sell Stock III,Min Stack,Alien Dictionary,Insert Delete GetRandom O(1),Cherry Pickup,Minimum Number of Refueling Stops,Rotting Oranges
+"Linked List, Math","String, Dynamic Programming, Backtracking","Array, Two Pointers, Stack","Array, Stack","Array, Dynamic Programming","Stack, Design","Graph, Topological Sort","Array, Hash Table, Design",Dynamic Programming,"Dynamic Programming, Heap",Breadth-first Search
+34.1%,26.9%,49.2%,35.5%,38.6%,44.8%,33.3%,47.7%,34.0%,31.4%,49.3%
+Medium,Hard,Hard,Hard,Hard,Easy,Hard,Medium,Hard,Hard,Medium
+0.384233,1.64353,3.39968,3.66133,2.41727,1.0622,6.87916,2.26584,53.4396,100.0,1.03389
+https://leetcode.com/problems/add-two-numbers,https://leetcode.com/problems/regular-expression-matching,https://leetcode.com/problems/trapping-rain-water,https://leetcode.com/problems/largest-rectangle-in-histogram,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii,https://leetcode.com/problems/min-stack,https://leetcode.com/problems/alien-dictionary,https://leetcode.com/problems/insert-delete-getrandom-o1,https://leetcode.com/problems/cherry-pickup,https://leetcode.com/problems/minimum-number-of-refueling-stops,https://leetcode.com/problems/rotting-oranges

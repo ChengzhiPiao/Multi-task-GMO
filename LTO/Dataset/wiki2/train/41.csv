@@ -1,0 +1,71 @@
+Function,unit impulse,delayed impulse,unit step,delayed unit step,ramp,"{{math|''n''}}th power
+(for integer {{math|''n''}})","{{math|''q''}}th power
+(for complex {{math|''q''}})",{{math|''n''}}th root,{{math|''n''}}th power with frequency shift,"delayed {{math|''n''}}th power
+with frequency shift",exponential decay,"two-sided exponential decay
+(only for bilateral transform)",exponential approach,sine,cosine,hyperbolic sine,hyperbolic cosine,"exponentially decaying
+sine wave","exponentially decaying
+cosine wave",natural logarithm,"Bessel function
+of the first kind,
+of order n",Error function,"Explanatory notes:{{col-begin}}{{col-break}}
+{{math|''u''(''t'')}} represents the Heaviside step function.
+{{math|''δ''}} represents the Dirac delta function.
+{{math|Γ(''z'')}} represents the Gamma function.
+{{math|''γ''}} is the Euler&ndash;Mascheroni constant.{{col-break}}
+{{math|''t''}}, a real number, typically represents time,
+although it can represent any independent dimension.
+{{math|''s''}} is the complex frequency domain parameter, and {{math|Re(''s'')}} is its real part.
+{{math|''α'', ''β'', ''τ,'' and ''ω''}} are real numbers.
+{{math|''n''}} is an integer.{{col-end}}"
+Time domain,,,,,,,,,,,,,,,,,,,,,,,"Explanatory notes:{{col-begin}}{{col-break}}
+{{math|''u''(''t'')}} represents the Heaviside step function.
+{{math|''δ''}} represents the Dirac delta function.
+{{math|Γ(''z'')}} represents the Gamma function.
+{{math|''γ''}} is the Euler&ndash;Mascheroni constant.{{col-break}}
+{{math|''t''}}, a real number, typically represents time,
+although it can represent any independent dimension.
+{{math|''s''}} is the complex frequency domain parameter, and {{math|Re(''s'')}} is its real part.
+{{math|''α'', ''β'', ''τ,'' and ''ω''}} are real numbers.
+{{math|''n''}} is an integer.{{col-end}}"
+Laplace {{math|s}}-domain,,,,,,,,,,,,,,,,,,,,,,,"Explanatory notes:{{col-begin}}{{col-break}}
+{{math|''u''(''t'')}} represents the Heaviside step function.
+{{math|''δ''}} represents the Dirac delta function.
+{{math|Γ(''z'')}} represents the Gamma function.
+{{math|''γ''}} is the Euler&ndash;Mascheroni constant.{{col-break}}
+{{math|''t''}}, a real number, typically represents time,
+although it can represent any independent dimension.
+{{math|''s''}} is the complex frequency domain parameter, and {{math|Re(''s'')}} is its real part.
+{{math|''α'', ''β'', ''τ,'' and ''ω''}} are real numbers.
+{{math|''n''}} is an integer.{{col-end}}"
+Region of convergence,all {{math|''s''}},,{{math|Re(''s'') > 0}},{{math|Re(''s'') > 0}},{{math|Re(''s'') > 0}},"{{math|Re(''s'') > 0}}
+({{math|''n'' > −1}})","{{math|Re(''s'') > 0}}
+{{math|Re(''q'') > −1}}",{{math|Re(''s'') > 0}},{{math|Re(''s'') > −''α''}},{{math|Re(''s'') > −''α''}},{{math|Re(''s'') > −''α''}},{{math|−''α'' < Re(''s'') < ''α''}},{{math|Re(''s'') > 0}},{{math|Re(''s'') > 0}},{{math|Re(''s'') > 0}},{{math|Re(''s'') > {{abs|''α''}}}},{{math|Re(''s'') > {{abs|''α''}}}},{{math|Re(''s'') > −''α''}},{{math|Re(''s'') > −''α''}},{{math|Re(''s'') > 0}},"{{math|Re(''s'') > 0}}
+({{math|''n'' > −1}})",{{math|Re(''s'') > 0}},"Explanatory notes:{{col-begin}}{{col-break}}
+{{math|''u''(''t'')}} represents the Heaviside step function.
+{{math|''δ''}} represents the Dirac delta function.
+{{math|Γ(''z'')}} represents the Gamma function.
+{{math|''γ''}} is the Euler&ndash;Mascheroni constant.{{col-break}}
+{{math|''t''}}, a real number, typically represents time,
+although it can represent any independent dimension.
+{{math|''s''}} is the complex frequency domain parameter, and {{math|Re(''s'')}} is its real part.
+{{math|''α'', ''β'', ''τ,'' and ''ω''}} are real numbers.
+{{math|''n''}} is an integer.{{col-end}}"
+Reference,inspection,"time shift of
+unit impulse",integrate unit impulse,"time shift of
+unit step","integrate unit
+impulse twice","Integrate unit
+step {{math|''n''}} times",,Set {{math|1=''q'' = 1/''n''}} above.,"Integrate unit step,
+apply frequency shift","Integrate unit step,
+apply frequency shift,
+apply time shift","Frequency shift of
+unit step","Frequency shift of
+unit step","Unit step minus
+exponential decay",{{Harvnb|Bracewell|1978|p=227}},{{Harvnb|Bracewell|1978|p=227}},{{Harvnb|Williams|1973|p=88}},{{Harvnb|Williams|1973|p=88}},{{Harvnb|Bracewell|1978|p=227}},{{Harvnb|Bracewell|1978|p=227}},{{Harvnb|Williams|1973|p=88}},{{Harvnb|Williams|1973|p=89}},{{Harvnb|Williams|1973|p=89}},"Explanatory notes:{{col-begin}}{{col-break}}
+{{math|''u''(''t'')}} represents the Heaviside step function.
+{{math|''δ''}} represents the Dirac delta function.
+{{math|Γ(''z'')}} represents the Gamma function.
+{{math|''γ''}} is the Euler&ndash;Mascheroni constant.{{col-break}}
+{{math|''t''}}, a real number, typically represents time,
+although it can represent any independent dimension.
+{{math|''s''}} is the complex frequency domain parameter, and {{math|Re(''s'')}} is its real part.
+{{math|''α'', ''β'', ''τ,'' and ''ω''}} are real numbers.
+{{math|''n''}} is an integer.{{col-end}}"

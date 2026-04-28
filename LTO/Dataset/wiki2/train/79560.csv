@@ -1,0 +1,21 @@
+State,State,Alabama,Arkansas,California,Colorado,Connecticut,Delaware,Florida,Georgia,Idaho,Illinois,Indiana,Iowa,Kansas,Kentucky,Louisiana,Maine,Maryland,Massachusetts,Michigan,Minnesota,Mississippi,Missouri,Montana,Nebraska,Nevada,New Hampshire,New Jersey,New York,North Carolina,North Dakota,Ohio,Oregon,Pennsylvania,Rhode Island,South Carolina,South Dakota,Tennessee,Texas,Utah,Vermont,Virginia,Washington,West Virginia,Wisconsin,Wyoming,Total
+Type,Type,District,District,District,District,District,At-large,District,District,At-large,District,District,District,"District
++at-large",District,District,District,District,District,District,District,District,District,At-large,District,At-large,District,District,District,District,At-large,District,District,"District
++2 at-large",District,District,At-large,District,District,At-large,District,District,At-large,District,District,At-large,Total
+"Total
+seats","Total
+seats",9,6,7,2,4,1,2,11,1,22,13,11,8,11,6,4,6,13,12,7,7,15,1,6,1,2,8,34,9,1,21,2,30,2,7,2,10,13,1,2,10,2,4,10,1,357
+Republican,Seats,1,0,6,0,4,1,0,0,0,14,9,11,7,2,0,4,4,10,12,7,0,3,0,2,0,2,6,16,3,1,15,2,20,2,0,2,2,1,0,2,0,2,3,10,1,"187
+52.4%"
+Republican,Change,{{steady}},{{steady}},{{increase}} 3,{{steady}},{{steady}},{{increase}} 1,{{steady}},{{steady}},{{steady}},{{decrease}} 3,{{steady}},{{steady}},{{increase}} 5,{{decrease}} 2,{{steady}},{{steady}},{{decrease}} 2,{{decrease}} 2,{{increase}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 2,{{decrease}} 12,{{steady}} 1,{{steady}},{{steady}},{{steady}},{{decrease}} 7,{{steady}},{{steady}},{{increase}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 4,{{increase}} 2,{{decrease}} 1,{{steady}},{{increase}} 1,{{decrease}} 20
+Democratic,Seats,8,6,1,0,0,0,2,11,0,8,4,0,0,9,6,0,2,3,0,0,7,12,1,1,0,0,2,18,5,0,6,0,10,0,7,0,8,12,1,0,10,0,1,0,0,"161
+45.1%"
+Democratic,Change,{{increase}} 1,{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{increase}} 3,{{steady}},{{steady}},{{steady}},{{increase}} 2,{{steady}},{{steady}},{{increase}} 2,{{increase}} 2,{{decrease}} 2,{{steady}},{{steady}},{{steady}},{{increase}} 1,{{increase}} 1,{{steady}},{{steady}},{{increase}} 2,{{increase}} 12,{{increase}} 4,{{steady}},{{steady}},{{steady}},{{increase}} 7,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 4,{{decrease}} 1,{{increase}} 1,{{steady}},{{decrease}} 1,{{increase}} 37
+Populist,Seats,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"6
+1.7%"
+Populist,Change,{{decrease}} 1,{{steady}},{{decrease}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{decrease}} 5,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 4,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 2,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 16
+"Silver/
+Silver Republican",Seats,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"3
+0.8%"
+"Silver/
+Silver Republican",Change,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{increase}} 1,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{steady}},{{decrease}} 1,{{steady}},{{steady}},{{steady}},{{decrease}} 1

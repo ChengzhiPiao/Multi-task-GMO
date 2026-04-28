@@ -1,0 +1,11 @@
+,,Y,Y,Y,Pairwise election results (won-tied-lost):
+,,A,B,C,Pairwise election results (won-tied-lost):
+X,A,,"[X] 5
+[Y] 2","[X] 3
+[Y] 4",1-0-1
+X,B,"[X] 2
+[Y] 5",,"[X] 3
+[Y] 4",0-0-2
+X,C,"[X] 4
+[Y] 3","[X] 4
+[Y] 3",,2-0-0

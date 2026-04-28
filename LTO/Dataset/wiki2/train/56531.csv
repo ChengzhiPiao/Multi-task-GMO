@@ -1,0 +1,4 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,Cuiabá,6,4,0,2,10,7,3,12
+2,Rondonópolis,6,3,1,2,9,7,2,10
+3,Dom Bosco,6,1,2,3,4,6,–2,5

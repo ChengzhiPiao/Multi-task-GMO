@@ -1,0 +1,84 @@
+Pos,Pos,1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20,21,21,22,22,23,23,24,24,25,25,26,26,27,27,28,28,29,29,"30
+NC","30
+NC","31
+DNF","31
+DNF","32
+DNF","32
+DNF","33
+DNF","33
+DNF"
+Class,Class,P1,P1,P1,P1,PC,PC,PC,PC,PC,PC,GT,GT,GT,GT,GT,GT,GT,GT,P2,P2,GT,GT,GT,GT,GT,GT,GT,GT,P1,P1,PC,PC,P2,P2,PC,PC,P2,P2,GT,GT,GT,GT,PC,PC,GTC,GTC,GTC,GTC,GTC,GTC,GTC,GTC,GTC,GTC,GT,GT,PC,PC,GT,GT,GTC,GTC,PC,PC,P2,P2
+No,No,6,6,16,16,06,06,5,5,05,05,4,4,56,56,01,01,3,3,055,055,007,007,17,17,45,45,48,48,20,20,8,8,37,37,25,25,95,95,44,44,02,02,52,52,34,34,22,22,11,11,32,32,66,66,55,55,9,9,23,23,24,24,7,7,54,54
+Team,Team,{{flagicon|USA}} Muscle Milk Pickett Racing,{{flagicon|USA}} Muscle Milk Pickett Racing,{{flagicon|USA}} Dyson Racing Team,{{flagicon|USA}} Dyson Racing Team,{{flagicon|USA}} CORE Autosport,{{flagicon|USA}} CORE Autosport,{{flagicon|USA}} Muscle Milk Pickett Racing,{{flagicon|USA}} Muscle Milk Pickett Racing,{{flagicon|USA}} CORE Autosport,{{flagicon|USA}} CORE Autosport,{{flagicon|USA}} Corvette Racing,{{flagicon|USA}} Corvette Racing,{{flagicon|USA}} BMW Team RLL,{{flagicon|USA}} BMW Team RLL,{{flagicon|USA}} Extreme Speed Motorsports,{{flagicon|USA}} Extreme Speed Motorsports,{{flagicon|USA}} Corvette Racing,{{flagicon|USA}} Corvette Racing,{{flagicon|USA}} Level 5 Motorsports,{{flagicon|USA}} Level 5 Motorsports,{{flagicon|GBR}} Aston Martin Racing,{{flagicon|GBR}} Aston Martin Racing,{{flagicon|USA}} Team Falken Tire,{{flagicon|USA}} Team Falken Tire,{{flagicon|USA}} Flying Lizard Motorsports,{{flagicon|USA}} Flying Lizard Motorsports,{{flagicon|USA}} Paul Miller Racing,{{flagicon|USA}} Paul Miller Racing,{{flagicon|USA}} Dyson Racing Team,{{flagicon|USA}} Dyson Racing Team,{{flagicon|USA}} Merchant Services Racing,{{flagicon|USA}} Merchant Services Racing,{{flagicon|USA}} Conquest Endurance,{{flagicon|USA}} Conquest Endurance,{{flagicon|USA}} Dempsey Racing,{{flagicon|USA}} Dempsey Racing,{{flagicon|USA}} Level 5 Motorsports,{{flagicon|USA}} Level 5 Motorsports,{{flagicon|USA}} Flying Lizard Motorsports,{{flagicon|USA}} Flying Lizard Motorsports,{{flagicon|USA}} Extreme Speed Motorsports,{{flagicon|USA}} Extreme Speed Motorsports,{{flagicon|USA}} PR1/Mathiasen Motorsports,{{flagicon|USA}} PR1/Mathiasen Motorsports,{{flagicon|USA}} Green Hornet Racing,{{flagicon|USA}} Green Hornet Racing,{{flagicon|USA}} Alex Job Racing,{{flagicon|USA}} Alex Job Racing,{{flagicon|USA}} JDX Racing,{{flagicon|USA}} JDX Racing,{{flagicon|USA}} GMG Racing,{{flagicon|USA}} GMG Racing,{{flagicon|USA}} TRG,{{flagicon|USA}} TRG,{{flagicon|USA}} BMW Team RLL,{{flagicon|USA}} BMW Team RLL,{{flagicon|USA}} RSR Racing,{{flagicon|USA}} RSR Racing,{{flagicon|USA}} Lotus Alex Job Racing,{{flagicon|USA}} Lotus Alex Job Racing,{{flagicon|USA}} Competition Motorsports,{{flagicon|USA}} Competition Motorsports,{{flagicon|USA}} Merchant Services Racing,{{flagicon|USA}} Merchant Services Racing,{{flagicon|USA}} Black Swan Racing,{{flagicon|USA}} Black Swan Racing
+Drivers,Drivers,"{{flagicon|DEU}} Klaus Graf
+{{flagicon|DEU}} Lucas Luhr","{{flagicon|DEU}} Klaus Graf
+{{flagicon|DEU}} Lucas Luhr","{{flagicon|USA}} Chris Dyson
+{{flagicon|GBR}} Guy Smith","{{flagicon|USA}} Chris Dyson
+{{flagicon|GBR}} Guy Smith","{{flagicon|VEN}} Alex Popow
+{{flagicon|GBR}} Ryan Dalziel","{{flagicon|VEN}} Alex Popow
+{{flagicon|GBR}} Ryan Dalziel","{{flagicon|MEX}} Memo Gidley
+{{flagicon|USA}} Michael Guasch","{{flagicon|MEX}} Memo Gidley
+{{flagicon|USA}} Michael Guasch","{{flagicon|USA}} Colin Braun
+{{flagicon|USA}} Jon Bennett","{{flagicon|USA}} Colin Braun
+{{flagicon|USA}} Jon Bennett","{{flagicon|GBR}} Oliver Gavin
+{{flagicon|USA}} Tommy Milner","{{flagicon|GBR}} Oliver Gavin
+{{flagicon|USA}} Tommy Milner","{{flagicon|DEU}} Dirk Müller
+{{flagicon|USA}} Joey Hand","{{flagicon|DEU}} Dirk Müller
+{{flagicon|USA}} Joey Hand","{{flagicon|USA}} Scott Sharp
+{{flagicon|USA}} Johannes van Overbeek","{{flagicon|USA}} Scott Sharp
+{{flagicon|USA}} Johannes van Overbeek","{{flagicon|DEN}} Jan Magnussen
+{{flagicon|ESP}} Antonio García","{{flagicon|DEN}} Jan Magnussen
+{{flagicon|ESP}} Antonio García","{{flagicon|USA}} Scott Tucker
+{{flagicon|FRA}} Christophe Bouchut","{{flagicon|USA}} Scott Tucker
+{{flagicon|FRA}} Christophe Bouchut","{{flagicon|GBR}} Darren Turner
+{{flagicon|MEX}} Adrián Fernández","{{flagicon|GBR}} Darren Turner
+{{flagicon|MEX}} Adrián Fernández","{{flagicon|USA}} Bryan Sellers
+{{flagicon|DEU}} Wolf Henzler","{{flagicon|USA}} Bryan Sellers
+{{flagicon|DEU}} Wolf Henzler","{{flagicon|USA}} Patrick Long
+{{flagicon|DEU}} Jörg Bergmeister","{{flagicon|USA}} Patrick Long
+{{flagicon|DEU}} Jörg Bergmeister","{{flagicon|USA}} Bryce Miller
+{{flagicon|DEU}} Sascha Maassen","{{flagicon|USA}} Bryce Miller
+{{flagicon|DEU}} Sascha Maassen","{{flagicon|USA}} Eric Lux
+{{flagicon|USA}} Michael Marsal","{{flagicon|USA}} Eric Lux
+{{flagicon|USA}} Michael Marsal","{{flagicon|CAN}} Kyle Marcelli
+{{flagicon|USA}} Antonio Downs","{{flagicon|CAN}} Kyle Marcelli
+{{flagicon|USA}} Antonio Downs","{{flagicon|GBR}} Martin Plowman
+{{flagicon|DEN}} David Heinemeier Hansson","{{flagicon|GBR}} Martin Plowman
+{{flagicon|DEN}} David Heinemeier Hansson","{{flagicon|USA}} Duncan Ende
+{{flagicon|FRA}} Henri Richard","{{flagicon|USA}} Duncan Ende
+{{flagicon|FRA}} Henri Richard","{{flagicon|USA}} Scott Tucker
+{{flagicon|MEX}} Luis Díaz","{{flagicon|USA}} Scott Tucker
+{{flagicon|MEX}} Luis Díaz","{{flagicon|USA}} Seth Neiman
+{{flagicon|DEU}} Marco Holzer","{{flagicon|USA}} Seth Neiman
+{{flagicon|DEU}} Marco Holzer","{{flagicon|USA}} Ed Brown
+{{flagicon|USA}} Guy Cosmo","{{flagicon|USA}} Ed Brown
+{{flagicon|USA}} Guy Cosmo","{{flagicon|USA}} Butch Leitzinger
+{{flagicon|MEX}} Rudy Junco, Jr.","{{flagicon|USA}} Butch Leitzinger
+{{flagicon|MEX}} Rudy Junco, Jr.","{{flagicon|USA}} Peter LeSaffre
+{{flagicon|IRL}} Damien Faulkner","{{flagicon|USA}} Peter LeSaffre
+{{flagicon|IRL}} Damien Faulkner","{{flagicon|USA}} Leh Keen
+{{flagicon|USA}} Cooper MacNeil","{{flagicon|USA}} Leh Keen
+{{flagicon|USA}} Cooper MacNeil","{{flagicon|CAN}} Chris Cumming
+{{flagicon|CAN}} Michael Valiante","{{flagicon|CAN}} Chris Cumming
+{{flagicon|CAN}} Michael Valiante","{{flagicon|USA}} James Sofronas
+{{flagicon|USA}} Alex Welch","{{flagicon|USA}} James Sofronas
+{{flagicon|USA}} Alex Welch","{{flagicon|USA}} Spencer Pumpelly
+{{flagicon|VEN}} Emilio Di Guida","{{flagicon|USA}} Spencer Pumpelly
+{{flagicon|VEN}} Emilio Di Guida","{{flagicon|USA}} Bill Auberlen
+{{flagicon|DEU}} Jörg Müller","{{flagicon|USA}} Bill Auberlen
+{{flagicon|DEU}} Jörg Müller","{{flagicon|BRA}} Bruno Junqueira
+{{flagicon|USA}} Tomy Drissi","{{flagicon|BRA}} Bruno Junqueira
+{{flagicon|USA}} Tomy Drissi","{{flagicon|USA}} Townsend Bell
+{{flagicon|USA}} Bill Sweedler","{{flagicon|USA}} Townsend Bell
+{{flagicon|USA}} Bill Sweedler","{{flagicon|USA}} Bob Faieta
+{{flagicon|USA}} Michael Avenatti","{{flagicon|USA}} Bob Faieta
+{{flagicon|USA}} Michael Avenatti","{{flagicon|AUS}} James Kovacic
+{{flagicon|CAN}} Tony Burgess","{{flagicon|AUS}} James Kovacic
+{{flagicon|CAN}} Tony Burgess","{{flagicon|USA}} Tim Pappas
+{{flagicon|NED}} Jeroen Bleekemolen","{{flagicon|USA}} Tim Pappas
+{{flagicon|NED}} Jeroen Bleekemolen"
+Chassis,Engine,HPD ARX-03a,Honda 3.4&nbsp;L V8,Lola B12/60,"Mazda MZR-R 2.0&nbsp;L Turbo I4
+(Isobutanol)",Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Chevrolet Corvette C6.R,Chevrolet 5.5&nbsp;L V8,BMW M3 GT2,BMW 4.0&nbsp;L V8,Ferrari 458 Italia GT2,Ferrari 4.5&nbsp;L V8,Chevrolet Corvette C6.R,Chevrolet 5.5&nbsp;L V8,HPD ARX-03b,Honda HR28TT 2.8&nbsp;L Turbo V6,Aston Martin Vantage GTE,Aston Martin 4.5&nbsp;L V8,Porsche 997 GT3-RSR,Porsche 4.0&nbsp;L Flat-6,Porsche 997 GT3-RSR,Porsche 4.0&nbsp;L Flat-6,Porsche 997 GT3-RSR,Porsche 4.0&nbsp;L Flat-6,Lola B11/66,"Mazda MZR-R 2.0&nbsp;L Turbo I4
+(Isobutanol)",Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Morgan LMP2,Nissan VK45DE 4.5&nbsp;L V8,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,HPD ARX-03b,Honda HR28TT 2.8&nbsp;L Turbo V6,Porsche 997 GT3-RSR,Porsche 4.0&nbsp;L Flat-6,Ferrari 458 Italia GT2,Ferrari 4.5&nbsp;L V8,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,BMW M3 GT2,BMW 4.0&nbsp;L V8,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Lotus Evora GTE,Toyota-Cosworth 3.5&nbsp;L V6,Porsche 997 GT3 Cup,Porsche 3.8&nbsp;L Flat-6,Oreca FLM09,Chevrolet LS3 6.2&nbsp;L V8,Lola B11/80,Honda HR28TT 2.8&nbsp;L Turbo V6
+Tire,Tire,{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Falken}},{{Falken}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Michelin}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Dunlop}},{{Dunlop}},{{Michelin}},{{Michelin}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Yokohama}},{{Michelin}},{{Michelin}},{{Dunlop}},{{Dunlop}}
+Laps,Laps,86,86,86,86,85,85,84,84,84,84,84,84,84,84,84,84,84,84,83,83,83,83,83,83,83,83,83,83,83,83,83,83,83,83,82,82,81,81,81,81,80,80,80,80,79,79,79,79,79,79,79,79,77,77,71,71,69,69,57,57,74,74,35,35,1,1

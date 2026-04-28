@@ -1,0 +1,4 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Won}},{{Tooltip | L | Lost}},{{Tooltip | NR | No result}},{{Tooltip | Pts | Points}},{{Tooltip | [[Net Run Rate|NRR]] | Net run rate}}
+{{crw|SRI}},2,2,0,0,4,+1.129
+{{crw|PAK}},2,1,1,0,2,−0.654
+{{crw|IRE}},2,0,2,0,0,−0.400

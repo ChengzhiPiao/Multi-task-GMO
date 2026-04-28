@@ -1,0 +1,6 @@
+Geometry attribute,Helix sense,Repeating unit,Rotation/bp,bp/turn,Inclination of bp to axis,Rise/bp along axis,Pitch/turn of helix,Mean propeller twist,Glycosyl angle,Sugar pucker,Diameter
+A-DNA,right-handed,1 bp,32.7°,11,+19°,2.3 Å (0.23&nbsp;nm),28.2 Å (2.82&nbsp;nm),+18°,anti,C3'-endo,23 Å (2.3&nbsp;nm)
+B-DNA,right-handed,1 bp,34.3°,10.5,−1.2°,3.32 Å (0.332&nbsp;nm),33.2 Å (3.32&nbsp;nm),+16°,anti,C2'-endo,20 Å (2.0&nbsp;nm)
+Z-DNA,left-handed,2 bp,60°/2,12,−9°,3.8 Å (0.38&nbsp;nm),45.6 Å (4.56&nbsp;nm),0°,"C: anti,
+G: syn","C: C2'-endo,
+G: C2'-exo",18 Å (1.8&nbsp;nm)

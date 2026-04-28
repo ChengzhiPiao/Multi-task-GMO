@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Win}},{{Tooltip | L | Lose}},{{Tooltip | D | Draw}},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points}}
+Ballivor,1,1,0,0,0,0,+0,2
+Ballinabrackey,1,0,1,0,0,0,+0,0
+Enfield,1,0,0,0,0,0,+0,0
+Athboy,0,0,0,0,0,0,+0,0

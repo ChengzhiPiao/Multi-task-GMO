@@ -1,0 +1,10 @@
+Implementation,ECB,CBC,OFB,CFB,CTR,CCM,GCM,OCB,XTS,AES-Wrap,Stream
+Botan,{{No}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+Bouncy Castle,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{-}},{{Yes}},{{Yes}}
+cryptlib,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{-}},{{No}},{{Yes}},{{-}},{{-}},{{-}},{{-}}
+Crypto++,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{Yes}}
+Libgcrypt,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+libsodium,{{No}},{{No}},{{No}},{{No}},{{Yes}},{{No}},{{Yes}},{{No}},{{No}},{{No}},{{No}}
+Nettle,{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}}
+OpenSSL,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+wolfCrypt,{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{No}},{{No}}

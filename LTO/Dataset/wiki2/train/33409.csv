@@ -1,0 +1,4 @@
+Group,Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+E,{{fb|JPN}},4,2,1,1,31,1,+30,7
+G,{{fb|IDN}},4,2,1,1,7,4,+3,7
+F,{{fb|MAS}},4,1,2,1,5,5,0,5

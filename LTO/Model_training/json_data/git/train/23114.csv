@@ -1,0 +1,8 @@
+access_hr_applicant_user,access_hr_recruitment_report,access_hr_recruitment_stage_user,access_hr_recruitment_degree,access_res_partner_hr_user,access_survey_hr_user,access_crm_meeting_hruser,access_hr_recruitment_source_hr_officer,access_hr_recruitment_source_all,access_hr_applicant_category,access_hr_applicant_category_manager
+hr.applicant.user,hr.recruitment.report,hr.recruitment.stage.user,hr.recruitment.degree,res.partner.user,survey.hr.user,crm.meeting.hruser,hr.recruitment.source,hr.recruitment.source,hr.applicant_category,hr.applicant_category
+model_hr_applicant,model_hr_recruitment_report,model_hr_recruitment_stage,model_hr_recruitment_degree,base.model_res_partner,survey.model_survey,base_calendar.model_crm_meeting,model_hr_recruitment_source,model_hr_recruitment_source,model_hr_applicant_category,model_hr_applicant_category
+base.group_hr_user,base.group_hr_manager,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,base.group_hr_user,,,base.group_hr_manager
+1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,0,1,1
+1,1,1,1,1,1,1,1,0,1,1
+1,1,1,1,1,0,1,1,0,0,1

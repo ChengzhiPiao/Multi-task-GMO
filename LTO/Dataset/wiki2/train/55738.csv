@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld| Played}},{{Tooltip| W| Won}},{{Tooltip| D| Drawn}},{{Tooltip| L| Lost}},{{Tooltip| GF| Goals for}},{{Tooltip| GA| Goals against}},{{Tooltip| GD| Goal difference}},{{Tooltip| Pts| Points}}
+{{fbu|17|GEO}},2,1,1,0,10,0,+10,4
+{{fbu|17|KAZ}},2,1,1,0,3,0,+3,4
+{{fbu|17|KGZ}},2,0,0,2,0,13,&minus;13,0

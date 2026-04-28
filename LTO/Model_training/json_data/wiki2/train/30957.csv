@@ -1,0 +1,10 @@
+{{Tooltip|Pos|Position}},1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Club,Real Madrid,Steach United,Olympics,William Prescod,Kakamas Juventus,Young Pirates,Charlton,Wanderers,Kakamas Sundowns,Wings United,Morester Jeug,North East Celtics,Louisvale Pirates,Ray Madrid,Kakamas Cosmos,Amalawus
+{{Tooltip|GP|Games played}},30,30,30,30,29,30,30,30,30,30,30,30,30,30,29,30
+{{Tooltip|W|Wins}},23,23,16,15,13,12,13,14,13,11,10,9,9,9,8,2
+{{Tooltip|D|Draws}},6,5,5,6,8,10,7,2,3,5,5,4,4,2,3,3
+{{Tooltip|L|Losses}},1,2,9,9,8,8,10,14,14,14,15,17,17,19,18,25
+{{Tooltip|GF|Goals for}},92,106,44,50,48,35,55,44,35,41,49,38,33,45,34,23
+{{Tooltip|GA|Goals against}},14,21,34,32,39,28,54,46,57,44,58,47,58,91,65,84
+{{Tooltip|GD|Goal difference}},78,85,10,18,9,7,1,-2,-22,-3,-9,-9,-25,-46,-31,-61
+{{Tooltip|Pts|Points}},75,74,53,51,47,46,46,44,42,38,35,31,31,29,27,9

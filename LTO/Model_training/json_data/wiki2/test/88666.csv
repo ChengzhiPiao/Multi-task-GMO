@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1=,{{fb|TCH}},6,4,3,0,1,16,5,+11
+1=,{{fb|SCO}},6,4,3,0,1,10,7,+3
+3,{{fb|IRL}},0,4,0,0,4,3,17,&minus;14

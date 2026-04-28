@@ -1,0 +1,6 @@
+Event,Non-event,Test 2,Test 2,Test 2,Test 2,"Total, split","Total, split",Total
+Event,Non-event,Abnormal,Abnormal,Normal,Normal,"Total, split","Total, split",Total
+Test 1,Abnormal,18,2,2,8,20,10,30
+Test 1,Normal,4,4,6,56,10,60,70
+"Total, split","Total, split",22,6,8,64,30,70,
+Total,Total,28,28,72,72,,,100

@@ -1,0 +1,8 @@
+order_manager,order_line_manager,cashmove_manager,product_manager,product_category_manager,alert_manager,order_user,order_line_user,cashmove_user,product_user,product_category_user,alert_user
+Order user,Order Line user,Cashmove user,Product user,Product category user,Alert user,Order user,Order Line user,Cashmove user,Product user,Product category user,Alert user
+model_lunch_order,model_lunch_order_line,model_lunch_cashmove,model_lunch_product,model_lunch_product_category,model_lunch_alert,model_lunch_order,model_lunch_order_line,model_lunch_cashmove,model_lunch_product,model_lunch_product_category,model_lunch_alert
+group_lunch_manager,group_lunch_manager,group_lunch_manager,group_lunch_manager,group_lunch_manager,group_lunch_manager,group_lunch_user,group_lunch_user,group_lunch_user,group_lunch_user,group_lunch_user,group_lunch_user
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,0,0,0,0
+1,1,1,1,1,1,1,1,0,0,0,0
+1,1,1,1,1,1,0,1,0,0,0,0

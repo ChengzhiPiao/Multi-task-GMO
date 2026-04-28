@@ -1,0 +1,19 @@
+Name,"Schläfli
+Symbol
+{p,q,r,s}","Facet
+type
+{p,q,r}","Cell
+type
+{p,q}","Face
+type
+{p}","Face
+figure
+{s}","Edge
+figure
+{r,s}","Vertex
+figure
+{q,r,s}",Dual,Density
+Small stellated 120-cell honeycomb,"{5/2,5,3,3}","{5/2,5,3}","{5/2,5}",{5/2},{3},"{3,3}","{5,3,3}","{3,3,5,5/2}",5
+Pentagrammic-order 600-cell honeycomb,"{3,3,5,5/2}","{3,3,5}","{3,3}",{3},{5/2},"{5,5/2}","{3,5,5/2}","{5/2,5,3,3}",5
+Order-5 icosahedral 120-cell honeycomb,"{3,5,5/2,5}","{3,5,5/2}","{3,5}",{3},{5},"{5/2,5}","{5,5/2,5}","{5,5/2,5,3}",10
+Great 120-cell honeycomb,"{5,5/2,5,3}","{5,5/2,5}","{5,5/2}",{5},{3},"{5,3}","{5/2,5,3}","{3,5,5/2,5}",10

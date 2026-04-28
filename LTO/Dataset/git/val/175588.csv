@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+Browser,Search,Search,SearchButton,calc_result_web,calc_result_web,App,1,1,0,+,1,0,=,rescalc
+Open the Url [https://www.google.co.in/] in the Browser,Click the [Search] ,Enter the value [10+10=] in the Field [Search],Click the [<Object>] ,wait for the [<Object>] to be present on the screen is done,Find Image [<Object>]  and store text above into variable [<Data>] .,Open the Application [<Data>],wait for the [<Object>] to be present on the screen is done,[<Object>] image is clicked,[<Object>] image is clicked,[<Object>] image is clicked,[<Object>] image is clicked,[<Object>] image is clicked,[<Object>] image is clicked,Find Image [<Object>]  and assert text on above  matches [<Data>]
+Open,Click,Set,Click,imgWait,imgStoreTextAbove,openApp,imgWait,imgClick,imgClick,imgClick,imgClick,imgClick,imgClick,imgAssertTextAbove
+@https://www.google.co.in/,,@10+10=,,,%varweb%,@calc,,,,,,,,%varweb%
+,,,,,,,,,,,,,,
+,Google_ImageAndWeb,Google_ImageAndWeb,Google_ImageAndWeb,img,img,,img,img,img,img,img,img,img,img

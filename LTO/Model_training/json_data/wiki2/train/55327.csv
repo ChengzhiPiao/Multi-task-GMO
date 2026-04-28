@@ -1,0 +1,8 @@
+#,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+Team,San Antonio Spurs,Phoenix Suns,New Orleans Pelicans,Atlanta Hawks,Boston Celtics,Golden State Warriors,Chicago Bulls,Dallas Mavericks,New York Knicks,Toronto Raptors,NBA D-League Select,Denver Nuggets,Portland Trail Blazers,Brooklyn Nets,Washington Wizards,Milwaukee Bucks,Utah Jazz,Houston Rockets,Cleveland Cavaliers,Sacramento Kings,Los Angeles Lakers,Minnesota Timberwolves,Philadelphia 76ers,Miami Heat
+{{tooltip|GP|Games played}},7,7,6,7,5,6,6,6,5,5,5,5,6,6,6,6,5,5,5,5,5,5,5,5
+{{tooltip|W|Games won}},6,5,5,4,4,3,3,2,4,3,3,3,3,3,3,1,2,2,2,2,1,1,1,1
+{{tooltip|L|Games lost}},1,2,1,3,1,3,3,4,1,2,2,2,3,3,3,5,3,3,3,3,4,4,4,4
+{{tooltip|PCT|Winning percentage}},.857,.714,.833,.571,.800,.500,.500,.333,.800,.600,.600,.600,.500,.500,.500,.167,.400,.400,.400,.400,.200,.200,.200,.200
+{{tooltip|QP|Quarter points}},16,17,16.5,15.5,13,13,13,12,9.5,11.5,11,10.5,12,10,8.5,10,10.5,9.5,7,7,10,9,8,8
+Explanation,Won Championship Game,Lost Championship Game,Lost in Semifinals,Lost in Semifinals,Lost in Quarterfinals,Lost in Quarterfinals,Lost in Quarterfinals,Lost in Quarterfinals,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in Second Round,Lost in First Round,Lost in First Round,Lost in First Round,Lost in First Round,Lost in First Round,Lost in First Round,Lost in First Round,Lost in First Round

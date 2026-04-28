@@ -1,0 +1,368 @@
+"
+Large-Scale Cover Song Detection in Digital Music Libraries Using  Metadata, Lyrics and Audio Features","
+Centroid estimation based on symmetric KL divergence for Multinomial  text classification problem","
+Understanding Latent Factors Using a GWAP","
+Analyze Unstructured Data Patterns for Conceptual Representation","
+Recommendation Through Mixtures of Heterogeneous Item Relationships","
+High-Performance Multi-Mode Ptychography Reconstruction on Distributed  GPUs","
+Using Taste Groups for Collaborative Filtering","
+Superhighway: Bypass Data Sparsity in Cross-Domain CF","
+Self-Attentive Sequential Recommendation","
+Implementation Notes for the Soft Cosine Measure","
+MedSTS: A Resource for Clinical Semantic Textual Similarity","
+Distance Based Source Domain Selection for Sentiment Classification","
+Models for Predicting Community-Specific Interest in News Articles","
+MIaS: Math-Aware Retrieval in Digital Mathematical Libraries","
+ParsRec: Meta-Learning Recommendations for Bibliographic Reference  Parsing","
+Automated Query Expansion using High Dimensional Clustering","
+Representation Learning for Image-based Music Recommendation","
+Harnessing Historical Corrections to build Test Collections for Named  Entity Disambiguation","
+Scientific Relation Extraction with Selectively Incorporated Concept  Embeddings","
+Dr. Tux: A Question Answering System for Ubuntu users","
+A Trio Neural Model for Dynamic Entity Relatedness Ranking","
+Can we leverage rating patterns from traditional users to enhance  recommendations for children?","
+A strong baseline for question relevancy ranking","
+A Jointly Learned Context-Aware Place of Interest Embedding for Trip  Recommendations","
+Reinforcement Learning for Relation Classification from Noisy Data","
+Sequence Covering for Efficient Host-Based Intrusion Detection"
+"Albin Andrew Correya, Romain Hennequin, Mickaël Arcos","Jiangning Chen, Heinrich Matzinger, Haoyan Zhai, Mi Zhou","Johannes Kunkel, Benedikt Loepp, Jürgen Ziegler","Aboubakr Aqle, Dena Al-Thani, Ali Jaoua","Wang-Cheng Kang, Mengting Wan, Julian McAuley","Zhihua Dong, Yao-Lung L. Fang, Xiaojing Huang, Hanfei Yan, Sungsoo Ha, Wei Xu, Yong S. Chu, Stuart I. Campbell, Meifeng Lin","Farhan Khawar, Nevin L. Zhang","Kwei-Herng Lai, Ting-Hsiang Wang, Heng-Yu Chi, Yian Chen, Ming-Feng Tsai, Chuan-Ju Wang","Wang-Cheng Kang, Julian McAuley",Vít Novotný,"Yanshan Wang, Naveed Afzal, Sunyang Fu, Liwei Wang, Feichen Shen, Majid Rastegar-Mojarad, Hongfang Liu","Lex Razoux Schultz, Marco Loog, Peyman Mohajerin Esfahani","Benjamin D. Horne, William Dron, Sibel Adali","Petr Sojka, Michal Růžička, Vít Novotný","Dominika Tkaczyk, Paraic Sheridan, Joeran Beel","Morgan Gallant, Haruna Isah, Farhana Zulkernine","Chih-Chun Hsia, Kwei-Herng Lai, Yian Chen, Chuan-Ju Wang, Ming-Feng Tsai",Florian Reitz,"Yi Luan, Mari Ostendorf, Hannaneh Hajishirzi","Bijil Abraham Philip, Manas Jog, Apurv Milind Upasani","Tu Nguyen, Tuan Tran, Wolfgang Nejdl","Ion Madrazo Azpiazu, Michael Green, Oghenemaro Anuyah, Maria Soledad Pera","Ana V. González-Garduño, Isabelle Augenstein, Anders Søgaard","Jiayuan He, Jianzhong Qi, Kotagiri Ramamohanarao","Jun Feng, Minlie Huang, Li Zhao, Yang Yang, Xiaoyan Zhu",Pierre-François Marteau
+" Cover song detection is a very relevant task in Music Information Retrieval
+(MIR) studies and has been mainly addressed using audio-based systems. Despite
+its potential impact in industrial contexts, low performances and lack of
+scalability have prevented such systems from being adopted in practice for
+large applications. In this work, we investigate whether textual music
+information (such as metadata and lyrics) can be used along with audio for
+large-scale cover identification problem in a wide digital music library. We
+benchmark this problem using standard text and state of the art audio
+similarity measures. Our studies shows that these methods can significantly
+increase the accuracy and scalability of cover detection systems on Million
+Song Dataset (MSD) and Second Hand Song (SHS) datasets. By only leveraging
+standard tf-idf based text similarity measures on song titles and lyrics, we
+achieved 35.5% of absolute increase in mean average precision compared to the
+current scalable audio content-based state of the art methods on MSD. These
+experimental results suggests that new methodologies can be encouraged among
+researchers to leverage and identify more sophisticated NLP-based techniques to
+improve current cover song identification systems in digital music libraries
+with metadata.
+"," We define a new method to estimate centroid for text classification based on
+the symmetric KL-divergence between the distribution of words in training
+documents and their class centroids. Experiments on several standard data sets
+indicate that the new method achieves substantial improvements over the
+traditional classifiers.
+"," Recommender systems relying on latent factor models often appear as black
+boxes to their users. Semantic descriptions for the factors might help to
+mitigate this problem. Achieving this automatically is, however, a
+non-straightforward task due to the models' statistical nature. We present an
+output-agreement game that represents factors by means of sample items and
+motivates players to create such descriptions. A user study shows that the
+collected output actually reflects real-world characteristics of the factors.
+"," Online news media provides aggregated news and stories from different sources
+all over the world and up-to-date news coverage. The main goal of this study is
+to have a solution that considered as a homogeneous source for the news and to
+represent the news in a new conceptual framework. Furthermore, the user can
+easily find different updated news in a fast way through the designed
+interface. The Mobile App implementation is based on modeling the multi-level
+conceptual analysis discipline. Discovering main concepts of any domain is
+captured from the hidden unstructured data that are analyzed by the proposed
+solution. Concepts are discovered through analyzing data patterns to be
+structured into a tree-based interface for easy navigation for the end user,
+through the discovered news concepts. Our final experiment results showing that
+analyzing the news before displaying to the end-user and restructuring the
+final output in a conceptual multilevel structure, that producing new display
+frame for the end user to find the related information to his interest.
+"," Recommender Systems have proliferated as general-purpose approaches to model
+a wide variety of consumer interaction data. Specific instances make use of
+signals ranging from user feedback, item relationships, geographic locality,
+social influence (etc.). Typically, research proceeds by showing that making
+use of a specific signal (within a carefully designed model) allows for
+higher-fidelity recommendations on a particular dataset. Of course, the real
+situation is more nuanced, in which a combination of many signals may be at
+play, or favored in different proportion by individual users. Here we seek to
+develop a framework that is capable of combining such heterogeneous item
+relationships by simultaneously modeling (a) what modality of recommendation is
+a user likely to be susceptible to at a particular point in time; and (b) what
+is the best recommendation from each modality. Our method borrows ideas from
+mixtures-of-experts approaches as well as knowledge graph embeddings. We find
+that our approach naturally yields more accurate recommendations than
+alternatives, while also providing intuitive `explanations' behind the
+recommendations it provides.
+"," Ptychography is an emerging imaging technique that is able to provide
+wavelength-limited spatial resolution from specimen with extended lateral
+dimensions. As a scanning microscopy method, a typical two-dimensional image
+requires a number of data frames. As a diffraction-based imaging technique, the
+real-space image has to be recovered through iterative reconstruction
+algorithms. Due to these two inherent aspects, a ptychographic reconstruction
+is generally a computation-intensive and time-consuming process, which limits
+the throughput of this method. We report an accelerated version of the
+multi-mode difference map algorithm for ptychography reconstruction using
+multiple distributed GPUs. This approach leverages available scientific
+computing packages in Python, including mpi4py and PyCUDA, with the core
+computation functions implemented in CUDA C. We find that interestingly even
+with MPI collective communications, the weak scaling in the number of GPU nodes
+can still remain nearly constant. Most importantly, for realistic diffraction
+measurements, we observe a speedup ranging from a factor of $10$ to $10^3$
+depending on the data size, which reduces the reconstruction time remarkably
+from hours to typically about 1 minute and is thus critical for real-time data
+processing and visualization.
+"," Implicit feedback is the simplest form of user feedback that can be used for
+item recommendation. It is easy to collect and domain independent. However,
+there is a lack of negative examples. Existing works circumvent this problem by
+making various assumptions regarding the unconsumed items, which fail to hold
+when the user did not consume an item because she was unaware of it. In this
+paper, we propose as a novel method for addressing the lack of negative
+examples in implicit feedback. The motivation is that if there is a large group
+of users who share the same taste and none of them consumed an item, then it is
+highly likely that the item is irrelevant to this taste. We use Hierarchical
+Latent Tree Analysis(HLTA) to identify taste-based user groups and make
+recommendations for a user based on her memberships in the groups.
+"," Cross-domain collaborative filtering (CF) aims to alleviate data sparsity in
+single-domain CF by leveraging knowledge transferred from related domains. Many
+traditional methods focus on enriching compared neighborhood relations in CF
+directly to address the sparsity problem. In this paper, we propose
+superhighway construction, an alternative explicit relation-enrichment
+procedure, to improve recommendations by enhancing cross-domain connectivity.
+Specifically, assuming partially overlapped items (users), superhighway
+bypasses multi-hop inter-domain paths between cross-domain users (items,
+respectively) with direct paths to enrich the cross-domain connectivity. The
+experiments conducted on a real-world cross-region music dataset and a
+cross-platform movie dataset show that the proposed superhighway construction
+significantly improves recommendation performance in both target and source
+domains.
+"," Sequential dynamics are a key feature of many modern recommender systems,
+which seek to capture the `context' of users' activities on the basis of
+actions they have performed recently. To capture such patterns, two approaches
+have proliferated: Markov Chains (MCs) and Recurrent Neural Networks (RNNs).
+Markov Chains assume that a user's next action can be predicted on the basis of
+just their last (or last few) actions, while RNNs in principle allow for
+longer-term semantics to be uncovered. Generally speaking, MC-based methods
+perform best in extremely sparse datasets, where model parsimony is critical,
+while RNNs perform better in denser datasets where higher model complexity is
+affordable. The goal of our work is to balance these two goals, by proposing a
+self-attention based sequential model (SASRec) that allows us to capture
+long-term semantics (like an RNN), but, using an attention mechanism, makes its
+predictions based on relatively few actions (like an MC). At each time step,
+SASRec seeks to identify which items are `relevant' from a user's action
+history, and use them to predict the next item. Extensive empirical studies
+show that our method outperforms various state-of-the-art sequential models
+(including MC/CNN/RNN-based approaches) on both sparse and dense datasets.
+Moreover, the model is an order of magnitude more efficient than comparable
+CNN/RNN-based models. Visualizations on attention weights also show how our
+model adaptively handles datasets with various density, and uncovers meaningful
+patterns in activity sequences.
+"," The standard bag-of-words vector space model (VSM) is efficient, and
+ubiquitous in information retrieval, but it underestimates the similarity of
+documents with the same meaning, but different terminology. To overcome this
+limitation, Sidorov et al. proposed the Soft Cosine Measure (SCM) that
+incorporates term similarity relations. Charlet and Damnati showed that the SCM
+is highly effective in question answering (QA) systems. However, the
+orthonormalization algorithm proposed by Sidorov et al. has an impractical time
+complexity of $\mathcal O(n^4)$, where n is the size of the vocabulary.
+"," The wide adoption of electronic health records (EHRs) has enabled a wide
+range of applications leveraging EHR data. However, the meaningful use of EHR
+data largely depends on our ability to efficiently extract and consolidate
+information embedded in clinical text where natural language processing (NLP)
+techniques are essential. Semantic textual similarity (STS) that measures the
+semantic similarity between text snippets plays a significant role in many NLP
+applications. In the general NLP domain, STS shared tasks have made available a
+huge collection of text snippet pairs with manual annotations in various
+domains. In the clinical domain, STS can enable us to detect and eliminate
+redundant information that may lead to a reduction in cognitive burden and an
+improvement in the clinical decision-making process. This paper elaborates our
+efforts to assemble a resource for STS in the medical domain, MedSTS. It
+consists of a total of 174,629 sentence pairs gathered from a clinical corpus
+at Mayo Clinic. A subset of MedSTS (MedSTS_ann) containing 1,068 sentence pairs
+was annotated by two medical experts with semantic similarity scores of 0-5
+(low to high similarity). We further analyzed the medical concepts in the
+MedSTS corpus, and tested four STS systems on the MedSTS_ann corpus. In the
+future, we will organize a shared task by releasing the MedSTS_ann corpus to
+motivate the community to tackle the real world clinical problems.
+"," Automated sentiment classification (SC) on short text fragments has received
+increasing attention in recent years. Performing SC on unseen domains with few
+or no labeled samples can significantly affect the classification performance
+due to different expression of sentiment in source and target domain. In this
+study, we aim to mitigate this undesired impact by proposing a methodology
+based on a predictive measure, which allows us to select an optimal source
+domain from a set of candidates. The proposed measure is a linear combination
+of well-known distance functions between probability distributions supported on
+the source and target domains (e.g. Earth Mover's distance and Kullback-Leibler
+divergence). The performance of the proposed methodology is validated through
+an SC case study in which our numerical experiments suggest a significant
+improvement in the cross domain classification error in comparison with a
+random selected source domain for both a naive and adaptive learning setting.
+In the case of more heterogeneous datasets, the predictability feature of the
+proposed model can be utilized to further select a subset of candidate domains,
+where the corresponding classifier outperforms the one trained on all available
+source domains. This observation reinforces a hypothesis that our proposed
+model may also be deployed as a means to filter out redundant information
+during a training phase of SC.
+"," In this work, we ask two questions: 1. Can we predict the type of community
+interested in a news article using only features from the article content? and
+2. How well do these models generalize over time? To answer these questions, we
+compute well-studied content-based features on over 60K news articles from 4
+communities on reddit.com. We train and test models over three different time
+periods between 2015 and 2017 to demonstrate which features degrade in
+performance the most due to concept drift. Our models can classify news
+articles into communities with high accuracy, ranging from 0.81 ROC AUC to 1.0
+ROC AUC. However, while we can predict the community-specific popularity of
+news articles with high accuracy, practitioners should approach these models
+carefully. Predictions are both community-pair dependent and feature group
+dependent. Moreover, these feature groups generalize over time differently,
+with some only degrading slightly over time, but others degrading greatly.
+Therefore, we recommend that community-interest predictions are done in a
+hierarchical structure, where multiple binary classifiers can be used to
+separate community pairs, rather than a traditional multi-class model. Second,
+these models should be retrained over time based on accuracy goals and the
+availability of training data.
+"," Digital mathematical libraries (DMLs) such as arXiv, Numdam, and EuDML
+contain mainly documents from STEM fields, where mathematical formulae are
+often more important than text for understanding. Conventional information
+retrieval (IR) systems are unable to represent formulae and they are therefore
+ill-suited for math information retrieval (MIR). To fill the gap, we have
+developed, and open-sourced the MIaS MIR system. MIaS is based on the full-text
+search engine Apache Lucene. On top of text retrieval, MIaS also incorporates a
+set of tools for preprocessing mathematical formulae. We describe the design of
+the system and present speed, and quality evaluation results. We show that MIaS
+is both efficient, and effective, as evidenced by our victory in the NTCIR-11
+Math-2 task.
+"," Bibliographic reference parsers extract metadata (e.g. author names, title,
+year) from bibliographic reference strings. No reference parser consistently
+gives the best results in every scenario. For instance, one tool may be best in
+extracting titles, and another tool in extracting author names. In this paper,
+we address the problem of reference parsing from a recommender-systems
+perspective. We propose ParsRec, a meta-learning approach that recommends the
+potentially best parser(s) for a given reference string. We evaluate ParsRec on
+105k references from chemistry. We propose two approaches to meta-learning
+recommendations. The first approach learns the best parser for an entire
+reference string. The second approach learns the best parser for each field of
+a reference string. The second approach achieved a 2.6% increase in F1 (0.909
+vs. 0.886, p < 0.001) over the best single parser (GROBID), reducing the false
+positive rate by 20.2% (0.075 vs. 0.094), and the false negative rate by 18.9%
+(0.107 vs. 0.132).
+"," The exponential growth of information on the Internet has created a big
+challenge for retrieval systems in terms of yielding relevant results. This
+challenge requires automatic approaches for reformatting or expanding users'
+queries to increase recall. Query expansion (QE), a technique for broadening
+users' queries by appending additional tokens or phrases bases on semantic
+similarity metrics, plays a crucial role in overcoming this challenge. However,
+such a procedure increases computational complexity and may lead to unwanted
+noise in information retrieval. This paper attempts to push the state of the
+art of QE by developing an automated technique using high dimensional
+clustering of word vectors to create effective expansions with reduced noise.
+We implemented a command line tool, named Xu, and evaluated its performance
+against a dataset of news articles, concluding that on average, expansions
+generated using this technique outperform those generated by previous
+approaches, and the base user query.
+"," Image perception is one of the most direct ways to provide contextual
+information about a user concerning his/her surrounding environment; hence
+images are a suitable proxy for contextual recommendation. We propose a novel
+representation learning framework for image-based music recommendation that
+bridges the heterogeneity gap between music and image data; the proposed method
+is a key component for various contextual recommendation tasks. Preliminary
+experiments show that for an image-to-song retrieval task, the proposed method
+retrieves relevant or conceptually similar songs for input images.
+"," Matching mentions of persons to the actual persons (the name disambiguation
+problem) is central for several digital library applications. Scientists have
+been working on algorithms to create this matching for decades without finding
+a universal solution. One problem is that test collections for this problem are
+often small and specific to a certain collection. In this work, we present an
+approach that can create large test collections from historical metadata with
+minimal extra cost. We apply this approach to the DBLP collection to generate
+two freely available test collections. One collection focuses on the properties
+of defects and one on the evaluation of disambiguation algorithms.
+"," This paper describes our submission for the SemEval 2018 Task 7 shared task
+on semantic relation extraction and classification in scientific papers. We
+extend the end-to-end relation extraction model of (Miwa and Bansal) with
+enhancements such as a character-level encoding attention mechanism on
+selecting pretrained concept candidate embeddings. Our official submission
+ranked the second in relation classification task (Subtask 1.1 and Subtask 2
+Senerio 2), and the first in the relation extraction task (Subtask 2 Scenario
+1).
+"," Various forums and question answering (Q&A) sites are available online that
+allow Ubuntu users to find results similar to their queries. However, searching
+for a result is often time consuming as it requires the user to find a specific
+problem instance relevant to his/her query from a large set of questions. In
+this paper, we present an automated question answering system for Ubuntu users
+called Dr. Tux that is designed to answer user's queries by selecting the most
+similar question from an online database. The prototype was implemented in
+Python and uses NLTK and CoreNLP tools for Natural Language Processing. The
+data for the prototype was taken from the AskUbuntu website which contains
+about 150k questions. The results obtained from the manual evaluation of the
+prototype were promising while also presenting some interesting opportunities
+for improvement.
+"," Measuring entity relatedness is a fundamental task for many natural language
+processing and information retrieval applications. Prior work often studies
+entity relatedness in static settings and an unsupervised manner. However,
+entities in real-world are often involved in many different relationships,
+consequently entity-relations are very dynamic over time. In this work, we
+propose a neural networkbased approach for dynamic entity relatedness,
+leveraging the collective attention as supervision. Our model is capable of
+learning rich and different entity representations in a joint framework.
+Through extensive experiments on large-scale datasets, we demonstrate that our
+method achieves better results than competitive baselines.
+"," Recommender algorithms performance is often associated with the availability
+of sufficient historical rating data. Unfortunately, when it comes to children,
+this data is seldom available. In this paper, we report on an initial analysis
+conducted to examine the degree to which data about traditional users, i.e.,
+adults, can be leveraged to enhance the recommendation process for children.
+"," The best systems at the SemEval-16 and SemEval-17 community question
+answering shared tasks -- a task that amounts to question relevancy ranking --
+involve complex pipelines and manual feature engineering. Despite this, many of
+these still fail at beating the IR baseline, i.e., the rankings provided by
+Google's search engine. We present a strong baseline for question relevancy
+ranking by training a simple multi-task feed forward network on a bag of 14
+distance measures for the input question pair. This baseline model, which is
+fast to train and uses only language-independent features, outperforms the best
+shared task systems on the task of retrieving relevant previously asked
+questions.
+"," Trip recommendation is an important location-based service that helps relieve
+users from the time and efforts for trip planning. It aims to recommend a
+sequence of places of interest (POIs) for a user to visit that maximizes the
+user's satisfaction. When adding a POI to a recommended trip, it is essential
+to understand the context of the recommendation, including the POI popularity,
+other POIs co-occurring in the trip, and the preferences of the user. These
+contextual factors are learned separately in existing studies, while in
+reality, they impact jointly on a user's choice of a POI to visit. In this
+study, we propose a POI embedding model to jointly learn the impact of these
+contextual factors. We call the learned POI embedding a context-aware POI
+embedding. To showcase the effectiveness of this embedding, we apply it to
+generate trip recommendations given a user and a time budget. We propose two
+trip recommendation algorithms based on our context-aware POI embedding. The
+first algorithm finds the exact optimal trip by transforming and solving the
+trip recommendation problem as an integer linear programming problem. To
+achieve a high computation efficiency, the second algorithm finds a
+heuristically optimal trip based on adaptive large neighborhood search. We
+perform extensive experiments on real datasets. The results show that our
+proposed algorithms consistently outperform state-of-the-art algorithms in trip
+recommendation quality, with an advantage of up to 43% in F1-score.
+"," Existing relation classification methods that rely on distant supervision
+assume that a bag of sentences mentioning an entity pair are all describing a
+relation for the entity pair. Such methods, performing classification at the
+bag level, cannot identify the mapping between a relation and a sentence, and
+largely suffers from the noisy labeling problem. In this paper, we propose a
+novel model for relation classification at the sentence level from noisy data.
+The model has two modules: an instance selector and a relation classifier. The
+instance selector chooses high-quality sentences with reinforcement learning
+and feeds the selected sentences into the relation classifier, and the relation
+classifier makes sentence level prediction and provides rewards to the instance
+selector. The two modules are trained jointly to optimize the instance
+selection and relation classification processes. Experiment results show that
+our model can deal with the noise of data effectively and obtains better
+performance for relation classification at the sentence level.
+"," This paper introduces a new similarity measure, the covering similarity, that
+we formally define for evaluating the similarity between a symbolic sequence
+and a set of symbolic sequences. A pair-wise similarity can also be directly
+derived from the covering similarity to compare two symbolic sequences. An
+efficient implementation to compute the covering similarity is proposed that
+uses a suffix tree data-structure, but other implementations, based on suffix
+array for instance, are possible and possibly necessary for handling large
+scale problems. We have used this similarity to isolate attack sequences from
+normal sequences in the scope of Host-based Intrusion Detection. We have
+assessed the covering similarity on two well-known benchmarks in the field. In
+view of the results reported on these two datasets for the state of the art
+methods, and according to the comparative study we have carried out based on
+three challenging similarity measures commonly used for string processing or in
+bioinformatics, we show that the covering similarity is particularly relevant
+to address the detection of anomalies in sequences of system calls
+"
+(Submitted on 30 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 20 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 27 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 27 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 28 Aug 2018 (,(Submitted on 27 Aug 2018),(Submitted on 26 Aug 2018),(Submitted on 25 Aug 2018),(Submitted on 24 Aug 2018 (,(Submitted on 24 Aug 2018),(Submitted on 27 Aug 2018),(Submitted on 24 Aug 2018),(Submitted on 24 Aug 2018),(Submitted on 6 Dec 2017 (
+https://arxiv.org/abs/1808.10351,https://arxiv.org/abs/1808.10261,https://arxiv.org/abs/1808.10260,https://arxiv.org/abs/1808.10259,https://arxiv.org/abs/1808.10031,https://arxiv.org/abs/1808.10375,https://arxiv.org/abs/1808.09785,https://arxiv.org/abs/1808.09784,https://arxiv.org/abs/1808.09781,https://arxiv.org/abs/1808.09407,https://arxiv.org/abs/1808.09397,https://arxiv.org/abs/1808.09271,https://arxiv.org/abs/1808.09270,https://arxiv.org/abs/1808.09224,https://arxiv.org/abs/1808.09036,https://arxiv.org/abs/1808.09353,https://arxiv.org/abs/1808.09198,https://arxiv.org/abs/1808.08999,https://arxiv.org/abs/1808.08643,https://arxiv.org/abs/1808.08357,https://arxiv.org/abs/1808.08316,https://arxiv.org/abs/1808.08274,https://arxiv.org/abs/1808.08836,https://arxiv.org/abs/1808.08023,https://arxiv.org/abs/1808.08013,https://arxiv.org/abs/1712.02084

@@ -1,0 +1,4 @@
+sale_order_blanket_employee,sale.order.blanket - employee,model_sale_order_blanket,base.group_user,1,1,1,1
+sale_order_blanket_all,sale.order.blanket - all,model_sale_order_blanket,,1,0,0,0
+sale_order_blanket_line_employee,sale.order.blanket.line - employee,model_sale_order_blanket_line,base.group_user,1,1,1,1
+sale_order_blanket_line_all,sale.order.blanket.line - all,model_sale_order_blanket_line,,1,0,0,0

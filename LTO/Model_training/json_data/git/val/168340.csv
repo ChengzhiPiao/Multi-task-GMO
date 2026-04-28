@@ -1,0 +1,8 @@
+access_crm_partner_report,access_res_partner_grade,access_res_partner_grade_employee,access_res_partner_grade_portal,access_res_partner_grade_public,access_res_partner_grade_manager,access_res_partner_activation_user,access_partner_activation_manager,partner_access_crm_lead,access_res_partner_grade_invoicing_payment_readonly,access_res_partner_grade_invoicing_payment
+crm.partner.report.assign.all,res.partner.grade,res.partner.grade,res.partner.grade,res.partner.grade,res.partner.grade.manager,res.partner.activation.user,res.partner.activation.manager,crm.lead,res.partner.grade,res.partner.grade
+model_crm_partner_report_assign,model_res_partner_grade,model_res_partner_grade,model_res_partner_grade,model_res_partner_grade,model_res_partner_grade,model_res_partner_activation,model_res_partner_activation,crm.model_crm_lead,model_res_partner_grade,model_res_partner_grade
+sales_team.group_sale_salesman,sales_team.group_sale_salesman,base.group_user,base.group_portal,base.group_public,sales_team.group_sale_manager,base.group_user,base.group_partner_manager,base.group_portal,account.group_account_readonly,account.group_account_invoice
+1,1,1,1,1,1,1,1,1,1,1
+0,1,0,0,0,1,0,1,1,0,0
+0,1,0,0,0,1,0,1,0,0,0
+0,0,0,0,0,1,0,1,0,0,0

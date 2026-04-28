@@ -1,0 +1,5 @@
+Place,{{Gold1}},{{Silver2}},{{Bronze3}},4,5,6,7,8,9,10
+Country,{{SWE}},{{CAN}},{{SUI}},{{SCO}},{{NOR}},{{USA}},{{GER}},{{ITA}},{{FRA}},{{DEN}}
+Games,11,11,11,12,10,9,9,9,10,10
+Wins,11,9,7,6,5,4,3,3,2,1
+Losses,0,2,4,6,5,5,6,6,8,9

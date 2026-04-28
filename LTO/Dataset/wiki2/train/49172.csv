@@ -1,0 +1,6 @@
+Program [Reference],CheckShift,AVS,LACS,PSSI,SHIFTCOR,PANAV
+Detects or performs shift re-referencing,Yes,No,Yes,Yes,Yes,Yes
+Detects gross assignment errors,No,Yes,No,No,Yes,Yes
+Detects subtle assignment errors,No,No,No,No,Sometimes,Yes
+Distinguishes assignment errors from referencing errors,No,No,No,No,Yes,Yes
+Requires 3D structure,No,No,No,No,Yes,Yes

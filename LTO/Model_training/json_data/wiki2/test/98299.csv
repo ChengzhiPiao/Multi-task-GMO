@@ -1,0 +1,2 @@
+Population{{UN_Population|ref}},Year,1950,2000,{{UN_Population|Year}}
+Population{{UN_Population|ref}},Million,6.1,31.4,{{#expr:{{formatnum:{{UN_Population|Kenya}}|R}}/1e6 round 1}}

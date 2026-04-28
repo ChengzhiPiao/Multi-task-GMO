@@ -1,0 +1,7 @@
+11556-8,11557-6,11558-4,12961-9,14749-6,14749-6,15074-8,15074-8,17861-6
+Oxygen [Partial pressure] in Blood,Carbon dioxide [Partial pressure] in Blood,pH of Blood,Urea nitrogen [Mass/volume] in Arterial blood,Glucose [Moles/volume] in Serum or Plasma,Glucose [Moles/volume] in Serum or Plasma,Glucose [Moles/volume] in Blood,Glucose [Moles/volume] in Blood,Calcium [Mass/volume] in Serum or Plasma
+160116,160064,160004,160080,160196,160368,160020,160364,160024
+MDC_CONC_PO2_GEN,MDC_CONC_PCO2_GEN,MDC_CONC_PH_GEN,MDC_CONC_UREA_ART,MDC_CONC_GLU_VENOUS_PLASMA,MDC_CONC_GLU_UNDETERMINED_PLASMA,MDC_CONC_GLU_GEN,MDC_CONC_GLU_UNDETERMINED_WHOLEBLOOD,MDC_CONC_CA_GEN
+,,,,Plasma glucose concentration taken from venous,Plasma glucose concentration taken from undetermined sample source,,Whole blood glucose concentration taken from undetermined sample source,
+LMT-2L-2 LMT-2L-2,LMT-2L-2 LMT-2L-2,[pH],ML-3 NL-3,NL-3  ,NL-3  ,NL-3,NL-3  ,ML-3
+kPa mm[Hg],kPa mm[Hg],[pH],mg/dL mmol/L,mmol/L,mmol/L,mmol/L,mmol/L,mg/dL

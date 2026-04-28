@@ -1,0 +1,5 @@
+{{tooltip|Pos|Position}},Team,{{tooltip|Pld|Played}},{{tooltip|W|Won}},{{tooltip|D|Drawn}},{{tooltip|L|Lost}},{{tooltip|GF|Goal For}},{{tooltip|GA|Goal Against}},{{tooltip|GD|Goal Difference}},{{tooltip|Pts|Points}}
+1,{{nb|THA}},3,3,0,0,192,102,+90,6
+2,{{nb|BRU}},3,2,0,1,144,139,+5,4
+3,{{nb|IND}},3,1,0,2,148,172,−24,2
+4,{{nb|JPN}},3,0,0,3,116,187,−71,0

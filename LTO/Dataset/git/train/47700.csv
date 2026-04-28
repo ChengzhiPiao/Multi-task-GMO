@@ -1,0 +1,5 @@
+791.1445,791.1445,791.1445,791.1889,791.1889,791.1889,791.2667,791.2667,791.2667,791.7111,791.7222,791.7222,791.7222,791.785,791.9222
+791.3334,791.3334,791.3334,791.4333,791.4333,791.4333,,,,791.7889,791.8667,791.8667,791.7889,792.4549,792.5111
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,Hand,Hand,Hand,Hand,Hand
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1
+RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,Pushed,LeftGate,LeftGate,RightGate,PickedUp,RightGate

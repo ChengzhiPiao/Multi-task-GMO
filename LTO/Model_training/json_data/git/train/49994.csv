@@ -1,0 +1,2 @@
+name,TF,Regulator,Function,Category,has_venn,scatter,has_meme,precision,recall
+ArcA-2,arcA,"<a href=""http://regulondb.ccg.unam.mx/regulon?term=ECK120011345&organism=ECK12&format=jsp&type=regulon"" target=""_blank"">arcA</a>",Electron Transport Chain,Energy Metabolism,True,1,False,0.84,0.04625550660793

@@ -1,0 +1,11 @@
+,,Bilabial,Bilabial,"Labio-
+dental",Alveolar,Palatal,Velar,Velar,Glottal
+,,plain,lab.,"Labio-
+dental",Alveolar,Palatal,plain,lab.,Glottal
+Plosive,voiceless,p,pʷ,,t,,k,kʷ,ʔ
+Plosive,voiced,b,bʷ,,d,,ɡ,ɡʷ,
+Nasal,Nasal,m,mʷ,,n,,,,
+Fricative,Fricative,,,v,s,,,,
+Rhotic,Rhotic,,,,ɾ,,,,
+Lateral,Lateral,,,,l,,,,
+Approximant,Approximant,,,,,j,,w,

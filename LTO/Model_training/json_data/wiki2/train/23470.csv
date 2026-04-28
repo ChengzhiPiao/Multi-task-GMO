@@ -1,0 +1,11 @@
+G,"L1
+Concourse","L2
+Platforms","L2
+Platforms","L2
+Platforms","L2
+Platforms","L3
+Platforms","L3
+Platforms","L3
+Platforms"
+-,Lobby,"Side platform, doors will open on the right",Platform {{GZM platform|13|4}},Platform {{GZM platform|13|3}},"Side platform, doors will open on the right",Platform {{GZM platform|5|2}},"Island Platform, doors will open on the left",Platform {{GZM platform|5|1}}
+Exits,"Customer Service, Shops, Vending machines, ATMs","Side platform, doors will open on the right",{{rint|guangzhou|13}} termination platform,{{rint|guangzhou|13}} towards Xinsha (Yufengwei) {{Arrow2|R}},"Side platform, doors will open on the right",{{Arrow2|L}} {{rint|guangzhou|5}} towards Jiaokou (Sanxi),"Island Platform, doors will open on the left",{{rint|guangzhou|5}} towards Wenchong (Dashadi) {{Arrow2|R}}

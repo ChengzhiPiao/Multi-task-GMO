@@ -1,0 +1,5 @@
+{{no2}}Frequency,{{UK DVB-T|ch=29}},{{UK DVB-T|ch=34}},{{UK DVB-T|ch=48}},{{UK System I|ch=49}},{{UK DVB-T|ch=51|off=neg}},{{UK DVB-T|ch=52|off=neg}},{{UK System I|ch=53}},{{UK System I|ch=57}},{{UK System I|ch=60}},{{UK System I|ch=63}},{{UK DVB-T|ch=68}}
+{{no2}}UHF,29,34,48,49,51-,52-,53,57,60,63,68
+{{no2}}kW,8,10,8,40,6,6,500,500,500,500,10
+{{no2}}Service,Arqiva (Mux D),BBC (Mux 1),Arqiva (Mux C),Channel 5,SDN (Mux A),BBC (Mux B),Channel 4,BBC One,ITV1,BBC Two,Digital 3&4 (Mux 2)
+{{no2}}System,DVB-T,DVB-T,DVB-T,PAL System I,DVB-T,DVB-T,PAL System I,PAL System I,PAL System I,PAL System I,DVB-T

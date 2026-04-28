@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|GP|Games played}},{{Tooltip|W|Won}},{{Tooltip|L|Lost}},{{Tooltip|D|Drawn}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,Portland Timbers,3,1,0,2,7,6,+1,5
+2,Real Salt Lake,3,0,0,3,7,7,0,3
+3,Minnesota United FC,3,0,0,3,6,6,0,3
+4,Vancouver Whitecaps FC,3,0,1,2,3,4,-1,2

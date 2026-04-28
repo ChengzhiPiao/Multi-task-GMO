@@ -1,0 +1,2 @@
+hr_training_evaluation_all,hr.training_evaluation - all,model_hr_training_evaluation,,1,0,0,0
+hr_training_evaluation_employee,hr.training_evaluation - Employee,model_hr_training_evaluation,base.group_user,1,1,1,1

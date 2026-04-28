@@ -1,0 +1,2 @@
+Notation,○,☆,│,─,＼,／
+Notation,Steps to an adjacent square,"Jumps to a non-adjacent square, bypassing any intervening piece","Ranges along a straight line, crossing any number of empty squares","Ranges along a straight line, crossing any number of empty squares","Ranges along a straight line, crossing any number of empty squares","Ranges along a straight line, crossing any number of empty squares"

@@ -1,0 +1,4 @@
+Type,Type,Weekdays,Mornings,Evenings,Saturday,Sunday
+Frequency,Frequency,10 minutes,20 minutes,20 minutes,20 minutes,20 minutes
+Span of service,Days,Monday–Friday,Monday–Friday,Monday–Friday,Saturday,Sunday
+Span of service,Times,6:00&nbsp;a.m. – 7:00 pm,5:00&nbsp;a.m. – 6:00 am,7:00&nbsp;p.m. – 10:00 pm,6:00&nbsp;a.m. – 10:00 pm,7:00&nbsp;a.m. – 8:20 pm

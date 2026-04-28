@@ -1,0 +1,8 @@
+Runcinated square tiling honeycomb,Type,Schläfli symbol,Coxeter diagrams,Cells,Faces,Vertex figure,Coxeter groups,Properties
+Runcinated square tiling honeycomb,Paracompact uniform honeycomb,"t0,3{4,4,3}","{{CDD|node_1|4|node|4|node|3|node_1}}
+{{CDD|nodes_11|2a2b-cross|nodes|split2|node_1}} ↔ {{CDD|node_1|4|node_h0|4|node|3|node_1}}","{3,4} File:Uniform_polyhedron-43-t2.png
+{4,4}File:Uniform_tiling_44-t0.svg
+{}x{4} File:Hexahedron.png
+{}x{3} File:Triangular prism.png","triangle {3}
+square {4}","Image:runcinated square tiling honeycomb verf.png
+triangular antiprism","[4,4,3]",Vertex-transitive

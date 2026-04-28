@@ -1,0 +1,2 @@
+AH,AL,CH,CL,DH,DL,ES:BX
+04h,Sectors To Verify Count,Track,Sector,Head,Drive,Buffer Address Pointer

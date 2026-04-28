@@ -1,0 +1,11 @@
+kcat,kcat,kcat,km,km,km,km,km,km,dgf,dgf,diss_t,transfer_constant,conc_enzyme,conc_enzyme,conc_enzyme,conc_enzyme,conc_enzyme,conc_unbalanced,conc_unbalanced,conc_unbalanced,conc_unbalanced
+,,,,,,,,,M1,M2,,,,,,,,,,,
+,,,M1_e,M1_c,M1_c,M2_c,M2_c,M2_e,,,M2_c,,,,,,,M1_e,M2_e,M1_e,M2_e
+r1,r2,r3,r1,r1,r2,r2,r3,r3,,,r1,r1,r1,r2,r3,r1,r2,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,condition_1,condition_1,condition_1,condition_2,condition_2,condition_1,condition_1,condition_2,condition_2
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,-1.0,-2.0,1.0,1.0,1.0,1.0,1.0,1.5,1.5,2.0,1.0,2.0,1.0
+0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.05,0.05,0.6,0.6,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,

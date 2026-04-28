@@ -1,0 +1,5 @@
+1015.878,1015.922,1016.022,1016.033,1016.067,1016.233,1016.289,1016.344,1016.567,1016.789,1016.904,1016.967,1017.067,1017.167,1017.222
+1016.067,1016.2,1016.267,,1016.433,,1016.6,1017.2,1017.1,1016.911,,,1017.211,,
+Hand,HandToWrist,Hand,WristToElbow,HandToWrist,WristToElbow,Hand,HandToWrist,WristToElbow,Hand,Hand,WristToElbow,Hand,HandToWrist,Hand
+FailOnTouchObstacleMed,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,Target,Target,FailOnTouchObstacleShort,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong,FailOnTouchObstacleLong
+LeftGate,LeftGate,LeftGate,LeftGate,LeftGate,LeftGate,LeftGate,LeftGate,LeftGate,Pushed,PickedUp,LeftGate,LeftGate,LeftGate,LeftGate

@@ -1,0 +1,5 @@
+DNA codons,RNA codons,This code (9),,Standard code (1)
+AAA,AAA,Asn (N),,Lys (K)
+AGA,AGA,Ser (S),,Arg (R)
+AGG,AGG,Ser (S),,Arg (R)
+TGA,UGA,Trp (W),,STOP = Ter (*)

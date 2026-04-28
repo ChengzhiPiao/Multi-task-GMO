@@ -1,0 +1,8 @@
+Place,Team,Games,Games,Games,Games,Points,Points,Points,Bonus,"Table
+points"
+Place,Team,played,won,drawn,lost,for,against,diff.,Bonus,"Table
+points"
+1,Austral,3,3,0,0,83,22,+61,2,14
+2,Chubut,3,2,0,1,96,33,+63,2,10
+3,Tierra del Fuego,3,1,0,2,40,78,-38,0,4
+4,Lagos del Sur,3,0,0,3,24,110,-86,0,0

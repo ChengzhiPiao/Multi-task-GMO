@@ -1,0 +1,7 @@
+Western Conference,{{Tooltip| P | Played}},{{Tooltip| W | Total Wins}},{{Tooltip| SW |Shootout Wins}},{{Tooltip| SL |Shootout Losses}},{{Tooltip| L | Total Losses}},{{Tooltip| WIR | Wins in Regulation}},{{Tooltip| SO | Shootouts (Ties in Regulation)}},{{Tooltip| LIR | Losses in Regulation}},{{Tooltip| GF | Goals For}},{{Tooltip| GA | Goals Against}},{{Tooltip| GD | Goal Difference}},{{Tooltip| APts | Adjusted Points (WIR x 3 + SO)}},{{Tooltip| Pts | Points (WIR x 3 + SW)}}
+Los Angeles Galaxy (SS),32,24,2,2,8,22,4,6,85,44,41,70,68
+Chicago Fire,32,20,2,2,12,18,4,10,62,45,17,58,56
+Colorado Rapids,32,16,2,2,16,14,4,14,62,69,-7,46,44
+Dallas Burn,32,15,4,2,17,11,6,15,43,59,-16,39,37
+San Jose Clash,32,13,3,5,19,10,8,14,48,60,-12,38,33
+Kansas City Wizards,32,12,2,4,20,10,6,16,45,50,-5,36,32

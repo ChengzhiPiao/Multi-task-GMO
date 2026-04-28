@@ -1,0 +1,4 @@
+Order-infinite-4 square honeycomb,Type,Schläfli symbol,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-infinite-4 square honeycomb,Regular honeycomb,"{4,∞,4}","{{CDD|node_1|4|node|infin|node|4|node}}
+{{CDD|node_1|4|node|infin|node|4|node_h0}} = {{CDD|node_1|4|node|split1-ii|nodes}}","{4,∞} File:H2 tiling 24i-4.png",{4},{4},"{∞,4}
+{∞,∞}",self-dual,"[4,∞,4]",Regular

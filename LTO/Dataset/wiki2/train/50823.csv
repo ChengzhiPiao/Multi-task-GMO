@@ -1,0 +1,6 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Květa Peschke,120,61,59,.508,1,9,16,34,.471,16,30,.533
+Raven Klaasen,88,41,47,.466,8,3,9,20,.450,11,23,.478
+Bob Bryan,15,10,5,.667,1,1,4,6,.667,3,3,1.000
+Mike Bryan,17,10,7,.588,2,0,3,8,.375,2,4,.500
+Total,120,61,59,.508,12,13,16,34,.471,16,30,.533

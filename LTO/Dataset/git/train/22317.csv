@@ -1,0 +1,8 @@
+access_link_tracker_user,access_link_tracker_public,access_link_tracker_system,access_link_tracker_code_user,access_link_tracker_code_public,access_link_tracker_code_system,access_link_tracker_click_user,access_link_tracker_click_public,access_link_tracker_click_system
+access.link.tracker.user,access.link.tracker.public,access.link.tracker.system,access.link.tracker.code.user,access.link.tracker.code.public,access.link.tracker.code.system,access.link.tracker.click.user,access.link.tracker.click.public,access.link.tracker.click.system
+model_link_tracker,model_link_tracker,model_link_tracker,model_link_tracker_code,model_link_tracker_code,model_link_tracker_code,model_link_tracker_click,model_link_tracker_click,model_link_tracker_click
+base.group_user,base.group_public,base.group_system,base.group_user,base.group_public,base.group_system,base.group_user,base.group_public,base.group_system
+1,0,1,1,0,1,1,0,1
+0,0,1,0,0,1,0,0,1
+0,0,1,0,0,1,0,0,1
+0,0,1,0,0,1,0,0,1

@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9
+Browser,Hindi,Search,Marati,Search,Google Search,Search,Search,Search
+Open the Url [<Data>] in the Browser,Assert if [<Object>] is aligned horizontally [<Data>] with [<Object2>],Assert if [<Object>] is aligned vertically [<Data>] with [<Object2>],Assert if [<Object>] is leftof [<Object2>] [<Data>],Assert if [<Object>] is  above [<Data>],Assert if [<Object>] is  below [<Object2>] [<Data>],Assert if [<Object>]'s height is [<Data>] ,Assert if [<Object>]'s width is [<Data>] ,Assert if [<Object>]'s height is [<Data>] 
+Open,assertElementAlignedHoriz,assertElementAlignedVert,assertElementLeftOf,assertElementAbove,assertElementBelow,assertElementHeight,assertElementWidth,assertElementHeight
+URL_Global:URL,@all,@all 377 px,,,,@34 px,@503 px,@100 px
+,Marati,Google Search,Hindi,Google Search,Search,,,
+,Google,Google,Google,Google,Google,Google,Google,Google

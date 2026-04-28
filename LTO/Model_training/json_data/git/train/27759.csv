@@ -1,0 +1,9 @@
+1,2,3,4,5,6,10,11,12,13,14,15,16,20,21,22
+,,,,,,,,,,n13,,,,,
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Felidae,Lynx,Pardina,Lynx lynx,Lynx rufus,Felis rufus,Lynx rufus baileyi,Lynx rufus gigas,Canis,Alopsis,Lupulus
+Animalia,Chordata,Mammalia,Carnivora,Canidae,Felidae,Lynx,Pardina,,,,,,Canis,Alopsis,Lupulus
+,,,,,,,,Lynx,Lynx,Felis,Lynx,Lynx,,,
+,,,,,,,,lynx,rufus,rufus,rufus,rufus,,,
+,,,,,,,,,,,baileyi,gigas,,,
+KINGDOM,PHYLUM,CLASS,ORDER,FAMILY,FAMILY,GENUS,GENUS,SPECIES,SPECIES,SPECIES,SUBSPECIES,SUBSPECIES,GENUS,GENUS,GENUS
+r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1,r1

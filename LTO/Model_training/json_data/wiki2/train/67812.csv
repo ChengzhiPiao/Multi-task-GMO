@@ -1,0 +1,5 @@
+Team,{{Tooltip | Pld | Played}},{{Tooltip | W | Win}},{{Tooltip | L | Lose}},{{Tooltip | D | Draw}},{{Tooltip | PF | Points For }},{{Tooltip | PA | Points Against }},{{Tooltip | PD | Point Difference }},{{Tooltip | Pts | Points}}
+St. Mary's Donore,3,3,0,0,48,24,+24,6
+Kilmainhamwood,3,2,1,0,25,31,-6,4
+Rathkenny,3,0,2,1,26,34,-8,1
+Ratoath,3,0,2,1,30,40,-10,1

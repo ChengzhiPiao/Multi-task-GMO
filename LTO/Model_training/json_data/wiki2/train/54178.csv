@@ -1,0 +1,5 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Marcelo Melo,117,70,47,.598,9,3,23,49,.469,15,29,.517
+Liezel Huber,109,65,44,.596,1,13,21,45,.467,13,27,.481
+Victoria Azarenka,8,5,3,.625,0,1,2,4,.500,2,2,1.000
+Total,117,70,47,.598,10,17,23,49,.469,15,29,.517

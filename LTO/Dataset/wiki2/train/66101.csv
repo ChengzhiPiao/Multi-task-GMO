@@ -1,0 +1,5 @@
+Order-7-6 triangular honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Faces,Edge figure,Vertex figure,Dual,Coxeter group,Properties
+Order-7-6 triangular honeycomb,Regular honeycomb,"{3,7,6}
+{3,(7,3,7)}","{{CDD|node_1|3|node|7|node|6|node}}
+{{CDD|node_1|3|node|7|node|6|node_h0}} = {{CDD|node_1|3|node|split1-77|branch}}","{3,7} File:Order-7 triangular tiling.svg",{3},{6},"{7,6} File:H2 tiling 267-4.png
+{(7,3,7)} File:H2 tiling 377-2.png","{6,7,3}","[3,7,6]",Regular

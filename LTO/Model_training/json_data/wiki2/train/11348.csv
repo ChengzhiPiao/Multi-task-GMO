@@ -1,0 +1,42 @@
+,D14,D15,"D34
+Ran","D35
+Ran",Majority with vacancies →,"R35
+Retired","R34
+Unknown",R15,R14,
+,D13,D16,"D33
+Ran","D36
+Ran",Majority with vacancies →,"R36
+Retired","R33
+Ran",R16,R13,
+,D12,D17,"D32
+Ran","D37
+Ran",Majority with vacancies →,"R37
+Retired","R32
+Ran",R17,R12,
+,D11,D18,"D31
+Ran","D38
+Ran",Majority with vacancies →,SR1,"R31
+Ran",R18,R11,
+,D10,D19,D30,"D39
+Unknown",Majority with vacancies →,P1,"R30
+Ran",R19,R10,
+,D9,D20,D29,"D40
+Unknown",Majority with vacancies →,P2,"R29
+Ran",R20,R9,
+D1,D8,D21,D28,"D41
+Unknown",Majority with vacancies →,P3,"R28
+Ran",R21,R8,R1
+D2,D7,D22,D27,"D42
+Retired",Majority with vacancies →,"D44
+Retired","R27
+Ran","R22
+Ran",R7,R2
+D3,D6,D23,D26,"D43
+Retired","D43
+Retired","D43
+Retired","R26
+Ran","R23
+Ran",R6,R3
+D4,D5,D24,D25,V1,V2,V3,"R25
+Ran","R24
+Ran",R5,R4

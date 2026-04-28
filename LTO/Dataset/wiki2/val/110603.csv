@@ -1,0 +1,5 @@
+Event,{{Tooltip|'''W'''|Win}},{{Tooltip| F | Final}},{{Tooltip| SF | Semifinal}},{{Tooltip| QF | Quarterfinal}},Round of 16,Round of 32,Round of 64,{{Tooltip| Q | Qualifier}},{{Tooltip| Q2 | Qualifying round 2}},{{Tooltip| Q1 | Qualifying round 1}}
+Men's Singles,1000,600,360,180,90,45,10,25,16,0
+Men's Doubles,1000,600,360,180,90,0,{{n/a}},{{n/a}},{{n/a}},{{n/a}}
+Women's Singles,900,585,350,190,105,60,10,30,20,1
+Women's Doubles,900,585,350,190,105,10,{{n/a}},{{n/a}},{{n/a}},{{n/a}}

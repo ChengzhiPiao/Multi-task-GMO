@@ -1,0 +1,18 @@
+,D15,D16,"R52
+Gain from V","R51
+Change from P",Majority →,R36,R35,R16,R15,
+,D14,D17,"R53
+Gain from V","R50
+Change from S",Majority →,R37,R34,R17,R14,
+,D13,D18,SR2,"R49
+Change from S",Majority →,R38,R33,R18,R13,
+,D12,D19,SR1,R48,Majority →,R39,R32,R19,R12,
+,D11,D20,P1,R47,Majority →,R40,R31,R20,R11,
+D1,"D10
+Change from SR",D21,P2,R46,Majority →,R41,R30,R21,R10,R1
+D2,D9,D22,P3,R45,Majority →,R42,R29,R22,R9,R2
+D3,D8,D23,D28,R44,R44,R43,R28,R23,R8,R3
+D4,D7,D24,D27,"V4
+D Loss","V4
+D Loss",V3,R27,R24,R7,R4
+D5,D6,D25,D26,V1,V1,V2,R26,R25,R6,R5

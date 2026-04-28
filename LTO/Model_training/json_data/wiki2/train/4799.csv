@@ -1,0 +1,9 @@
+"Type of
+modification",Histone,Histone,Histone,Histone,Histone,Histone,Histone,Histone
+"Type of
+modification",H3K4,H3K9,H3K14,H3K27,H3K79,H3K122,H4K20,H2BK5
+mono-methylation,activation,activation,,activation,activation,,activation,activation
+di-methylation,activation,repression,,repression,activation,,,
+tri-methylation,activation,repression,,repression,"activation,
+repression",,,repression
+acetylation,,activation,activation,activation,,activation,,

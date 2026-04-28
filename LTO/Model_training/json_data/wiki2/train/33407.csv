@@ -1,0 +1,4 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbu|20|QAT}},2,1,1,0,1,0,+1,4
+{{fb|KUW}},2,1,0,1,1,1,0,3
+{{fb|JOR}},2,0,1,1,0,1,–1,1

@@ -1,0 +1,4 @@
+Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals For}},{{Tooltip|GA|Goals Against}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+{{fb|NEP}},2,1,1,0,6,0,+6,4
+{{fb|BAN}},2,1,1,0,6,2,+4,4
+{{fb|SRI}},2,0,0,2,2,12,&minus;10,0

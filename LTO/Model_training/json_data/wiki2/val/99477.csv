@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,{{fb|HUN}},4,3,1,0,11,5,+6,7
+2,{{fb|NED}},3,0,2,1,4,7,−3,2
+3,{{fb|DDR}},3,0,1,2,3,6,−3,1

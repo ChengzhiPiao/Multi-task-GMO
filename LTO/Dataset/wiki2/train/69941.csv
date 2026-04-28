@@ -1,0 +1,5 @@
+Team,{{Tooltip|Pld|Played}},width=25{{!}}{{Tooltip|W|Won}},width=25{{!}}{{Tooltip|D|Draw}},width=25{{!}}{{Tooltip|L|Lost}},width=25{{!}}{{Tooltip|GF|Goals For}},width=25{{!}}{{Tooltip|GA|Goals Against}},width=25{{!}}{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+{{fb|ISR}},3,3,0,0,5,1,+4,6
+{{fb|IND}},3,2,0,1,5,3,+2,4
+{{fb|KOR|1949}},3,1,0,2,2,4,−2,2
+{{fb|HKG|1959}},3,0,0,3,1,5,−4,0

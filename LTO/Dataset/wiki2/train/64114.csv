@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Wins}},{{Tooltip|W+|Wins after extra time}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}},Notes
+1,{{beachsoccer|TUR}},3,1,1,1,22,21,+1,5,Stage Winners
+2,{{beachsoccer|NOR}},3,1,1,1,22,20,+2,5,
+3,{{beachsoccer|AUT}},3,1,0,2,24,26,–2,3,
+4,{{beachsoccer|GER}},3,1,0,2,24,25,–1,3,

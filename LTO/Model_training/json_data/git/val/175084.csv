@@ -1,0 +1,6 @@
+1,UserName,And  User Enters Credentials and Signin,Set,TestData0:UserName,,HomePage
+2,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+3,Password,Enter the value [<Data>] in the Field [<Object>],Set,TestData0:Password,,HomePage
+4,Browser,Wait for [<Data>] milli seconds,pause,@1000,,
+5,BTN_Submit,Click the [<Object>] ,Click,,,HomePage
+6,Browser,Wait for [<Data>] milli seconds,pause,@2000,,

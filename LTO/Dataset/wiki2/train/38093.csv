@@ -1,0 +1,9 @@
+Class,Definition,Athletics,Boccia,Cycling,CP Football,Race Running,Rowing,Skiing,Swimming,Other sports,Ref
+CP1,Use electric wheelchairs and are quadriplegic.,"T31, F31","BC1, BC3",T1,,RR1,,,"S1, S2",Slalom: CP1,
+CP2,Use electric wheelchairs and are quadriplegic. Have better upper body control when compared to CP1.,"T32,F32, F51, F52, F53","BC1, BC2",T1,,RR2,,,S2,Slalom: CP2,
+CP3,Use wheelchairs on a daily basis though they may be ambulant with the use of assistive devices. Have issues with head movement and trunk function.,"T33, F33, F53, F54, F55",,"T1, H1",,"RR2, RR3",,"LW10, LW11","S3, S4",Slalom: CP3,
+CP4,Use wheelchairs on a daily basis though they may be ambulant with the use of assistive devices. Have fewer issues with head movement and trunk function.,"T34, F34, F54, F55, F56",,T1,,RR3,AS,"LW10, LW11, LW12","S4, S5",Slalom: CP4,
+CP5,"Greater functional control of their upper body, and are generally ambulant with the use of an assistive device. Quick movements can upset their balance.","T35, F35, F56",,"T2, C3",FT5,RR3,TA,"LW1, LW3, LW3/2,LW4 LW9","S5, S6",,
+CP6,"Ambulatory, and able to walk without the use of an assistive device. Their bodies are constantly in motion.","T36, F36",,"T2, C3",FT6,RR3 RR4,,"LW1, LW3 LW3/2, LW9",S7,,
+CP7,"Able to walk, but may appear to have a limp as half their body is affected by cerebral palsy.","T37,F37",,C4,FT7,RR4,,"LW9, LW9/1, LW9/2","S7, S8, S9, S10",Sitting volleyball: Grade A,
+CP8,"Least physically affected by their cerebral palsy, with their disability generally manifested as spasticity in at least one limb.","T38, F38",,C4,FT8,,LTA,"LW4, LW6/8, LW9, LW9/2","S8, S9, S10",Sitting volleyball: Grade A,

@@ -1,0 +1,10 @@
+Desired password entropy H,8 bits (1 byte),32 bits (4 bytes),40 bits (5 bytes),64 bits (8 bytes),80 bits (10 bytes),96 bits (12 bytes),128 bits (16 bytes),160 bits (20 bytes),192 bits (24 bytes),224 bits (28 bytes),256 bits (32 bytes)
+Arabic numerals,3,10,13,20,25,29,39,49,58,68,78
+Hexadecimal,2,8,10,16,20,24,32,40,48,56,64
+Case insensitive Latin alphabet,2,7,9,14,18,21,28,35,41,48,55
+Case insensitive alphanumeric,2,7,8,13,16,19,25,31,38,44,50
+Case sensitive Latin alphabet,2,6,8,12,15,17,23,29,34,40,45
+Case sensitive alphanumeric,2,6,7,11,14,17,22,27,33,38,43
+All ASCII printable characters,2,5,7,10,13,15,20,25,30,35,39
+All extended ASCII printable characters,2,5,6,9,11,13,17,21,25,29,33
+Diceware word list,1 word,3 words,4 words,5 words,7 words,8 words,10 words,13 words,15 words,18 words,20 words

@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fbm|BEL}},3,1,2,0,4,3,+1,4
+{{fbm|TUR}},3,1,1,1,1,1,0,3
+{{fbm|GRE|old}},3,1,1,1,5,5,0,3
+{{fbm|FRA}},3,0,2,1,3,4,−1,2

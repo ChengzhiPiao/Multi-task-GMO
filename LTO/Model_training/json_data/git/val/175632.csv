@@ -1,0 +1,5 @@
+618.4111,618.4222,618.4222,618.4333,618.5196,618.5333,618.5555,618.9111,618.9111,619.6223,619.6223,619.8889,620.2444,620.2444
+618.5222,,,618.5222,620.7312,618.5444,619.4556,,,620.0667,620.0667,620.7889,,
+Hand,Hand,Hand,Hand,Hand,Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,WristToElbow,WristToElbow
+FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleShort,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleShort,FailOnTouchObstacleMed
+Pushed,RightGate,RightGate,LeftGate,PickedUp,LeftGate,LeftGate,RightGate,RightGate,RightGate,RightGate,LeftGate,RightGate,RightGate

@@ -1,0 +1,5 @@
+GP,Games played,W,Wins,L,Losses
+Pos,Position,F,Forward,D,Defenceman
+GK,Goaltender,G,Goals,A,Assists
+Pts,Points,PIM,Penalties in minutes,Min,Minutes played
+GAA,Goals against average,SO,Shutouts,SV%,Save percentage

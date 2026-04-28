@@ -1,0 +1,3 @@
+access_rating_user,rating.rating.user,rating.model_rating_rating,base.group_user,1,1,1,0
+access_rating_public,rating.rating.public,rating.model_rating_rating,base.group_public,1,1,1,0
+access_rating_portal,rating.rating.portal,rating.model_rating_rating,base.group_portal,1,1,1,0

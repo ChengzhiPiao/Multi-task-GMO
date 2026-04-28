@@ -1,0 +1,5 @@
+Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GAv|Goal average}},{{tooltip|Pts|Points}}
+{{fb|SWE}},3,2,1,0,5,1,5.00,5
+{{fb|WAL}},3,0,3,0,2,2,1.00,3
+{{fb|HUN|1957}},3,1,1,1,6,3,2.00,3
+{{fb|MEX|1934}},3,0,1,2,1,8,0.13,1

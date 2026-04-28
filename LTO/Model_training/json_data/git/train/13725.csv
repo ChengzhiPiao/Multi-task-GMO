@@ -1,0 +1,6 @@
+TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache,TestCache
+ConfigBased,ConfigBased,ConfigBased,ConfigBased,IUserDal,IUserDal,IUserDal,IUserDal,TestUserRepository,TestUserRepository,TestUserRepository,TestUserRepository,TestUserRepository,TestUserRepository,UserRepository,UserRepository,UserRepository,UserRepository
+ConfigBased,TestLargeObjects,TestLargeObjectsParameter,GetRandomBlock,AddUser,DeleteUser,GetAllUsers,GetUserById,SetUp,GetAllUsers_TryRetrievingDataTwice_DalShouldBeHitOnce,GetUserById_TryRetrievingDataTwice_DalShouldBeHitOnce,GetUserById_TryRetrievingUsingDifferentIds_DalShouldBeHitTwice,GetAllUsers_AddUserAfterCaching_CacheShouldBeInvalidated,GetUsers,GetAllUsers,GetUserById,AddUser,DeleteUser
+4,9,8,6,0,0,0,0,7,10,10,12,14,6,3,3,3,4
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1

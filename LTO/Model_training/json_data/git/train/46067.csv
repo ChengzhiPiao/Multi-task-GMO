@@ -1,0 +1,7 @@
+1,2,3,4,5,6,7,8,9,10
+Browser,Browser,EAgro_Username,EAgro_Password,EAgro_Login,Browser,EAgro_Welcome,EAgro_Analytics_Link,Browser,EAgro_Weather_Section
+Open the Url [<Data>] in the Browser,Wait for [<Data>] milli seconds,Press  key [<Data>](android),Enter the Decrypted value [<Data>] in the Field [<Object>],Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present,Click the [<Object>] ,Wait for [<Data>] milli seconds,Verify if [<Object>] element is present
+Open,pause,Set,setEncrypted,Click,pause,verifyElementPresent,Click,pause,assertElementTextIEquals
+Weather_Sector:URL,@3500,Weather_Sector:Username,Weather_Sector:Password,,@3000,,,@3000,@Weather Forecast
+,,,,,,,,,
+,,EAgro Home Page,EAgro Home Page,EAgro Home Page,,EAgro Home Page,EAgro_Analytics,,EAgro_Analytics

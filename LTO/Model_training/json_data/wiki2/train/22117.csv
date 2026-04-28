@@ -1,0 +1,9 @@
+Rank,Rank,1,2,3,4=,4=,6,7,8=,8=,10=,10=,10=,10=,14=,14=,14=
+Nation,Nation,{{AUS}},{{GBR2}},{{NZL}},{{GER}},{{ESP}},{{FRA}},{{SUI}},{{SWE}},{{USA}},{{CAN}},{{DEN}},{{POR}},{{RUS}},{{BRA}},{{CZE}},{{RSA}}
+Men,{{Gold medal}},,1,1,2,5,1,,,,1,1,,,,,
+Men,{{Silver medal}},3,,3,1,,1,,,2,,1,,1,,,
+Men,{{Bronze medal}},1,4,,2,1,1,1,,,,,,1,,,1
+Women,{{Gold medal}},4,1,2,1,,,1,1,,1,,1,,,,
+Women,{{Silver medal}},5,2,1,,,1,,1,1,,,1,,,,
+Women,{{Bronze medal}},1,3,2,,,1,2,1,,,,,,1,1,
+Total,Total,14,11,9,6,6,5,4,3,3,2,2,2,2,1,1,1

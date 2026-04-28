@@ -1,0 +1,8 @@
+Round,1,1,1,1,2,2,2,2,2,3,3,3,3,4,4,4,4,4
+Hand Number,1,2,3,4,5,6,7,extra hand,8,9,10,11,12,13,14,15,extra hand,16
+Prevailing Wind,East,East,East,East,South,South,South,South,South,West,West,West,West,North,North,North,North,North
+Player 1,East (dealer),North,West,South,East (dealer),North,West,West,South,East (dealer),North,West,South,East (dealer),North,West,West,South
+Player 2,South,East (dealer),North,West,South,East (dealer),North,North,West,South,East (dealer),North,West,South,East (dealer),North,North,West
+Player 3,West,South,East (dealer),North,West,South,East (dealer),East (dealer),North,West,South,East (dealer),North,West,South,East (dealer),East (dealer),North
+Player 4,North,West,South,East (dealer),North,West,South,South,East (dealer),North,West,South,East (dealer),North,West,South,South,East (dealer)
+Comment,,,,,,,no one wins (goulash),(repeat of seat positions),,,,,,,,(east wins hand),(repeat of seat positions),

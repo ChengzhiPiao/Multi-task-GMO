@@ -1,0 +1,7 @@
+0,boundary,Static,Black,128.0,-2.5,0.0,256.0,5.0,,
+1,boundary,Static,Black,-2.5,128.0,0.0,5.0,256.0,,
+2,boundary,Static,Black,128.0,258.5,0.0,256.0,5.0,,
+3,boundary,Static,Black,258.5,128.0,0.0,5.0,256.0,,
+4,circle,Dynamic,Green,102.40000915527344,220.28366088867188,,,,,15.5
+5,circle,Dynamic,Blue,230.3999938964844,220.28366088867188,,,,,15.5
+6,User Circle,Dynamic,Red,235.0,181.0,,,,,6.0

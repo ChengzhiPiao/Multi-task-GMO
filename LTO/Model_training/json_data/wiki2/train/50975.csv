@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{fb|POR}},3,2,0,1,4,2,+2,6
+{{fb|GRE}},3,1,1,1,4,4,0,4
+{{fb|ESP}},3,1,1,1,2,2,0,4
+{{fb|RUS}},3,1,0,2,2,4,–2,3

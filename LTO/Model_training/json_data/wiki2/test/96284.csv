@@ -1,0 +1,7 @@
+#,Seed,Athlete,1,2,3,4,5,6,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,7,{{flagIOC2athlete|[[Ilya Motorin]]|RUS|2017 Summer Universiade}},,D2,V,V,V,V,4,5,0.800,22,13,9,2,18
+2,16,{{flagIOC2athlete|[[Riccardo Nuccio]]|ITA|2017 Summer Universiade}},V,,D4,V,V,V,4,5,0.800,24,8,16,1,10
+3,28,{{flagIOC2athlete|[[Jean-Philippe Patrice]]|FRA|2017 Summer Universiade}},D4,V,,V,V,V,4,5,0.800,24,16,8,3,19
+4,36,{{flagIOC2athlete|[[Krzysztof Kaczkowski]]|POL|2017 Summer Universiade}},D1,D0,D1,,D2,D3,0,5,0.000,7,25,–18,6,63
+5,51,{{flagIOC2athlete|[[Mihai Crutu]]|ROU|2017 Summer Universiade}},D2,D1,D4,V,,V,2,5,0.400,17,21,–4,4,47
+6,60,{{nowrap|{{flagIOC2athlete|[[Richard Henry Arfee Tarega]]|INA|2017 Summer Universiade}}}},D1,D0,D2,V,D4,,1,5,0.200,12,23,–11,5,55

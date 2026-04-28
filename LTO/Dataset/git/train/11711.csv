@@ -1,0 +1,2 @@
+0,0,0
+"  select(-(matches(""X""))) %>%","   gather(Prop, Value, -c(KSSL.Project.lab, KSSL.Project.name, UserPedonID, labsampno, layerID, Comp, Cover_kind, Crop,  Mgmt, Soil, hor_desg, hor_top, hor_bot)) %>%","  mutate(Value = as.numeric(Value), hor_top = as.numeric(hor_top), hor_bot = as.numeric(hor_bot))"

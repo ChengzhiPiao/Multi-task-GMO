@@ -1,0 +1,5 @@
+722.0,722.0,722.0333,722.1,722.2444,722.2444,722.2778,722.3,722.3445,722.7667,723.2134,723.6334,723.8889,723.8889,724.1889,724.1889
+722.0222,722.1111,722.1667,722.7667,722.3889,722.3889,722.4445,722.3778,723.9889,723.6778,,724.2889,724.0333,724.0444,724.3112,724.3112
+Hand,Hand,HandToWrist,WristToElbow,Hand,Hand,HandToWrist,HandToWrist,WristToElbow,WristToElbow,Hand,WristToElbow,HandToWrist,Hand,Hand,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleShort-1,Target,FailOnTouchObstacleLong,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleLong,FailOnTouchObstacleLong
+RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,RightGate,PickedUp,RightGate,RightGate,RightGate,RightGate,RightGate

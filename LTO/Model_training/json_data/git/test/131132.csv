@@ -1,0 +1,2 @@
+access_product_template_pool_linked_manager,product.template.pool.linked,model_product_template_pool_linked,stock.group_stock_manager,1,1,1,1
+access_product_template_pool_linked_user,product.template.pool.linked,model_product_template_pool_linked,base.group_user,1,0,0,0

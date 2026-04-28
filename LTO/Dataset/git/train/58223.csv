@@ -1,0 +1,3 @@
+openeducat_erp.group_op_student,openeducat_erp.group_op_faculty,openeducat_erp.group_op_back_office,openeducat_erp.group_op_library,openeducat_erp.group_op_back_office_admin,openeducat_erp.group_op_parent
+Student,Faculty,Back Office,Librarian,Back Office Admin,Parent
+"Student,Administrator","Faculty,Administrator","Back Office,Administrator","Librarian,Administrator","Back Office Admin,Administrator","Parent,Administrator"

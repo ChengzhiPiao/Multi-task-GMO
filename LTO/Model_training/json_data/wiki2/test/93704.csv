@@ -1,0 +1,5 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Darija Jurak,102,46,56,.451,2,6,8,30,.267,11,29,.379
+Raven Klaasen,111,50,61,.450,12,5,9,33,.273,12,30,.400
+Chanelle Scheepers,9,4,5,.444,0,3,1,3,.333,1,1,1.000
+Total,111,50,61,.450,14,14,9,33,.273,12,30,.400

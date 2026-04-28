@@ -1,0 +1,3 @@
+1,2.0,3.0,4.0,5,6.0,7.0,Is a technically valid entry but the timestamp is 1 second of Epoch so it will never be in the possible time range
+1479632565,80.15,12.1,5.4,0,32.5,11.57,Test Value
+1479632865,81.15,12.1,5.4,0,32.5,12.57,"Here the comment text contain commas itself, so it needs quotes"

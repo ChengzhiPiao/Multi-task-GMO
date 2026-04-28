@@ -1,0 +1,5 @@
+Criterion,Lists A or B,List A,List B,Regional criteria,African states,Asian states,Eastern European states,Latin American and Caribbean States,Western European and other States,Gender criteria,Female,Male
+Voting requirement ex ante,Lists A or B,2,0,Regional criteria,0,0,0,0,0,Gender criteria,0,0
+Candidates as of now,Lists A or B,4,1,Regional criteria,1,1,0,2,1,Gender criteria,3,2
+Adjusted voting requirement,Lists A or B,2,0,Regional criteria,0,0,0,0,0,Gender criteria,0,0
+Adjusted requirement equals ex ante?,Lists A or B,{{yes}},{{yes}},Regional criteria,{{yes}},{{yes}},{{yes}},{{yes}},{{yes}},Gender criteria,{{yes}},{{yes}}

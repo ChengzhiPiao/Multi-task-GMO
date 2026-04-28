@@ -1,0 +1,2 @@
+access_user,Kanban Stage - User Access,model_base_kanban_stage,base.group_user,1,0,0,0
+access_manager,Kanban Stage - Manager Access,model_base_kanban_stage,base.group_erp_manager,1,1,1,1

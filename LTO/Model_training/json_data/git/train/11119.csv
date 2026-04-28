@@ -1,0 +1,10 @@
+1,2,3,4,5,6,7,8,9,10,11
+,,,,,,,,,,
+age,sub,pro,epd,eps,obj,pos,sdl,epc,epv,dmt
+age,sub,pro,epd,eps,obj,pos,sdl,epc,epv,dmt
+,,,,,,,,,,
+Patient age,Patient as subject,Patient pronoun,Principal diagnosis for episode,Principal side for episode,Patient as object,Patient possessive,List of secondary diagnoses for patient,Consultant for the episode of the current subspecialty,Service for the episode of the current subspecialty,Type of diabetes mellitus
+1,1,1,1,1,1,1,1,1,1,1
+1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00
+1,1,1,1,1,1,1,1,1,1,1
+1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00,1901-01-01 00:00:00

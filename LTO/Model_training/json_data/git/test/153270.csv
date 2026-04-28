@@ -1,0 +1,229 @@
+<b>AJAX Search for WooCommerce</b>: You need PHP version at least 5.3 to run this plugin. You are currently using PHP version ,<b>AJAX Search for WooCommerce</b>:<br /> Your PHP version <b><i>%s</i></b> will not longer supported in the next plugin releases., You have to update your PHP version to least 5.5 (recommended 7.2 or greater).,"If you cannot upgrade your PHP version yourself, you can send an email to your host.","If you do not upgrade the php version, the next plugin release will not work!",Remind me again in week.,<b>AJAX Search for WooCommerce</b> is enabled but not effective. It requires %s in order to work.,Yes - I'm in!,Not today,Yes - I'm in!,Not today,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Ajax Search for WooCommerce,AJAX search bar,"Hey %s, it's Damian Góra from %s. You have used this free plugin for some time now, and I hope you like it!","I have spent countless hours developing it, and it would mean a lot to me if you %ssupport it with a quick review on WordPress.org.%s",Review %s,No thanks,Speed up search! (even 10x faster) - users love it!,New modern search engine based on bm25 ranking algorithm,Fuzzy search,Search in attributes and variation products SKUs (option),Individual customization of the search form (simple CSS improvements),Individual tips and support by Damian Góra - the author of the plugin,Ajax Search for WooCommerce PRO - Upgrade Now,Update now and increase your sales. You will receive 14-day satisfaction guarantee.  A return on investment will come very quickly.,and more...,See a comparison of all free and premium features!,You can upgrade without leaving the admin panel by clicking below.,Free updates and email support included.,Upgrade Now,Read More,"Regenerate WooCommerce images' ) . '</a>';
+				$pluginLink = '<a target=""_blank"" href=""https://wordpress.org/plugins/regenerate-thumbnails/"">Regenerate Thumbnails</a>';
+				printf( __( '<b>AJAX Search for WooCommerce</b>: It is recommended to generate a special small image size for existing products to ensure a better user experience. This is a one-time action. <br /><br />You can do it by clicking %s or use external plugin e.g. %s.","Choose File' ) );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text %2$surl"" id=""%3$s[%4$s]"" name=""%3$s[%4$s]"" value=""%5$s""/>',
+            $size,
+            $this->prefix,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= '<input type=""button"" class=""button ' . $this->prefix . 'browse"" value=""' . $label . '"" />';
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a password field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_password( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""password"" class=""%1$s-text"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s""/>',
+            $size,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_color( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text wp-color-picker-field"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s"" data-default-color=""%5$s"" />',
+            $size,
+            $this->name,
+            $args['id'],
+            $value,
+            $args['std']
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_desc( $args )
+    {
+        $html = '';
+        
+        if ( isset( $args['desc'] ) && !empty($args['desc']) ) {
+            $html .= '<div class=""dgwt-wcas-settings-info"">';
+            $html .= $args['desc'];
+            $html .= '</div>';
+        }
+        
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_datepicker( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text dgwt-datepicker-field"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s"" />',
+            $size,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays filters rules in settings
+     *
+     * @param array $args settings field args
+     */
+    function callback_filters_rules_plug( $args )
+    {
+        ob_start();
+        ?>
+		<div id=""dgwt-wcas-settings-filters-rules"">
+			<div>
+				<p><?php 
+        _e( 'No rules",Add new rule,Contact,Showcase,Troubleshooting,Troubleshooting,You are using one or more incompatible plugins,You use the %s plugin. The Ajax Search for WooCommerce does not support this plugin.,You use the %s plugin. The Ajax Search for WooCommerce does not support this plugin.,Your site can perform loopback requests,Your site could not complete a loopback request,This issue may affect the search results page and e.g. display all products every time,Solutions:,Do you have a Basic Auth?,"If yes, you have to add to your <code>wp-config.php</code> file following constants. Remember to replace <code>your-username</code> and <code>your-password</code> with your values.",Is your website publicly available only for whitelisted IPs?,"If yes, add you server IP to whitelist IPs. That’s all.",One or more required PHP extensions are missing on your server,Required PHP extension: %s,Required PHP extension: %s,WordPress version,Great! Our plugin works great with this version of WordPress.,Install the latest version of WordPress for our plugin to work as best it can!,Redirect to the cart page after successful addition,Enable AJAX add to cart buttons on archives,"Incorrect ""Add to cart"" behaviour in WooCommerce settings",Solution,"Go to <code>WooCommerce -> Settings -> <a href=""%s"" target=""_blank"">Products (tab)</a></code> and check option <code>%s</code> and uncheck option <code>%s</code>.",Your settings should looks like the picture below:,"Incompatible ""Searching by Text"" extension from WOOF - WooCommerce Products Filter plugin is active",Solution,"Go to <code>WooCommerce -> Settings -> <a href=""%s"" target=""_blank"">Products Filter (tab)</a> -> Extensions (tab)</code>, uncheck <code>Searching by Text</code> extension and save changes.",Extensions should looks like the picture below:,WordPress version,PHP extensions,Incompatible plugins,"Incorrect ""Add to cart"" behaviour in WooCommerce settings","Incompatible ""Searching by Text"" extension in WOOF - WooCommerce Products Filter",Loopback request,Server environment,AJAX Search bar,Layout,Search icon color,Add AJAX search bar as a menu item.,AJAX Search bar,AJAX search bar will be displayed here.,Default,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Search bar,Add to menu,Pro,Pro,Category,"Tag' ),
+            'brand'              => __( 'Brand","Post' ),
+            'page'               => __( 'Page' ),
+            'vendor'             => __( 'Vendor",Categories,"Tags' ),
+            'product_plu'        => __( 'Products",Brands,"Posts' ),
+            'page_plu'           => __( 'Pages' ),
+            'vendor_plu'         => __( 'Vendors",SKU,Sale,Sold by:,Featured,continue reading,No results,See all products...,See all products...,Search for products...,based on the plugin %s,Search in brands,based on the plugin %s,Show brands,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,"Replace all %s search bars with the Ajax Search for WooCommerce.<br><span style=""color: red;"">Note: We currently only support the header type: ""Header 10"".</span>",Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace Flatsome search bar,Flatsome Theme,Replace,Replace all Flatsome search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,"Here is <a href=""%s"" target=""_blank"">article</a> about how to do it using Impreza child-theme.",Replace Impreza search bar,Impreza Theme,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,"To replace the search bar you have to enable ""Predictive Search"" option in the Shopkeeper settings.","Go to <code>Appearance -> <a target=""_blank"" href=""%s"">Customize</a> -> Header -> Search</code> and enable <code>Predictive Search</code>",Warning!,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace Storefront search bar,Storefront Theme,Replace,Replace the Storefront default product search to the Ajax Search for WooCommerce form.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace a search bar in TheGem ,TheGem Theme,Replace,Replace the TheGem default search,Alternative ways to embed a search bar,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Starting,Search bar,Autocomplete,Search config,Indexer,Increase sales,by simple tricks,How to add search bar in your theme?,How to add?,Basic,Minimum characters,Min characters to show autocomplete,Max form width,To set 100% width leave blank,Show submit button,Submit label,To display the magnifier icon leave this field empty.,Search,Search input placeholder,Search for products...,Layout (beta),Layout,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Overlay on mobile,The search will open in overlay on mobile,Mobile breakpoint,px,Colors,Search icon,Search input background,Search input text,Search input border,Search submit background,Search submit text,Preloader,Show preloader,Upload preloader image,Basic,Limit,Maximum number of suggestions,Group results,No results,Products,Show product image,Show price,Show product description,Show SKU,More results label,See all products...,Non-Products in autocomplete,Show categories,Show tags,Show posts,Show pages,Details panel,Show Details panel,The Details panel is an additional container for extended information. The details are changed dynamically when a user mouse over one of the suggestions.,Suggestions colors,Suggestion background,Suggestion selected,Text color,Highlight color,Border color,Products search scope,Search in description,Search in short description,Search in SKU,Searching also in variable products SKU,"Searching in variable products SKU is available only in <a target=""_blank"" href=""%s"">the pro version</a>.",Search in attributes,Search in categories,Search in tags,Search in custom fields,Exclude 'out of stock' products,Fuzziness,Synonyms,Synonyms,"Synonyms feature allows your users to find more relevant results. If your products have alternative names and users often misspelling them, consider adding synonyms.","Synonyms should be separated by a comma. Each new synonyms group in the new line. You can use a phrase instead of a single word. <br /> <br />Sample list:<br /> <br /><span class=""dgwt-wcas-synonyms-sample"">sofa, couch, davenport, divan, settee<br />big, grand, great, large, outsize</span>",Exclude products,Filters,Exclude from search all products that match conditions,Pro features,Speed up search!,Scheduling Indexing,Enable Scheduler,"I most cases you don't need to use the scheduler because The search index is updating when you edit products. If you use import tools or custom code to refresh prices or bulk add/edit products, the indexing scheduler will be helpful.",Interval,Daily,Weekly,What time to rebuild the index?,Increases sales conversions,"Returns suggestions based on likely relevance even though a search keyword may not exactly match. E.g if you type ""ipho<b>m</b>e"" you get the same results as for ""iphone""",Fuzzy matching,-- Disabled,Soft,Normal,Hard,Index status,child theme of <b>%s</b>,You use <b>%s</b> theme%s. Fantastic!,We support this theme and you can easily replace all default search bars.,"If users can’t find the product they’re searching for, they can’t buy it. Help your customers to find the right products even <span>10x faster</span>.",Update now and boosts your sales. You will receive <b>14-day satisfaction guarantee</b>.  A return on investment will come very quickly.,"<b>New Ultra-Fast Search Engine</b> – works very fast even with 100,000+ products ",Professional and fast <b>help with embedding</b> or <b>replacing</b> the search bar in your theme,Fuzzy search,Search in custom fields,Search in attributes,Search in categories,Search in tags,Search by variation product SKU,Search in brands (WooCommerce Brands or YITH WooCommerce Brands),Search for posts and pages,Synonyms,Individual customization of the search bar (simple CSS improvements),And more...,See a comparison of all free and premium features!,Upgrade Now!,There are four easy ways to display the search bar in your theme,"As a menu item - go to %s and add menu item ""AJAX Search bar"". Done!",Menu Screen,Using a shortcode - %s,"As a widget - go to %s and choose ""AJAX Search bar""",Widgets Screen,By PHP - %s,"Are there any difficulties? <b>We will do it for you!</b> We offer free of charge search bar implementation for Pro users. <a target=""_blank"" href=""%s"">Become one now!</a>",The search index does not exist yet. Build it now.,Build index,Show details,Preview,Search bar,Autocomplete,Products search,Sample brand <strong>name</strong>,Sample category <strong>name</strong>,Sample tag <strong>name</strong>,Sample post <strong>name</strong>,Sample page <strong>name</strong>,Sample product <strong>name</strong>,"Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. Quisque gravida lacus nec diam porttitor pharetra. Nulla facilisi. Proin pharetra imperdiet neque, non varius.",Sample product name,"Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. Quisque gravida lacus nec diam porttitor pharetra. Nulla facilisi. Proin pharetra imperdiet neque, non varius.",Add to cart,AJAX Search for WooCommerce (PRO) Settings,AJAX Search for WooCommerce Settings,Show advanced settings,Show advanced settings,Processing asynchronous tests...,Great! We have not detected any problems that could affect the correct functioning of our plugin.,Check status again,Products search,Hit enter to search or ESC to close,AJAX (live) search form for WooCommerce,AJAX Search bar,Title,Default,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Layout
+ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce,ajax-search-for-woocommerce
+<b>AJAX Search for WooCommerce</b>: You need PHP version at least 5.3 to run this plugin. You are currently using PHP version ,<b>AJAX Search for WooCommerce</b>:<br /> Your PHP version <b><i>%s</i></b> will not longer supported in the next plugin releases., You have to update your PHP version to least 5.5 (recommended 7.2 or greater).,"If you cannot upgrade your PHP version yourself, you can send an email to your host.","If you do not upgrade the php version, the next plugin release will not work!",Remind me again in week.,<b>AJAX Search for WooCommerce</b> is enabled but not effective. It requires %s in order to work.,Yes - I'm in!,Not today,Yes - I'm in!,Not today,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Ajax Search for WooCommerce,AJAX search bar,"Hey %s, it's Damian Góra from %s. You have used this free plugin for some time now, and I hope you like it!","I have spent countless hours developing it, and it would mean a lot to me if you %ssupport it with a quick review on WordPress.org.%s",Review %s,No thanks,Speed up search! (even 10x faster) - users love it!,New modern search engine based on bm25 ranking algorithm,Fuzzy search,Search in attributes and variation products SKUs (option),Individual customization of the search form (simple CSS improvements),Individual tips and support by Damian Góra - the author of the plugin,Ajax Search for WooCommerce PRO - Upgrade Now,Update now and increase your sales. You will receive 14-day satisfaction guarantee.  A return on investment will come very quickly.,and more...,See a comparison of all free and premium features!,You can upgrade without leaving the admin panel by clicking below.,Free updates and email support included.,Upgrade Now,Read More,"Regenerate WooCommerce images' ) . '</a>';
+				$pluginLink = '<a target=""_blank"" href=""https://wordpress.org/plugins/regenerate-thumbnails/"">Regenerate Thumbnails</a>';
+				printf( __( '<b>AJAX Search for WooCommerce</b>: It is recommended to generate a special small image size for existing products to ensure a better user experience. This is a one-time action. <br /><br />You can do it by clicking %s or use external plugin e.g. %s.","Choose File' ) );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text %2$surl"" id=""%3$s[%4$s]"" name=""%3$s[%4$s]"" value=""%5$s""/>',
+            $size,
+            $this->prefix,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= '<input type=""button"" class=""button ' . $this->prefix . 'browse"" value=""' . $label . '"" />';
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a password field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_password( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""password"" class=""%1$s-text"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s""/>',
+            $size,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_color( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text wp-color-picker-field"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s"" data-default-color=""%5$s"" />',
+            $size,
+            $this->name,
+            $args['id'],
+            $value,
+            $args['std']
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_desc( $args )
+    {
+        $html = '';
+        
+        if ( isset( $args['desc'] ) && !empty($args['desc']) ) {
+            $html .= '<div class=""dgwt-wcas-settings-info"">';
+            $html .= $args['desc'];
+            $html .= '</div>';
+        }
+        
+        echo  $html ;
+    }
+    
+    /**
+     * Displays a color picker field for a settings field
+     *
+     * @param array $args settings field args
+     */
+    function callback_datepicker( $args )
+    {
+        $value = esc_attr( $this->get_option( $args['id'], $args['std'] ) );
+        $size = ( isset( $args['size'] ) && !is_null( $args['size'] ) ? $args['size'] : 'regular' );
+        $html = sprintf(
+            '<input type=""text"" class=""%1$s-text dgwt-datepicker-field"" id=""%2$s[%3$s]"" name=""%2$s[%3$s]"" value=""%4$s"" />',
+            $size,
+            $this->name,
+            $args['id'],
+            $value
+        );
+        $html .= $this->get_field_description( $args );
+        echo  $html ;
+    }
+    
+    /**
+     * Displays filters rules in settings
+     *
+     * @param array $args settings field args
+     */
+    function callback_filters_rules_plug( $args )
+    {
+        ob_start();
+        ?>
+		<div id=""dgwt-wcas-settings-filters-rules"">
+			<div>
+				<p><?php 
+        _e( 'No rules",Add new rule,Contact,Showcase,Troubleshooting,Troubleshooting,You are using one or more incompatible plugins,You use the %s plugin. The Ajax Search for WooCommerce does not support this plugin.,You use the %s plugin. The Ajax Search for WooCommerce does not support this plugin.,Your site can perform loopback requests,Your site could not complete a loopback request,This issue may affect the search results page and e.g. display all products every time,Solutions:,Do you have a Basic Auth?,"If yes, you have to add to your <code>wp-config.php</code> file following constants. Remember to replace <code>your-username</code> and <code>your-password</code> with your values.",Is your website publicly available only for whitelisted IPs?,"If yes, add you server IP to whitelist IPs. That’s all.",One or more required PHP extensions are missing on your server,Required PHP extension: %s,Required PHP extension: %s,WordPress version,Great! Our plugin works great with this version of WordPress.,Install the latest version of WordPress for our plugin to work as best it can!,Redirect to the cart page after successful addition,Enable AJAX add to cart buttons on archives,"Incorrect ""Add to cart"" behaviour in WooCommerce settings",Solution,"Go to <code>WooCommerce -> Settings -> <a href=""%s"" target=""_blank"">Products (tab)</a></code> and check option <code>%s</code> and uncheck option <code>%s</code>.",Your settings should looks like the picture below:,"Incompatible ""Searching by Text"" extension from WOOF - WooCommerce Products Filter plugin is active",Solution,"Go to <code>WooCommerce -> Settings -> <a href=""%s"" target=""_blank"">Products Filter (tab)</a> -> Extensions (tab)</code>, uncheck <code>Searching by Text</code> extension and save changes.",Extensions should looks like the picture below:,WordPress version,PHP extensions,Incompatible plugins,"Incorrect ""Add to cart"" behaviour in WooCommerce settings","Incompatible ""Searching by Text"" extension in WOOF - WooCommerce Products Filter",Loopback request,Server environment,AJAX Search bar,Layout,Search icon color,Add AJAX search bar as a menu item.,AJAX Search bar,AJAX search bar will be displayed here.,Default,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Search bar,Add to menu,Pro,Pro,Category,"Tag' ),
+            'brand'              => __( 'Brand","Post' ),
+            'page'               => __( 'Page' ),
+            'vendor'             => __( 'Vendor",Categories,"Tags' ),
+            'product_plu'        => __( 'Products",Výrobci vín,"Posts' ),
+            'page_plu'           => __( 'Pages' ),
+            'vendor_plu'         => __( 'Vendors",SKU,Sale,Sold by:,Featured,continue reading,Žádné výsledky,See all products...,See all products...,Hledat,based on the plugin %s,Search in brands,based on the plugin %s,Show brands,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,"Replace all %s search bars with the Ajax Search for WooCommerce.<br><span style=""color: red;"">Note: We currently only support the header type: ""Header 10"".</span>",Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace Flatsome search bar,Flatsome Theme,Replace,Replace all Flatsome search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,"Here is <a href=""%s"" target=""_blank"">article</a> about how to do it using Impreza child-theme.",Replace Impreza search bar,Impreza Theme,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,"To replace the search bar you have to enable ""Predictive Search"" option in the Shopkeeper settings.","Go to <code>Appearance -> <a target=""_blank"" href=""%s"">Customize</a> -> Header -> Search</code> and enable <code>Predictive Search</code>",Warning!,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace Storefront search bar,Storefront Theme,Replace,Replace the Storefront default product search to the Ajax Search for WooCommerce form.,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Replace a search bar in TheGem ,TheGem Theme,Replace,Replace the TheGem default search,Alternative ways to embed a search bar,Alternative ways to embed a search bar,Replace %s search bar,%s Theme,Replace,Replace all %s search bars with the Ajax Search for WooCommerce.,Alternative ways to embed a search bar,Starting,Search bar,Autocomplete,Search config,Indexer,Increase sales,by simple tricks,How to add search bar in your theme?,How to add?,Basic,Minimum characters,Min characters to show autocomplete,Max form width,To set 100% width leave blank,Show submit button,Submit label,To display the magnifier icon leave this field empty.,Hledat,Search input placeholder,Hledat,Layout (beta),Layout,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Overlay on mobile,The search will open in overlay on mobile,Mobile breakpoint,px,Colors,Search icon,Search input background,Search input text,Search input border,Search submit background,Search submit text,Preloader,Show preloader,Upload preloader image,Basic,Limit,Maximum number of suggestions,Group results,Žádné výsledky,Products,Show product image,Show price,Show product description,Show SKU,More results label,See all products...,Non-Products in autocomplete,Show categories,Show tags,Show posts,Show pages,Details panel,Show Details panel,The Details panel is an additional container for extended information. The details are changed dynamically when a user mouse over one of the suggestions.,Suggestions colors,Suggestion background,Suggestion selected,Text color,Highlight color,Border color,Products search scope,Search in description,Search in short description,Search in SKU,Searching also in variable products SKU,"Searching in variable products SKU is available only in <a target=""_blank"" href=""%s"">the pro version</a>.",Search in attributes,Search in categories,Search in tags,Search in custom fields,Exclude 'out of stock' products,Fuzziness,Synonyms,Synonyms,"Synonyms feature allows your users to find more relevant results. If your products have alternative names and users often misspelling them, consider adding synonyms.","Synonyms should be separated by a comma. Each new synonyms group in the new line. You can use a phrase instead of a single word. <br /> <br />Sample list:<br /> <br /><span class=""dgwt-wcas-synonyms-sample"">sofa, couch, davenport, divan, settee<br />big, grand, great, large, outsize</span>",Exclude products,Filters,Exclude from search all products that match conditions,Pro features,Speed up search!,Scheduling Indexing,Enable Scheduler,"I most cases you don't need to use the scheduler because The search index is updating when you edit products. If you use import tools or custom code to refresh prices or bulk add/edit products, the indexing scheduler will be helpful.",Interval,Daily,Weekly,What time to rebuild the index?,Increases sales conversions,"Returns suggestions based on likely relevance even though a search keyword may not exactly match. E.g if you type ""ipho<b>m</b>e"" you get the same results as for ""iphone""",Fuzzy matching,-- Disabled,Soft,Normal,Hard,Index status,child theme of <b>%s</b>,You use <b>%s</b> theme%s. Fantastic!,We support this theme and you can easily replace all default search bars.,"If users can’t find the product they’re searching for, they can’t buy it. Help your customers to find the right products even <span>10x faster</span>.",Update now and boosts your sales. You will receive <b>14-day satisfaction guarantee</b>.  A return on investment will come very quickly.,"<b>New Ultra-Fast Search Engine</b> – works very fast even with 100,000+ products ",Professional and fast <b>help with embedding</b> or <b>replacing</b> the search bar in your theme,Fuzzy search,Search in custom fields,Search in attributes,Search in categories,Search in tags,Search by variation product SKU,Search in brands (WooCommerce Brands or YITH WooCommerce Brands),Search for posts and pages,Synonyms,Individual customization of the search bar (simple CSS improvements),And more...,See a comparison of all free and premium features!,Upgrade Now!,There are four easy ways to display the search bar in your theme,"As a menu item - go to %s and add menu item ""AJAX Search bar"". Done!",Menu Screen,Using a shortcode - %s,"As a widget - go to %s and choose ""AJAX Search bar""",Widgets Screen,By PHP - %s,"Are there any difficulties? <b>We will do it for you!</b> We offer free of charge search bar implementation for Pro users. <a target=""_blank"" href=""%s"">Become one now!</a>",The search index does not exist yet. Build it now.,Build index,Show details,Preview,Search bar,Autocomplete,Products search,Sample brand <strong>name</strong>,Sample category <strong>name</strong>,Sample tag <strong>name</strong>,Sample post <strong>name</strong>,Sample page <strong>name</strong>,Sample product <strong>name</strong>,"Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. Quisque gravida lacus nec diam porttitor pharetra. Nulla facilisi. Proin pharetra imperdiet neque, non varius.",Sample product name,"Lorem <strong>ipsum</strong> dolor sit amet, consectetur adipiscing elit. Quisque gravida lacus nec diam porttitor pharetra. Nulla facilisi. Proin pharetra imperdiet neque, non varius.",Koupit,AJAX Search for WooCommerce (PRO) Settings,AJAX Search for WooCommerce Settings,Show advanced settings,Show advanced settings,Processing asynchronous tests...,Great! We have not detected any problems that could affect the correct functioning of our plugin.,Check status again,Products search,Hit enter to search or ESC to close,AJAX (live) search form for WooCommerce,AJAX Search bar,Title,Default,Search bar only,Search icon,"Icon on mobile, search bar on desktop",Layout

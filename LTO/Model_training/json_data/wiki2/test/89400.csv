@@ -1,0 +1,7 @@
+Year,Year,1997,2001,2003,2005,2007,2009,2011,2013,Total
+Location,Location,"{{GRE}}, Patras","{{ESP}}, Pamplona","{{GRE}}, Heraklion","{{AZE}}, Baku","{{AZE}}, Baku","{{SWE}}, Trelleborg","{{CYP}}, Paphos","{{POR}}, Porto",Total
+Overall,Rank,6,9,{{bronze3}},{{silver2}},7,{{gold1}},{{silver2}},{{silver2}},
+Overall,{{Gold1}},1,0,3,4,1,7,3,3,22
+Overall,{{Silver2}},1,4,3,4,3,2,0,2,19
+Overall,{{Bronze3}},2,4,5,5,5,1,7,5,34
+Overall,Total,4,8,11,13,9,10,10,10,75

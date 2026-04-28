@@ -1,0 +1,2 @@
+org/assertj/core/error/ShouldBeSame.shouldBeSame,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeSame.ShouldBeSame,(Ljava/lang/Object;Ljava/lang/Object;)V,20,1

@@ -1,0 +1,7 @@
+Event,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Men's singles,14,10,4,.714,9,3,2,2,1.000,2,2,1.000
+Women's singles,16,9,7,.563,0,0,3,7,.429,4,6,.667
+Men's doubles,15,10,5,.667,3,0,2,6,.333,2,4,.500
+Women's doubles,18,10,8,.556,1,4,4,6,.667,1,5,.200
+Mixed doubles,13,10,3,.769,0,1,4,8,.500,2,2,1.000
+Total,76,49,27,.645,13,8,15,29,.517,11,19,.579

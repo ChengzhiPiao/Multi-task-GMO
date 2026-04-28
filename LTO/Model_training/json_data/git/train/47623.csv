@@ -1,0 +1,5 @@
+95.57778,95.57778,95.57778,95.65556,95.68502,95.77778,96.52222,96.57778
+95.68889,,95.68889,,96.22137,96.3,96.57778,
+Hand,Hand,Hand,HandToWrist,Hand,Hand,Hand,WristToElbow
+FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleLong,FailOnTouchObstacleMed
+LeftGate,RightGate,Pushed,RightGate,PickedUp,LeftGate,LeftGate,RightGate

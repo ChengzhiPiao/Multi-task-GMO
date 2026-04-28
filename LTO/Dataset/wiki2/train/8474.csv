@@ -1,0 +1,10 @@
+Order,Order,1,2,3,4,5,6,7,8,9,10
+Episodes,1,Brandi,Heather,Sisi,Ylenia,Andrea,Tenika,Alanna,Dawn,Natalie,Sylvie
+Episodes,2,Alanna,Heather,Tenika,Ylenia,Andrea,Natalie,Sisi,Brandi,Dawn,
+Episodes,3,Heather,Brandi,Sisi,Andrea,Alanna,Ylenia,Tenika,Natalie,,
+Episodes,4,Brandi,Sisi,Andrea,Tenika,Ylenia,Alanna,Heather,,,
+Episodes,5,Brandi,Sisi,Alanna,Andrea,Ylenia,Tenika,,,,
+Episodes,6,Alanna,Sisi,Andrea,Brandi,Ylenia,,,,,
+Episodes,7,Alanna,Andrea,Sisi,Brandi,,,,,,
+Episodes,8,Andrea,Alanna,Sisi,,,,,,,
+Episodes,8,Andrea,Alanna,,,,,,,,

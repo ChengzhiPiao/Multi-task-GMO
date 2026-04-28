@@ -1,0 +1,7 @@
+,Stops,Stops,Affricates,Affricates,Fricatives,Nasals,Laterals,Flaps,Semivowels
+,Voiceless,Voiced,Voiceless,Voiced,Fricatives,Nasals,Laterals,Flaps,Semivowels
+Bilabial,p,b,,,,m,,,w
+Dental,t,d,,,s,n,l,r,
+Palatal,,,"(ts, ty) {{IPA|[tʃ]}}",(dy) {{IPA|[dʒ]}},(sy) {{IPA|[ʃ]}},(ny) {{IPA|[ɲ]}},(ly) {{IPA|[lj]}},,j
+Velar,k,g,,,,ng {{IPA|[ŋ]}},,,
+Glottal,- {{IPA|[ʔ]}},,,,h,,,,

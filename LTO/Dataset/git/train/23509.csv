@@ -1,0 +1,8 @@
+access_product_pulled_flow_user,access_product_pulled_flow_manager,access_product_pulled_flow_salemanager,access_product_pulled_flow_stock_manager,access_stock_location_path_user,access_stock_location_path_internal_user,access_stock_location_path_sale_manager,access_stock_location_path_stock_user,access_stock_location_path,access_product_pulled_flow,access_product_pulled_flow_internal
+product_pulled_flow user,product_pulled_flow manager,product_pulled_flow salemanager,product_pulled_flow stock manager,stock location path user,stock location path internal user,stock.location.path partner salemanager,stock.location.path stock user,stock.location.path,product.pulled.flow,product.pulled.flow internal
+model_product_pulled_flow,model_product_pulled_flow,model_product_pulled_flow,model_product_pulled_flow,model_stock_location_path,model_stock_location_path,model_stock_location_path,model_stock_location_path,model_stock_location_path,model_product_pulled_flow,model_product_pulled_flow
+stock.group_stock_user,stock.group_stock_manager,base.group_sale_manager,stock.group_stock_manager,stock.group_stock_user,base.group_user,base.group_sale_manager,stock.group_stock_user,base.group_sale_salesman,base.group_sale_salesman,base.group_user
+1,1,1,1,1,1,1,1,1,1,1
+0,1,1,1,0,0,1,1,0,0,0
+0,1,1,1,0,0,1,1,0,0,0
+0,1,1,1,0,0,1,1,0,0,0

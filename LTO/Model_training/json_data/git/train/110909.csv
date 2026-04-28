@@ -1,0 +1,1 @@
+emax) in log10(E/MeV) that is a subset of the analysis energy range. By default the full analysis energy range will be used.  If either emin/emax are None then only an upper/lower bound on the energy range wil be applied.,,,,,,,

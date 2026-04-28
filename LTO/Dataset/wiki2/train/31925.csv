@@ -1,0 +1,5 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,{{fb|ITA}},6,4,1,1,17,3,+14,9
+2,{{fb|SCO}},6,3,1,2,8,8,0,7
+3,{{fb|POL|1928}},6,2,2,2,11,10,+1,6
+4,{{fb|FIN}},6,1,0,5,5,20,&minus;15,2

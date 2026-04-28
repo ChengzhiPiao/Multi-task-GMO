@@ -1,0 +1,2 @@
+access_hr_employee_broad_factor,access_hr_employee_broad_factor,model_hr_employee_broad_factor,base.group_user,1,0,0,0
+access_hr_employee_payslip,access_hr_employee_payslip,hr_payroll_community.model_hr_payslip,base.group_user,1,0,0,0

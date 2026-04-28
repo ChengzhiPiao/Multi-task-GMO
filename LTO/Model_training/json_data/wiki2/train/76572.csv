@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|NOR}},3,3,0,0,13,2,+11,9
+2,{{fbw|RUS}},3,2,0,1,10,3,+7,6
+3,{{fbw|CAN}},3,0,1,2,3,12,−9,1
+4,{{fbw|JPN}},3,0,1,2,1,10,−9,1

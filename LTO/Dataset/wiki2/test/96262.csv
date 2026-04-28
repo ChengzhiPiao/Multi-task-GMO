@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Rio Grande do Sul}} São José,6,6,0,0,10,4,+6,18
+2,{{flagicon|Santa Catarina}} Brusque,6,3,0,3,9,5,+4,9
+3,{{flagicon|Paraná}} Prudentópolis,6,2,0,4,6,8,−2,6
+4,{{flagicon|São Paulo}} Mogi Mirim,6,1,0,5,6,14,−8,3

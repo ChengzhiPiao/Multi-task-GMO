@@ -1,0 +1,15 @@
+Name,"Petrial
+tetrahedron","Petrial
+cube","Petrial
+octahedron","Petrial
+dodecahedron","Petrial
+icosahedron"
+Symbol,"{3,3}{{pi}}","{4,3}{{pi}}","{3,4}{{pi}}","{5,3}{{pi}}","{3,5}{{pi}}"
+"(v,e,f), &chi;","(4,6,3), &chi; = 1","(8,12,4), &chi; = 0","(6,12,4), &chi; = −2","(20,30,6), &chi; = −4","(12,30,6), &chi; = −12"
+Faces,3 skew squares,4 skew hexagons,4 skew hexagons,6 skew decagons,6 skew decagons
+Image,File:Tetrahedron_3_petrie_polygons.png,File:Cube_4_petrie_polygons.png,File:Octahedron_4_petrie_polygons.png,File:Petrial_dodecahedron.png,File:petrial_icosahedron.png
+"Related
+figures","File:Hemicube.svg
+{4,3}3 = {4,3}/2 = {4,3}(2,0)","File:Regular map 6-3 2-0.png
+{6,3}3 = {6,3}(2,0)","File:Regular_map_6_4-3_pattern.png
+{6,4}3 = {6,4}(4,0)","{10,3}5","{10,5}3"

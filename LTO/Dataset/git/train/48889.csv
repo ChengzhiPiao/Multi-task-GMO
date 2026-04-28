@@ -1,0 +1,5 @@
+FormType,SurveyUtil,Table,Table,Table,Table,Table,Table,TableMapFragment,TableMapFragment,TableMapFragment
+default,default,default,default,default,default,default,default,default,default,default
+FormType.formType,SurveyUtil.formId,colOrder,defaultViewType,detailViewFileName,displayName,listViewFileName,mapListViewFileName,keyColorRuleType,keyMapLatCol,keyMapLongCol
+string,string,array,string,configpath,object,configpath,configpath,string,string,string
+SURVEY,geotagger_default_location,"[""Description"",""Image_uriFragment"",""Location_latitude"",""Location_longitude"",""Date_and_Time""]",MAP,config/tables/geotagger_default_location/html/geo_detail.html,"{""text"":""Geotagger Default Location""}",config/tables/geotagger_default_location/html/geo_list.html,config/tables/geotagger_default_location/html/geo_list.html,,Location_latitude,Location_longitude

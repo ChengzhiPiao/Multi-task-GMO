@@ -1,0 +1,801 @@
+Money::Currency::MissingAttributeError,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,[s]Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,Money::Currency,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,[s]Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,Money,[s]Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::Base,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,Money::Bank::VariableExchange,[s]Money::Currency::Loader,Money::LocaleBackend::I18n,Money::LocaleBackend::Legacy,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Arithmetic,Money::Formatter,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Money::RatesStore::Memory,Total # E:,Total # P:,Total # T:,Total # TS:,Total # N:,Total # return types:,Total # arg types:,Total # var types:,Total # individual types:
+initialize,find,find,find_by_iso_numeric,find_by_iso_numeric,wrap,wrap,all,stringified_keys,register,inherit,inherit,unregister,unregister,initialize,initialize,<=>,<=>,==,==,hash,to_s,to_str,to_sym,to_currency,code,symbol_first?,iso?,exponent,default_bank,use_i18n=,rounding_mode,rounding_mode,with_rounding_mode,with_rounding_mode,add_rate,add_rate,add_rate,add_rate,from_amount,from_amount,from_amount,from_amount,from_amount,initialize,initialize,initialize,initialize,initialize,dollars,amount,currency_as_string,currency_as_string=,currency_as_string=,hash,symbol,inspect,to_s,to_d,to_i,to_f,with_currency,with_currency,to_money,exchange_to,exchange_to,as_us_dollar,as_ca_dollar,as_euro,allocate,allocate,round,format,format,thousands_separator,decimal_mark,instance,initialize,setup,exchange_with,exchange_with,exchange_with,same_currency?,same_currency?,same_currency?,initialize,initialize,exchange_with,exchange_with,exchange_with,add_rate,add_rate,add_rate,add_rate,set_rate,set_rate,set_rate,set_rate,set_rate,get_rate,get_rate,get_rate,get_rate,export_rates,export_rates,export_rates,export_rates,import_rates,import_rates,import_rates,import_rates,load_currencies,initialize,initialize,-@,eql?,eql?,<=>,<=>,positive?,negative?,*,*,/,div,divmod,divmod,modulo,modulo,%,%,remainder,remainder,abs,zero?,nonzero?,coerce,show_free_text?,initialize,initialize,initialize,add_rate,add_rate,add_rate,add_rate,get_rate,get_rate,get_rate,each_rate,rate_key_for,rate_key_for,rate_key_for,82,13,22,25,10,83,69,0,156
+Ret,Arg,Ret,Arg,Ret,Arg,Ret,Ret,Ret,Arg,Arg,Arg,Arg,Ret,Arg,Ret,Arg,Ret,Arg,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Arg,Ret,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Arg,Ret,Ret,Ret,Ret,Arg,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Ret,Arg,Ret,Ret,Arg,Ret,Ret,Ret,Ret,Arg,Ret,Ret,Arg,Ret,Ret,Ret,Ret,Ret,Ret,Arg,Arg,Ret,Arg,Arg,Ret,Arg,Ret,Arg,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Arg,Arg,Ret,Ret,Ret,Ret,Ret,Arg,Ret,Arg,Ret,Ret,Ret,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Ret,Arg,Ret,Arg,Ret,Ret,Ret,Ret,Ret,Ret,Arg,Arg,Ret,Arg,Arg,Arg,Ret,Arg,Arg,Ret,Ret,Arg,Arg,Ret,,,,,,,,,
+,id,,num,,object,,,,curr,parent_iso_code,curr,curr,,id,,other_currency,,other_currency,,,,,,,,,,,,,mode,,mode,,from_currency,to_currency,rate,,amount,currency,options,,,obj,currency,options,,,,,,val,,,,,,,,,new_currency,,,other_currency,,,,,parts,,,rules,,,,,,,from,to_currency,,currency1,currency2,,st,,from,to_currency,,from,to,rate,,from,to,rate,opts,,from,to,opts,,format,file,opts,,format,s,opts,,,,,,other_money,,other,,,,value,,value,value,val,,val,,val,,val,,,,,,,opts,rates,,currency_iso_from,currency_iso_to,rate,,currency_iso_from,currency_iso_to,,,currency_iso_from,currency_iso_to,,,,,,,,,,
+self,[ to_s: () -> String ],Money,String,Money,([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ]),Money::Currency,{ [s]Money::Currency#all ret: ret },"Hash<(:disambiguate or :html or :html_wrap or :iso_code or :symbol), ([ ===: ((false or true)) -> { { { Money::Formatter#symbol_value_from arg: rules }#[] call_ret: ret }#=== call_ret: ret } ] and [ downcase: () -> { { { [s]Money::Currency#register arg: curr }#fetch call_ret: ret }#downcase call_ret: ret } ])>","Hash<(:disambiguate or :html or :html_wrap or :iso_code or :symbol), ([ ===: ((false or true)) -> { { { Money::Formatter#symbol_value_from arg: rules }#[] call_ret: ret }#=== call_ret: ret } ] and [ downcase: () -> { { { [s]Money::Currency#register arg: curr }#fetch call_ret: ret }#downcase call_ret: ret } ])>",[ downcase: () -> { { [s]Money::Currency#inherit arg: parent_iso_code }#downcase call_ret: ret } ],"Hash<(:disambiguate or :html or :html_wrap or :iso_code or :symbol), ([ ===: ((false or true)) -> { { { Money::Formatter#symbol_value_from arg: rules }#[] call_ret: ret }#=== call_ret: ret } ] and [ downcase: () -> { { { [s]Money::Currency#register arg: curr }#fetch call_ret: ret }#downcase call_ret: ret } ])>","Hash<(:disambiguate or :html or :html_wrap or :iso_code or :symbol), ([ ===: ((false or true)) -> { { { Money::Formatter#symbol_value_from arg: rules }#[] call_ret: ret }#=== call_ret: ret } ] and [ downcase: () -> { { { [s]Money::Currency#register arg: curr }#fetch call_ret: ret }#downcase call_ret: ret } ])>",(false or true),[ to_sym: () -> { { Money::Currency#initialize arg: id }#to_sym call_ret: ret } ],self,([ id: () -> { { Money::Currency#<=> arg: other_currency }#id call_ret: ret } ] and [ priority: () -> { { Money::Currency#<=> arg: other_currency }#priority call_ret: ret } ]),Number,([ id: () -> { { Money::Currency#compare_ids arg: other_currency }#id call_ret: ret } ] and [ is_a?: (Class) -> { { Money::Currency#compare_ids arg: other_currency }#is_a? call_ret: ret } ] and [ to_s: () -> String ]),(false or true),Number,String,String,Symbol,Money::Currency,String,(false or true),{ Money::Currency#iso? ret: ret },Number,{ [s]Money#default_bank ret: ret },(false or true),?String,Number,String,Number,(false or true),(false or true),Number,Number,String,?([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ] and [ subunit_to_unit: () -> { { [s]Money#from_amount arg: currency }#subunit_to_unit call_ret: ret } ]),"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>",,Money,([ is_a?: (Class) -> { { Money#as_d arg: num }#is_a? call_ret: ret } ] and [ respond_to?: (:bank) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:currency) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:fractional) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ]),?([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ]),?([ []: (:bank) -> { { Money#initialize arg: options }#[] call_ret: ret } ] and [ is_a?: (Class) -> { { Money#initialize arg: options }#is_a? call_ret: ret } ]),,self,Number,Number,String,"Hash<String, { [s]Money::Currency#reset! hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f924bcff910> }>",Money::Currency,Number,String,String,String,Number,Number,Number,([ !: () -> { { Money#with_currency arg: new_currency }#! call_ret: ret } ] and [ is_a?: (Class) -> { { Money#as_d arg: num }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ] and [ respond_to?: (:bank) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:currency) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:fractional) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ]),Money,Money,([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ]),Money,Money,Money,Money,"([ count: () -> { { [s]Money::Allocation#generate arg: parts }#count call_ret: ret } ] and [ dup: () -> { { [s]Money::Allocation#generate arg: parts }#dup call_ret: ret } ] and [ empty?: () -> { { [s]Money::Allocation#generate arg: parts }#empty? call_ret: ret } ] and [ inject: (Number, :+) -> { { [s]Money::Allocation#generate arg: parts }#inject call_ret: ret } ] and [ is_a?: (Class) -> { { [s]Money::Allocation#generate arg: parts }#is_a? call_ret: ret } ] and [ pop: () -> { { [s]Money::Allocation#generate arg: parts }#pop call_ret: ret } ])",Array<u>,Money,*{ Money#format arg: rules },String,String,String,Money::Bank::Base,self,String,(false or true),Number,Money,Number,Number,(false or true),?Money::RatesStore::Memory,self,"(Money and [ dup_with: ({ fractional: { Money::Bank::VariableExchange#exchange ret: ret }, currency: { Money::Bank::VariableExchange#exchange_with arg: to_currency }, bank: Money::Bank::VariableExchange }) -> { { Money::Bank::VariableExchange#exchange_with arg: from }#dup_with call_ret: ret } ] and [ fractional: () -> { { Money::Bank::VariableExchange#calculate_fractional arg: from }#fractional call_ret: ret } ])",([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ]),Money,(false or true),(false or true),Number,Number,(false or true),(false or true),Number,"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>",Number,(false or true),([ is_a?: (Class) -> { { [s]Money::Currency#wrap arg: object }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ]),"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>",Number,String,?String,"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>",{ Money::Bank::VariableExchange#export_rates ret: ret },String,String,"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>",Money::Bank::VariableExchange,{ [s]Money::Currency::Loader#load_currencies ret: ret },self,self,Money,([ currency: () -> { { Money::Arithmetic#eql? arg: other_money }#currency call_ret: ret } ] and [ fractional: () -> { { Money::Arithmetic#eql? arg: other_money }#fractional call_ret: ret } ] and [ is_a?: (Class) -> { { Money::Arithmetic#eql? arg: other_money }#is_a? call_ret: ret } ]),(false or true),([ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#<=> arg: other }#exchange_to call_ret: ret } ] and [ fractional: () -> { { Money::Arithmetic#<=> arg: other }#fractional call_ret: ret } ] and [ is_a?: (Class) -> { { Money::Arithmetic#<=> arg: other }#is_a? call_ret: ret } ] and [ respond_to?: (:zero?) -> { { Money::Arithmetic#<=> arg: other }#respond_to? call_ret: ret } ] and [ zero?: () -> { { Money::Arithmetic#<=> arg: other }#zero? call_ret: ret } ]),Number,(false or true),(false or true),(Number and [ value: () -> { { Money::Arithmetic#* arg: value }#value call_ret: ret } ]),Money,([ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#/ arg: value }#exchange_to call_ret: ret } ] and [ is_a?: (Module) -> { { Money::Arithmetic#/ arg: value }#is_a? call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ]),([ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#/ arg: value }#exchange_to call_ret: ret } ] and [ is_a?: (Module) -> { { Money::Arithmetic#/ arg: value }#is_a? call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ]),"(Hash<String, { [s]Money::Currency#reset! hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f924bcff910> }> and [ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#divmod_money arg: val }#exchange_to call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ])","[Money, Money]","(Hash<String, { [s]Money::Currency#reset! hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f924bcff910> }> and [ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#divmod_money arg: val }#exchange_to call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ])",Money,"(Hash<String, { [s]Money::Currency#reset! hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f924bcff910> }> and [ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#divmod_money arg: val }#exchange_to call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ])",Money,"(Hash<String, { [s]Money::Currency#reset! hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f924bcff910> }> and [ currency: () -> { { Money::Arithmetic#remainder arg: val }#currency call_ret: ret } ] and [ exchange_to: ({ Money#currency ret: ret }) -> { { Money::Arithmetic#divmod_money arg: val }#exchange_to call_ret: ret } ] and [ is_a?: (Class) -> { { Money#as_d arg: num }#is_a? call_ret: ret } ] and [ nil?: () -> { { [s]Money::Currency#wrap arg: object }#nil? call_ret: ret } ] and [ respond_to?: (:bank) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:currency) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:fractional) -> { { Money#initialize arg: obj }#respond_to? call_ret: ret } ] and [ respond_to?: (:to_d) -> { { Money#as_d arg: num }#respond_to? call_ret: ret } ] and [ to_s: () -> String ])",Money,Money,(false or true),Money::Arithmetic,"[Money::Arithmetic, { [s]Money::Arithmetic::CoercedNumeric#new ret: ret }]",(false or true),"?Hash<:bank, { Money::RatesStore::Memory#initialize hash_param_val: hash_param_val_#<Parser::Source::Map::Collection:0x00007f9252226d70> }>","?Hash<(:disambiguate or :html or :html_wrap or :iso_code or :symbol), ([ ===: ((false or true)) -> { { { Money::Formatter#symbol_value_from arg: rules }#[] call_ret: ret }#=== call_ret: ret } ] and [ downcase: () -> { { { [s]Money::Currency#register arg: curr }#fetch call_ret: ret }#downcase call_ret: ret } ])>",self,String,String,Number,{ Money::RatesStore::Memory#add_rate ret: ret },String,String,{ Money::RatesStore::Memory#get_rate ret: ret },Enumerator<%any>,String,String,String,,,,,,,,,
+self,(String or Symbol or [ to_s: (String) -> String ]),Money::Currency,[ to_s: (String) -> String ],Money::Currency,Object,Money::Currency,Array,Set,Hash,String,Hash,Object,(false or true),(String or Symbol or [ to_s: (String) -> String ]),self,Money::Currency,Number,Money::Currency,(false or true),Number,String,String,Symbol,Money::Currency,String,(false or true),(false or true),Number,Money::Bank::Base,(false or true),Number,Number,Number,Object,(Money::Currency or String or Symbol),(Money::Currency or String or Symbol),Number,Number,Number,(Money::Currency or String or Symbol),Hash,Hash,Money,Object,(Money::Currency or String or Symbol),Hash,Hash,self,Number,Number,String,String,Money::Currency,Number,String,String,String,Number,Number,Number,(Money::Currency or String or Symbol),Money,Money,(Money::Currency or String or Symbol),Money,Money,Money,Money,(Array<Number> or Number),Array<Money>,Money,Hash,String,String,String,Money::Bank::Base,self,Money::Bank::Base,Money,(Money::Currency or String or Symbol),Money,(Money::Currency or String or Symbol),(Money::Currency or String or Symbol),(false or true),RateStore,self,Money,(Money::Currency or String or Symbol),Money,(Money::Currency or String or Symbol),(Money::Currency or String or Symbol),Number,Number,(Money::Currency or String or Symbol),(Money::Currency or String or Symbol),Number,Hash,Number,(Money::Currency or String or Symbol),(Money::Currency or String or Symbol),Hash,Number,Symbol,String,Hash,String,Symbol,String,Hash,Money::Bank::VariableExchange,Hash,self,self,Money,Money,(false or true),Money,Number,(false or true),(false or true),Number,Money,(Money or Number),(Money or Number),(Money or Number),(Array<(Money or Number)> or Array<Money>),(Money or Number),Money,(Money or Number),Money,(Money or Number),Money,Money,(false or true),Money,Array,(false or true),Hash,Hash,self,String,String,Number,Number,String,String,Number,Enumerator,String,String,String,,,,,,,,,
+E,TS,T,T,T,TS,E,N,T,P,TS,P,E,E,TS,E,TS,E,TS,E,E,E,E,E,E,E,E,N,E,N,E,T,E,T,E,T,T,E,E,T,TS,P,N,E,TS,TS,TS,N,E,E,E,E,T,E,E,E,E,E,E,E,E,TS,E,E,TS,E,E,E,E,TS,P,E,N,E,E,E,E,E,T,T,T,E,T,T,E,T,E,TS,TS,E,T,T,E,E,T,T,E,P,E,T,TS,P,E,E,E,P,N,E,E,P,E,N,E,E,E,TS,E,TS,E,E,E,TS,E,TS,TS,TS,P,TS,E,TS,E,TS,E,E,E,T,P,E,P,P,E,E,E,E,N,E,E,N,P,E,E,E,,,,,,,,,
+,Constraints,Twin,Twin,Twin,Constraints,Constraints,,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,,Constraints,Constraints,Constraints,Constraints,Twin,Constraints,Constraints,Constraints,Constraints,Twin,Constraints,,Constraints,,Constraints,Constraints,Constraints,Twin,Twin,Twin,Twin,Twin,Constraints,Twin,Constraints,Constraints,,Constraints,Constraints,Constraints,Constraints,,,Twin,Twin,Constraints,Twin,Constraints,Constraints,Constraints,Constraints,Constraints,Twin,Constraints,Twin,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,,Constraints,Constraints,Constraints,Constraints,,Twin,Twin,Twin,Twin,Twin,Twin,Constraints,Constraints,,Constraints,Constraints,Constraints,Twin,Twin,Constraints,Twin,Twin,Twin,Constraints,Constraints,Twin,Twin,Constraints,Constraints,Twin,Twin,Constraints,Constraints,Constraints,Twin,Constraints,Constraints,Constraints,,,,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Constraints,Twin,Constraints,Constraints,,Twin,Twin,Constraints,,Twin,Twin,,Constraints,Twin,Twin,Constraints,,,,,,,,,
+"def initialize(method, currency, attribute)
+        super(
+          ""Can't call Currency.#{method} - currency '#{currency}' is missing ""\
+          ""the attribute '#{attribute}'""
+        )
+      end","def find(id)
+        id = id.to_s.downcase.to_sym
+        new(id)
+      rescue UnknownCurrency
+        nil
+      end","def find(id)
+        id = id.to_s.downcase.to_sym
+        new(id)
+      rescue UnknownCurrency
+        nil
+      end","def find_by_iso_numeric(num)
+        num = num.to_s.rjust(3, '0')
+        return if num.empty?
+        id, _ = self.table.find { |key, currency| currency[:iso_numeric] == num }
+        new(id)
+      rescue UnknownCurrency
+        nil
+      end","def find_by_iso_numeric(num)
+        num = num.to_s.rjust(3, '0')
+        return if num.empty?
+        id, _ = self.table.find { |key, currency| currency[:iso_numeric] == num }
+        new(id)
+      rescue UnknownCurrency
+        nil
+      end","def wrap(object)
+        if object.nil?
+          nil
+        elsif object.is_a?(Currency)
+          RDL.type_cast(object, ""Money::Currency"")
+        else
+          Currency.new(RDL.type_cast(object, ""String or Symbol""))
+        end
+      end","def wrap(object)
+        if object.nil?
+          nil
+        elsif object.is_a?(Currency)
+          RDL.type_cast(object, ""Money::Currency"")
+        else
+          Currency.new(RDL.type_cast(object, ""String or Symbol""))
+        end
+      end","def all
+        table.keys.map do |curr|
+          c = Currency.new(curr)
+          if c.priority.nil?
+            raise MissingAttributeError.new(:all, c.id, :priority)
+          end
+          c
+        end.sort_by(&:priority)
+      end","def stringified_keys
+        @stringified_keys ||= stringify_keys
+      end","def register(curr)
+        key = curr.fetch(:iso_code).downcase.to_sym
+        @@mutex.synchronize { _instances.delete(key.to_s) }
+        @table[key] = curr
+        @stringified_keys = nil
+      end","def inherit(parent_iso_code, curr)
+        parent_iso_code = parent_iso_code.downcase.to_sym
+        curr = @table.fetch(parent_iso_code, {}).merge(curr)
+        register(curr)
+      end","def inherit(parent_iso_code, curr)
+        parent_iso_code = parent_iso_code.downcase.to_sym
+        curr = @table.fetch(parent_iso_code, {}).merge(curr)
+        register(curr)
+      end","def unregister(curr)
+        if curr.is_a?(Hash)
+          key = curr.fetch(:iso_code).downcase.to_sym
+        else
+          key = RDL.type_cast(curr, ""String or Symbol"").downcase.to_sym
+        end
+        existed = @table.delete(key)
+        @stringified_keys = nil if existed
+        existed ? true : false
+      end","def unregister(curr)
+        if curr.is_a?(Hash)
+          key = curr.fetch(:iso_code).downcase.to_sym
+        else
+          key = RDL.type_cast(curr, ""String or Symbol"").downcase.to_sym
+        end
+        existed = @table.delete(key)
+        @stringified_keys = nil if existed
+        existed ? true : false
+      end","def initialize(id)
+      @id = id.to_sym
+      initialize_data!
+    end","def initialize(id)
+      @id = id.to_sym
+      initialize_data!
+    end","def <=>(other_currency)
+      # <=> returns nil when one of the values is nil
+      comparison = self.priority <=> other_currency.priority || 0
+
+      if comparison == 0
+        self.id <=> other_currency.id
+      else
+        comparison
+      end
+    end","def <=>(other_currency)
+      # <=> returns nil when one of the values is nil
+      comparison = self.priority <=> other_currency.priority || 0
+
+      if comparison == 0
+        self.id <=> other_currency.id
+      else
+        comparison
+      end
+    end","def ==(other_currency)
+      self.equal?(other_currency) || compare_ids(other_currency)
+    end","def ==(other_currency)
+      self.equal?(other_currency) || compare_ids(other_currency)
+    end","def hash
+      id.hash
+    end","def to_s
+      id.to_s.upcase
+    end","def to_str
+      id.to_s.upcase
+    end","def to_sym
+      id.to_s.upcase.to_sym
+    end","def to_currency
+      self
+    end","def code
+      symbol || iso_code
+    end","def symbol_first?
+      !!@symbol_first
+    end","def iso?
+      iso_numeric && iso_numeric != ''
+    end","def exponent
+      Math.log10(subunit_to_unit).round
+    end","def self.default_bank
+    if @default_bank.respond_to?(:call)
+      @default_bank.call
+    else
+      @default_bank
+    end
+  end","def self.use_i18n=(value)
+    if value
+      warn '[DEPRECATION] `use_i18n` is deprecated - use `Money.locale_backend = :i18n` instead for locale based formatting'
+    else
+      warn '[DEPRECATION] `use_i18n` is deprecated - use `Money.locale_backend = :currency` instead for currency based formatting'
+    end
+
+    @use_i18n = value
+  end","def self.rounding_mode(mode = nil)
+    if mode
+      warn ""[DEPRECATION] calling `rounding_mode` with a block is deprecated. Please use `.with_rounding_mode` instead.""
+      return with_rounding_mode(mode) { yield }
+    end
+
+    return Thread.current[:money_rounding_mode] if Thread.current[:money_rounding_mode]
+
+    if @using_deprecated_default_rounding_mode
+      warn '[WARNING] The default rounding mode will change from `ROUND_HALF_EVEN` to `ROUND_HALF_UP` in the ' \
+           'next major release. Set it explicitly using `Money.rounding_mode=` to avoid potential problems.'
+      @using_deprecated_default_rounding_mode = false
+    end
+
+    @rounding_mode
+  end","def self.rounding_mode(mode = nil)
+    if mode
+      warn ""[DEPRECATION] calling `rounding_mode` with a block is deprecated. Please use `.with_rounding_mode` instead.""
+      return with_rounding_mode(mode) { yield }
+    end
+
+    return Thread.current[:money_rounding_mode] if Thread.current[:money_rounding_mode]
+
+    if @using_deprecated_default_rounding_mode
+      warn '[WARNING] The default rounding mode will change from `ROUND_HALF_EVEN` to `ROUND_HALF_UP` in the ' \
+           'next major release. Set it explicitly using `Money.rounding_mode=` to avoid potential problems.'
+      @using_deprecated_default_rounding_mode = false
+    end
+
+    @rounding_mode
+  end","def self.with_rounding_mode(mode)
+    Thread.current[:money_rounding_mode] = mode
+    yield
+  ensure
+    Thread.current[:money_rounding_mode] = nil
+  end","def self.with_rounding_mode(mode)
+    Thread.current[:money_rounding_mode] = mode
+    yield
+  ensure
+    Thread.current[:money_rounding_mode] = nil
+  end","def self.add_rate(from_currency, to_currency, rate)
+    RDL.type_cast(Money.default_bank.add_rate(from_currency, to_currency, rate), ""Float"")
+  end","def self.add_rate(from_currency, to_currency, rate)
+    RDL.type_cast(Money.default_bank.add_rate(from_currency, to_currency, rate), ""Float"")
+  end","def self.add_rate(from_currency, to_currency, rate)
+    RDL.type_cast(Money.default_bank.add_rate(from_currency, to_currency, rate), ""Float"")
+  end","def self.add_rate(from_currency, to_currency, rate)
+    RDL.type_cast(Money.default_bank.add_rate(from_currency, to_currency, rate), ""Float"")
+  end","def self.from_amount(amount, currency = default_currency, options = {})
+    raise ArgumentError, ""'amount' must be numeric"" unless Numeric === amount
+
+    currency = Currency.wrap(currency) || Money.default_currency
+    value = amount.to_d * currency.subunit_to_unit
+    new(value, currency, options)
+  end","def self.from_amount(amount, currency = default_currency, options = {})
+    raise ArgumentError, ""'amount' must be numeric"" unless Numeric === amount
+
+    currency = Currency.wrap(currency) || Money.default_currency
+    value = amount.to_d * currency.subunit_to_unit
+    new(value, currency, options)
+  end","def self.from_amount(amount, currency = default_currency, options = {})
+    raise ArgumentError, ""'amount' must be numeric"" unless Numeric === amount
+
+    currency = Currency.wrap(currency) || Money.default_currency
+    value = amount.to_d * currency.subunit_to_unit
+    new(value, currency, options)
+  end","def self.from_amount(amount, currency = default_currency, options = {})
+    raise ArgumentError, ""'amount' must be numeric"" unless Numeric === amount
+
+    currency = Currency.wrap(currency) || Money.default_currency
+    value = amount.to_d * currency.subunit_to_unit
+    new(value, currency, options)
+  end","def self.from_amount(amount, currency = default_currency, options = {})
+    raise ArgumentError, ""'amount' must be numeric"" unless Numeric === amount
+
+    currency = Currency.wrap(currency) || Money.default_currency
+    value = amount.to_d * currency.subunit_to_unit
+    new(value, currency, options)
+  end","def initialize( obj, currency = Money.default_currency, options = {})
+    # For backwards compatability, if options is not a Hash, treat it as a bank parameter
+    unless options.is_a?(Hash)
+      options = { bank: RDL.type_cast(options, ""Money::Bank::VariableExchange"") }
+    end
+
+    @fractional = as_d(obj.respond_to?(:fractional) ? RDL.type_cast(obj, ""Money"").fractional : obj)
+    @currency   = obj.respond_to?(:currency) ? RDL.type_cast(obj, ""Money"").currency : Currency.wrap(currency)
+    @currency ||= Money.default_currency
+    @bank       = obj.respond_to?(:bank) ? RDL.type_cast(obj, ""Money"").bank : RDL.type_cast(options[:bank], ""Money::Bank::VariableExchange"")
+    @bank     ||= Money.default_bank
+
+    # BigDecimal can be Infinity and NaN, money of that amount does not make sense
+    raise ArgumentError, 'must be initialized with a finite value' unless @fractional.finite?
+  end","def initialize( obj, currency = Money.default_currency, options = {})
+    # For backwards compatability, if options is not a Hash, treat it as a bank parameter
+    unless options.is_a?(Hash)
+      options = { bank: RDL.type_cast(options, ""Money::Bank::VariableExchange"") }
+    end
+
+    @fractional = as_d(obj.respond_to?(:fractional) ? RDL.type_cast(obj, ""Money"").fractional : obj)
+    @currency   = obj.respond_to?(:currency) ? RDL.type_cast(obj, ""Money"").currency : Currency.wrap(currency)
+    @currency ||= Money.default_currency
+    @bank       = obj.respond_to?(:bank) ? RDL.type_cast(obj, ""Money"").bank : RDL.type_cast(options[:bank], ""Money::Bank::VariableExchange"")
+    @bank     ||= Money.default_bank
+
+    # BigDecimal can be Infinity and NaN, money of that amount does not make sense
+    raise ArgumentError, 'must be initialized with a finite value' unless @fractional.finite?
+  end","def initialize( obj, currency = Money.default_currency, options = {})
+    # For backwards compatability, if options is not a Hash, treat it as a bank parameter
+    unless options.is_a?(Hash)
+      options = { bank: RDL.type_cast(options, ""Money::Bank::VariableExchange"") }
+    end
+
+    @fractional = as_d(obj.respond_to?(:fractional) ? RDL.type_cast(obj, ""Money"").fractional : obj)
+    @currency   = obj.respond_to?(:currency) ? RDL.type_cast(obj, ""Money"").currency : Currency.wrap(currency)
+    @currency ||= Money.default_currency
+    @bank       = obj.respond_to?(:bank) ? RDL.type_cast(obj, ""Money"").bank : RDL.type_cast(options[:bank], ""Money::Bank::VariableExchange"")
+    @bank     ||= Money.default_bank
+
+    # BigDecimal can be Infinity and NaN, money of that amount does not make sense
+    raise ArgumentError, 'must be initialized with a finite value' unless @fractional.finite?
+  end","def initialize( obj, currency = Money.default_currency, options = {})
+    # For backwards compatability, if options is not a Hash, treat it as a bank parameter
+    unless options.is_a?(Hash)
+      options = { bank: RDL.type_cast(options, ""Money::Bank::VariableExchange"") }
+    end
+
+    @fractional = as_d(obj.respond_to?(:fractional) ? RDL.type_cast(obj, ""Money"").fractional : obj)
+    @currency   = obj.respond_to?(:currency) ? RDL.type_cast(obj, ""Money"").currency : Currency.wrap(currency)
+    @currency ||= Money.default_currency
+    @bank       = obj.respond_to?(:bank) ? RDL.type_cast(obj, ""Money"").bank : RDL.type_cast(options[:bank], ""Money::Bank::VariableExchange"")
+    @bank     ||= Money.default_bank
+
+    # BigDecimal can be Infinity and NaN, money of that amount does not make sense
+    raise ArgumentError, 'must be initialized with a finite value' unless @fractional.finite?
+  end","def initialize( obj, currency = Money.default_currency, options = {})
+    # For backwards compatability, if options is not a Hash, treat it as a bank parameter
+    unless options.is_a?(Hash)
+      options = { bank: RDL.type_cast(options, ""Money::Bank::VariableExchange"") }
+    end
+
+    @fractional = as_d(obj.respond_to?(:fractional) ? RDL.type_cast(obj, ""Money"").fractional : obj)
+    @currency   = obj.respond_to?(:currency) ? RDL.type_cast(obj, ""Money"").currency : Currency.wrap(currency)
+    @currency ||= Money.default_currency
+    @bank       = obj.respond_to?(:bank) ? RDL.type_cast(obj, ""Money"").bank : RDL.type_cast(options[:bank], ""Money::Bank::VariableExchange"")
+    @bank     ||= Money.default_bank
+
+    # BigDecimal can be Infinity and NaN, money of that amount does not make sense
+    raise ArgumentError, 'must be initialized with a finite value' unless @fractional.finite?
+  end","def dollars
+    amount
+  end","def amount
+    to_d
+  end","def currency_as_string
+    warn ""[DEPRECATION] `currency_as_string` is deprecated. Please use `.currency.to_s` instead.""
+    currency.to_s
+  end","def currency_as_string=(val)
+    warn ""[DEPRECATION] `currency_as_string=` is deprecated - Money instances are immutable."" \
+      "" Please use `with_currency` instead.""
+    @currency = Currency.wrap(val)
+  end","def currency_as_string=(val)
+    warn ""[DEPRECATION] `currency_as_string=` is deprecated - Money instances are immutable."" \
+      "" Please use `with_currency` instead.""
+    @currency = Currency.wrap(val)
+  end","def hash
+    [fractional.hash, currency.hash].hash
+  end","def symbol
+    currency.symbol || ""¤""
+  end","def inspect
+    ""#<#{self.class.name} fractional:#{fractional} currency:#{currency}>""
+  end","def to_s
+    format thousands_separator: '',
+           no_cents_if_whole: currency.decimal_places == 0,
+           symbol: false,
+           ignore_defaults: true
+  end","def to_d
+    as_d(fractional) / as_d(currency.subunit_to_unit)
+  end","def to_i
+    to_d.to_i
+  end","def to_f
+    to_d.to_f
+  end","def with_currency(new_currency)
+    new_currency = Currency.wrap(new_currency)
+    if !new_currency || currency == new_currency
+      self
+    else
+      dup_with(currency: new_currency)
+    end
+  end","def with_currency(new_currency)
+    new_currency = Currency.wrap(new_currency)
+    if !new_currency || currency == new_currency
+      self
+    else
+      dup_with(currency: new_currency)
+    end
+  end","def to_money(given_currency = nil)
+    given_currency = Currency.wrap(given_currency)
+    if given_currency.nil? || self.currency == given_currency
+      self
+    else
+      exchange_to(given_currency)
+    end
+  end","def exchange_to(other_currency, &rounding_method)
+    other_currency = Currency.wrap(other_currency)
+    if self.currency == other_currency
+      self
+    else
+      @bank.exchange_with(self, other_currency, &rounding_method)
+    end
+  end","def exchange_to(other_currency, &rounding_method)
+    other_currency = Currency.wrap(other_currency)
+    if self.currency == other_currency
+      self
+    else
+      @bank.exchange_with(self, other_currency, &rounding_method)
+    end
+  end","def as_us_dollar
+    exchange_to(""USD"")
+  end","def as_ca_dollar
+    exchange_to(""CAD"")
+  end","def as_euro
+    exchange_to(""EUR"")
+  end","def allocate(parts)
+    amounts = Money::Allocation.generate(fractional, parts, !Money.default_infinite_precision)
+    amounts.map { |amount| dup_with(fractional: amount) }
+  end","def allocate(parts)
+    amounts = Money::Allocation.generate(fractional, parts, !Money.default_infinite_precision)
+    amounts.map { |amount| dup_with(fractional: amount) }
+  end","def round(rounding_mode = self.class.rounding_mode, rounding_precision = 0)
+    rounded_amount = as_d(@fractional).round(rounding_precision, rounding_mode)
+    dup_with(fractional: rounded_amount)
+  end","def format(*rules)
+    Money::Formatter.new(self, *rules).to_s
+  end","def format(*rules)
+    Money::Formatter.new(self, *rules).to_s
+  end","def thousands_separator
+    (locale_backend && locale_backend.lookup(:thousands_separator, currency)) ||
+      Money::Formatter::DEFAULTS[:thousands_separator]
+  end","def decimal_mark
+    (locale_backend && locale_backend.lookup(:decimal_mark, currency)) ||
+      Money::Formatter::DEFAULTS[:decimal_mark]
+  end","def self.instance
+        @singleton ||= self.new
+      end","def initialize(&block)
+        @rounding_method = block
+        setup
+      end","def setup
+      end","def exchange_with(from, to_currency, &block)
+        raise NotImplementedError, ""#exchange_with must be implemented""
+      end","def exchange_with(from, to_currency, &block)
+        raise NotImplementedError, ""#exchange_with must be implemented""
+      end","def exchange_with(from, to_currency, &block)
+        raise NotImplementedError, ""#exchange_with must be implemented""
+      end","def same_currency?(currency1, currency2)
+        Currency.wrap(currency1) == Currency.wrap(currency2)
+      end","def same_currency?(currency1, currency2)
+        Currency.wrap(currency1) == Currency.wrap(currency2)
+      end","def same_currency?(currency1, currency2)
+        Currency.wrap(currency1) == Currency.wrap(currency2)
+      end","def initialize(st = Money::RatesStore::Memory.new, &block)
+        @store = st
+        super(&block)
+      end","def initialize(st = Money::RatesStore::Memory.new, &block)
+        @store = st
+        super(&block)
+      end","def exchange_with(from, to_currency, &block)
+        to_currency = Currency.wrap(to_currency)
+        if from.currency == to_currency
+          from
+        else
+          if rate = get_rate(from.currency, to_currency)
+            fractional = calculate_fractional(from, to_currency)
+            from.dup_with(
+              fractional: exchange(fractional, rate, &block),
+              currency: to_currency,
+              bank: self
+            )
+          else
+            raise UnknownRate, ""No conversion rate known for '#{from.currency.iso_code}' -> '#{to_currency}'""
+          end
+        end
+      end","def exchange_with(from, to_currency, &block)
+        to_currency = Currency.wrap(to_currency)
+        if from.currency == to_currency
+          from
+        else
+          if rate = get_rate(from.currency, to_currency)
+            fractional = calculate_fractional(from, to_currency)
+            from.dup_with(
+              fractional: exchange(fractional, rate, &block),
+              currency: to_currency,
+              bank: self
+            )
+          else
+            raise UnknownRate, ""No conversion rate known for '#{from.currency.iso_code}' -> '#{to_currency}'""
+          end
+        end
+      end","def exchange_with(from, to_currency, &block)
+        to_currency = Currency.wrap(to_currency)
+        if from.currency == to_currency
+          from
+        else
+          if rate = get_rate(from.currency, to_currency)
+            fractional = calculate_fractional(from, to_currency)
+            from.dup_with(
+              fractional: exchange(fractional, rate, &block),
+              currency: to_currency,
+              bank: self
+            )
+          else
+            raise UnknownRate, ""No conversion rate known for '#{from.currency.iso_code}' -> '#{to_currency}'""
+          end
+        end
+      end","def add_rate(from, to, rate)
+        set_rate(from, to, rate)
+      end","def add_rate(from, to, rate)
+        set_rate(from, to, rate)
+      end","def add_rate(from, to, rate)
+        set_rate(from, to, rate)
+      end","def add_rate(from, to, rate)
+        set_rate(from, to, rate)
+      end","def set_rate(from, to, rate, opts = {})
+        store.add_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code, rate)
+      end","def set_rate(from, to, rate, opts = {})
+        store.add_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code, rate)
+      end","def set_rate(from, to, rate, opts = {})
+        store.add_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code, rate)
+      end","def set_rate(from, to, rate, opts = {})
+        store.add_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code, rate)
+      end","def set_rate(from, to, rate, opts = {})
+        store.add_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code, rate)
+      end","def get_rate(from, to, opts = {})
+        store.get_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code)
+      end","def get_rate(from, to, opts = {})
+        store.get_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code)
+      end","def get_rate(from, to, opts = {})
+        store.get_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code)
+      end","def get_rate(from, to, opts = {})
+        store.get_rate(Currency.wrap(from).iso_code, Currency.wrap(to).iso_code)
+      end","def export_rates(format, file = nil, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        store.transaction do
+          s = RDL.type_cast(FORMAT_SERIALIZERS[format].dump(rates), ""String"")
+
+          unless file.nil?
+            File.open(file, ""w"") {|f| f.write(s) }
+          end
+
+          s
+        end
+      end","def export_rates(format, file = nil, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        store.transaction do
+          s = RDL.type_cast(FORMAT_SERIALIZERS[format].dump(rates), ""String"")
+
+          unless file.nil?
+            File.open(file, ""w"") {|f| f.write(s) }
+          end
+
+          s
+        end
+      end","def export_rates(format, file = nil, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        store.transaction do
+          s = RDL.type_cast(FORMAT_SERIALIZERS[format].dump(rates), ""String"")
+
+          unless file.nil?
+            File.open(file, ""w"") {|f| f.write(s) }
+          end
+
+          s
+        end
+      end","def export_rates(format, file = nil, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        store.transaction do
+          s = RDL.type_cast(FORMAT_SERIALIZERS[format].dump(rates), ""String"")
+
+          unless file.nil?
+            File.open(file, ""w"") {|f| f.write(s) }
+          end
+
+          s
+        end
+      end","def import_rates(format, s, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        if format == :ruby
+          warn '[WARNING] Using :ruby format when importing rates is potentially unsafe and ' \
+            'might lead to remote code execution via Marshal.load deserializer. Consider using ' \
+            'safe alternatives such as :json and :yaml.'
+        end
+
+        store.transaction do
+          data = RDL.type_cast(FORMAT_SERIALIZERS[format].load(s), ""Hash<String, Float>"")
+
+          data.each do |key, rate|
+            from, to = key.split(SERIALIZER_SEPARATOR)
+            store.add_rate from, to, rate
+          end
+        end
+
+        self
+      end","def import_rates(format, s, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        if format == :ruby
+          warn '[WARNING] Using :ruby format when importing rates is potentially unsafe and ' \
+            'might lead to remote code execution via Marshal.load deserializer. Consider using ' \
+            'safe alternatives such as :json and :yaml.'
+        end
+
+        store.transaction do
+          data = RDL.type_cast(FORMAT_SERIALIZERS[format].load(s), ""Hash<String, Float>"")
+
+          data.each do |key, rate|
+            from, to = key.split(SERIALIZER_SEPARATOR)
+            store.add_rate from, to, rate
+          end
+        end
+
+        self
+      end","def import_rates(format, s, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        if format == :ruby
+          warn '[WARNING] Using :ruby format when importing rates is potentially unsafe and ' \
+            'might lead to remote code execution via Marshal.load deserializer. Consider using ' \
+            'safe alternatives such as :json and :yaml.'
+        end
+
+        store.transaction do
+          data = RDL.type_cast(FORMAT_SERIALIZERS[format].load(s), ""Hash<String, Float>"")
+
+          data.each do |key, rate|
+            from, to = key.split(SERIALIZER_SEPARATOR)
+            store.add_rate from, to, rate
+          end
+        end
+
+        self
+      end","def import_rates(format, s, opts = {})
+        raise Money::Bank::UnknownRateFormat unless RATE_FORMATS.include?(format)
+
+        if format == :ruby
+          warn '[WARNING] Using :ruby format when importing rates is potentially unsafe and ' \
+            'might lead to remote code execution via Marshal.load deserializer. Consider using ' \
+            'safe alternatives such as :json and :yaml.'
+        end
+
+        store.transaction do
+          data = RDL.type_cast(FORMAT_SERIALIZERS[format].load(s), ""Hash<String, Float>"")
+
+          data.each do |key, rate|
+            from, to = key.split(SERIALIZER_SEPARATOR)
+            store.add_rate from, to, rate
+          end
+        end
+
+        self
+      end","def load_currencies
+          currencies = parse_currency_file(""currency_iso.json"")
+          currencies.merge! parse_currency_file(""currency_non_iso.json"")
+          currencies.merge! parse_currency_file(""currency_backwards_compatible.json"")
+        end","def initialize
+        raise NotSupported, 'I18n not found' unless defined?(::I18n)
+      end","def initialize
+        raise NotSupported, 'I18n not found' if Money.use_i18n && !defined?(::I18n)
+      end","def -@
+      dup_with(fractional: -fractional)
+    end","def eql?(other_money)
+      if other_money.is_a?(Money)
+        (fractional == other_money.fractional && currency == other_money.currency) ||
+          (fractional == 0 && other_money.fractional == 0)
+      else
+        false
+      end
+    end","def eql?(other_money)
+      if other_money.is_a?(Money)
+        (fractional == other_money.fractional && currency == other_money.currency) ||
+          (fractional == 0 && other_money.fractional == 0)
+      else
+        false
+      end
+    end","def <=>(other)
+      unless other.is_a?(Money)
+        return unless other.respond_to?(:zero?) && other.zero?
+        return other.is_a?(CoercedNumeric) ? 0 <=> fractional : fractional <=> 0
+      end
+
+      # Always allow comparison with zero
+      if zero? || other.zero?
+        return fractional <=> other.fractional
+      end
+
+      other = other.exchange_to(currency)
+      fractional <=> other.fractional
+    rescue Money::Bank::UnknownRate
+    end","def <=>(other)
+      unless other.is_a?(Money)
+        return unless other.respond_to?(:zero?) && other.zero?
+        return other.is_a?(CoercedNumeric) ? 0 <=> fractional : fractional <=> 0
+      end
+
+      # Always allow comparison with zero
+      if zero? || other.zero?
+        return fractional <=> other.fractional
+      end
+
+      other = other.exchange_to(currency)
+      fractional <=> other.fractional
+    rescue Money::Bank::UnknownRate
+    end","def positive?
+      fractional > 0
+    end","def negative?
+      fractional < 0
+    end","def *(value)
+      value = value.value if value.is_a?(CoercedNumeric)
+      if value.is_a? Numeric
+        dup_with(fractional: fractional * value)
+      else
+        raise TypeError, ""Can't multiply a #{self.class.name} by a #{value.class.name}'s value""
+      end
+    end","def *(value)
+      value = value.value if value.is_a?(CoercedNumeric)
+      if value.is_a? Numeric
+        dup_with(fractional: fractional * value)
+      else
+        raise TypeError, ""Can't multiply a #{self.class.name} by a #{value.class.name}'s value""
+      end
+    end","def /(value)
+      if value.is_a?(self.class)
+        fractional / as_d(value.exchange_to(currency).fractional).to_f
+      else
+        raise TypeError, 'Can not divide by Money' if value.is_a?(CoercedNumeric)
+        dup_with(fractional: fractional / as_d(value))
+      end
+    end","def div(value)
+      self / value
+    end","def divmod(val)
+      if val.is_a?(Money)
+        divmod_money(val)
+      else
+        divmod_other(val)
+      end
+    end","def divmod(val)
+      if val.is_a?(Money)
+        divmod_money(val)
+      else
+        divmod_other(val)
+      end
+    end","def modulo(val)
+      divmod(val)[1]
+    end","def modulo(val)
+      divmod(val)[1]
+    end","def %(val)
+      modulo(val)
+    end","def %(val)
+      modulo(val)
+    end","def remainder(val)
+      if val.is_a?(Money) && currency != val.currency
+        val = val.exchange_to(currency)
+      end
+
+      if (fractional < 0 && val < 0) || (fractional > 0 && val > 0)
+        self.modulo(val)
+      else
+        self.modulo(val) - (val.is_a?(Money) ? val : dup_with(fractional: val))
+      end
+    end","def remainder(val)
+      if val.is_a?(Money) && currency != val.currency
+        val = val.exchange_to(currency)
+      end
+
+      if (fractional < 0 && val < 0) || (fractional > 0 && val > 0)
+        self.modulo(val)
+      else
+        self.modulo(val) - (val.is_a?(Money) ? val : dup_with(fractional: val))
+      end
+    end","def abs
+      dup_with(fractional: fractional.abs)
+    end","def zero?
+      fractional == 0
+    end","def nonzero?
+      fractional != 0 ? self : nil
+    end","def coerce(other)
+      [self, CoercedNumeric.new(other)]
+    end","def show_free_text?
+      money.zero? && rules[:display_free]
+    end","def initialize(opts = {}, rates = {})
+        @rates = rates
+        @options = opts
+        @guard = Monitor.new
+      end","def initialize(opts = {}, rates = {})
+        @rates = rates
+        @options = opts
+        @guard = Monitor.new
+      end","def initialize(opts = {}, rates = {})
+        @rates = rates
+        @options = opts
+        @guard = Monitor.new
+      end","def add_rate(currency_iso_from, currency_iso_to, rate)
+        guard.synchronize do
+          RDL.type_cast(rates, ""Hash<String, Integer>"")[rate_key_for(currency_iso_from, currency_iso_to)] = rate
+        end
+      end","def add_rate(currency_iso_from, currency_iso_to, rate)
+        guard.synchronize do
+          RDL.type_cast(rates, ""Hash<String, Integer>"")[rate_key_for(currency_iso_from, currency_iso_to)] = rate
+        end
+      end","def add_rate(currency_iso_from, currency_iso_to, rate)
+        guard.synchronize do
+          RDL.type_cast(rates, ""Hash<String, Integer>"")[rate_key_for(currency_iso_from, currency_iso_to)] = rate
+        end
+      end","def add_rate(currency_iso_from, currency_iso_to, rate)
+        guard.synchronize do
+          RDL.type_cast(rates, ""Hash<String, Integer>"")[rate_key_for(currency_iso_from, currency_iso_to)] = rate
+        end
+      end","def get_rate(currency_iso_from, currency_iso_to)
+        guard.synchronize do
+          rates[rate_key_for(currency_iso_from, currency_iso_to)]
+        end
+      end","def get_rate(currency_iso_from, currency_iso_to)
+        guard.synchronize do
+          rates[rate_key_for(currency_iso_from, currency_iso_to)]
+        end
+      end","def get_rate(currency_iso_from, currency_iso_to)
+        guard.synchronize do
+          rates[rate_key_for(currency_iso_from, currency_iso_to)]
+        end
+      end","def each_rate(&block)
+        return to_enum(:each_rate) unless block_given?
+
+        guard.synchronize do
+          rates.each do |key, rate|
+            iso_from, iso_to = key.split(INDEX_KEY_SEPARATOR)
+            yield iso_from, iso_to, rate
+          end
+        end
+      end","def rate_key_for(currency_iso_from, currency_iso_to)
+        [currency_iso_from, currency_iso_to].join(INDEX_KEY_SEPARATOR).upcase
+      end","def rate_key_for(currency_iso_from, currency_iso_to)
+        [currency_iso_from, currency_iso_to].join(INDEX_KEY_SEPARATOR).upcase
+      end","def rate_key_for(currency_iso_from, currency_iso_to)
+        [currency_iso_from, currency_iso_to].join(INDEX_KEY_SEPARATOR).upcase
+      end",,,,,,,,,

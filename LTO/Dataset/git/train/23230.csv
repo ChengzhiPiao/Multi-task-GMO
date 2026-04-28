@@ -1,0 +1,8 @@
+access_project_issue_user,access_project_issue_report_all,access_crm_case_categ_id,access_project_issue_version_project,access_project_issue_version_project_user,access_mail_message_project_manager,access_resource_calendar_project_manager,access_project_issue_report_user,access_mail_message_issue_project_user,access_crm_case_section
+project.issue,project.issue.report,crm.case.categ,project_issue_version manager,project_issue_version user,mail.message.manager,resource.calendar.project.manager,project.issue.report user,mail.message.user,crm.case.section
+model_project_issue,model_project_issue_report,crm.model_crm_case_categ,model_project_issue_version,model_project_issue_version,mail.model_mail_message,resource.model_resource_calendar,model_project_issue_report,mail.model_mail_message,crm.model_crm_case_section
+project.group_project_user,project.group_project_manager,project.group_project_manager,project.group_project_manager,project.group_project_user,project.group_project_manager,project.group_project_manager,project.group_project_user,project.group_project_user,project.group_project_user
+1,1,1,1,1,1,1,1,1,1
+1,1,1,1,0,1,1,0,1,0
+1,1,1,1,0,1,1,0,1,0
+1,1,1,1,0,1,1,0,0,0

@@ -1,0 +1,6 @@
+1,2,3,4,5,6
+"This is a generic welcome message, press the buttons below the navigate through the elements of this page.","If you use Crome, you can control this application using voice commands, saying help will start the help tour and saying main or time will switch to the respective pages.
+Furthermore it is possible to navigate within the help by saying 'next','back' or 'skip'",This help page shows content for a specific element. Specific elements are targeted in the help.csv file by using a css selector in the third column.,Using the selector and step columns in the help.csv file we can create a tour over all elements of the page,"For instance, here is the help text for the line bar chart",and here is the same but then for the stacked area chart
+,,#Gauge1,#PieLabel,#lineBarChart,#stackedAreaChart
+auto,auto,auto,auto,auto,auto
+1,1,1,1,2,2

@@ -1,0 +1,8 @@
+access_afr_user,access_res_currency_user,access_res_company_user,access_account_account_user,access_account_fiscalyear_user,access_account_period_user,access_account_invoice_user,access_account_account,access_account_invoice_report
+afr.user,res.currency.user,res.company.user,account.account.user,account.fiscalyear.user,account.period.user,account.invoice.user,account.account,account.invoice.report
+model_afr,base.model_res_currency,base.model_res_company,account.model_account_account,account.model_account_fiscalyear,account.model_account_period,account.model_account_invoice,account.model_account_account,account.model_account_invoice_report
+group_afreport,group_afreport,group_afreport,group_afreport,group_afreport,group_afreport,group_afreport,account.group_account_user,account.group_account_manager
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1

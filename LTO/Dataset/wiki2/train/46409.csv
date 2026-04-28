@@ -1,0 +1,5 @@
+Cantellated order-6 dodecahedral honeycomb,Type,Schläfli symbols,Coxeter diagrams,Cells,Vertex figure,Coxeter groups,Properties
+Cantellated order-6 dodecahedral honeycomb,Paracompact uniform honeycomb,"rr{5,3,6}
+t0,2{5,3,6}","{{CDD|node_1|5|node|3|node_1|6|node}}
+{{CDD|node_1|5|node|3|node_1|6|node_h0}} ↔ {{CDD|node_1|5|node|split1|branch_11}}",,File:Cantellated order-6 dodecahedral honeycomb verf.png,", [6,3,5]
+[5,3[3]]",Vertex-transitive

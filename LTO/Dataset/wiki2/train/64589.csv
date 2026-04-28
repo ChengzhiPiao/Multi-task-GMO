@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Rio de Janeiro}} Portuguesa (RJ),6,4,2,0,9,2,7,14
+2,{{flagicon|Minas Gerais}} URT,6,3,1,2,4,5,-1,10
+3,{{flagicon|Goiás}} Itumbiara,6,2,2,2,5,6,-1,8
+4,{{flagicon|São Paulo}} Osasco Audax,6,0,1,5,4,9,-5,1

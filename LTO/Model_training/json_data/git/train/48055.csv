@@ -1,0 +1,5 @@
+1,Browser,Open the Url [<Data>] in the Browser,Open,@https://spritz.cognizant.com/login.php,,
+2,User ID :,Click the [<Object>] ,Click,,,Cognizant
+3,User ID :,Enter the value [<Data>] in the Field [<Object>],Set,@4141112,,Cognizant
+4,Password :,Enter the Decrypted value [<Data>] in the Field [<Object>],setEncrypted,@ZHpmZHNmZHM= Enc,,Cognizant
+5,Login,Click the [<Object>] ,Click,,,Cognizant

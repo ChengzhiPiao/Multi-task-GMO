@@ -1,0 +1,517 @@
+About This Dashboard,Content: 2014,Traffic & Usage: 2014,Content: 2013,Content,Data Providers,Traffic & Usage: 2012,Traffic & Usage,Contact,Traffic & Usage: 2013,Welcome,Content: 2012,About,Help
+"The Europeana Statistics Dashboard has been developed to act as a space where partners, researchers, stakeholders and anyone interested in Europeana can interact and re-use the statistics coming out of our websites and services. Europeana is a network, representing more than 2,500 cultural heritage organisations and a thousand individuals from these and other walks of life, passionate about bringing Europe’s vast wealth of cultural heritage to the world. 
+
+Traditionally our statistics and metrics have been locked up in formatted documents, now we are liberating that data, visualising it and making it embeddable and re-useable. With this dashboard it is now much easier to see how Europeana has progressed and evolved through the years and how we are working to increase the reach of our data providers’ collections. Many of the visualisations are dynamic and utilise both the Europeana and Google Analytics APIs to generate charts that are accurate and up to date. 
+
+Some of the key metrics that we are visualising in this dashboard include traffic and usage figures for the Europeana.eu website, social media reach, the size and composition of the Europeana repository, together with the number of digital object views on Europeana for a selection of our data providers. 
+
+An alpha version of the Statistics Dashboard was released in October 2014 and a beta version is due to be realised in 2015. During this alpha phase we are eager to hear your feedback, also if you are a data provider and would like to have statistics related to your collection available via this dashboard please [**contact us**][1].
+
+
+  [1]: http://statistics.europeana.eu/contact","This section of the dashboard visualises various aspects of the digital objects available in the Europeana repository during 2014. Charts display the re-use status of the digital objects, the types of digital objects available, together with a breakdown from which countries the digital objects originate. All visualisations are broken down by quarter to see how Europeana has grown and evolved over time. Every month the Europeana aggregation team publishes new collections and updates to the Europeana repository from hundreds of institutions. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'><H4>Total Items in Europeana & Re-use Status</H4>This chart displays the total number of digital objects in Europeana by re-use status between Q1 and Q4 of 2014. (Filter by quarter within the chart)
+<br><br/> 
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/hWlOO/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></div><div class='col-sm-6'><H4>Breakdown of Item Types in Europeana</H4>This chart displays a breakdown of the types of digital objects in  Europeana between Q1 and Q4 of 2014. (Filter by quarter within the chart)<p></p><iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/8lK9X/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></div></div>
+<p><p/>
+<H4>Items Per Country in Europeana</H4>
+This chart displays a breakdown from which countries the digital objects in Europeana originate between Q1 and Q4 of 2014. (Filter by quarter within the chart)
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/ciM2u/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""550""></iframe>
+
+
+
+
+
+ 
+
+
+  [1]: http://statistics.europeana.eu/contact
+","This section of the dashboard visualises the main traffic dimensions of web traffic and usage on the Europeana.eu website in 2014. Social media and Wikipedia related statistics are also visualised to showcase the increased reach of data providers’ collections outside of the Europeana.eu website. 
+
+All charts show data from 2014 and many of them can be broken down by quarter. The data in this section is sourced from Google Analytics for traffic, BaGLAMa for Wikipedia, Facebook Insights and Pinterest Analytics. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'>
+<H4> Europeana.eu: Pageviews, Visits & Click-throughs</H4>
+The chart displays number of pageviews and visits on the Europeana.eu website together with the number of times a user clicked through to the website of a data provider between Q1 and Q4 of 2014. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/zBTeq/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe></iframe></iframe>
+</div>
+
+<h4>Europeana.eu: New vs. Returning Visits</h4>
+This chart displays the percentage of new and returning visits to the Europeana.eu website between Q1 and Q4 of 2014. 
+(Filter by quarter within the chart)
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/v8tVW/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+</div></div>
+
+<H4> Europeana.eu: Top 100 Countries</H4>
+This chart displays the top 100 countries based on the number of visits to the Europeana.eu website between Q1 and Q4 of 2014.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/JxVDs/4/"" frameborder=""0"" scrolling=""no"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""600""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+<h4>Europeana.eu: Traffic Sources</h4>
+
+This chart displays a breakdown of traffic sources based on the number of visits to the Europeana.eu website between Q1 and Q4 of 2014. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/862Cw/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+<h4>Europeana.eu: Digital Object & Search Result Pageviews</h4>
+
+This chart displays the number of pageviews of digital objects and search result pages on the Europeana.eu website between Q1 and Q4 2014.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/EXwbm/4/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+<div class='row'><div class='col-sm-6'></div>
+
+
+
+
+</div></div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Europeana.eu: Tablet & Mobile Devices</h4>
+
+This chart displays a breakdown of visits to the Europeana.eu website that were from a desktop, tablet or mobile device between Q1 and Q4 of 2014. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/tWMNz/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+</div>
+
+<h4>Europeana.eu: Search Usage</h4>
+
+This chart displays the number of visits during which at least one search occurred together with the number of unique times a search was performed on the Europeana.eu website between Q1 and Q4 2014.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/lCOAz/7/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+</div>
+
+</div></div>
+
+<h4>Off-site reach: Impressions on Wikipedia, Facebook & Pinterest</h4>
+This chart displays the number of impressions of cultural heritage collections on Wikipedia, Facebook and Pinterest as a result of Europeana’s outreach activities between Q1 and Q4 of 2014.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/PYywJ/4/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""450""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Facebook: Engaged Users</h4>
+
+This chart displays the number of unique users that engaged with collections published on the Europeana Facebook page between Q1 and Q4 of 2014.
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/bZehq/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+</div><div class='col-sm-6'>
+
+<h4>Wikimedia & Wikipedia: Uploaded & Used Images</h4>
+
+This chart displays the number of  images uploaded to Wikimedia together with how many of those are used in Wikipedia articles as a result of Europeana’s outreach activities between Q1 and Q4 of 2014.
+<p><p/>
+
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/7NnCS/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+</div></div>
+
+
+  [1]: http://statistics.europeana.eu/contact","This section of the dashboard visualises various aspects of the digital objects available in the Europeana repository during 2013. Charts display the re-use status of the digital objects, the types of digital objects available, together with a breakdown from which countries the digital objects originate. All visualisations are broken down by quarter to see how Europeana has grown and evolved over time. Every month the Europeana aggregation team publishes new collections and updates to the Europeana repository from hundreds of institutions. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'><H4>Total Items in Europeana & Re-use Status</H4>This chart displays the total number of digital objects in Europeana by re-use status between Q1 and Q4 of 2013. (Filter by quarter within the chart) 
+<br><br/> 
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/1sQfV/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></div><div class='col-sm-6'><H4>Breakdown of Item Types in Europeana</H4>This chart displays a breakdown of the types of digital objects in Europeana between Q1 and Q4 of 2013. (Filter by quarter within the chart)<p></p><iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/aNHxr/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></div></div>
+
+<H4>Items Per Country in Europeana</H4>
+This chart displays a breakdown from which countries the digital objects in Europeana originate between Q1 and Q4 of 2013. (Filter by quarter within the chart)
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/Hqy1U/4/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""550""></iframe>
+
+  [1]: http://statistics.europeana.eu/contact","This section of the dashboard visualises various aspects of the digital objects available in the Europeana repository between 2012 and 2015. Charts display the re-use status of the digital objects, the types of digital objects available, together with a breakdown from which countries the digital objects originate. All visualisations are broken down by year to see how Europeana has grown and evolved over time. Every month the Europeana aggregation team publishes new collections and updates to the Europeana repository from hundreds of institutions. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+
+<div class='row'><div class='col-sm-6'><H4>Total Items in Europeana & Re-use Status</H4>This chart displays the total number of digital objects in Europeana by re-use status between 2012 and 2015.  
+(Filter by year within the chart)
+<br><br/> 
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/1QniL/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe></div><div class='col-sm-6'><H4>Breakdown of Item Types in Europeana</H4>This chart displays a breakdown of the types of digital objects in  Europeana between 2012 and 2015. 
+
+(Filter by year within the chart)<p></p><iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/vibsl/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe></div></div>
+<p><p/>
+<H4>Items Per Country in Europeana</H4>
+This chart displays a breakdown from which countries the digital objects in Europeana originate between  2012 and 2015. (Filter by year within the chart)
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/3yxw6/5/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""550""></iframe>
+
+
+
+
+
+ 
+
+
+  [1]: http://statistics.europeana.eu/contact    ","In this section of the dashboard you are able to explore the traffic and usage statistics for a selection of Europeana data providers. Individual reports have been generated for each provider and they are broken down by both year and quarter. These reports include key metrics on the size and composition of the collection provided, together with the number of pageviews for digital objects on the Europeana.eu website and the number click-throughs to the website of the provider. Reports also include top 25 countries based on the pageviews and a top 10 list of the most viewed digital objects in the collection. 
+
+If you are a data-provider and would like to see your statistics presented in this dashboard, please [**contact us**][1] and we will generate your report.
+
+<h4>Available Data Provider Reports:</h4>
+
+<div class='row'><div class='col-sm-12 grid-view-layout'><h3><p><p/>
+<a href=""http://statistics.europeana.eu/biblioteca-de-catalunya"">Biblioteca de Catalunya</a></h3></a><p><a href=""http://statistics.europeana.eu/biblioteca-de-catalunya"">The Library of Catalonia is a national library located in Barcelona, Spain. The mission of the Library of Catalonia is to collect, preserve, and spread Catalonian bibliographic production.</p></div></div>
+
+<div class='row'><div class='col-sm-12 grid-view-layout'><h3><p><p/><a href=""http://statistics.europeana.eu/national-library-of-france"">National Library of France</h3><p>The Bibliothèque nationale de France is the National Library of France, located in Paris. It is intended to be the repository of all that is published in France.</p></div></div>
+
+<div class='row'><div class='col-sm-12 grid-view-layout'><h3><p><p/><a href=""http://statistics.europeana.eu/imperial-war-museums"">Imperial War Museums</h3><p>Imperial War Museums was founded as the Imperial War Museum in 1917, the museum was intended to record the civil and military war effort and sacrifice of Britain and its Empire during the First World War.</p></div></div>
+
+<div class='row'><div class='col-sm-12 grid-view-layout'><h3><p><p/><a href=""http://statistics.europeana.eu/national-library-of-wales"">National Library of Wales</h3><p>The National Library of Wales is the national legal deposit library of Wales. The library houses over 4 million printed volumes, including many rare books such as the first book printed in Welsh.</p></div></div>
+
+<div class='row'><div class='col-sm-12 grid-view-layout'><h3><p><p/><a href=""http://statistics.europeana.eu/the-wellcome-library"">Wellcome Library</h3><p>The Wellcome Library is founded on the collection formed by Sir Henry Wellcome (1853–1936), whose personal wealth allowed him to create one of the most ambitious collections of the 20th century.</p></div></div>
+
+
+
+
+  [1]: http://statistics.europeana.eu/contact","This section of the dashboard visualises the main traffic dimensions of web traffic and usage on the Europeana.eu website in 2012. Social media and Wikipedia related statistics are also visualised to showcase the increased reach of data providers’ collections outside of the Europeana.eu website. 
+
+All charts show data from 2012 and many of them can be broken down by quarter. The data in this section is sourced from Google Analytics for traffic and Facebook Insights. **Unfortunately statistics related to Wikipedia, Pinterest and mobile traffic are not available prior to 2013.**
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'>
+<H4> Europeana.eu: Pageviews, Visits & Click-throughs</H4>
+The chart displays number of pageviews abd visits on the Europeana.eu website together with the number of times a user clicked through to the website of one of our partners between Q1 and Q4 of 2012. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/QoGO6/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+<h4>Europeana.eu: New vs. Returning Visits</h4>
+This chart displays the percentage of new and returning visits on the Europeana.eu website between Q1 and Q4 of 2012. 
+(Filter by quarter within the chart)
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/UR8c9/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+</div></div>
+
+<H4> Europeana.eu: Top 100 Countries</H4>
+This chart displays the top 100 countries based on the number of visits to the Europeana.eu website between Q1 and Q4 of 2012.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/H4NRg/1/"" frameborder=""0"" scrolling=""no"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""600""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+<h4>Europeana.eu: Traffic Sources</h4>
+
+This chart displays a breakdown of traffic sources based on the number of visits on the Europeana.eu website between Q1 and Q4 of 2012. 
+(Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/JBk3w/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Europeana.eu: Digital Object & Search Result Pageviews</h4>
+
+This chart displays number of pageviews for digital object and search result pages on the Europeana.eu website between Q1 and Q4 2012.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/MrOYb/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Europeana.eu: Search Usage</h4>
+
+This chart displays a number of visits during which at least one search occurred together with the number of unique times a search was performed on the Europeana.eu website between Q1 and Q4 of 2012.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/TbziT/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Facebook: Engaged Users</h4>
+
+This chart displays the number of unique users that engaged with collections published on the Europeana Facebook page between Q1 and Q4 of 2012.<p></p>
+
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/zepl2/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+<div class='row'><div class='col-sm-6'>
+
+
+</div>
+
+
+
+</div></div>
+
+<h4>Off-site reach: Impressions on Facebook </h4>
+This chart displays the number of impressions of cultural heritage collections on Facebook as a result of Europeana’s outreach activities between Q1 and Q4 of 2012.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/z7jym/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""450""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+
+
+
+
+
+  [1]: http://statistics.europeana.eu/contact","This section of the dashboard visualises the main traffic dimensions of web traffic and usage on the Europeana.eu website between 2012 and 2014. Social media and Wikipedia related statistics are also visualised to showcase the increased reach of data providers’ collections outside of the Europeana.eu website. 
+
+All charts are broken down by year to see how Europeana has evolved over time. The data in this section is sourced from Google Analytics for traffic, BaGLAMa for Wikipedia, Facebook Insights and Pinterest Analytics. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+
+<div class='row'><div class='col-sm-6'>
+<H4> Europeana.eu: Pageviews, Visits & Click-throughs</H4>
+The chart displays number of pageviews abd visits on the Europeana.eu website together with the number of times a user clicked through to the website of one of our partners between 2012 and 2014. (Filter by year within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/NAflW/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe></iframe></iframe>
+</div>
+
+<h4>Europeana.eu: New vs. Returning Visits</h4>
+This chart displays the percentage of new and returning visits on the Europeana.eu website between 2012 and 2014. 
+
+(Filter by year within the chart)
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/yRtdS/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+</div></div>
+
+<H4> Europeana.eu: Top 100 Countries</H4>
+This chart displays the top 100 countries based on the number of visits to the Europeana.eu website between 2012 and 2014.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/Cpg6V/2/"" frameborder=""0"" scrolling=""no"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""600""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+<h4>Europeana.eu: Traffic Sources</h4>
+
+This chart displays a breakdown of traffic sources based on the number of visits on the Europeana.eu website between 2012 and 2014. (Filter by year within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/m59r2/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+<h4>Europeana.eu: Digital Object & Search Result Pageviews</h4>
+
+This chart displays number of pageviews for digital object and search result pages on the Europeana.eu website between 2012 and 2014.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/QXmq0/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+<div class='row'><div class='col-sm-6'></div>
+
+
+
+
+</div></div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Europeana.eu: Tablet & Mobile Devices</h4>
+
+This chart displays a breakdown of visits to the Europeana.eu website that were from a desktop, tablet or mobile device between 2013 and 2014. (Filter by year within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/GdnX5/3/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+</div>
+
+<h4>Europeana.eu: Search Usage</h4>
+
+This chart displays a number of visits during which at least one search occurred together with the number of unique times a search was performed on the Europeana.eu website between 2012 and 2014.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/gFXqK/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+</div>
+
+</div></div>
+
+<h4>Off-site reach: Impressions on Wikipedia, Facebook & Pinterest</h4>
+This chart displays the number of impressions of cultural heritage collections on Wikipedia, Facebook and Pinterest as a result of Europeana’s outreach activities between 2012 and 2014. (No data for Wikipedia and Pinterest prior to 2013)
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/hKvz8/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""450""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Facebook: Engaged Users</h4>
+
+This chart displays the number of unique users that engaged with collections published on the Europeana Facebook page between 2012 and 2014.
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/RRWxI/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+</div><div class='col-sm-6'>
+
+<h4>Wikimedia & Wikipedia: Uploaded & Used Images</h4>
+
+This chart displays the number of cultural heritage images uploaded to Wikimedia together with how many images used in Wikipedia articles as a result of Europeana’s outreach activities between 2013 and 2014.
+<p><p/>
+
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/3dc8I/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""450"" height=""350""></iframe>
+
+</div></div>
+
+  [1]: http://statistics.europeana.eu/contact","The Statistics Dashboard is a new and evolving service and we are eager to hear your feedback. Please fill out the form below and indicate the nature of your enquiry. We will get back to you as soon as possible.
+
+<iframe height=""485"" allowTransparency=""true"" frameborder=""0"" scrolling=""no"" style=""width:100%;border:none""  src=""https://europeana.wufoo.com/embed/xvktja60hkcy0m/""><a href=""https://europeana.wufoo.com/forms/xvktja60hkcy0m/"">Fill out my Wufoo form!</a></iframe>","This section of the dashboard visualises the main traffic dimensions of web traffic and usage on the Europeana.eu website in 2013. Social media and Wikipedia related statistics are also visualised to showcase the increased reach of data providers’ collections outside of the Europeana.eu website. 
+
+All charts show data from 2013 and many of them can be broken down by quarter. The data in this section is sourced from Google Analytics for traffic, BaGLAMa for Wikipedia, Facebook Insights and Pinterest Analytics. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'>
+<H4> Europeana.eu: Pageviews, Visits & Click-throughs</H4>
+The chart displays number of pageviews abd visits on the Europeana.eu website together with the number of times a user clicked through to the website of one of our partners between Q1 and Q4 of 2013. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/HToqA/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></iframe></iframe>
+</div>
+
+<h4>Europeana.eu: New vs. Returning Visits</h4>
+This chart displays the percentage of new and returning visits on the Europeana.eu website between Q1 and Q4 of 2013. 
+
+(Filter by quarter within the chart)
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/0BgK4/2/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+</div></div>
+
+<H4> Europeana.eu: Top 100 Countries</H4>
+This chart displays the top 100 countries based on the number of visits to the Europeana.eu website between Q1 and Q4 of 2013.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/4AnOt/1/"" frameborder=""0"" scrolling=""no"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""600""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+<h4>Europeana.eu: Traffic Sources</h4>
+
+This chart displays a breakdown of traffic sources based on the number of visits on the Europeana.eu website between Q1 and Q4 of 2013. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/XOpc3/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+<h4>Europeana.eu: Digital Object & Search Result Pageviews</h4>
+
+This chart displays number of pageviews for digital object and search result pages on the Europeana.eu website between Q1 and Q4 2013.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/RnfqD/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+<div class='row'><div class='col-sm-6'></div>
+
+
+
+
+</div></div>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Europeana.eu: Tablet & Mobile Devices</h4>
+
+This chart displays a breakdown of visits to the Europeana.eu website that were from a desktop, tablet or mobile device between Q1 and Q4 of 2013. (Filter by quarter within the chart)
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/YyXdr/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+<h4>Europeana.eu: Search Usage</h4>
+
+This chart displays a number of visits during which at least one search occurred together with the number of unique times a search was performed on the Europeana.eu website between Q1 and Q4 of 2013.
+<p></p>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/Bh4WY/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+</div>
+
+</div></div>
+
+<h4>Off-site reach: Impressions on Wikipedia, Facebook & Pinterest</h4>
+This chart displays the number of impressions of cultural heritage collections on Wikipedia, Facebook and Pinterest as a result of Europeana’s outreach activities between Q1 and Q4 of 2013.
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/IqFGH/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""450""></iframe>
+
+<div class='row'><div class='col-sm-6'>
+
+<h4>Facebook: Engaged Users</h4>
+
+This chart displays the number of unique users that engaged with collections published on the Europeana Facebook page between Q1 and Q4 of 2013.
+<p><p/>
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/u89Nj/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+</div><div class='col-sm-6'>
+
+<h4>Wikimedia & Wikipedia: Uploaded & Used Images</h4>
+
+This chart displays the number of cultural heritage images uploaded to Wikimedia together with how many images used in Wikipedia articles as a result of Europeana’s outreach activities between Q2 and Q4 of 2013.
+<p><p/>
+
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/vmqy5/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe>
+
+</div></div>
+
+[1]: http://statistics.europeana.eu/contact","<H4>Please note that this dashboard is currently in an alpha phase of development, therefore you may encounter a number of issues when testing this service. During this alpha phase we are eager to hear [your feedback][1].</H4>
+
+Welcome to the Europeana Statistics Dashboard; a dynamic space where we crunch and visualise the key metrics coming out of [**Europeana**][2]. We invite you to explore, interact and re-use the visualisations in this dashboard which are ordered into the following three categories; Content, Traffic & Usage, and Data Providers. The [**Content**][3] section visualises statistics related to the number of digital objects available in the Europeana repository. The [**Traffic & Usage**][4] section visualises statistics related to web traffic on the Europeana.eu website together with statistics related to Europeana’s reach on social media and Wikipedia. And finally the [**Data Providers**][5] section visualises statistics related to traffic and usage on the Europeana.eu website for a number of data providers.
+
+<H3>Increasing the Reach of Cultural Collections</H3>
+This chart displays the number of pageviews on Europeana's end-user websites (E*uropeana.eu, Exhibitions, Blog, Europeana 1914-1918 and Europeana 1989*) together with the number of impressions generated on social media and Wikipedia since 2011. 
+Impressions on social media where generated using data providers' collections on Facebook and Pinterest via Europeana.eu, Europeana 1989 and Europeana 1914-1918 profiles. While impressions on Wikipedia are based on the total number of views of Wikipedia articles that include images uploaded to Wikimedia Commons that are directly related to Europeana, or related to Europeana’s outreach activities with the Wiki community. Explore more statistics related to social media and Wikipedia in [**Traffic & Usage**][6] section of this dashboard.
+
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/DCqc2/15/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""600""></iframe>
+
+
+  [1]: http://statistics.europeana.eu/contact
+  [2]: http://pro.europeana.eu/about
+  [3]: http://statistics.europeana.eu/content
+  [4]: http://statistics.europeana.eu/traffic-usage
+  [5]: http://statistics.europeana.eu/data-providers
+  [6]: http://statistics.europeana.eu/traffic-usage","This section of the dashboard visualises various aspects of the digital objects available in the Europeana repository during 2012. Charts display the re-use status of the digital objects, the types of digital objects available, together with a breakdown from which countries the digital objects originate. All visualisations are broken down by quarter to see how Europeana has grown and evolved over time. Every month the Europeana aggregation team publishes new collections and updates to the Europeana repository from hundreds of institutions. 
+
+This entire article along with all individual charts is embeddable. Also the data from each visualisation is downloadable in CSV format. We encourage you to use these charts and data in your own research and reporting. If you would like more detailed statistics, please [**contact us**][1] and we will be more than happy to provide you with more information.
+
+<div class='row'><div class='col-sm-6'><H4>Total Items in Europeana & Re-use Status</H4>This chart displays the total number of digital objects in Europeana by re-use status between Q1 and Q4 of 2012. (Filter by quarter within the chart)
+<br><br/> 
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/vMpSi/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></iframe></div><div class='col-sm-6'><H4>Breakdown of Item Types in Europeana</H4>This chart displays a breakdown of the types of digital objects in  Europeana between Q1 and Q4 of 2012. (Filter by quarter within the chart)<p></p><iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/z1kd4/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""550"" height=""350""></iframe></div></div>
+
+<H4>Items Per Country in Europeana</H4>
+This chart displays a breakdown from which countries the digital objects in Europeana originate between Q1 and Q4 of 2012. (Filter by quarter within the chart)
+<iframe src=""//dw-europeana.s3-website-us-west-2.amazonaws.com/sAelb/1/"" frameborder=""0"" allowtransparency=""true"" allowfullscreen=""allowfullscreen"" webkitallowfullscreen=""webkitallowfullscreen"" mozallowfullscreen=""mozallowfullscreen"" oallowfullscreen=""oallowfullscreen"" msallowfullscreen=""msallowfullscreen"" width=""100%"" height=""550""></iframe>
+
+  [1]: http://statistics.europeana.eu/contact
+
+
+
+ ","Welcome to the Europeana Statistics Dashboard.
+  ----------------------------------------
+
+  Europeana helps cultural institutions across Europe to share their digital collections with a wider audience. We collect data from thousands of institutions from all European countries.
+
+  The Europeana Statistics Dashboard provides all our data partners with information about how audiences use the material available through Europeana Collections. This insight into how collections are used is essential for cultural heritage institutions and helps them to make the most of their collaboration with Europeana.
+
+  As well as information about the entirety of Europeana Collections, each institution, aggregator and country can see how many times their collections have been viewed, what the most popular items are, what  copyright statuses are being used and much more. Use the top navigation to browse or to find your own personal dashboard.
+","**Q. What does the Statistics Dashboard show?**
+
+Each Dashboard shows a range of information that we think every data partner will be interested in. For example, you can find out how many items are in each collection, how many views they’re receiving and where in the world your top audiences are. There’s also information about your best performing items and the copyright statuses of your collection items.
+
+**Q. How do you get the traffic data for my specific institution/aggregator/country?**
+
+We use a combination of the Europeana API and Google Analytics API.
+
+In Europeana,the dataset number is always present in the url of a record - Google Analytics counts how many times this specific url is viewed.
+
+For institution or country statistics, the Dashboard queries a specific data partner or country name in the Europeana API and looks for all associated dataset numbers. These are then combined in a filter and put through Google Analytics.
+
+**Q. Can I look at statistics before 2013?**
+
+No. At the end of 2012 Europeana started tracking the traffic using Google Analytics
+
+**Q. Why can’t I can’t find my dashboard?**
+
+A: The most common explanation is that your collection is part of one dataset to which  multiple institutions contributed. We can only extract statistics for whole datasets - we can’t filter out material from one institution if it’s part of a bigger set. Please get in touch if you want to provide a new dataset containing only your collection.
+
+**Q I don’t want my dashboard to be public**
+
+If you are uncomfortable with the statistics data of your institution being public we can remove the dashboard for you.
+
+**Q. Why are there multiple dashboards for my institution?**
+
+This is because your institution has contributed to  Europeana multiple times under different names. Some institutions take different routes into Europeana and provide different datasets each time. If the name of the institution is not used consistently , then multiple identifiers are created. A common example is when an institution adds an article to their name e.g. contributing as  ‘The national library of ABC’ and ‘National library of ABC’ on different occasions. Please get in touch if you want to solve this issue.
+
+**Q. Are you going to further develop the dashboard?**
+
+Yes. On the 6th of April 2016, we launched the first public beta version of the dashboard. We are now collecting feedback for the second version. We will look into improving the data and charts, and adding new charts. You can provide your own feedback by getting in touch.
+
+**Q. My question is not answered**
+
+Then please get in touch. We expect quite some traffic in the first phase of the dashboard so please allow a couple of days before we get back to you.
+  "

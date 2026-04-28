@@ -1,0 +1,4 @@
+FMP_FOL_B_focal_AnimID,FMP_FOL_date,FMP_community_id,FMP_meters_to_next_seq_num,FMP_seq_num,FMP_xcoord,FMP_xcoord_old,FMP_ycoord,FMP_ycoord_old
+FMP_FOL_B_focal_AnimID,FMP_FOL_date,FMP_community_id,FMP_meters_to_next_seq_num,FMP_seq_num,FMP_xcoord,FMP_xcoord_old,FMP_ycoord,FMP_ycoord_old
+string,string,string,integer,integer,integer,integer,integer,integer
+[],[],[],[],[],[],[],[],[]

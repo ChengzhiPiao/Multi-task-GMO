@@ -1,0 +1,4 @@
+Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Draw}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals For}},{{Tooltip|GA|Goals Against}},{{Tooltip|GD|Goal Difference}},{{Tooltip|Pts|Points}}
+{{fbu|21|ISR}},2,1,1,0,3,2,+1,4
+{{fbu|21|TUR}},2,0,2,0,0,0,0,2
+{{fbu|21|WAL}},2,0,1,1,2,3,&minus;1,1

@@ -1,0 +1,8 @@
+1,2,3,4,5,6,7,8,9,10
+1.0,1.0,1.0,1.0,5.0,5.0,7.0,7.0,,10.0
+grn:/ms/ei/aquilon,grn:/ms/ei/aquilon/aqd,grn:/ms/ei/aquilon/unittest,grn:/ms/ei/aquilon/ut2,grn:/example,grn:/example/cards,grn:/ms/windows,grn:/ms/windows/desktop,,grn:/ms/et/aquilon
+domain,system,system,system,domain,system,domain,domain,unknown,domain
+Aquilon,aqd,Unit test,Unit test 2,Example,Cards,Windows,Windows,Unknown entry,ET Aquilon
+0,0,0,0,0,0,0,0,0,0
+Production,Production,Production,Production,Production,Production,Production,Production,Evaluation,Production
+0,1,1,1,0,1,0,1,0,1

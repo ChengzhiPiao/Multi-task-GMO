@@ -1,0 +1,9 @@
+Team,{{fb|URU}},{{fb|ARG}},{{fb|ECU}},{{fb|COL}},{{fb|PER}},{{fb|CHI}},{{fb|VEN}},{{fb|PAR}},{{fb|BOL}}
+{{Tooltip|Pld|Played}},3,3,2,2,2,3,3,3,3
+{{Tooltip|W|Won}},2,1,1,1,1,1,1,1,0
+{{Tooltip|D|Drawn}},1,1,0,1,0,0,1,1,1
+{{Tooltip|L|Lost}},0,1,1,0,1,2,1,1,2
+{{Tooltip|GF|Goals for}},9,5,3,3,4,5,2,3,4
+{{Tooltip|GA|Goals against}},3,3,2,2,4,10,3,4,7
+{{Tooltip|GD|Goal difference}},+6,+2,+1,+1,0,−5,−1,−1,−3
+{{Tooltip|Pts|Points}},7,4,3,4,3,3,3,4,1

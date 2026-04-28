@@ -1,0 +1,4 @@
+1,11,2,12,3,13,4,14,5,15,6,16,7,17,8,18,9,19,10,20
+1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10
+GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID,GroupID,LocationID
+2,far,3,near,4,near,8,near,6,far,1,far,6,near,3,near,7,near,0,far

@@ -1,0 +1,6 @@
+Player,{{tooltip|GP|Games played}},{{tooltip|GW|Games won}},{{tooltip|GL|Games lost}},{{tooltip|PCT|Winning percentage}},{{tooltip|A|Aces}},{{tooltip|DF|Double faults}},{{tooltip|BPW|Break points won}},{{tooltip|BPP|Break points played}},{{tooltip|BP%|Break-point percentage}},{{tooltip|3APW|3-all points won}},{{tooltip|3APP|3-all points played}},{{tooltip|3AP%|3-all points percentage}}
+Somdev Devvarman,86,47,39,.547,6,3,11,27,.407,15,26,.577
+Raven Klaasen,86,47,39,.547,3,8,11,27,.407,15,26,.577
+Bob Bryan,19,15,4,.789,1,0,4,12,.333,4,7,.571
+Mike Bryan,19,15,4,.789,0,0,4,12,.333,4,7,.571
+Total,105,62,43,.590,10,11,15,39,.385,19,33,.576

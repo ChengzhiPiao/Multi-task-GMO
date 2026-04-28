@@ -1,0 +1,5 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|BRA}},3,2,1,0,8,2,+6,7
+2,{{fbw|NOR}},3,2,0,1,10,5,+5,6
+3,{{fbw|FRA}},3,1,1,1,2,3,−1,4
+4,{{fbw|KOR|1997}},3,0,0,3,1,11,−10,0

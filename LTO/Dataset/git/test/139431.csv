@@ -1,0 +1,8 @@
+property_object_type_employee,property.object_type - employee,model_property_object_type,base.group_user,1,1,1,1
+property_object_type_all,property.object_type - all,model_property_object_type,,1,0,0,0
+property_object_employee,property.object - employee,model_property_object,base.group_user,1,1,1,1
+property_object_all,property.object - all,model_property_object,,0,0,0,0
+property_tenacy_status_employee,property.tenacy_status - employee,model_property_tenacy_status,base.group_user,1,1,1,1
+property_tenacy_status_all,property.tenacy_status - all,model_property_tenacy_status,,1,0,0,0
+property_availability_status_employee,property.availability_status - employee,model_property_availability_status,base.group_user,1,1,1,1
+property_availability_status_all,property.availability_status - all,model_property_availability_status,,1,0,0,0

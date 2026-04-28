@@ -1,0 +1,8 @@
+0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,2
+"ps1.v1 <- subset_samples(ps1, VisitCode == 1000)",#Remove taxa not associated with any samples anymore,"ps1.v1 <- prune_taxa(taxa_sums(ps1.v1) > 0, ps1.v1)",ps1.v1,phyloseq-class experiment-level object,"
+",otu_table()   OTU Table:         [ 1336 taxa and 242 samples ],"
+",sample_data() Sample Data:       [ 242 samples by 79 sample variables ],"
+",tax_table()   Taxonomy Table:    [ 1336 taxa by 7 taxonomic ranks ],"
+",phy_tree()    Phylogenetic Tree: [ 1336 tips and 1334 internal nodes ],"
+",## Sequencing depth summary,"dt.ps1.v1.sample_data = cbind(as(sample_data(ps1.v1), ""data.frame""),",                          TotalReads = sample_sums(ps1.v1)) ##Total reads is sequence depth,"#setnames(dt.ps1.v1.sample_data, ""rn"", ""SampleID"") #Only creates a duplicate first column Sample ID so commented out.","#dt.ps1.v1.sample_data <- dt.ps1.v1.sample_data[, -1] #Drop the first column as is a duplicate of sample ID",#View(dt.ps0.sample_data),"gg.SeqDepth = ggplot(dt.ps1.v1.sample_data, aes(TotalReads)) + geom_histogram() + ggtitle(""Sequencing Depth"")",ggplotly(gg.SeqDepth),"`stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
+"

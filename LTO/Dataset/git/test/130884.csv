@@ -1,0 +1,4 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+FriendlyName,LogoRevision,UseLogoImage,LogoText,MinimumOrderAmount,UseCustomMailServer,ProductReviewCount,ProductReviewModerate,AllowProductReviews,PaypalCurrency,MaxItemsPerOrder,MaxWeightPerOrder,FromEmail,EmailForGeneral,EmailForNewOrder,SkipSetupWizard,ForceAdminSSL,TimeZone,CultureCode,PageCategoryTabId,PageProductTabId,PageCheckoutTabId,PageProductReviewTabId,PageSearchTabId,PageCartTabId,PageWishListTabId,PageOrderHistoryTabId,PageAddressBookTabId,PaymentMethodsEnabled,HandlingAmount,HandlingType,HandlingNonShipping,ApplyVATRules
+My Hotcakes Store,0,1,My Hotcakes Store,0,0,3,1,1,USD,999,9999,host@change.me,host@change.me,host@change.me,1,0,Eastern Standard Time,en-US,,,,,,,,,,"4A807645-4B9D-43f1-BC07-9F233B4E713C,EE171EFD-9E4A-4eda-AD70-4CB99F28E06C",0.00,0,0,0

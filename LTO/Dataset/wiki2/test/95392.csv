@@ -1,0 +1,5 @@
+{{Tooltip|Pos| Final position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| Pts | Points}},{{Tooltip| DPT | Decisive points total }}
+1,Basel,4,2,0,2,7,5,4,11
+2,Lugano,4,1,1,2,5,9,3,8
+3,Lausanne Sports,4,1,1,2,4,5,3,7
+4,Winterthur,4,0,1,3,4,12,1,5

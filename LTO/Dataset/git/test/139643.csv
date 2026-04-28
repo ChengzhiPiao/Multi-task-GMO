@@ -1,0 +1,9 @@
+ceph.commit_latency_ms,ceph.apply_latency_ms,ceph.op_per_sec,ceph.read_bytes_sec,ceph.write_bytes_sec,ceph.num_osds,ceph.num_in_osds,ceph.num_up_osds,ceph.num_pgs,ceph.num_mons,ceph.aggregate_pct_used,ceph.total_objects,ceph.num_objects,ceph.read_bytes,ceph.write_bytes,ceph.num_pools,ceph.pgstate.active_clean,ceph.read_op_per_sec,ceph.write_op_per_sec,ceph.num_near_full_osds,ceph.num_full_osds,ceph.osd.pct_used
+gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,gauge,rate,rate,gauge,gauge,gauge,gauge,gauge,gauge,gauge
+,,,,,,,,,,,,,,,,,,,,,
+millisecond,millisecond,operation,byte,byte,item,item,item,item,item,percent,item,item,byte,byte,item,item,operation,operation,item,item,percent
+,,second,,,,,,,,,,,,,,,second,second,,,
+Time taken to commit an operation to the journal,Time taken to flush an update to disks,IO operations per second for given pool,Bytes/second being read,Bytes/second being written,Number of known storage daemons,Number of participating storage daemons,Number of online storage daemons,Number of placement groups available,Number of monitor daemons,Overall capacity usage metric,Object count from the underlying object store,Object count for a given pool,Per-pool read bytes,Per-pool write bytes,Number of pools,Number of active+clean placement groups,Per-pool read operations/second,Per-pool write operations/second,Number of nearly full osds,Number of full osds,Percentage used of full/near full osds
+-1,-1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,0,0,-1,-1,-1
+ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph,ceph
+commit lat,apply lat,op per sec,read bytes,write bytes,num osds,in osds,up osds,num pgs,num mons,pct used,objects,pool objects,pool read,pool write,num pools,active_clean pgs,reads per sec,writes per sec,near full osds,full osds,osd pct used

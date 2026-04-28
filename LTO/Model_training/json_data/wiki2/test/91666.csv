@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goals difference}},{{Tooltip| Pts | Points}}
+{{fbw|USA}},3,2,0,1,4,3,+1,6
+{{fbw|CHN}},3,1,2,0,3,1,+2,5
+{{fbw|GER}},3,0,2,1,2,3,&minus;1,2
+{{fbw|NOR}},3,0,2,1,4,6,&minus;2,2

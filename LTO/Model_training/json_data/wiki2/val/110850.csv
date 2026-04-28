@@ -1,0 +1,9 @@
+Implementation,Botan,Bouncy Castle,cryptlib,Crypto++,Libgcrypt,libsodium,Nettle,OpenSSL,wolfCrypt
+NIST,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}}
+SECG,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{No}}
+ECC Brainpool,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{No}}
+ECDSA,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}
+ECDH,{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}}
+Curve25519,{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}}
+EdDSA,{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{Yes}},{{No}},{{Yes}},{{Yes}}
+GOST R 34.10,{{Yes}},{{Yes}},{{No}},{{No}},{{Yes}},{{No}},{{No}},{{Yes}},{{No}}

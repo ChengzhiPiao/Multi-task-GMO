@@ -1,0 +1,8 @@
+Amount,,max memory {{equals}} 256 GiB,max memory {{equals}} 128 GiB,64 GiB &le; max memory &lt; 128 GiB,32 GiB &le; max memory &lt; 64 GiB,16 GiB &le; max memory &lt; 32 GiB,8 GiB &le; max memory &lt; 16 GiB,4 GiB &le; max memory &lt; 8 GiB,2 GiB &le; max memory &lt; 4 GiB,1 GiB &le; max memory &lt; 2 GiB,max memory &lt; 1 GiB
+DDR5,Not yet,{{operational|256 GiB (4 slots)}},{{unofficial|128 GiB}},{{unofficial2| }},{{success| }},{{optional| }},{{safe| }},{{okay| }},{{partial| }},{{partial failure| }},{{no2| }}
+DDR4,2014,{{BLACK}},{{unofficial2|128 GiB (4 slots)}},{{success|64GiB}},{{optional| }},{{safe| }},{{okay| }},{{partial| }},{{partial failure| }},{{no2| }},{{failure| }}
+DDR3L,2010,{{BLACK}},{{BLACK}},{{optional|64 GiB (4 slots)}},{{safe|32 GiB}},{{okay| }},{{partial| }},{{partial failure| }},{{no2| }},{{failure| }},{{no| }}
+DDR3,2007,{{BLACK}},{{BLACK}},{{BLACK}},{{safe|32 GiB (4 slots)}},{{okay|16 GiB}},{{partial| }},{{partial failure| }},{{no2| }},{{failure| }},{{no| }}
+DDR2,2003,{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{partial|16 GiB (4 slots)}},{{partial failure|8GiB}},{{no2| }},{{failure| }},{{no| }},{{lost| }}
+DDR,1998,{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{no2|8 GiB (4 slots)}},{{failure|4 GiB}},{{no| }},{{lost| }},
+SDR,1993,{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{BLACK}},{{no|4 GiB (4 slots)}},{{lost| 2 GiB}},,

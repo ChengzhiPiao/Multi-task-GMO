@@ -1,0 +1,8 @@
+access_hr_employee_category_user,access_hr_employee_category_emp,access_hr_employee_user,access_hr_employee_system_user,access_hr_employee_resource_user,access_hr_department_user,access_hr_department_employee,access_hr_job_user,access_ir_property_hr_user
+hr.employee.category.user,hr.employee.category.emp,hr.employee user,hr.employee system user,resource.resource.user,hr.department.user,hr.department.employee,hr.job user,ir_property hr_user
+model_hr_employee_category,model_hr_employee_category,model_hr_employee,model_hr_employee,resource.model_resource_resource,model_hr_department,model_hr_department,model_hr_job,base.model_ir_property
+group_hr_user,base.group_user,group_hr_user,base.group_user,group_hr_user,group_hr_user,base.group_user,group_hr_user,group_hr_user
+1,1,1,1,1,1,1,1,1
+1,0,1,0,1,1,0,1,1
+1,0,1,0,1,1,0,1,1
+1,0,1,0,1,1,0,1,0

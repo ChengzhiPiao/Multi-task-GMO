@@ -1,0 +1,7 @@
+Site,Baikonur,Cape Canaveral,Jiuquan,Kennedy,Kwajalein Atoll,Kourou,MARS,Ocean Odyssey,Naro,Plesetsk,Satish Dhawan,Semnan,Taiyuan,Tanegashima,Tonghae,Vandenberg,Xichang
+Country,{{KAZ}},{{USA}},{{PRC}},{{USA}},{{MHL}},{{FRA}},{{USA}},{{flagicon|UN}} International,{{KOR}},{{RUS}},{{IND}},{{IRN}},{{PRC}},{{JPN}},{{PRK}},{{USA}},{{PRC}}
+Launches,24,11,2,5,1,7,1,1,1,8,2,1,2,3,1,6,2
+Successes,24,11,2,5,1,7,1,1,0,7,2,1,2,3,0,5,1
+Failures,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0
+Partial failures,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Remarks,,,,,,,,,First launch,,,,,,,,

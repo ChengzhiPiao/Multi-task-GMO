@@ -1,0 +1,13 @@
+,,Bilabial,Bilabial,"Labio-
+dental",Alveolar,Alveolar,Postalveolar,Postalveolar,Palatal,Velar,Velar,Glottal
+,,plain,prenasalized,"Labio-
+dental",plain,prenasalized,plain,prenasalized,Palatal,plain,prenasalized,Glottal
+Stop,voiceless,{{IPA link|p}},,,{{IPA link|t}},,,,,,,{{IPA link|ʔ}}
+Stop,voiced,{{IPA link|b}},{{sup|[[prenasalize|m]]}}{{IPA link|b}},,{{IPA link|d}},{{sup|[[prenasalize|n]]}}{{IPA link|d}},,,,,{{sup|[[prenasalize|ŋ]]}}{{IPA link|ɡ}},
+Affricate,voiceless,,,,,,{{IPA link|t͡ʃ}},,,,,
+Affricate,voiced,,,,,,{{IPA link|d͡ʒ}},{{sup|[[prenasalize|n]]}}{{IPA link|d͡ʒ}},,,,
+Fricative,voiceless,{{IPA link|ɸ}},,,,,,,,,,
+Fricative,voiced,{{IPA link|β}},,{{IPA link|v}},,,,,,,,
+Nasal,Nasal,{{IPA link|m}},,,{{IPA link|n}},,,,{{IPA link|ɲ}},,,
+Approximant,Approximant,,,,,,,,{{IPA link|j}},{{IPA link|w}},,
+Flap,Flap,,,,{{IPA link|ɾ}},,,,,,,

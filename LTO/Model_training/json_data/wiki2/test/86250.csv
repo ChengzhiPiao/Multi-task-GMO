@@ -1,0 +1,18 @@
+SPECIFICATION,SPECIFICATION,SPECIFICATION,SPECIFICATION,SPECIFICATION,"Measure
+unit","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)","POPULATION
+(by age group in 2002)"
+SPECIFICATION,SPECIFICATION,SPECIFICATION,SPECIFICATION,SPECIFICATION,"Measure
+unit",TOTAL,0-9,10-19,20-29,30-39,40-49,50-59
+I.,TOTAL,TOTAL,TOTAL,TOTAL,person,166,20,25,24,17,18,18
+I.,—,of which in,of which in,of which in,%,100,12,15.1,14.5,10.2,10.8,10.8
+I.,1.,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX,BY SEX
+I.,1.,A.,Males,Males,person,87,7,12,14,9,11,9
+I.,1.,A.,—,of which in,%,52.4,4.2,7.2,8.4,5.4,6.6,5.4
+I.,1.,B.,Females,Females,person,79,13,13,10,8,7,9
+I.,1.,B.,—,of which in,%,47.6,7.8,7.8,6,4.8,4.2,5.4

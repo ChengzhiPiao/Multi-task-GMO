@@ -1,0 +1,7 @@
+13,9,4,3,14,5,10,17,18,6,12,7,15,11,1,2,8,16
+AcreFeet,BuildingCode,Count,ForkLength,MinutesPumping,OrganismCode,PrimaryBypass,PrimaryDepth,PrimaryFlow,SampleDate,SampleMethod,SampleTime,SampleTimeLength,SecondaryDepth,Sex,StudyCode,UserName,WaterTemperature
+,,01/01/80 00:00:00,01/01/80 00:00:00,,01/01/80 00:00:00,,,,01/01/80 00:00:00,,01/01/80 00:00:00,,,01/01/80 00:00:00,01/01/80 00:00:00,01/01/80 00:00:00,
+,,,,,,,,,,,,,,,,,
+feet,,Individuals,Millimeter,minutes,,bypass,feet,cfs,Gregorian calendar days,,Pacific daylight saving time,minutes,feet,,,,farenheit
+0.0,,0.0,0.0,0.0,,0.0,1.0,1.0,,,0.0,0.0,1.0,,,,1.0
+,BuildingsLookUp,,,,OrganismsLookUp,,,,,SampleMethodList,,,,SexList,StudiesLookUp,,

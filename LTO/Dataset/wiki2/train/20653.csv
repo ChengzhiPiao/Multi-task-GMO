@@ -1,0 +1,4 @@
+Rectified 221 polytope,Type,Schläfli symbol,Coxeter symbol,Coxeter-Dynkin diagram,5-faces,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter group,Properties
+Rectified 221 polytope,Uniform 6-polytope,"t1{3,3,32,1}",t1(221),{{CDD|nodea|3a|nodea_1|3a|branch|3a|nodea|3a|nodea}} or {{CDD|nodes|3ab|nodes_10lru|split2|node|3|node}},"126 total: 72 t1{34} File:5-simplex t1.svg
+27 t1{33,4} File:5-cube t3.svg
+27 t1{3,32,1} File:5-demicube t0 D5.svg",1350,4320,5040,2160,216,rectified 5-cell prism,"E6, [32,2,1], order 51840",convex

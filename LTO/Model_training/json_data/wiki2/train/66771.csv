@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Amazonas}} Manaus,6,4,0,2,14,8,+6,12
+2,{{flagicon|Acre}} Rio Branco,6,3,2,1,13,7,+6,11
+3,{{flagicon|Amapá}} Macapá,6,2,0,4,7,16,−9,6
+4,{{flagicon|Roraima}} Baré,6,1,2,3,5,8,−3,5

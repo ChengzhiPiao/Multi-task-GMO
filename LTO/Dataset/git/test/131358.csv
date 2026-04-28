@@ -1,0 +1,3 @@
+accountant_report_qc_question_employee,accountant.report_qc_question - All,model_accountant_report_qc_question,base.group_user,1,1,1,1
+accountant_service_qc_question_employee,accountant.service_qc_question - All,model_accountant_service_qc_question,base.group_user,1,1,1,1
+accountant_service_qc_question_value_employee,accountant.service_qc_question_value - All,model_accountant_service_qc_question_value,base.group_user,1,1,1,1

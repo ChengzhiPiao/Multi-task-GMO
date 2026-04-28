@@ -1,0 +1,4 @@
+{{Tooltip|Pos|Position}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+1,{{fbw|AUS}},3,2,0,1,4,3,1,4
+2,{{fbw|NED}},3,1,1,1,4,2,2,3
+3,{{fbw|TCH}},3,1,1,1,2,2,0,3

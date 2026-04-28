@@ -1,0 +1,138 @@
+7,15,8,6,22,2,9,18,13,5,23,16,1,3,4,26,20,14,17,37,25,39,31,10,33,72,67,24,66,75,21,73,64,74,29,76,69,35,30,34,32,70,79,78,68,59
+APIs and Bulk Data Access,Digital deposit of govt information to libraries,Open Government Data Principles,Metadata Standards,"Use tools like Apture to make documents, bills, House/Senate speeches, more accessible from every .g",Ethics Information,Electronic Records Management,Public Participation Principles,Posts Public Comments Submitted to Regulations.Gov Automatically,Electronic Reporting Systems,Require open access for publicly-funded research,Publication of bills before Congress pending passage 2 weeks before final vote,Information Audit,Procedural Information,End Paper-based Processes,America's Operating System,"Open Access to Internet lines, cables, wires... etc",Provide Internet Access with Unemployment Benefits,A simple listing please,Revision histories for bills in Congress,Public accountability and success metrics for all federal spending,Bills should only act within their subject,Mandate registration of any party who meets with governement employees or representives,Web Use as Strategic Asset,Create a Twitter stream of all votes in Congress,Amend the National Bank Act to Prevent Housing Bubbles,Comprehensive Lobby Tracking System,"Wiki-review of Obama's ""Open Govt. Directive""",Press Conferences ,"Public Polling, Surveying and Lobbying Tools",Savings Bond Program for Rebuilding America,Don't hide socialized medicine inside a budget amendment,EAR Marks & Pork,Bank Robberies,Create a Twitter stream of all expenditures,"Track who answers questions, and who dodges them",User Interface: This Is NOT A Video Game...,Voter digg,Create a Twitter stream of all lobbyist meeting,Create a Twitter stream of all Federal court judgments,Create a Twitter stream of all Congressional meetings,Mortgage assistance,User tool to track personal media conspumption habits & ownership of said outlets,Citizens' Elections Security Tracking Tool & Restoration Forum,I am so angry...,Observe Privacy Act of 1974
+Application Programming Interfaces (APIs) and bulk data access must be implemented for government datasets.,"the Federal Depository Library Program (FDLP) is a network of 1250 libraries around the country that have been successfully giving access to and preserving government publications for over 150 years. Digital deposit of govt information continues this successful distributed preservation and access model in the digital age. Digital deposit is recession insurance for continued free and open access to government information! For more, see http://freegovinfo.info/taxonomy/term/3","The eight Open Government Data Principles should be implemented, making all government data: complete, primary, timely, accessible, machine processable, non-discriminatory, non-proprietary, and license-free. (see: http://resource.org/8_principles.html)","Government should develop coordinated metadata standards, to allow for interoperability.","Beyond opening up more APIs to just make the information ""available"" by building an API, which is like building a library that only some small # of people will visit -- how about bringing those APIs and that information right to users using contextual presentation tools like Apture, so wherever people go on the web, bills, financial disclosures, videos of speeches from Congress, and even the iCal calendar ics data for the public meetings of every major figure of government should be available contextually anywhere they are mentioned on the web. 
+
+See this example of how this could work, click the iconic links on these pages:
+http://sandbox.apture.com/linkproxy/iKWeyCf3/
+
+http://www.washingtonpost.com/wp-dyn/content/article/2008/11/30/AR2008113001903.html
+
+http://www.washingtonpost.com/wp-dyn/content/article/2009/02/07/AR2009020701189.html
+
+Disclaimer: I am an Apture Co-founder, but the reason we're building these tools is so you can link to those specific moments of C-SPAN speeches, the specific buried page of a document, or someone's recorded meeting with someone else.  I think these tools could offer a totally new level of transparency in government which would be really exciting.
+
+Tristan Harris
+(Disclaimer: Apture Co-Founder)","Information pertaining to ethics should be given high priority for publication, including campaign contributions, earmarks, lobbying records, personal financial disclosure statements, oversight information, and ethics waivers.",Standards and effective enforcement must be developed to govern electronic records management throughout the life cycle of government records. See: http://bit.ly/LLA49,"When engaging in public participation efforts, government should adhere to the seven Core Values for the Practice of Public Participation as outlined by the International Association for Public Participation (IAP2):
+
+1. Public participation is based on the belief that those who are affected by a decision have a right to be involved in the decision-making process.
+
+2. Public participation includes the promise that the public's contribution will influence the decision.
+
+3. Public participation promotes sustainable decisions by recognizing and communicating the needs and interests of all participants, including decision makers.
+
+4. Public participation seeks out and facilitates the involvement of those potentially affected by or interested in a decision.
+
+5. Public participation seeks input from participants in designing how they participate.
+
+6. Public participation provides participants with the information they need to participate in a meaningful way.
+
+7. Public participation communicates to participants how their input affected the decision.
+
+http://iap2.org/displaycommon.cfm?an=4
+","All public comments submitted in an attempt to influence the outcome of Federal rulemaking processes must be made available online immediately upon submission for all to see. This was promised, but not delivered by the prior administration.","Electronic reporting systems should be devised for all filings, and the information collected should be fed directly into online databases.
+","Require open access to the results of non-classified research funded by taxpayers. Extend the exemplary policy now in place at the NIH to all federal agencies.
+
+Oppose HR 801, which would overturn the NIH policy.","The public should be able to view and discuss pending legislation so that they have ample time to study and discuss in public forums the implications of said legislation and in turn, contact representatives to voice their approval and/or concerns before final passage","Agencies should undertake a comprehensive audit of their information, and the processes they use to collect it.","Agencies should create real-time access to procedural information that allows for participation in government affairs, including schedules, transcripts or webcasts of meetings, and dockets and other official documentation -- the same information that lobbyists and agency employees rely on to participate in governance.",Paper-based governmental processes should be digitized.,"The primary legal materials of the United States Government must be available more widely for use without restriction if we are to be a nation ruled by laws, not by men.  The executive branch should work with all 3 branches of government to place all primary legal materials on-line to promote democracy and innovation in our legal system.","Then, in March 2002, the FCC issued a ruling declaring Internet service through a cable modem is an ""information service,"" not a ""telecommunications service,"" and therefore is not subject to open access requirements. The ruling allows cable companies to lock out rival ISPs and maintain local monopolies over broadband cable internet service. On June 27, 2005, the U.S. Supreme Court upheld the FCC's ruling in FCC v. Brand X.
+
+Open it up , open up competition","How is this recovery going to be different from 1930's?
+
+Unemployment benefits should be bundled with Internet access.  It is part of the investment in the transitioning worker. It is a critical part of the modern ""safety net"". It will create jobs.
+
+Why should we do this?
+
+    * People need to job hunt.
+    * the unemployed need to interact with government agencies and services and online access would reduce government servicing costs.
+    * It would help nonprofits and food banks squeeze more efficiency in the way the coordinate delivery of services and assessing needs. 
+    * It would create an intensive online training program (from basic computer skills (how to email, network and search) to all the free and more advanced training online.
+    * employees could stay in touch with previous coworkers (DHL alumni group on Linked-in) and family at reduced costs.
+    * it would up our workforces competitiveness and prepare the unemployed to collaborate on projects for new jobs.
+    * the new free web services (gmail,google docs, skype, etc.) enable productivity in the cloud. so event thee $39 computer or the web books would meet basic needs.
+    * it would open up lots of new self-organizing (laidoffcamp.org) and new business start up. 
+    * It is important for the families that are trying to figure out housing availability, stay connected with schools and teachers.
+    * the unemployed on the program (using the govt access pages) could be asked to review elements of the recovery activity, congressional budgets, state budgets, etc.(would probably find enough mistakes to pay for the whole program)
+    * when companies want to rehire or pull from their former workforce they could easily reactivate the latent parts of our workforce.
+    * Emotional support, entertainment, etc.
+    * They could cut off other services (like cable and phone) to save money.
+    * It would generate a new revenue and industry from states for web businesses that could target reengaging the unemployed. 
+    * If it shortens unemployment of each persons by just a few weeks it would pay for itself. (480 per person per year).
+    * It would accelerate the use of the stimulus dollars, tax programs, etc.
+    * It would shorten the amount of time it takes to find the unemployed and fill new positions (saving business money)
+    * It would keep the unemployed a more powerful political force.
+    * It is a manageable cost program. (worst case = 40 a month * 4 million unemployed * 12 = 2 billion ).   The faster the unemployed find work and get into positions where they create value others are willing to purchase the faster the economy recovers. 
+  
+
+","I'd like a simple listing of what publicly accessible data assets are out there and how to get access to them. I don't really care if they are CSVs, Text or whatever - I'll deal with the data - but I really need a cross agency catalog of what's available and where to get it. Maybe OOGL could sponsor a simple place for people to post their data discoveries and questions?","Not only would it be nice to view the steps it took to go from the wording of a bill to the wording of the law that it became, but it would be wonderful to know which congressional office was responsible for various modifications and additions to the bill.","All government agencies spending public funds should publish, in advance of receiving any funding, key success metrics for each year of planned spending.  Those metrics should be public and unambiguous in their interpretation of success achieved or failure to meet the goal at the end of the period.  The public website should indicate very specifically which programs are meeting the pre-defined goals, and which are not (and thus penalized with reduced or eliminated funding later).   The public should be able to express their opinion on the website (much like this site) for continuation of funding or not.",Pass a law or amendment requiring single-subject bills. No component of a bill should fall outside of its title or 100-word summary.,"In order to request or participate in a meeting with a government employee or government representive (congress, justice, admin, etc.) the non-government party should be required to register with an open database so that this data can be used for other tracking purposes like a Twitter stream of all government meetings with non-government parties or for tracking lobbyist activities.",Agencies Web activities should be considered a strategy for achieving agency goals and to enhance transparency -- not just as an extension of the communications department. See: http://bit.ly/hqPb,"Each member of Congress should have a Twitter account just for vote tracking that registers whenever they vote or abstain or skip a vote that lists the vote result, the issue under consideration, and link to more details.  
+
+This will allow third parties to build data sets for all kinds of purposes.","Congress should amend the National Bank Act to mandate that all FDIC insured institutions must average at least two of three separate residential appraisal methods in determining a homes value, if a home will serve as security for a bank loan.  
+
+The widespread use of the Comparative Sales Method as a sole source for appraising the value of mortgage security (the home) causes values to detach from economic reality under conditions of very lax credit, as we have seen in recent years.  
+
+This is an easy step to housing bubbles from happening again in the future.
+
+More details at: http://www.downtheladder.org/article.php?id=84","The idea here is to make a central place where anyone can start from any point in the chain and follow the links to determine and quantify lobbying efforts for or against a piece of legislation or government procurement.
+
+A web application / database that allows tracking, analysing, following the myriad paths thru, A Lobbyist / contact Lobbyist has with elected and appointed officials / Company(ies) that Lobbyist is employeed by / Clients of Lobby Companies / Contributions by Clients of Lobbyist companies to PACs, political campaigns, candidates / Votes on Bills by elected officials (and where possible cross referenced to lobbyest, lobby company) / Admendments offered to bills.
+
+All of this information is already gathered, it just needs to be put into one system that can interrelate and report on the existing data.","Use a ""wiki"" to allow the public to participate in developing the ""Open Government Directive"" (OGoD) in a transparent, partipatory, and collaborative way. 
+
+Wikipedia is the best-known example of how, properly done, the ""wisdom of the crowd"" can now produce a better picture of reality than just the small group of experts alone.
+
+Some federal agencies are already using internal wikis to gather and distill their employees' collective intelligence on various policies, programs and projects within the agency. http://fcw.com/Articles/2009/01/26/Who-is-using-wikis.aspx
+
+And so, it should come as no surprise when the increased use of wikis is one of the recommendations in the OGoD report to the White House (due on or before May 21).
+
+So, if the OGoD report does suggest some trials of using wikis to allow the public's collective wisdom to come forth on development of policy and procedures, then it would stand to reason that the most obvious candidate for the first experiment would be the OGoD report itself.
+
+Otherwise, it will be just another ""top-down"" report with the unwritten message of ""Do as I say, not as I do.""  And, given the subject (public engagement), that would be the height of hypocrisy.
+
+P.S. As a former fed, I still like to craft acronyms. And knowing the reaction that many politicians and bureaucrats have to open-government policy, then ""OGoD"" seems very appropriate.
+
+Your thoughts (beyond the thumbs-up vote offered here) welcomed at: http://www.UStransparency.com","Return to the random, balanced selection of media representatives who ask questions and allow spontaneous questions.  Using a prepared list of correspondents and answering only a pre-approved list of questions are overt evidences of concealing your genuine adgenda and intentions.
+
+The same guidelines must be applied to media interviews as well.  Otherwise, they are both useless wastes of time and expense.","The public should have the ability to signal support or opposition for bills, initiatives or even floated ideas. The Digg and Reddit websites have easy-to-read ""counters"" that record viewer sentiment totals in addition to comments. Despite less-then-ideal scientific methodology, this could be a useful alternative to third party polling that saves both time and money.
+
+Those interested in taking their support father could be directed to appropriate ""activism"" links where they could volunteer, donate or blog to advance particular causes.
+","Why not start a special savings bond program open to all citizens, with the funds earmarked toward rebuilding the infrastructure?  Actually, there could be separate bonds for each of the social initiatives that we need to support.  If the money isn't there, let's all create some!  After all, isn't that the BEST of the American Way?",I am hearing that this highly controversial program is going to be hidden from floor debate by being an amendment to budget process. Please do not try to say one thing and do another. OOGL sounds great but this socialized medicine does not. ,Start doing what you said you would do and that is NO to Ear Marks & Pork. At this point & time you are a liar. STOP THE PORK & EAR MARKS. UNTIL THEN YOU HAVE NOTHING WORTH LISTENING TO.,"The FBI has a data base called Bersa.  Every bank robbery in the country is logged into the system.  However, they will not release the data.  With the power of computing analysis.  Much more information can be drawn by these instances instead of just publishing averages on an annual basis.  ","Every time the government writes a check it should send a Tweet of the amount, the authorizing party, the reciever, the GL account, and a link to more details.
+
+This will allow any third party to build tools to mine the data for any purpose.  ","Every time someone is asked a question in a press conference, post the question and the answer to a central database.  Let the public vote on whether the question was answered or dodged.  Publicize the running percentage for each official.","Whatever goes on behind the technical scenes, PLEASE don't assign geeky ""gamer"" types to create some whiz-bang, color-bursting, animaniac, Flash-based so slow-as-molasses, technically glorious but impossible to use interface. Accessing mass quantities of information in a useful, straightforward manner is not a new science. Please don't try and make it one just to satisfy the need for some new age programmers to work on something nifty techno instead of beneficial to the end user. If the webstars creating this thing want to try something technically different, how about this? Bring in an old DP manager (DP; what it was called before MIS or IT) who can resurect and inject an almost forgotten project cornerstone... Reliability! Why? Because ""Working"" always trumps ""Wow"" out here in the real world.
+
+1db
+","Voters should be able to post and comment on  issues, like digg.  ","Everytime a government official meets with a party not directly employed by the federal government they should have to Tweet the timestamp of the meeting, who is in the meeting via a standard registration database of all meeting participants, brief subject and a link to more details.","All Federal court case judgments should be Tweeted with the case number, the judge, and the result with a link for more details.  This will allow any third party to create tools and data sets to track court outcomes and Judge accountability.","Whenever a member or employee of congress schedules a meeting with anyone  it should be Tweeted with the times of the meeting, the general location, the subject, and the parties attending and a link with more details.","There needs to be a formula created where one can enter the required information, select state, if state restrictions apply, and then, if qualified, submit to the proper agency the request for mortgage assistance.","The Columbia Schools of Journalism already keeps a listing of print and broadcast media, and its ownership status. Expand this to include Internet sources, and allow users to track and record their 'consumption habits.' Users can then see if 80% of their news and information is coming from the same parent company, what percentage of their information comes from big media companies and how much is smaller-scale or independent journalism/media.
+
+------
+
+Using existing data from broadcasters, users can select the programs they watch (NBC Nightly News, NPR Fresh Air, Bill O'Reilly, Democracy Now, Daily Show) and read (Drudge Report, The Daily Beast, Financial Times, Washington Post), and be provided with a visual pie chart and graphs display illustrating the ownership and diversity of their information sources.
+
+-------
+
+This would be a pretty simple idea to execute, and might be done by simply working with Columbia to expand its current project. It would be ideal to host it on an expanded Fed, State and Local OpenCongress-style Sunlight page, where users can come to learn about and influence their government, as well as themselves and the habits that shape their outlook. I've sketched this idea out and am available for to discuss and assist. My OpenCongress username is EndangeredJackalope.","Several websites and organizations compile information about the security (or lack there of) of Fed, state, & local elections laws & protocols. Chain of custody, ballot access, voter registration security. This info is spread out, and often so specific that it is only accessed, read, and discussed by elections officials and elections security 'nerds.' The constituents most in need of secure elections, and most capable of forcing their representatives to amend current practices, are left without a large and decipherable body knowledge, as well as user-friendly tools to advance the cause.
+<br>
+Rather than attempt to legislate costly top-down change, as even VP Biden has advocated against, create some type of framework into which volunteers (or elections officials) can dump/fill in data that visually illustrates the ballot chain of custody -- from Constitutional guarantee of their right to vote, to ballot printing, to vote counting procedure and machine software security, to final storage and eventual disposal.
+<br>
+I imagine a time line-like interactive chain of custody illustration, where users can consult elections law to fill out the chain, and discussion forum threads accompany each step. Users can discuss/debate the best options and rate the vulnerability of their vote at that moment on a color-grade scale (yellow to red, to illustrate areas of greatest need and concern.) Threads will be cross-referenced to similar topics/issues in other localities, so that Palm Beach County users can investigate ad discuss the cheapest and most secure adhesive non-removable ballot seals, with Orange County users faced with the same problem.
+<br>
+The tool can become a great classroom civics project for students, where the class will dedicate itself to learning the necessity and means of maintaining secure elections, while getting hands-on experience working with their local government as pro-active citizen activists (even if it does entail something as simple as researching adhesive stickers.) Students will learn to investigate a problem, find a solution, and how to present ti to an elected official so that its value is undeniable, and their efforts deliver real world results.
+<br>
+If and when OpenCongress evolves into a civics tool that includes state & local government, this will be as a great addition. The strength of it, is that once the ""formula""/coding has been written out, users will drive the entire process.
+I don't have any programming experience, but I've sketched this idea out heavily and am available for free consult & assistance (I'm a DC Metro area resident.) My OpenCongress username is Endangeredjackalope.","...at the way money is being spent, but not being used as it was intended to!  So much so, that I put up a billboard at 31st and Chestnut St. in Philaselphia to express my outrage.  I've laid out a simple plan (www.PlanForUS.com), but how do I get someone to run the numbers and comment on it?
+
+Everyone is angry that bank CEOs got billions in bonuses, while we are getting laid off. Why has no one seriously considered any bailout plan that begins with taxpayers first?  I can no longer watch in horrific fascination while being told that there is only one, same-old way to skin a cat, while we are all getting skinned.  
+
+President Obama openly stated that he will listen to any plan, so I want him to hear mine -- the Plan For US.  It is an astonishingly simple plan that not only addresses his concerns, but is designed to instantly make funds available for banks to lend out and stir up business, and, instead of a tax cut, provides real money for each taxpayer. 
+
+The Plan For US focuses on who the money is ultimately meant to trickle down to, the American worker.  Any successful stimulus package will surpass one trillion dollars (mark my words).  Presuming there are 140,000,000 taxpayers in the United States, each taxpayer is earmarked $7,500 for a total cost of 1.05 trillion dollars.
+
+$2,500 will be withheld by the IRS.  Instantly, $350 billion will be available for education, rebuilding infrastructure, alternative energy, human services, and extending unemployment benefits.
+
+$2,500 will be held for the taxpayer in a bank account, not to be withdrawn for three years.  Instantly, $350 billion will be infused in American financial institutions, interest-free for three years.  This money will be made available to provide low-cost mortgages and loans to businesses.  The Secretary of the Treasury will be made accountable to oversee the banks do what they are supposed to do, making sure the taxpayers get their money back with interest.
+
+$2,500 will go directly to the taxpayer.  Not only will $350 billion in the hands of taxpayers help jump-start the economy,but it will help rebuild consumer confidence.  People will know where their money is and what it is doing.  And it will teach our children sound financial strategy.  You pay your taxes.  You save.  You spend. 
+
+People feel beaten down.  The stock market is down.  Confidence is down. Everyone needs to speak out and tell our elected officials we need a plan that not only provides immediate relief to our government, banks, and taxpayers, but also helps rebuild our collective psychological backbone. 
+
+Sophia Demas, Concerned Citizen
+sophia@PlanForUS.com
+
+
+","Specifically, all federal agencies keeping two or more pieces of information about a citizen (for example: name AND address; or name AND birthdate, etc.) MUST disclose the purpose for keeping such information prior to doing so; obtain specific written permission from the person whose information will be kept; and protect this information from disclosure to any other person, agency, or organization - except by court order regarding criminal activity.  No new law, ruling, or extension is required: IT HAS BEEN THE LAW OF THE LAND SINCE 1974."
+494,294,272,236,212,196,171,171,157,154,73,71,69,58,57,53,50,48,47,43,38,33,30,28,26,24,24,23,21,20,20,18,17,17,16,16,16,16,15,15,15,14,13,13,13,13

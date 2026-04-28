@@ -1,0 +1,8 @@
+1,2,3,4,5,6,7,9,10,11,12,13
+smsfee.academiccalendar.fees,smsfee.classfees.register,smsfee.feetypes,smsfee.studentfee,smsfee.receiptbook,smsfee.receiptbook.lines,smsfee.academiccalendar.fees,smsfee.feetypes,smsfee.studentfee,smsfee.receiptbook,smsfee.receiptbook.lines,smsfee.classfees.register
+model_smsfee_academiccalendar_fees,model_smsfee_classfees_register,model_smsfee_feetypes,model_smsfee_studentfee,model_smsfee_receiptbook,model_smsfee_receiptbook_lines,model_smsfee_academiccalendar_fees,model_smsfee_feetypes,model_smsfee_studentfee,model_smsfee_receiptbook,model_smsfee_receiptbook_lines,model_smsfee_classfees_register
+sms.group_sms_admin,sms.group_sms_admin,sms.group_sms_admin,sms.group_sms_admin,sms.group_sms_admin,sms.group_sms_admin,sms.group_sms_admission_manager,sms.group_sms_admission_manager,sms.group_sms_admission_manager,sms.group_sms_admission_manager,sms.group_sms_admission_manager,sms.group_sms_admission_manager
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,1,1,1,1,1
+1,1,1,1,1,1,1,0,0,0,1,0

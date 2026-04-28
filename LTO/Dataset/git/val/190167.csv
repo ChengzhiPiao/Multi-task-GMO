@@ -1,0 +1,451 @@
+"
+Rainbow gravity corrections to the information flux of a black hole","
+Volume of 4-polytopes from bivectors","
+A Class of Higher-Dimensional Solutions of Einstein's Vacuum Equation","
+Exact black-hole formation with a conformally coupled scalar field in  three dimensions","
+Coleman-de Luccia Tunneling Wave Function","
+Quasi-uniform gravitational field of a disk and the equivalence  principle","
+Phenomenology of Quantum Reduced Loop Gravity in the isotropic  cosmological sector","
+Spherical cosmological models: an alternative cosmology","
+Particle creation in the framework of f(G) gravity","
+Representations of chiral alternative to vierbein and construction of  non-Abelian instanton solution in curved space-time","
+Scalar-tensor nonlocal gravity","
+Measuring our velocity from fluctuations in number counts","
+Double-soft graviton amplitudes and the extended BMS charge algebra","
+The weak null condition and global existence using the p-weighted energy  method","
+Chaos and entanglement spreading in a non-commutative gauge theory","
+Forecasting Gamma-Ray Bursts using Gravitational Waves","
+Thermodynamics of charged accelerating AdS black holes and holographic  heat engines","
+The Gravity Dual of Real-Time CFT at Finite Temperature","
+Unification of Gravity and Electromagnetism II A Geometric Theory","
+Gravitational smoothing of kinks on cosmic string loops","
+Gauge protected entanglement between gravity and matter","
+Partially Massless Graviton on Beyond Einstein Spacetimes","
+Distinguishing black holes and naked singularities with iron line  spectroscopy","
+Tale of stable interacting dark energy, observational signatures, and  the $H_0$ tension","
+$\ell$-Boson stars","
+Gravitational deflection of relativistic massive particles by Kerr black  holes and Teo wormholes viewed as a topological effect","
+Space and time as a consequence of GRW quantum jumps","
+Traversable wormholes in four dimensions","
+Gravitating magnetic monopole via the spontaneous symmetry breaking of  pure $R^2$ gravity","
+A note on electromagnetic and gravitational perturbations of the Bardeen  de Sitter black hole: quasinormal modes and greybody factors","
+Strong cosmic censorship for charged de Sitter black holes with a  charged scalar field","
+The lensing time delay between gravitational and electromagnetic waves","
+Holographic cosmology and tachyon inflation","
+SYK/AdS duality with Yang-Baxter deformations"
+"Zhong-Wen Feng, Shu-Zheng Yang",Benjamin Bahr,"Carlos Batista, Gabriel Luz Almeida","Luis Avilés, Hideki Maeda, Cristian Martinez","J. Kristiano, R. D. Lambaga, H. S. Ramadhan","Alexander J. Silenko, Yury A. Tsalkou","Emanuele Alesci, Aurélien Barrau, Gioele Botta, Killian Martineau, Gabriele Stagno",Herwig Dejonghe,"R. Rashidi, F. Ahmadi, M.R. Setare",K. Maharana,Shuxun Tian,"Nidhi Pant, Aditya Rotti, Carlos A.P. Bengaly, Roy Maartens","Jacques Distler, Raphael Flauger, Bart Horn",Joseph Keir,"Willy Fischler, Viktor Jahnke, Juan F. Pedraza",Sarp Akcay,"Jialin Zhang, Yanjun Li, Hongwei Yu","Marcelo Botta-Cantcheff, Pedro J. Martínez, Guillermo A. Silva",Partha Ghose,"Jeremy M. Wachter, Ken D. Olum","Nikola Paunkovic, Marko Vojinovic","Laura Bernard, Cedric Deffayet, Kurt Hinterbichler, Mikael von Strauss","Honghui Liu, Menglei Zhou, Cosimo Bambi","Weiqiang Yang, Supriya Pan, Eleonora Di Valentino, Rafael C. Nunes, Sunny Vagnozzi, David F. Mota","Miguel Alcubierre, Juan Barranco, Argelia Bernal, Juan Carlos Degollado, Alberto Diez-Tejedor, Miguel Megevand, Dario Nunez, Olivier Sarbach",Kimet Jusufi,Tejinder P. Singh,"Juan Maldacena, Alexey Milekhin, Fedor Popov","Ariel Edery, Yu Nakayama","Sahel Dey, Sayan Chakrabarti","Oscar J.C. Dias, Harvey S. Reall, Jorge E. Santos","Paolo Cremonese, Edvard Mörtsell",Neven Bilic,"Arindam Lala, Dibakar Roychowdhury"
+" In this paper, by utilizing the rainbow functions that were proposed by
+Amelino-Camelia \emph{et al}., the information flux of rainbow Schwarzschild
+black hole and its sparsity are investigated. To begin with, we calculate the
+rainbow gravity corrections to the Hawking temperature and entropy. According
+to these modifications, the information flux and the sparsity of Hawking
+radiation in rainbow gravity are explored. The results show that the rainbow
+gravity has a very significant effect on the information flux. When the mass of
+rainbow Schwarzschild black hole approaches to the order of Planck scale, the
+Bekenstein entropy loss per emitted quanta in terms of the mass reduces to
+zero. Furthermore, we also find that the sparsity of Hawking radiation is no
+longer a constant, instead, it monotonically decreases as the mass of black
+hole decrease. At the final stages of evaporation, the rainbow sparsity of
+Hawking radiation becomes infinity, which indicates the effect quantum gravity
+stops the radiation and leads to remnant.
+"," In this article we prove a formula for the volume of 4-dimensional polytopes,
+in terms of their face bivectors, and the crossings within their boundary
+graph. This proves that the volume is an invariant of bivector-coloured graphs
+in $S^3$.
+"," A new class of higher-dimensional exact solutions of Einstein's vacuum
+equation is presented. These metrics are written in terms of the exponential of
+a symmetric matrix and when this matrix is diagonal the solution reduces to
+higher-dimensional generalizations of Kasner spacetime with a cosmological
+constant. On the other hand, the metrics attained when such matrix is
+non-diagonal have more intricate algebraic structures. Such solutions have not
+been presented in the literature yet.
+"," We present exact dynamical and inhomogeneous solutions in three-dimensional
+AdS gravity with a conformally coupled scalar field. They contain stealth
+configurations of the scalar field overflying the BTZ spacetime and also
+solutions with a non-vanishing energy-momentum tensor. The latter non-stealth
+class consists of the solution obtained by Xu and its analytic extension. It is
+shown that this proper extension represents: (i) an eternally shrinking
+dynamical black hole, (ii) a curious spacetime which admits an event horizon
+without any trapped surface, or (iii) gravitational collapse of a scalar field
+in an asymptotically AdS spacetime. In the last case, by attaching the solution
+regularly to the past massless BTZ spacetime with a vanishing scalar field, the
+whole spacetime represents the black-hole formation from regular initial data
+in an asymptotically AdS spacetime. Depending on the parameters, the formed
+black hole can be asymptotically static in far future.
+"," We revisit the famous Coleman-de Luccia formalism for decay of false vacuum
+in gravitational theory. Since the corresponding wave function is
+time-independent we argue that its instanton's interpretation as the decay rate
+probability is problematic. We instead propose that such phenomenon can better
+be described by the Wheeler-de Witt's wave function. To do so, the
+Hamilton-Jacobi formalism is employed in the WKB approximation. The scalar and
+gravitational fields can then be treated as a two-dimensional effective metric.
+For a particular case of dS-to-dS tunneling, we calculated the wave function
+and found that it depends only on the potential of the false, and not on the
+true, vacuum; reminiscent of, though in totally different formalism with, the
+Hawking-Moss result. In general, this alternative approach might have
+significant impact on the study of very early universe and quantum cosmology.
+"," We calculate the quasi-uniform gravitational field of a disk in the
+weak-field approximation and demonstrate an inappropriateness of preceding
+results. The Riemann tensor of this field is determined. A nonexistence of the
+uniform gravitational field is proven. It is shown that a difference between
+equations of a particle motion and a spin rotation in the accelerated frame and
+in the quasi-uniform gravitational field of a disk does not violate the
+Einstein equivalence principle.
+"," Quantum reduced loop gravity is designed to consistently study symmetry
+reduced systems within the loop quantum gravity framework. In particular, it
+bridges the gap between the effective cosmological models of loop quantum
+cosmology and the full theory, addressing the dynamics before the
+minisuperspace reduction. This mostly preserves the graph structure and SU(2)
+quantum numbers. In this article, we study the phenomenological consequences of
+the isotropic sector of the theory, the so-called emergent bouncing universe
+model. In particular, the parameter space is scanned and we show that the
+number of inflationary e-folds is almost always higher than the observational
+lower-bound. We also compute the primordial tensor power spectrum and study its
+sensitivity upon the fundamental parameters used in the model.
+"," The properties of universes are explored that are entirely in the interior of
+black holes. It is argued that these models offer a paradigm that may shed a
+new light on old cosmological problems. The topics that are addressed include:
+geometry of the universes, evolution, relation to the concordance model, dark
+matter, dark energy, mass ejection from black holes, galaxy models with a
+central black hole, Mach's principle.
+"," In this paper, we study the problem of massless particle creation in a flat,
+homogeneous and isotropic universe in the framework of $f(G)$ gravity. The
+Bogolyubov coefficients are calculated for the accelerating power-law solutions
+of the model in a matter dominated universe, from which the total number of
+created particle per unit volume of space can be obtained. It is proved that
+the total particle density always has a finite value. Therefore, the Bogolyubov
+transformations are well-defined and the Hilbert spaces spanned by the vacuum
+states at different times are unitarily equivalent. We find that the particles
+with small values of the mode $k$ are produced in the past and particles with
+large values of $k$ are produced only in the future. The negative pressure
+resulting from the gravitational particle creation is also determined. It is
+then argued that this pressure even in the presence of energy density and
+thermal pressure may affect significantly the cosmic expansion.
+"," A chiral alternative to the vierbein field in general relativity was
+considered by 't Hooft in an attempt to facilitate the construction of a
+quantum theory of gravity. These objects $ f^a{}_{\mu\nu}$ behave like the
+""cube root"" of the metric tensor. We try to construct specific representations
+of these tensors in terms of Dirac $\gamma $ matrices in Euclidean and
+Minkowski space, and promote these to curved space through Newman-Penrose
+formalism. We conjecture that these are new objects with physical significance
+and are the analog of Killing-Yano tensors. As an application, we try to
+construct non-Abelian instanton like solutions in curved space from the flat
+space 't Hooft tensors. The space part of the tensors are decomposed to a
+product of Levi-Civita tensor and flat space Dirac gamma matrices. The gamma
+matrices are promoted to the curved space with the help of vierbeins, as in
+separability of Dirac equation by Chandrasekhar, using Newman-Penrose
+formalism. The curved space generalisation of the instanton solution $A_{\mu}^a
+$ is now constructed by substituting all objects to their general covariant
+form.
+"," In order to explain the late-time cosmological acceleration, we propose a new
+pure geometric gravity based on Deser-Woodard theory, in which the expansion of
+matter-dominated universe can be accelerating. This new theory behaves as well
+as general relativity in solar system and gravitational waves. Especially, for
+the simplest case, theoretical considerations determine all the parameters
+appear in the Lagrangian.
+"," Our velocity relative to the cosmic microwave background (CMB) generates a
+dipole from the CMB monopole, which was accurately measured by COBE. The
+relative velocity also modulates and aberrates the CMB fluctuations, generating
+a small signature of statistical isotropy violation in the covariance matrix.
+This signature was first measured by Planck 2013. Galaxy surveys are similarly
+affected by a Doppler boost. The dipole generated from the number count
+monopole has been extensively discussed, and measured (at very low accuracy) in
+the NVSS and TGSS radio continuum surveys. For the first time, we present an
+analysis of the Doppler imprint on the number count fluctuations, using the
+bipolar spherical harmonic formalism to quantify these effects. Next-generation
+wide-area surveys with a high redshift range are needed to detect the small
+Doppler signature in number count fluctuations. We show that radio continuum
+surveys with the SKA should enable a detection at $\gtrsim 3 \sigma$ in Phase
+2, with marginal detection possible in Phase 1.
+"," We discuss how scattering amplitudes in 4d Minkowski spacetime which involve
+multiple soft gravitons realize the algebra of BMS charges on the null
+boundary. In particular, we show how the commutator of two such charges is
+realized by the antisymmetrized consecutive soft limit of the double soft
+amplitude. The commutator is found to be robust even in the presence of quantum
+corrections, and the associated Lie algebra has an extension, which breaks the
+BMS symmetry if the BMS algebra is taken to include the Virasoro algebra of
+local superrotations. We discuss the implications of this structure for the
+existence of a 2d CFT dual description for 4d scattering amplitudes.
+"," We prove global existence for solutions arising from small initial data for a
+large class of quasilinear wave equations satisfying the `weak null condition'
+of Lindblad and Rodnianski, significantly enlarging upon the class of equations
+for which global existence is known. In addition to the usual weak null
+condition, we require a certain hierarchical structure in the semilinear terms.
+Included in this class are the Einstein equations in harmonic coordinates, so a
+special case of our results is a new proof of the stability of Minkowski space.
+Our proof also applies to the coupled Einstein-Maxwell system in harmonic
+coordinates and Lorenz gauge, as well as to various model scalar wave equations
+which do not satisfy the null condition. Our proof also applies to the
+Einstein(-Maxwell) equations if, after writing the equations as a set of
+nonlinear wave equations, we then `forget' about the gauge conditions. The
+methods we use allow us to treat initial data which only has a small
+`degenerate energy', involving a weight that degenerates at null infinity, so
+the usual (unweighted) energy might be unbounded. We also demonstrate a
+connection between the weak null condition and geometric shock formation,
+showing that equations satisfying the weak null condition can exhibit `shock
+formation at infinity', of which we provide an explicit example. The methods
+that we use are very robust, including a generalisation of the p-weighted
+energy method of Dafermos and Rodnianski, adapted to the dynamic geometry. This
+means that our proof applies in a wide range of situations, include those in
+which the metric remains close to, but never approaches the flat metric in some
+spatially bounded domain, and those in which the `geometric' null infinity and
+the `background' null infinity differ dramatically, for example, when the
+solution exhibits shock formation at null infinity.
+"," Holographic theories with classical gravity duals are maximally chaotic: they
+saturate a set of bounds on the spread of quantum information. In this paper we
+question whether non-locality can affect such bounds. Specifically, we consider
+the gravity dual of a prototypical theory with non-local interactions, namely,
+$\mathcal{N}=4$ non-commutative super Yang Mills. We construct shock waves
+geometries that correspond to perturbations of the thermofield double state
+with definite momentum and study several chaos related properties of the
+theory, including the butterfly velocity, the entanglement velocity, the
+scrambling time and the maximal Lyapunov exponent. The latter two are
+unaffected by the non-commutative parameter $\theta$, however, both the
+butterfly and entanglement velocities increase with the strength of the
+non-commutativity. This implies that non-local interactions can enhance the
+effective light-cone for the transfer of quantum information, eluding
+previously conjectured bounds encountered in the context of local quantum field
+theory. We comment on a possible limitation on the retrieval of quantum
+information imposed by non-locality.
+"," We explore the intriguing possibility of employing future ground-based
+gravitational-wave interferometers to detect the inspiral of binary neutron
+stars sufficiently early to alert electromagnetic observatories so that a
+gamma-ray burst (GRB) can be observed in its entirety from its very beginning.
+We quantify the ability to predict a GRB by computing the time a binary neutron
+star (BNS) system takes to inspiral from its moment of detection to its final
+merger. We define the moment of detection to be the instant at which the
+interferometer network accumulates a signal-to-noise ratio of 15. For our
+computations, we specifically consider BNS systems at luminosity distances of
+(i) $D\le200\,$Mpc for the three-interferometer Advanced-LIGO-Virgo network of
+2020, and (ii) $D\le 1000\,$Mpc for Einstein Telescope's B and C
+configurations. In the case of Advanced LIGO-Virgo we find that we may at best
+get a few minutes of warning time, thus we expect no forecast of GRBs in the
+2020s. On the other hand, Einstein Telescope will provide us with advance
+warning times of more than five hours for $D\le 100$Mpc. Taking one hour as a
+benchmark advance warning time, we obtain a corresponding range of roughly 600
+Mpc for the Einstein Telescope C configuration. Using current BNS merger event
+rates within this volume, we show that Einstein C will forecast
+$\gtrsim\mathcal{O}(10^2)$ GRBs in the 2030s. We reapply our warning-time
+computation to binary black hole - neutron star inspirals and find 1 to 3 tidal
+disruption events to be forecast by the same detector. This is a pedagogical
+introduction to gravitational-wave astronomy written at a level accessible to
+PhD students, advanced undergraduates, and colleagues in astronomy/astrophysics
+who wish to learn more about the underlying physics. Though many of our results
+may be known to the experts, they might nonetheless find this article
+motivating and exciting.
+"," We explicitly formulate the consistent first law of thermodynamics for a
+charged accelerating Anti-de Sitter (AdS) black hole with a reasonable
+normalization of the timelike vector. The expression of renormalized
+thermodynamic mass is exactly derived, which displays an intertwining behavior
+with the charge in a complex way due to the special asymptotic structure of the
+gauge field. The thermodynamic length as a potential conjugate to the varying
+cosmic string tension is also introduced and analyzed in detail. Furthermore,
+we investigate the properties of holographic heat engines with charged
+accelerating AdS black holes as the working substance in a benchmarking scheme.
+We find that the efficiencies of the black hole heat engines can be influenced
+by both the size of the benchmark circular cycle and the cosmic string tension.
+More interestingly, the existence of charge may significantly increase the
+efficiencies of the black hole heat engines and make them be more sensitive to
+a varying cosmic string tension. A cross-comparison of the efficiencies of
+different black hole heat engines suggests that the acceleration also increases
+the efficiency and renders it more sensitive as the charge varies.
+"," We present a spherically symmetric aAdS gravity solution with
+Schwinger-Keldysh boundary condition dual to a CFT at finite temperature
+defined on a complex time contour. The geometry is built by gluing the exterior
+of a two-sided AdS Black Hole, the (aAdS) Einstein-Rosen wormhole, with two
+Euclidean black hole halves. These pieces are interpreted as the gravity duals
+of the two Euclidean $\beta/2$ segments in the SK path, each coinciding with a
+Hartle-Hawking-Maldacena (TFD) vacuum state, while the Lorentzian regions
+naturally describes the real-time evolution of the TFD doubled system.
+"," It is shown that unification of gravity and electromagnetism can be achieved
+using an affine non-symmetric connection $\Gamma^\lambda_{\mu\nu} \neq
+\Gamma^\lambda_{\nu\mu}$ and $\Gamma_\mu = \Gamma^\lambda_{[\mu\lambda]}\neq
+0$. $\Gamma_\mu$ is shown to be the source of the electromagnetic field. This
+unification is based on {\em projective invariance} which is broken by matter
+fields, opening up the possibility of a unified theory of all forces in which
+gravity emerges as a classical field.
+"," We analyze the effect of gravitational back reaction on cosmic string loops
+with kinks, which is an important determinant of the shape, and thus the
+potential observability, of string loops which may exist in the universe today.
+Kinks are not rounded off, but may be straightened out. This means that back
+reaction will only cause loops with kinks to develop cusps after some
+potentially large fraction of their lifetimes. In some loops, symmetries
+prevent even this process, so that the loop evaporates in a self-similar
+fashion and the kinks are unchanged. As an example, we discuss back-reaction on
+the rectangular Garfinkle-Vachaspati loop.
+"," We show that gravity and matter fields are generically entangled, as a
+consequence of the local Poincar\'e symmetry. First, we present a general
+argument, applicable to any particular theory of quantum gravity with matter,
+by performing the analysis in the abstract nonperturbative canonical framework,
+demonstrating the nonseparability of the scalar constraint, thus promoting the
+entangled states as the physical ones. Also, within the covariant framework, we
+show explicitly that the Hartle-Hawking state in the Regge model of quantum
+gravity is necessarily entangled. Our result is potentially relevant for the
+quantum-to-classical transition, taken within the framework of the decoherence
+programme: due to the gauge symmetry requirements, the matter does not
+decohere, it is by default decohered by gravity. Generically, entanglement is a
+consequence of interaction. This new entanglement could potentially, in form of
+an ""effective interaction"", bring about corrections to the weak equivalence
+principle, further confirming that spacetime as a smooth four-dimensional
+manifold is an emergent phenomenon. Finally, the existence of the
+gauge-protected entanglement between gravity and matter could be seen as a
+criterion for a plausible theory of quantum gravity, and in the case of
+perturbative quantisation approaches, a confirmation of the persistence of the
+manifestly broken gauge symmetry.
+"," We show that a partially massless graviton can propagate on a large set of
+spacetimes which are not Einstein spacetimes. Starting from a recently
+constructed theory for a massive graviton that propagates the correct number of
+degrees of freedom on an arbitrary spacetime, we first give the full explicit
+form of the scalar constraint responsible for the absence of a sixth degree of
+freedom. We then spell out generic conditions for the constraint to be
+identically satisfied, so that there is a scalar gauge symmetry which makes the
+graviton partially massless. These simplify if one assumes that spacetime is
+Ricci symmetric. Under this assumption, we find explicit non-Einstein
+spacetimes allowing for the propagation of a partially massless graviton.
+"," It is commonly thought that the final product of gravitational collapse is a
+black hole. Nevertheless, theoretical studies have not yet provided a final
+answer to the question whether black holes are the only possible outcome or
+whether naked singularities are also allowed. Observational tests may thus
+represent a complementary approach. In the present paper, we consider the
+Janis-Newman-Winicour metric, which describes a rotating source with a
+surface-like naked singularity. We calculate iron line shapes in the reflection
+spectrum of a putative disk around a Janis-Newman-Winicour singularity and we
+compare our results with the iron line shapes expected in the spectrum of a
+Kerr black hole. While it is difficult to distinguish the two spacetimes from
+the iron line shape in general, it seems that Janis-Newman-Winicour
+singularities cannot mimic fast-rotating Kerr black holes observed at a low or
+moderate inclination angle. Our analysis thus suggests that available
+observations of specific sources can already constrain the possible existence
+of Janis-Newman-Winicour singularities in the Universe.
+"," We investigate the observational consequences of a novel class of stable
+interacting dark energy (IDE) models, featuring interactions between dark
+matter (DM) and dark energy (DE). In the first part of our work, we start by
+considering two IDE models which are known to present early-time linear
+perturbation instabilities. Applying a transformation depending on the dark
+energy equation of state (EoS) to the DM-DE coupling, we then obtain two novel
+stable IDE models. Subsequently, we derive robust and accurate constraints on
+the parameters of these models, assuming a constant EoS $w_x$ for the DE fluid,
+in light of some of the most recent publicly available cosmological data. These
+include Cosmic Microwave Background (CMB) temperature and polarization
+anisotropy measurements from the \textit{Planck} satellite, a selection of
+Baryon Acoustic Oscillation measurements, Supernovae Type-Ia luminosity
+distance measurements from the JLA sample, and measurements of the Hubble
+parameter up to redshift $2$ from cosmic chronometers. Our analysis displays a
+mild preference for the DE fluid residing in the phantom region ($w_x<-1$),
+with significance up to 95\% confidence level, while we obtain new upper limits
+on the coupling parameter between the dark components. The preference for a
+phantom DE suggests a coupling function $Q<0$, thus a scenario where energy
+flows from the DE to the DM. We also examine the possibility of addressing the
+$H_0$ and $\sigma_8$ tensions, finding that only the former can be partially
+alleviated. Finally, we perform a Bayesian model comparison analysis to
+quantify the possible preference for the two IDE models against the standard
+concordance $\Lambda$CDM model, finding that the latter is always preferred
+with the strength of the evidence ranging from positive to very strong.
+"," We present new, fully nonlinear numerical solutions to the static,
+spherically symmetric Einstein-Klein-Gordon system for a collection of an
+arbitrary odd number $N$ of complex scalar fields with an internal $U(N)$
+symmetry and no self-interactions. These solutions, which we dub $\ell$-boson
+stars, are parametrized by an angular momentum number $\ell=(N-1)/2$, an
+excitation number $n$, and a continuous parameter representing the amplitude of
+the fields. They are regular at every point and possess a finite total mass.
+For $\ell = 0$ the standard spherically symmetric boson stars are recovered. We
+determine their generalizations for $\ell > 0$, and show that they give rise to
+a large class of new static configurations which might have a much larger
+compactness ratio than $\ell=0$ stars.
+"," We consider the problem of gravitational deflection of a propagating
+relativistic massive particles by rotating black holes (Kerr black holes) and
+rotating wormholes (Teo wormholes) in the weak limit approximation. In
+particular we have introduced an alternative way to calculate the deflection
+angle for massive particles based on the refractive index of the optical media
+and the Gauss-Bonnet theorem applied to the isotropic optical metrics. The
+refractive index governing the propagation of massive particles is calculated
+by considering those particles as a de Broglie wave packets. Finally applying
+the Gauss-Bonnet theorem leads to an exact result for the deflection angle in
+both geometries. Put in other words, the trajectory of light rays as well as
+the trajectory of massive particles in a given spacetime background can be
+viewed as a global spacetime effect, namely as a topological effect.
+"," The Ghirardi-Rimini-Weber (GRW) theory of spontaneous collapse offers a
+possible resolution of the quantum measurement problem. In this theory, the
+wave function of a particle spontaneously and repeatedly localises to one or
+the other random position in space, as a consequence of the hypothesised
+quantum jumps. In between jumps the wave function undergoes the usual
+Schr\""{o}dinger evolution. In the present paper we suggest that these jumps
+take place in Hilbert space, with no reference to physical space, and physical
+three-dimensional space arises as a consequence of localisation of macroscopic
+objects in the universe. That is, collapse of the wave-function is responsible
+for the origin of space. We then suggest that similar jumps take place for a
+hypothetical time operator in Hilbert space, and classical time as we know it
+emerges from localisation of this time operator for macroscopic objects. More
+generally, the jumps are suggested to take place in an operator space-time in
+Hilbert space, leading to an emergent classical space-time.
+"," We present a wormhole solution in four dimensions. It is a solution of an
+Einstein Maxwell theory plus charged massless fermions. The fermions give rise
+to a negative Casimir-like energy, which makes the wormhole possible. It is a
+long wormhole that does not lead to causality violations in the ambient space.
+It can be viewed as a pair of entangled near extremal black holes with an
+interaction term generated by the exchange of fermion fields. The solution can
+be embedded in the Standard Model by making its overall size small compared to
+the electroweak scale.
+"," The pure $R^2$ gravity is equivalent to Einstein gravity with cosmological
+constant and a massless scalar field and it further possesses the so-called
+restricted Weyl symmetry which is a symmetry larger than scale symmetry. To
+incorporate matter, we consider a restricted Weyl invariant action composed of
+pure $R^2$ gravity, SU(2) Yang-Mills fields and a non-minimally coupled
+massless Higgs field (a triplet of scalars). When the restricted Weyl symmetry
+is spontaneously broken, it is equivalent to an Einstein-Yang-Mills-Higgs
+(EYMH) action with a cosmological constant and a massive Higgs non-minimally
+coupled to gravity i.e. via a term $\tilde{\xi} R |\Phi|^2$. When the
+restricted Weyl symmetry is not spontaneously broken, linearization about
+Minkowski space-time does not yield gravitons in the original $R^2$ gravity and
+hence it does not gravitate. However, we show that in the broken gauge sector
+of our theory, where the Higgs field acquires a non-zero vacuum expectation
+value, Minkowski space-time is a viable gravitating background solution. We
+then obtain numerically gravitating magnetic monopole solutions for non-zero
+coupling constant $\tilde{\xi}=1/6$ in three different backgrounds: Minkowski,
+anti-de Sitter (AdS) and de Sitter (dS), all of which are realized in our
+restricted Weyl invariant theory.
+"," We compute the quasi-normal (QN) frequencies for the regular Bardeen de
+Sitter (BdS) black hole due to electromagnetic and gravitational perturbations.
+We analyse the behaviour of both real and imaginary parts of QN frequencies by
+varying the black hole parameters. A study on the dynamics of the perturbation
+as well as the scattering from the BdS black holes using WKB approach is
+performed. Greybody factors and their variations with black hole parameters are
+investigated.
+"," It has been shown recently that the strong cosmic censorship conjecture is
+violated by near-extremal Reissner-Nordstr\""om-de Sitter black holes. We
+investigate whether the introduction of a charged scalar field can rescue
+strong cosmic censorship. We find that such a field improves the situation but
+there is always a neighbourhood of extremality in which strong cosmic
+censorship is violated by perturbations arising from smooth initial data.
+"," The recent detection of gravitational waves (GWs) and electromagnetic (EM)
+waves originating from the same source marks the start of a new multi-messenger
+era in astronomy. The arrival time difference between the GW and EM signal can
+be used to constrain differences in their propagation speed, and thus
+gravitational theories. We study to what extent a non-zero time delay can be
+explained by gravitational lensing when the line of sight to the source passes
+near a massive object. For galaxy scale lenses, this delay becomes relevant for
+GWs with frequencies between $10^{-6}$ and $10^{-9}$ Hz, sourced by super
+massive binary black-holes. In addition to GWs detectable by Pulsar Timing
+Arrays (PTAs), we expect to find also a unique and recognizable EM signal. We
+show that the delay between the GW and EM signal can be of the order of days to
+months; within reach of future observations. The effect may become important in
+future multi-messenger astronomy probing of gravitational propagation and
+interactions.
+"," After a brief introduction to the AdS/CFT holography a tachyon inflation will
+be discussed in the framework of holographic cosmology. The model is based on a
+holographic braneworld scenario with an effective tachyon field on a D3-brane
+located at the holographic bound of an asymptotic ADS$_5$ bulk.
+"," In this paper, based on the notion of SYK/AdS duality we explore the effects
+of Yang-Baxter (YB) deformations on the SYK spectrum at strong coupling. In the
+first part of our analysis, we explore the consequences of YB deformations
+through the Kaluza-Klein (KK) reduction on $ (AdS_2)_{\eta}\times (S^1)/Z_2 $.
+It turns out that the YB effects (on the SYK spectrum) starts showing off at
+\textit{quadratic} order in $ 1/J $ expansion. For the rest of the analysis, we
+provide an interpretation for the YB deformations in terms of
+bi-local/collective field excitations of the SYK model. Using large $ N $
+techniques, we evaluate the effective action upto quadratic order in the
+fluctuations and estimate $ 1/J^2 $ corrections to the correlation function at
+strong coupling.
+"
+(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 28 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 29 Aug 2018),(Submitted on 30 Aug 2018),(Submitted on 5 Aug 2014 (,(Submitted on 1 Sep 2016 (,(Submitted on 24 Feb 2017 (,(Submitted on 7 Mar 2017 (,(Submitted on 3 Jan 2018 (,(Submitted on 21 May 2018 (,(Submitted on 29 May 2018 (,(Submitted on 4 Jun 2018 (,(Submitted on 4 Jun 2018 (,(Submitted on 12 Jul 2018 (,(Submitted on 18 Jul 2018 (,(Submitted on 24 Jul 2018 (,(Submitted on 14 Aug 2018 (,(Submitted on 17 Aug 2018 (,(Submitted on 24 Aug 2018 (,(Submitted on 25 Aug 2018 (
+https://arxiv.org/abs/1808.09958,https://arxiv.org/abs/1808.09971,https://arxiv.org/abs/1808.09998,https://arxiv.org/abs/1808.10040,https://arxiv.org/abs/1808.10110,https://arxiv.org/abs/1808.10206,https://arxiv.org/abs/1808.10225,https://arxiv.org/abs/1808.10278,https://arxiv.org/abs/1808.10279,https://arxiv.org/abs/1808.10288,https://arxiv.org/abs/1808.10413,https://arxiv.org/abs/1808.09743,https://arxiv.org/abs/1808.09965,https://arxiv.org/abs/1808.09982,https://arxiv.org/abs/1808.10050,https://arxiv.org/abs/1808.10057,https://arxiv.org/abs/1808.10299,https://arxiv.org/abs/1808.10306,https://arxiv.org/abs/1408.2507,https://arxiv.org/abs/1609.01153,https://arxiv.org/abs/1702.07744,https://arxiv.org/abs/1703.02538,https://arxiv.org/abs/1801.00867,https://arxiv.org/abs/1805.08252,https://arxiv.org/abs/1805.11488,https://arxiv.org/abs/1806.01256,https://arxiv.org/abs/1806.01297,https://arxiv.org/abs/1807.04726,https://arxiv.org/abs/1807.07004,https://arxiv.org/abs/1807.09065,https://arxiv.org/abs/1808.04832,https://arxiv.org/abs/1808.05886,https://arxiv.org/abs/1808.08146,https://arxiv.org/abs/1808.08380

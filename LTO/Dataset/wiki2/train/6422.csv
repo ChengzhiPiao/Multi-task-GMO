@@ -1,0 +1,8 @@
+,,Nasal,Stop,Stop,Stop,Stop,Affricate,Affricate,Affricate,Fricative,Fricative,Approximant
+,,Nasal,voiceless,voiced,aspirated,ejective,voiceless,aspirated,ejective,voiceless,voiced,Approximant
+Bilabial,Bilabial,{{IPA|m}},{{IPA|p}},,,,,,,,,
+Alveolar,central,{{IPA|n}},{{IPA|t}},{{IPA|(ⁿd/d)}},{{IPA|tʰ}},{{IPA|tʼ}},{{IPA|ts}},{{IPA|tsʰ}},{{IPA|tsʼ}},{{IPA|s}},{{IPA|z}},
+Alveolar,lateral,,,,,,{{IPA|tɬ}},{{IPA|tɬʰ}},{{IPA|tɬʼ}},{{IPA|ɬ}},,{{IPA|l}}
+Palatal,Palatal,,,,,,{{IPA|tʃ}},{{IPA|tʃʰ}},{{IPA|tʃʼ}},{{IPA|ʃ}},{{IPA|ʒ}},{{IPA|j}}
+Velar,Velar,,{{IPA|k}},,{{IPA|kʰ}},{{IPA|kʼ}},,,,,{{IPA|ɣ}},{{IPA|w}}
+Glottal,Glottal,,{{IPA|ʔ}},,,,,,,{{IPA|h}},,

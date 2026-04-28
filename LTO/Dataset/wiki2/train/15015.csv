@@ -1,0 +1,19 @@
+Honeycomb name,"Schläfli
+Symbol
+{p,q,r,s}",Coxeter diagram,"Facet
+type
+{p,q,r}","Cell
+type
+{p,q}","Face
+type
+{p}","Face
+figure
+{s}","Edge
+figure
+{r,s}","Vertex
+figure
+{q,r,s}",Dual
+Order-3 small stellated 120-cell,"{5/2,5,3,3}",{{CDD|node_1|5|rat|d2|node|5|node|3|node|3|node}},"{5/2,5,3}","{5/2,5}",{5},{5},"{3,3}","{5,3,3}","{3,3,5,5/2}"
+Order-5/2 600-cell,"{3,3,5,5/2}",{{CDD|node|5|rat|d2|node|5|node|3|node|3|node_1}},"{3,3,5}","{3,3}",{3},{5/2},"{5,5/2}","{3,5,5/2}","{5/2,5,3,3}"
+Order-5 icosahedral 120-cell,"{3,5,5/2,5}",{{CDD|node_1|3|node|5|node|5|rat|d2|node|5|node}},"{3,5,5/2}","{3,5}",{3},{5},"{5/2,5}","{5,5/2,5}","{5,5/2,5,3}"
+Order-3 great 120-cell,"{5,5/2,5,3}",{{CDD|node|3|node|5|node|5|rat|d2|node|5|node_1}},"{5,5/2,5}","{5,5/2}",{5},{3},"{5,3}","{5/2,5,3}","{3,5,5/2,5}"

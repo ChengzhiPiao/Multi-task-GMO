@@ -1,0 +1,3 @@
+DocType: Material Request Item,apps/epaas/epaas/stock/report/itemwise_recommended_reorder_level/itemwise_recommended_reorder_level.py +41,apps/epaas/epaas/selling/report/customer_credit_balance/customer_credit_balance.py +45,DocType: Bank Statement Transaction Invoice Item,DocType: Payment Entry Reference,apps/epaas/epaas/crm/doctype/opportunity/opportunity.py +192
+Lead Time Date,Lead Time Days,Outstanding Amt,Outstanding Amount,Outstanding,Lead must be set if Opportunity is made from Lead
+Fecha de la Iniciativa,Tiempo de ejecución en días,Saldo Pendiente,Saldo Pendiente,Pendiente,La Iniciativa se debe establecer si la Oportunidad está hecha desde una Iniciativa

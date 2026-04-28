@@ -1,0 +1,10 @@
+{{Tooltip|Grp|Group}},Team,{{Tooltip|Pld|Played}},{{Tooltip|W|Won}},{{Tooltip|D|Drawn}},{{Tooltip|L|Lost}},{{Tooltip|GF|Goals for}},{{Tooltip|GA|Goals against}},{{Tooltip|GD|Goal difference}},{{Tooltip|Pts|Points}}
+9,{{fbu|21|GRE}},6,4,0,2,14,6,+8,12
+4,{{fbu|21|SWE}},6,3,2,1,11,5,+6,11
+5,{{fbu|21|POL}},6,3,2,1,13,10,+3,11
+6,{{fbu|21|CRO}},6,3,2,1,9,6,+3,11
+2,{{fbu|21|NED}},6,3,2,1,9,7,+2,11
+8,{{fbu|21|ROM}},6,3,1,2,8,4,+4,10
+7,{{fbu|21|ESP}},6,3,1,2,6,6,0,10
+3,{{fbu|21|BUL}},6,3,1,2,9,14,&minus;5,10
+1,{{fbu|21|RUS}},6,2,3,1,11,9,+2,9

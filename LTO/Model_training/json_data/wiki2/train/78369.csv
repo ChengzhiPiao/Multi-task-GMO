@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pts|Points}},{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}}
+1,{{fb|HKG|1959}},4,2,2,0,0,2,0,+2
+2,{{fb|JPN|1947}},2,2,1,0,1,4,1,+3
+3,{{fb|VSO}},0,2,0,0,2,0,5,&minus;5

@@ -1,0 +1,5 @@
+{{tooltip|Pos|Position}},Club,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,Valencia,2,1,1,0,5,3,+2,9
+2,Arsenal,2,1,0,1,5,2,+3,8
+3,Monaco,2,1,1,0,3,2,+1,7
+4,Benfica,2,0,0,2,2,8,−6,2

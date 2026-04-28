@@ -1,0 +1,8 @@
+access_svhr_recomendaciones_user,access_svhr_recomendaciones_manager,access_svhr_experiencia_user,access_svhr_experiencia_manager,access_svhr_employee_category_user,access_svhr_employee_category_emp,access_svhr_employee_user,access_svhr_employee_system_user,access_svhr_employee_resource_user,access_svhr_employee_resource_manager,access_svhr_department_user,access_svhr_department_manager,access_svhr_job_user,access_svhr_job_manager,access_svhr_ir_property_hr_user,access_svhr_ir_property_hr_manager
+svhr.recomendaciones.user,svhr.recomendaciones.manager,svhr.experiencia.user,svhr.experiencia.manager,svhr.employee.category.user,svhr.employee.category.emp,svhr.employee user,svhr.employee system user,svhr.resource.resource.user,svhr.resource.resource.user,svhr.department.user,svhr.department.manager,svhr.job user,svhr.job manager,svhr_ir_property hr_user,svhr_ir_property hr_manager
+model_svhr_recomendaciones,model_svhr_recomendaciones,model_svhr_experiencia,model_svhr_experiencia,hr.model_hr_employee_category,hr.model_hr_employee_category,hr.model_hr_employee,hr.model_hr_employee,resource.model_resource_resource,resource.model_resource_resource,hr.model_hr_department,hr.model_hr_department,hr.model_hr_job,hr.model_hr_job,base.model_ir_property,base.model_ir_property
+base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager,base.group_svhr_user,base.group_svhr_manager
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1
+0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1

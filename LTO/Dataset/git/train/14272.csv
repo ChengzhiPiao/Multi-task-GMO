@@ -1,0 +1,9 @@
+Gene,Title,Provider_institution,Description,PI,Authors,Assay_ID,Data_format,Data_repository,Data_link,Endpoint,Endpoint_detection,Activity,External ID,External ID registration system,Ligand type,Link to the supporting data,Name,Negative control,Probe page,Repository page,Selectivity
+Gene that the resource is related to,Name/title of the dataset,Institution where work was performed,Paragraph description of the dataset,Principle investigator of the dataset,Person(s) performing associated experiments,Assay(s) associated with the data (BAO IDs),"Data file format(s) - MS, txt, HDF5, etc.",Repository(ies) where data are stored,Link to external data repository containing key dataset metadata,"Data endpoint format (log2 expression, fold change, etc.)","Physical entity/method to calculate endpoint - fluorescence intensity, mass spec, etc.",On target activity as reported to chemicalprobes.org,"External ID (PubChem, CheBI, ZINC, etc.) corresponding to the canonical representation",Repository corresponding to the external ID,Mode of action towards given gene,External link to the data deposited in public repository/location,Canonical (trade or IUPAC) name of molecule,Name and structure of inactive analog (probe is the active analog in the 'probe pair'),Link to chemicalprobes.org where the probe is registered,Link to the vendor for the physical sample,Selectivity against similar genes as reported to chemicalprobes.or
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,textfield,list,textfield,textfield,textfield,textfield,textfield,textfield,textfield
+IDG_GL,,,,,,,,,,,,,,,,,,,,,
+Gene,,,,,,,,,,,,,,,,,,,,,
+http://druggablegenome.net/Gene,,,,,,,,,,,,,,,,,,,,,
+http://purl.bioontology.org/ontology/OMIM/GENESYMBOL,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,PubChem;ZINC;ChEMBL;ChEBI,,,,,,,

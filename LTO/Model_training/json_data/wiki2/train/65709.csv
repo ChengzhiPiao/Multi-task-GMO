@@ -1,0 +1,5 @@
+{{Tooltip| Team | Team name}},Belfast Giants,Braehead Clan,Cardiff Devils,Coventry Blaze,Dundee Stars,Edinburgh Capitals,Fife Flyers,Guildford Flames,Manchester Storm,Milton Keynes Lightning,Nottingham Panthers,Sheffield Steelers
+{{Tooltip| City/Town | City or town of team}},{{Flagicon|NIR}} Belfast,{{Flagicon|SCO}} Glasgow,{{Flagicon|WAL}} Cardiff,{{Flagicon|ENG}} Coventry,{{Flagicon|SCO}} Dundee,{{Flagicon|SCO}} Edinburgh,{{Flagicon|SCO}} Kirkcaldy,{{Flagicon|ENG}} Guildford,{{Flagicon|ENG}} Altrincham,{{Flagicon|ENG}} Milton Keynes,{{Flagicon|ENG}} Nottingham,{{Flagicon|ENG}} Sheffield
+{{Tooltip| Conference | Conference that team is in}},Erhardt,Gardiner,Erhardt,Patton,Gardiner,Gardiner,Gardiner,Patton,Patton,Patton,Erhardt,Erhardt
+{{Tooltip| Arena | Arena of team}},SSE Arena Belfast,Braehead Arena,Ice Arena Wales,SkyDome Arena,Dundee Ice Arena,Murrayfield Ice Rink,Fife Ice Arena,Guildford Spectrum,Altrincham Ice Dome,Planet Ice Milton Keynes,National Ice Centre,Motorpoint Arena
+{{Tooltip| Capacity | Capacity of arena}},"7,200","4,000","3,088","3,000","2,400","3,700","3,525","2,001","2,000","2,800","7,500","9,000"

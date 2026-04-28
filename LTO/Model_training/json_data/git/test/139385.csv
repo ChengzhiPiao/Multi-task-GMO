@@ -1,0 +1,5 @@
+587.5444,587.5444,587.5444,587.5778,587.5778,587.5778,587.6778,587.6778,587.6778,588.1778,588.2111,588.2111,588.2111,588.3928,588.4111,588.4667,589.5667
+587.7111,587.7111,587.7111,587.8334,587.8334,587.8334,,,,,588.6111,588.4,588.6111,,588.4556,,
+Hand,Hand,Hand,HandToWrist,HandToWrist,HandToWrist,WristToElbow,WristToElbow,WristToElbow,Hand,Hand,Hand,Hand,Hand,Hand,Hand,HandToWrist
+FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleShort,FailOnTouchObstacleLong,FailOnTouchObstacleMed,FailOnTouchObstacleMed-1,FailOnTouchObstacleShort-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleLong-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1,FailOnTouchObstacleMed-1
+RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,RightGate,LeftGate,RightGate,Pushed,RightGate,LeftGate,RightGate,PickedUp,LeftGate,LeftGate,Pushed

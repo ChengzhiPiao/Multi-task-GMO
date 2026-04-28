@@ -1,0 +1,5 @@
+Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+{{flagicon|Russian SFSR}} RSFSR,3,2,1,0,3,1,+2,5
+{{flagicon|Ukrainian SSR}} Ukraine,3,2,0,1,7,2,+5,4
+{{flagicon|Byelorussian SSR}} Belorussia,3,1,1,1,2,4,−2,3
+{{flagicon|Moldavian SSR}} Moldavia,3,0,0,3,1,6,-5,0

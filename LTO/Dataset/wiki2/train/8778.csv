@@ -1,0 +1,5 @@
+Pool A,Place,1,2,3,4,Pool B,Place,1,2,3,4
+Pool A,Fencer,{{flagIOCteam|NED|1912 Summer}},{{flagIOCteam|GBR|1912 Summer}},{{flagIOCteam|DEN|1912 Summer}},{{flagIOCteam|BOH|1912 Summer}},Pool B,Fencer,{{flagIOCteam|SWE|1912 Summer}},{{flagIOCteam|BEL|1912 Summer}},{{flagIOCteam|GRE|1912 Summer}},{{flagIOCteam|GER|1912 Summer}}
+Pool A,Wins,3,2,1,0,Pool B,Wins,3,2,1,0
+Pool A,Losses,0,1,2,3,Pool B,Losses,0,1,2,3
+Pool A,Qual.,QF,QF,,,Pool B,Qual.,QF,QF,,

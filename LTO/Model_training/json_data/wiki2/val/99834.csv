@@ -1,0 +1,10 @@
+,,Bilabial,Bilabial,Dental,Dental,Alveolar,Alveolar,Retroflex,Retroflex,Postalveolar,Postalveolar,Palatal,Velar,Velar,Glottal
+,,{{Small|plain}},{{Small|aspirated}},{{Small|plain}},{{Small|aspirated}},{{Small|plain}},{{Small|aspirated}},{{Small|plain}},{{Small|aspirated}},{{Small|plain}},{{Small|aspirated}},Palatal,{{Small|plain}},{{Small|aspirated}},Glottal
+Stop,{{Small|voiceless}},p,pʰ,t̪,t̪ʰ,,,ʈ,ʈʰ,,,,k,kʰ,
+Stop,{{Small|voiced}},b,,d̪,,,,ɖ,,,,,g,,
+Fricative,Fricative,,,,,s,,,,ʃ,,,,,h
+Affricate,{{Small|voiceless}},,,,,t͡s,t͡sʰ,,,t͡ʃ,t͡ʃʰ,,,,
+Affricate,{{Small|voiced}},,,,,d͡z,,,,d͡ʒ,,,,,
+Nasal,Nasal,m,,n,,,,,,,,,ŋ,,
+Approximant,Approximant,w,,,,l,lʰ,,,,,j,,,
+Trill,Trill,,,,,r,rʰ,,,,,,,,

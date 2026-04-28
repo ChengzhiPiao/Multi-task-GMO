@@ -1,0 +1,4 @@
+Rank,Team,{{tooltip|Pld|Matches played}},{{tooltip|W|Matches won}},{{tooltip|D|Matches drawn}},{{tooltip|L|Matches lost}},{{tooltip|GF|Goals for}},{{tooltip|GA|Goals against}},{{tooltip|GD|Goal difference}},{{tooltip|Pts|Points}}
+1,{{fb|BUL|1946}},4,3,0,1,6,4,+2,6
+2,{{fb|FRA}},4,3,0,1,10,3,+7,6
+3,{{fb|FIN}},4,0,0,4,3,12,−9,0

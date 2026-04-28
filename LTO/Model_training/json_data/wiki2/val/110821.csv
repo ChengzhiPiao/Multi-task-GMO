@@ -1,0 +1,12 @@
+Place,Nation,Games,Games,Games,Games,Points,Points,Points,"Try
+Bonus","Losing
+Bonus","Table
+points"
+Place,Nation,Played,Won,Drawn,Lost,For,Against,{{tooltip|Diff|Difference}},"Try
+Bonus","Losing
+Bonus","Table
+points"
+1,{{Ru|AUS}},3,3,0,0,85,48,+37,1,0,13
+2,{{Ru|NZL}},3,2,0,1,85,65,+20,1,0,9
+3,{{Ru|ARG}},3,1,0,2,64,98,–34,1,0,5
+4,{{Ru|RSA}},3,0,0,3,65,88,–23,0,2,2

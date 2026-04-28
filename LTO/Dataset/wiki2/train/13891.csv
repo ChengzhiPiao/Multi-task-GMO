@@ -1,0 +1,5 @@
+Frequency,{{UK DVB-T|ch=21|off=pos}},{{UK DVB-T|ch=22|off=pos}},{{UK DVB-T|ch=24}},{{UK DVB-T|ch=25}},{{UK DVB-T|ch=27}},{{UK DVB-T|ch=28}}
+UHF,21+,22+,24,25,27,28
+kW,2,2,2,2,2,2
+Operator,Arqiva B,BBC B,Arqiva A,Digital 3&4,SDN,BBC A
+System,DVB-T,DVB-T2,DVB-T,DVB-T,DVB-T,DVB-T

@@ -1,0 +1,4 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22
+PermID,Public,Status,Inactive Date,IPO Date,LEI,Primary Industry,Primary Business Sector,Primary Economic Sector,Domiciled In,Incorporated In,Website,HQ Address,HQ Phone,Registered Address,Registered Phone,Instrument Name,Instrument Type,RIC,Ticker,MIC,Exchange
+PermID,Public,Status,,IPODate,LEI,Industry1,Industry2,Industry3,LegalJur,Country1,URL1,,,,,StockName,StockType,RIC,Ticker,MIC,StockExchange
+PermID,Public,Status,,IPODate,LEI,Industry1,Industry2,Industry3,LegalJur,Country1,URL1,,,,,StockName,StockType,RIC,Ticker,MIC,StockExchange

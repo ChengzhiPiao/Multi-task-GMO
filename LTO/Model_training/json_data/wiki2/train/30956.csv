@@ -1,0 +1,10 @@
+{{Tooltip|Pos|Position}},1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+Club,Garankuwa United,North West Shining Stars,Soshanguve Sunshine,Real Stars,Als Puk Tawana,Inter SA,Impala Warriors,North West University,Southern NW Stars,Mamusa United,Bakubung BK United,City of Matlosana,Moretele United,Rustenburg Sea Eagles,Oxygen,Mothupi Birds United
+{{Tooltip|GP|Games played}},30,29,29,30,30,30,30,29,30,30,29,30,30,30,30,30
+{{Tooltip|W|Wins}},19,19,18,14,14,12,12,10,11,11,10,10,9,10,7,3
+{{Tooltip|D|Draws}},6,5,7,7,3,6,6,11,6,6,7,6,7,3,9,3
+{{Tooltip|L|Losses}},5,5,4,9,13,12,12,8,13,13,12,14,14,17,14,24
+{{Tooltip|GF|Goals for}},61,55,65,65,59,41,48,37,44,52,49,41,42,36,39,26
+{{Tooltip|GA|Goals against}},22,33,32,61,45,36,49,27,45,54,60,54,54,53,48,87
+{{Tooltip|GD|Goal difference}},39,22,33,4,14,5,-1,10,-1,-2,-11,-13,-12,-17,-9,-61
+{{Tooltip|Pts|Points}},63,62,61,49,45,42,42,41,39,39,37,36,34,33,30,12

@@ -1,0 +1,8 @@
+#,Seed,Athlete,1,2,3,4,5,6,7,{{Tooltip|V#|Number of victories}},{{Tooltip|M#|Number of matches}},{{Tooltip|Ind.|Calculat index (V#/M#)}},{{Tooltip|TG|Given touches}},{{Tooltip|TR|Received touches}},{{Tooltip|Diff.|Difference (TG-TR)}},{{Tooltip|RP|Rank in Pool}},{{Tooltip|RT|Rank in Total}}
+1,2,{{nowrap|{{flagIOC2athlete|[[Katharine Holmes]]|USA|2017 Summer Universiade}}}},,V,V,D1,V,V,V,5,6,0.833,26,19,7,1,20
+2,25,{{nowrap|{{flagIOC2athlete|[[Anna Salminen]]|FIN|2017 Summer Universiade}}}},D1,,V,D4,D4,V,V,3,6,0.500,24,24,0,5,49
+3,28,{{nowrap|{{flagIOC2athlete|[[Yuliya Svystil]]|UKR|2017 Summer Universiade}}}},D4,D3,,V,D4,V,D1,2,6,0.333,22,27,–5,6,62
+4,51,{{nowrap|{{flagIOC2athlete|[[Laura Szabo]]|HUN|2017 Summer Universiade}}}},V4,V,D4,,D3,V,D3,3,6,0.500,24,21,3,4,41
+5,54,{{nowrap|{{flagIOC2athlete|[[Ayumu Saito (fencer)|Ayumu Saito]]|JPN|2017 Summer Universiade}}}},D4,V,V,V,,V,D0,4,6,0.667,24,22,2,3,34
+6,76,{{nowrap|{{flagIOC2athlete|[[Roos Kroese]]|NED|2017 Summer Universiade}}}},D2,D3,D3,D2,D1,,D1,0,6,0.000,12,30,–18,7,83
+7,81,{{nowrap|{{flagIOC2athlete|[[Lu Minmin]]|CHN|2017 Summer Universiade}}}},D4,D3,V,V4,V,V,,4,6,0.667,26,15,11,2,22

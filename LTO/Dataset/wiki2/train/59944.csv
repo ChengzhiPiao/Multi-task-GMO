@@ -1,0 +1,5 @@
+{{Tooltip| Pos | Position}},Team,{{Tooltip| Pld | Played}},{{Tooltip| W | Won}},{{Tooltip| D | Drawn}},{{Tooltip| L | Lost}},{{Tooltip| GF | Goals for}},{{Tooltip| GA | Goals against}},{{Tooltip| GD | Goal difference}},{{Tooltip| Pts | Points}}
+1,{{flagicon|Minas Gerais}} Caldense Q,6,4,1,1,6,1,5,13
+2,{{flagicon|Espírito Santo}} Espírito Santo Q,6,2,2,2,4,3,1,8
+3,{{flagicon|Rio de Janeiro}} Boavista,6,2,1,3,3,5,-2,7
+4,{{flagicon|São Paulo}} Osasco Audax,6,0,4,2,1,5,-4,4

@@ -1,0 +1,5 @@
+Sector,0,1,2,3,4,5,6,7
+Contact 1,off,off,off,off,ON,ON,ON,ON
+Contact 2,off,off,ON,ON,off,off,ON,ON
+Contact 3,off,ON,off,ON,off,ON,off,ON
+Angle,0° to 45°,45° to 90°,90° to 135°,135° to 180°,180° to 225°,225° to 270°,270° to 315°,315° to 360°

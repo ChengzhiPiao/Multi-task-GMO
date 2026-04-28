@@ -1,0 +1,7 @@
+getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId(),getNextPvId()
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Beyond processing time,Insufficient sample collected / available,Poor sample quality,Laboratory error,Sample not collected by clinic / Clinic error,Patient declined consent,Patient declined collection,Sample damaged,Visit cancelled
+missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason,missed_visit_reason
+,,,,,,,,

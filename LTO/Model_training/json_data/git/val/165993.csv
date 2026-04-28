@@ -1,0 +1,9 @@
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24
+開始URL,単一選択セレクトボックス,単一選択セレクトボックス,開始URL,単一選択セレクトボックス,単一選択セレクトボックス,開始URL,単一選択セレクトボックス,単一選択セレクトボックス,開始URL,単一選択セレクトボックス,単一選択セレクトボックス,開始URL,複数選択セレクトボックス,複数選択セレクトボックス,開始URL,複数選択セレクトボックス,複数選択セレクトボックス,開始URL,複数選択セレクトボックス,複数選択セレクトボックス,開始URL,複数選択セレクトボックス,複数選択セレクトボックス
+open,select,verifySelect,open,select,verifySelect,open,select,verifySelect,open,select,verifySelect,open,select,verifySelect,open,select,verifySelect,open,select,verifySelect,open,select,verifySelect
+,id,,,,,,,,,,,,id,,,,,,,,,,
+select.html,single-select,,,,,,,,,,,,multi-select,,,,,,,,,,
+,index,index,,label,label,,value,value,,,,,index,index,,label,label,,value,value,,,
+,,後,,,後,,,後,,,後,,,後,,,後,,,後,,,後
+y,1,1,y,一,一,y,01,01,y,01,01,y,1;2;3,1;2;3,y,一;二;三,一;二;三,y,01;02;03,01;02;03,y,01;02;03,01;02;03
+y,1,2,y,一,二,y,01,02,y,01,02,y,1;2;3,1;2,y,一;二,一;二;三,y,01;02;03,01,y,,01;02;03

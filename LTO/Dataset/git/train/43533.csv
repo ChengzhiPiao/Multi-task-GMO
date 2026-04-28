@@ -1,0 +1,3 @@
+org/assertj/core/api/ClassBasedNavigableListAssert.ClassBasedNavigableListAssert,(Ljava/util/List;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/ClassBasedNavigableListAssert.toAssert,(Ljava/lang/Object;Ljava/lang/String;)Lorg/assertj/core/api/AbstractAssert;,11,1
+org/assertj/core/api/ClassBasedNavigableListAssert.buildAssert,(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Class;)Lorg/assertj/core/api/AbstractAssert;,108,5

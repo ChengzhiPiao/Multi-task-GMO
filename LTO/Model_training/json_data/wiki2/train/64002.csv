@@ -1,0 +1,5 @@
+Type,Routes to the North,Routes to the West,South routes
+Expresos Monday to Saturday all day,,{{transmilenio|K|K43|}},{{transmilenio|G|G43|}}
+"Expresos
+weekday morning and afternoon rush hour",{{transmilenio|G|G46|}},,{{transmilenio|G|G45|}}
+Expresos Sundays and holidays,,{{transmilenio|K|K98|}},{{transmilenio|G|G98|}}

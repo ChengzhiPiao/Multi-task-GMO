@@ -1,0 +1,4 @@
+org/assertj/core/api/filter/NotInFilter.NotInFilter,([Ljava/lang/Object;)V,10,1
+org/assertj/core/api/filter/NotInFilter.notIn,([Ljava/lang/Object;)Lorg/assertj/core/api/filter/NotInFilter;,9,1
+org/assertj/core/api/filter/NotInFilter.filter,(Ljava/lang/Object;)Z,6,1
+org/assertj/core/api/filter/NotInFilter.applyOn,(Lorg/assertj/core/api/filter/Filters;)Lorg/assertj/core/api/filter/Filters;,10,1

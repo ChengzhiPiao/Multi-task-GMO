@@ -1,0 +1,4 @@
+Steriruncicantic 5-cube,Type,Schläfli symbol,Coxeter-Dynkin diagram,4-faces,Cells,Faces,Edges,Vertices,Vertex figure,Coxeter groups,Properties
+Steriruncicantic 5-cube,uniform polyteron,"t0,1,2,3{3,32,1}
+h2,3,4{4,3,3,3}","{{CDD|nodes_10ru|split2|node_1|3|node_1|3|node_1}}
+{{CDD|node_h1|4|node|3|node_1|3|node_1|3|node_1}}",82,720,2080,2400,960,,"D5, [32,1,1]",convex

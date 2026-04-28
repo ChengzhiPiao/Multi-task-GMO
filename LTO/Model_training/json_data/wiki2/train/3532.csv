@@ -1,0 +1,6 @@
+Type,Type,High-speed EMU train,EMU train,Intercity EMU train,Non-stop express,Limited express,Temporary Limited Express,Standard express with priority,Temporary Express,Standard express,Temporary Standard Express,Standard stopping train,Commuter train,Tourist train
+Designation in Chinese,Designation in Chinese,高速动车组旅客列车 gaosu dongchezu lüke lieche,动车组旅客列车 dongchezu lüke lieche,城际动车组旅客列车 chengji dongchezu lüke lieche,直达特快旅客列车 zhida tekuai lüke lieche,特快旅客列车 tekuai lüke lieche,临时特快旅客列车 linshi tekuai lüke lieche,快速旅客列车 kuaisu lüke lieche,临时快速旅客列车 linshi kuaisu lüke lieche,普通旅客快车 putong lüke kuaiche,临时普通旅客快车 linshi putong lüke kuaiche,普通旅客慢车 putong lüke manche,通勤列车 tongqin lieche,旅游列车 lüyou lieche
+Abbreviation,Abbreviation,高 gao,动 dong,城 cheng,直 zhi,特 te,特 te,快 kuai,快 kuai,N/A,N/A,N/A,N/A,游 you
+Route identifiers,Preceding letter,G,D,C,Z,T,T,K,K,N/A,N/A,N/A,N/A,Y
+Route identifiers,Number range,1 – 9998,1 – 9998,1 – 9998,1 – 9998,1 – 2998; 5001-9998,3001-4998,1 – 2999; 5001-9998,3001 - 4998,1001 –2998; 5001-5998,3001 - 4998,6001 – 7598,7601 – 8998,1 – 998
+Average maximal speed (km/h),Average maximal speed (km/h),350,250,200,160,140,140,120,120,below 120,below 120,below 120,N/A,N/A

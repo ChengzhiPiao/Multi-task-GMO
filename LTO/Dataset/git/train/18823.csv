@@ -1,0 +1,2 @@
+access_github_pull_request,access_github_pull_request,model_github_pull_request,base.group_user,1,0,0,0
+access_github_pull_request_admin,access_github_pull_request_admin,model_github_pull_request,base.group_system,1,1,1,0

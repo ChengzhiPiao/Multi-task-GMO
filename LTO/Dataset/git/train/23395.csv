@@ -1,0 +1,8 @@
+access_forum_forum,access_forum_forum_manager,access_forum_post_public,access_forum_post_portal,access_forum_post_user,access_forum_post_vote_public,access_forum_post_vote_portal,access_forum_post_vote_user,access_forum_post_reason_public,access_forum_post_reason_portal,access_forum_post_reason_user,access_forum_tag_public,access_forum_tag_portal,access_forum_tag_user
+forum.forum,forum.forum.maanger,forum.post.public,forum.post.portal,forum.post.user,forum.post.vote.public,orum.post.vote.portal,forum.post.vote.user,forum.post.reason.public,forum.post.reason.portal,forum.post.reason.user,forum.tag.public,forum.tag.portal,forum.tag.user
+model_forum_forum,model_forum_forum,model_forum_post,model_forum_post,model_forum_post,model_forum_post_vote,model_forum_post_vote,model_forum_post_vote,model_forum_post_reason,model_forum_post_reason,model_forum_post_reason,model_forum_tag,model_forum_tag,model_forum_tag
+,base.group_erp_manager,base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user,base.group_public,base.group_portal,base.group_user
+1,1,1,1,1,1,1,1,1,1,1,1,1,1
+0,1,0,1,1,0,1,1,0,0,1,0,0,1
+0,1,0,1,1,0,1,1,0,0,1,1,1,1
+0,1,0,1,1,0,0,1,0,0,1,0,0,1

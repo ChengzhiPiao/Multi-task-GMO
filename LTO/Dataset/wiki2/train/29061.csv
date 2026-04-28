@@ -1,0 +1,11 @@
+,D14,D15,D34,D35,Majority with vacancies →,R35,R34,R15,R14,
+,D13,D16,D33,D36,Majority with vacancies →,R36,R33,R16,R13,
+,D12,D17,D32,D37,Majority with vacancies →,R37,R32,R17,R12,
+,D11,D18,D31,D38,Majority with vacancies →,SR1,R31,R18,R11,
+,D10,D19,D30,D39,Majority with vacancies →,P1,R30,R19,R10,
+,D9,D20,D29,D40,Majority with vacancies →,P2,R29,R20,R9,
+D1,D8,D21,D28,D41,Majority with vacancies →,P3,R28,R21,R8,R1
+D2,D7,D22,D27,D42,Majority with vacancies →,"D44
+Gain",R27,R22,R7,R2
+D3,D6,D23,D26,D43,D43,D43,R26,R23,R6,R3
+D4,D5,D24,D25,V1,V2,V3,R25,R24,R5,R4
